@@ -3,6 +3,8 @@ date = '2025-11-29T07:16:38-08:00'
 title = 'Key Legislation'
 +++
 
+# Key Housing Legislation
+
 These are the key pieces of legislation impacting housing affordability in Oregon.
 
 ## Senate Bill 100 (1973)
