@@ -35,13 +35,17 @@ bookCollapseSection = true
 | 2024 | [HB 4134](/legislation/2024/hb-4134) | Infrastructure grants tied to affordable housing developments. |
 | 2023 | [HB 2001](/legislation/2023/hb-2001) | Significant eviction reform (10-day notice) and Oregon Housing Needs Analysis (OHNA). |
 | 2023 | [HB 5019](/legislation/2023/hb-5019) | Affordable Housing and Emergency Homelessness Response Package. |
+| 2022 | [HB 4064](/legislation/2022/hb-4064) | Promotes transit-oriented development near public transit. |
 | 2021 | [HB 2001](/legislation/2021/hb-2001) | Middle housing implementation and state oversight authority. |
 | 2021 | [HB 2003](/legislation/2021/hb-2003) | Affordable housing incentives; requires cities to allow ADUs. |
 | 2021 | [SB 458](/legislation/2021/sb-458) | Grants cities authority to adopt inclusionary zoning ordinances. |
 | 2021 | [HB 3395](/legislation/2021/hb-3395) | Preserves affordable manufactured housing communities. |
 | 2019 | [HB 2001](/legislation/2019/hb-2001) | "Middle Housing" bill; ended exclusive single-family zoning in most cities. |
 | 2019 | [HB 2003](/legislation/2019/hb-2003) | Requires cities to develop Housing Production Strategies. |
+| 2019 | [HB 2656](/legislation/2019/hb-2656) | Expedites land divisions for middle housing development. |
 | 2019 | [SB 608](/legislation/2019/sb-608) | Statewide rent control and "just cause" eviction protections. |
 | 2019 | [HB 2002](/legislation/2019/hb-2002) | Right of first refusal for affordable housing preservation. |
+| 2007 | [Measure 49](/legislation/2007/measure-49) | Modified Measure 37; limited land use regulation compensation claims. |
+| 2004 | [Measure 37](/legislation/2004/measure-37) | Required compensation to landowners for land use regulations reducing property value. |
 | 1990 | [Measure 5](/legislation/1990/measure-5) | Constitutional property tax cap; shifted school funding to state. |
 | 1973 | [SB 100](/legislation/1973/sb-100) | Established statewide land use planning and Urban Growth Boundaries (UGB). |
