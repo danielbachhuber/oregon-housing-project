@@ -1,4 +1,9 @@
-<p><em>Want to improve this page? <a target="_blank"
-			href="https://github.com/danielbachhuber/oregon-housing-project/issues/new">Create an issue</a> or <a
-			target="_blank" href="https://github.com/danielbachhuber/oregon-housing-project/pulls">open a pull
-			request</a>.</em></p>
+{{ with .File }}
+<p><small><em>Want to improve this page? <a target="_blank"
+				href="https://github.com/danielbachhuber/oregon-housing-project/issues/new">Create an issue</a> or <a
+				target="_blank"
+				href="https://github.com/danielbachhuber/oregon-housing-project/blob/main/content/{{ .Path }}">edit the
+				file
+				and open a pull
+				request</a>.</em></small></p>
+{{ end }}
