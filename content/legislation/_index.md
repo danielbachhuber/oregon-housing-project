@@ -48,3 +48,4 @@ bookCollapseSection = true
 | 2004 | [Measure 37](/legislation/2004/measure-37) | Required compensation to landowners for land use regulations reducing property value. |
 | 1990 | [Measure 5](/legislation/1990/measure-5) | Constitutional property tax cap; shifted school funding to state. |
 | 1973 | [SB 100](/legislation/1973/sb-100) | Established statewide land use planning and Urban Growth Boundaries (UGB). |
+| 1973 | [Residential Landlord and Tenant Act](/legislation/1973/residential-landlord-tenant-act) | First comprehensive tenant protection law; established habitability standards and tenant rights. |
