@@ -11,12 +11,16 @@ The Oregon Housing Project's mission is to explore the topic of housing in Orego
 
 The majority of the research depth focuses on Oregon. As appropriate, examples from other states are included as a point of reference.
 
+## Governance
+
+The project is maintained by [danielbachhuber](https://github.com/danielbachhuber).
+
 ## "LLM-Assisted"
 
 Large Language Models (LLMs, or "AI") are much better or faster than humans in some ways. The Oregon Housing Project makes use of leading large language models like Google's Gemini and Anthropic's Claude are used to research, draft articles, provide editing feedback, and generate infographics. All of the work product receives a human review before being published.
 
 ## Open Source
 
-The Oregon Housing Project is an [open source project on GitHub](https://github.com/danielbachhuber/oregon-housing-project).
+The Oregon Housing Project is an [open source project on GitHub](https://github.com/danielbachhuber/oregon-housing-project). You can review the repository history to see the provenance of a given bit of information, or the discussion around it.
 
 Feel free to create a new issue or submit a pull request!
