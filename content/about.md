@@ -20,7 +20,7 @@ The project is maintained by [danielbachhuber](https://github.com/danielbachhube
 
 ## "LLM-Assisted"
 
-Large Language Models (LLMs, or "AI") are much better or faster than humans in some ways. The Oregon Housing Project makes use of leading large language models like Google's Gemini and Anthropic's Claude are used to research, draft articles, provide editing feedback, and generate infographics. All of the work product receives a human review before being published.
+Large Language Models (LLMs, or "AI") are much better or faster than humans in some ways. The Oregon Housing Project makes use of leading large language models like Google's Gemini and Anthropic's Claude to perform ongoing research, draft articles, provide editing feedback, and generate infographics. All of the work product receives a human review before being published.
 
 ## Open Source
 
