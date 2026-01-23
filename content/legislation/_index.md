@@ -35,6 +35,7 @@ bookCollapseSection = true
 | 2024 | [HB 4134](/legislation/2024/hb-4134) | Infrastructure grants tied to affordable housing developments. |
 | 2023 | [HB 2001](/legislation/2023/hb-2001) | Significant eviction reform (10-day notice) and Oregon Housing Needs Analysis (OHNA). |
 | 2023 | [HB 5019](/legislation/2023/hb-5019) | Affordable Housing and Emergency Homelessness Response Package. |
+| 2023 | [EO 23-04](/legislation/2023/eo-23-04) | Executive Order establishing 36,000 homes/year production goal. |
 | 2019 | [HB 2001](/legislation/2019/hb-2001) | "Middle Housing" bill; ended exclusive single-family zoning in most cities. |
 | 2019 | [HB 2003](/legislation/2019/hb-2003) | Requires cities to develop Housing Production Strategies. |
 | 2019 | [SB 608](/legislation/2019/sb-608) | Statewide rent control and "just cause" eviction protections. |
