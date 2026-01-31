@@ -12,7 +12,7 @@ The Oregon Housing Project is a research-focused website about housing policy in
 
 ### Content Types
 
-The site is organized around four main content types:
+The site is organized around five main content types:
 
 1. **Legislation** (`content/legislation/`): Bills, executive orders, and ballot measures organized by year
    - Example: `content/legislation/2025/hb-2258.md`
@@ -28,7 +28,15 @@ The site is organized around four main content types:
    - Should include: Overview, Housing Statistics, Zoning and Land Use, Buildable Land, Recent Housing Developments, Key Housing Challenges, Local Housing Policies
    - Must cite all sources using footnote format
 
-4. **Key Concepts** (`content/key-concepts.md`): Educational content explaining housing policy terms
+4. **News Coverage** (`content/news-coverage/`): Media coverage of housing policy developments organized by year
+   - Example: `content/news-coverage/2026/anderson-seeks-prevailing-wage-reforms.md`
+   - Template guidance in `templates/news-coverage.md`
+   - Front matter must include: title, date, source, original_url, author
+   - Content should be a single paragraph summary (3-5 sentences)
+   - Must include internal links to related legislation, people, and cities
+   - List template at `layouts/news-coverage/list.html` automatically displays articles in reverse chronological order
+
+5. **Key Concepts** (`content/key-concepts.md`): Educational content explaining housing policy terms
 
 ### Front Matter
 
