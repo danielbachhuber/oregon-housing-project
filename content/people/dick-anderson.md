@@ -5,9 +5,11 @@ title = 'Dick Anderson'
 
 # Dick Anderson
 
-Dick Anderson is a Republican State Senator representing District 5 (Lincoln City), serving as Senate Deputy Republican Leader and Vice Chair of the Senate Housing and Development Committee. He was first elected to the Senate in 2020 and re-elected in 2024.
+Dick Anderson is a Republican State Senator representing District 5 (Lincoln City), serving as Senate Deputy Republican Leader and Vice Chair of the Senate Housing and Development Committee. He was first elected to the Senate in 2020 and re-elected in 2024.[^1]
 
-Before entering the legislature, Anderson served as Mayor of Lincoln City. He spent 35 years in the financial industry, including roles as a director with Fannie Mae, senior vice president at First Interstate Bank, and senior vice president at Pacific First Mortgage Corporation.
+Before entering the legislature, Anderson served as Mayor of Lincoln City. He spent 35 years in the financial industry, including roles as a director with Fannie Mae, senior vice president at First Interstate Bank, and senior vice president at Pacific First Mortgage Corporation.[^1]
+
+[^1]: [Senator Dick Anderson Biography](https://www.oregonlegislature.gov/anderson/Pages/biography.aspx)
 
 ## Key Housing Actions
 
