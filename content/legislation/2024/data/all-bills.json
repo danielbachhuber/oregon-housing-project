@@ -1,0 +1,20 @@
+[
+  {
+    "name": "HB 4134",
+    "year": 2024,
+    "passed": true,
+    "sponsors": []
+  },
+  {
+    "name": "SB 1530",
+    "year": 2024,
+    "passed": true,
+    "sponsors": []
+  },
+  {
+    "name": "SB 1537",
+    "year": 2024,
+    "passed": true,
+    "sponsors": ["Tina Kotek"]
+  }
+]

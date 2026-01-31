@@ -1,0 +1,26 @@
+[
+  {
+    "name": "EO 23-04",
+    "year": 2023,
+    "passed": true,
+    "sponsors": ["Tina Kotek"]
+  },
+  {
+    "name": "HB 2001",
+    "year": 2023,
+    "passed": true,
+    "sponsors": ["Tina Kotek"]
+  },
+  {
+    "name": "HB 5019",
+    "year": 2023,
+    "passed": true,
+    "sponsors": []
+  },
+  {
+    "name": "HB 3414",
+    "year": 2023,
+    "passed": false,
+    "sponsors": ["Tina Kotek", "Dan Rayfield", "Maxine Dexter"]
+  }
+]

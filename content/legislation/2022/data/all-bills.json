@@ -1,0 +1,20 @@
+[
+  {
+    "name": "HB 4051",
+    "year": 2022,
+    "passed": true,
+    "sponsors": ["Julie Fahey"]
+  },
+  {
+    "name": "HB 4064",
+    "year": 2022,
+    "passed": true,
+    "sponsors": ["Pam Marsh"]
+  },
+  {
+    "name": "HB 4123",
+    "year": 2022,
+    "passed": true,
+    "sponsors": ["Kropf", "Williams", "Evans", "Gomberg", "Tim Knopp", "Sara Gelser"]
+  }
+]

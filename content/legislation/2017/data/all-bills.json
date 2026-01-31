@@ -1,0 +1,20 @@
+[
+  {
+    "name": "HB 2007",
+    "year": 2017,
+    "passed": false,
+    "sponsors": ["Tina Kotek", "Duane Stark", "Julie Fahey", "Alissa Keny-Guyer"]
+  },
+  {
+    "name": "HB 2004",
+    "year": 2017,
+    "passed": false,
+    "sponsors": ["Chris Gorsek", "Carla Piluso", "Rob Power", "Michael Dembrow", "Sara Gelser", "Laurie Monnes Anderson", "Tina Kotek", "Alissa Keny-Guyer", "Julie Fahey"]
+  },
+  {
+    "name": "HB 2377",
+    "year": 2017,
+    "passed": true,
+    "sponsors": ["David Brock Smith", "Greg Smith", "Knute Buehler", "Pam Marsh", "Arnie Roblan"]
+  }
+]

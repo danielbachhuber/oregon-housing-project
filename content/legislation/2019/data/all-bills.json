@@ -1,0 +1,26 @@
+[
+  {
+    "name": "HB 2001",
+    "year": 2019,
+    "passed": true,
+    "sponsors": ["Tina Kotek", "Julie Fahey", "Diego Hernandez", "Pam Marsh", "Barbara Smith Warner"]
+  },
+  {
+    "name": "HB 2002",
+    "year": 2019,
+    "passed": true,
+    "sponsors": ["Tina Kotek", "Alissa Keny-Guyer", "Pam Marsh"]
+  },
+  {
+    "name": "HB 2003",
+    "year": 2019,
+    "passed": true,
+    "sponsors": ["Tina Kotek", "Julie Fahey", "Alissa Keny-Guyer", "Rob Wilde"]
+  },
+  {
+    "name": "SB 608",
+    "year": 2019,
+    "passed": true,
+    "sponsors": ["Ginny Burdick", "Laurie Monnes Anderson", "Tina Kotek", "Peter Courtney", "Shemia Fagan", "Chris Gorsek", "Alissa Keny-Guyer"]
+  }
+]

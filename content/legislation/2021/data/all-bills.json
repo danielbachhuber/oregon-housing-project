@@ -1,0 +1,26 @@
+[
+  {
+    "name": "SB 8",
+    "year": 2021,
+    "passed": true,
+    "sponsors": ["Peter Courtney"]
+  },
+  {
+    "name": "SB 458",
+    "year": 2021,
+    "passed": true,
+    "sponsors": ["Lew Frederick", "Tim Knopp", "Julie Fahey", "Mark Meek"]
+  },
+  {
+    "name": "SB 282",
+    "year": 2021,
+    "passed": true,
+    "sponsors": ["Kayse Jama", "Julie Fahey"]
+  },
+  {
+    "name": "HB 2558",
+    "year": 2021,
+    "passed": false,
+    "sponsors": ["Mark Meek", "Julie Fahey", "Michael Dembrow"]
+  }
+]

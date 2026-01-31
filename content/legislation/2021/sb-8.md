@@ -25,3 +25,7 @@ Senate Bill 8 was a significant land use reform that expanded where affordable h
 SB 8 provided new tools for affordable housing developers and local governments to address housing shortages. By allowing housing on underutilized commercial and institutional land, the bill created new opportunities for infill development in existing communities rather than requiring expansion into agricultural or natural lands outside urban growth boundaries.
 
 A small technical error in SB 8 was later corrected by [HB 4051 (2022)](/legislation/2022/hb-4051).
+
+## Sponsors
+
+**Chief Sponsor:** Senate President [Peter Courtney](/people/peter-courtney).

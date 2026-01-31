@@ -1,0 +1,26 @@
+[
+  {
+    "name": "SB 1533",
+    "year": 2016,
+    "passed": true,
+    "sponsors": ["Sara Gelser", "Tina Kotek", "Alissa Keny-Guyer", "Jennifer Williamson"]
+  },
+  {
+    "name": "HB 4079",
+    "year": 2016,
+    "passed": true,
+    "sponsors": ["Knute Buehler", "Betty Komp", "Duane Stark"]
+  },
+  {
+    "name": "HB 4143",
+    "year": 2016,
+    "passed": true,
+    "sponsors": ["Chris Gorsek", "Knute Buehler", "Alissa Keny-Guyer"]
+  },
+  {
+    "name": "SB 1582",
+    "year": 2016,
+    "passed": true,
+    "sponsors": ["Kate Brown"]
+  }
+]
