@@ -1,3 +1,5 @@
+.env
+
 # Generated files and directories
 /public/
 /resources/_gen/

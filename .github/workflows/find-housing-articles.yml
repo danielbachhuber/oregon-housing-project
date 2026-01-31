@@ -1,0 +1,119 @@
+name: Daily Housing Article Search
+
+on:
+  schedule:
+    # Runs at 14:00 UTC (6:00 AM PST) every day
+    # - cron: '0 14 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  search-and-process:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v3
+        with:
+          version: 9
+
+      - name: Install Puppeteer Dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ca-certificates fonts-liberation libappindicator3-1 libasound2 libatk-bridge2.0-0 libatk1.0-0 libc6 libcairo2 libcups2 libdbus-1-3 libexpat1 libfontconfig1 libgbm1 libgcc1 libglib2.0-0 libgtk-3-0 libnspr4 libnss3 libpango-1.0-0 libpangocairo-1.0-0 libstdc++6 libx11-6 libx11-xcb1 libxcb1 libxcomposite1 libxcursor1 libxdamage1 libxext6 libxfixes3 libxi6 libxrandr2 libxrender1 libxss1 libxtst6 lsb-release wget xdg-utils
+
+      - name: Install dependencies
+        run: pnpm install
+
+      - name: Run Article Search Script
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: pnpm find-housing-articles
+
+      - name: Link Key Concepts with Claude
+        uses: anthropics/claude-code-action@v1
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          prompt: |
+            I have just generated new housing news articles in `content/news-coverage/`.
+            Please read `content/key-concepts.md` (if it exists) to identify key terms.
+            Then, scan the new markdown files in `content/news-coverage/`.
+            If you find mentions of these key concepts in the article body or summary, link them to the concepts file (e.g. `[Term](/key-concepts/#term)`).
+            Do NOT modify the `data/processed-*-urls.txt` files.
+
+      - name: Check for New Articles and Create PRs
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          # Find untracked markdown files in content/news-coverage/
+          # We use git status --porcelain to find new files (?? status)
+          NEW_FILES=$(git status --porcelain content/news-coverage/ | grep '^??' | cut -c4-)
+          
+          if [ -z "$NEW_FILES" ]; then
+            echo "No new articles found."
+            exit 0
+          fi
+          
+          echo "Found new articles: $NEW_FILES"
+          
+          for file in $NEW_FILES; do
+             echo "Processing $file..."
+             
+             # Extract slug from filename for branch name
+             BASENAME=$(basename "$file" .md)
+             BRANCH_NAME="housing-article-${BASENAME}"
+             
+             # Create a new branch from main (fresh state)
+             # Note: We must fetch latest main first if we just pushed state
+             git fetch origin main
+             git checkout -b "$BRANCH_NAME" origin/main
+             
+             # Add the file
+             git add "$file"
+             
+             # Commit
+             TITLE=$(grep '^title:' "$file" | head -n 1 | sed 's/title: "//;s/"$//')
+             git commit -m "Add article: $TITLE"
+             
+             # Push
+             git push -u origin "$BRANCH_NAME"
+             
+             # Create PR
+             gh pr create \
+               --title "New Housing Article: $TITLE" \
+               --body "Automated housing article discovery.\n\nFile: $file" \
+               --base main \
+               --head "$BRANCH_NAME" \
+               --reviewer danielbachhuber
+               
+             echo "Created PR for $file"
+             
+             # Switch back to main for next loop
+             git checkout main
+          done
+
+      - name: Update Processed URLs State
+        if: success()
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+          # Check if state files have changed
+          if [[ -n $(git status --porcelain data/processed-*-urls.txt) ]]; then
+            echo "State files changed. Committing updates."
+            git add data/processed-*-urls.txt
+            git commit -m "Update processed URLs state [skip ci]"
+            git push
+          else
+            echo "No changes to state files."
+          fi
