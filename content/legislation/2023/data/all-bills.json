@@ -1,26 +1,34 @@
 [
   {
     "name": "EO 23-04",
+    "title": "Established 36,000 homes/year production goal and Housing Production Advisory Council",
     "year": 2023,
     "passed": true,
-    "sponsors": ["Tina Kotek"]
+    "sponsors": ["Tina Kotek"],
+    "link": "/legislation/2023/eo-23-04"
   },
   {
     "name": "HB 2001",
+    "title": "Eviction reform (10-day notice) and Oregon Housing Needs Analysis (OHNA)",
     "year": 2023,
     "passed": true,
-    "sponsors": ["Tina Kotek"]
+    "sponsors": ["Tina Kotek"],
+    "link": "/legislation/2023/hb-2001"
   },
   {
     "name": "HB 5019",
+    "title": "Affordable Housing and Emergency Homelessness Response Package",
     "year": 2023,
     "passed": true,
-    "sponsors": []
+    "sponsors": [],
+    "link": "/legislation/2023/hb-5019"
   },
   {
     "name": "HB 3414",
+    "title": "Major housing production bill with UGB expansion (failed by one vote)",
     "year": 2023,
     "passed": false,
-    "sponsors": ["Tina Kotek", "Dan Rayfield", "Maxine Dexter"]
+    "sponsors": ["Tina Kotek", "Dan Rayfield", "Maxine Dexter"],
+    "link": "/legislation/2023/hb-3414"
   }
 ]

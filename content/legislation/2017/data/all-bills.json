@@ -1,20 +1,26 @@
 [
   {
     "name": "HB 2007",
+    "title": "Middle housing bill to allow duplexes statewide (predecessor to HB 2001)",
     "year": 2017,
     "passed": false,
-    "sponsors": ["Tina Kotek", "Duane Stark", "Julie Fahey", "Alissa Keny-Guyer"]
+    "sponsors": ["Tina Kotek", "Duane Stark", "Julie Fahey", "Alissa Keny-Guyer"],
+    "link": "/legislation/2017/hb-2007"
   },
   {
     "name": "HB 2004",
+    "title": "Rent control and just-cause eviction bill (predecessor to SB 608)",
     "year": 2017,
     "passed": false,
-    "sponsors": ["Chris Gorsek", "Carla Piluso", "Rob Power", "Michael Dembrow", "Sara Gelser", "Laurie Monnes Anderson", "Tina Kotek", "Alissa Keny-Guyer", "Julie Fahey"]
+    "sponsors": ["Chris Gorsek", "Carla Piluso", "Rob Power", "Michael Dembrow", "Sara Gelser", "Laurie Monnes Anderson", "Tina Kotek", "Alissa Keny-Guyer", "Julie Fahey"],
+    "link": "/legislation/2017/hb-2004"
   },
   {
     "name": "HB 2377",
+    "title": "Extended and modified the Affordable Housing Tax Credit program",
     "year": 2017,
     "passed": true,
-    "sponsors": ["David Brock Smith", "Greg Smith", "Knute Buehler", "Pam Marsh", "Arnie Roblan"]
+    "sponsors": ["David Brock Smith", "Greg Smith", "Knute Buehler", "Pam Marsh", "Arnie Roblan"],
+    "link": "/legislation/2017/hb-2377"
   }
 ]

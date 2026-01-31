@@ -1,26 +1,34 @@
 [
   {
     "name": "SB 1533",
+    "title": "Repealed Oregon's ban on inclusionary zoning, allowing local governments to require affordable units in new multifamily projects",
     "year": 2016,
     "passed": true,
-    "sponsors": ["Sara Gelser", "Tina Kotek", "Alissa Keny-Guyer", "Jennifer Williamson"]
+    "sponsors": ["Sara Gelser", "Tina Kotek", "Alissa Keny-Guyer", "Jennifer Williamson"],
+    "link": "/legislation/2016/sb-1533"
   },
   {
     "name": "HB 4079",
+    "title": "Affordable Housing Pilot Program allowing cities to expand urban growth boundaries for affordable housing",
     "year": 2016,
     "passed": true,
-    "sponsors": ["Knute Buehler", "Betty Komp", "Duane Stark"]
+    "sponsors": ["Knute Buehler", "Betty Komp", "Duane Stark"],
+    "link": "/legislation/2016/hb-4079"
   },
   {
     "name": "HB 4143",
+    "title": "Tenant protection bill requiring 90 days notice for rent increases",
     "year": 2016,
     "passed": true,
-    "sponsors": ["Chris Gorsek", "Knute Buehler", "Alissa Keny-Guyer"]
+    "sponsors": ["Chris Gorsek", "Knute Buehler", "Alissa Keny-Guyer"],
+    "link": "/legislation/2016/hb-4143"
   },
   {
     "name": "SB 1582",
+    "title": "Established the LIFT Housing Program to build affordable rental housing",
     "year": 2016,
     "passed": true,
-    "sponsors": ["Kate Brown"]
+    "sponsors": ["Kate Brown"],
+    "link": "/legislation/2016/sb-1582"
   }
 ]

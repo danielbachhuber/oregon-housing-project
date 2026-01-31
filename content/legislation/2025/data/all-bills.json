@@ -1,134 +1,178 @@
 [
   {
     "name": "HB 2138",
+    "title": "Streamlines middle housing rules for duplexes, triplexes, and cottage clusters",
     "year": 2025,
     "passed": true,
-    "sponsors": ["Tina Kotek"]
+    "sponsors": ["Tina Kotek"],
+    "link": "/legislation/2025/hb-2138"
   },
   {
     "name": "HB 2258",
+    "title": "Requires LCDC to adopt rules for expedited housing approvals",
     "year": 2025,
     "passed": true,
-    "sponsors": []
+    "sponsors": [],
+    "link": "/legislation/2025/hb-2258"
   },
   {
     "name": "HB 2698",
+    "title": "Establishes statewide homeownership goal of 65% by 2030",
     "year": 2025,
     "passed": true,
-    "sponsors": []
+    "sponsors": [],
+    "link": "/legislation/2025/hb-2698"
   },
   {
     "name": "HB 3031",
+    "title": "Creates Housing Infrastructure Project Fund for affordable housing",
     "year": 2025,
     "passed": true,
-    "sponsors": []
+    "sponsors": [],
+    "link": "/legislation/2025/hb-3031"
   },
   {
     "name": "HB 3054",
+    "title": "Caps rent increases in large manufactured housing communities at 6%",
     "year": 2025,
     "passed": true,
-    "sponsors": []
+    "sponsors": [],
+    "link": "/legislation/2025/hb-3054"
   },
   {
     "name": "HB 3145",
+    "title": "Allocates $25M for factory-produced housing (modular/prefab)",
     "year": 2025,
     "passed": true,
-    "sponsors": []
+    "sponsors": [],
+    "link": "/legislation/2025/hb-3145"
   },
   {
     "name": "HB 3521",
+    "title": "Enhances tenant protections regarding security deposits",
     "year": 2025,
     "passed": true,
-    "sponsors": []
+    "sponsors": [],
+    "link": "/legislation/2025/hb-3521"
   },
   {
     "name": "HB 3522",
+    "title": "Simplifies process for removing squatters to return units to market",
     "year": 2025,
     "passed": true,
-    "sponsors": []
+    "sponsors": [],
+    "link": "/legislation/2025/hb-3522"
   },
   {
     "name": "HB 3589",
+    "title": "Allocates $23M for senior housing development and preservation",
     "year": 2025,
     "passed": true,
-    "sponsors": []
+    "sponsors": [],
+    "link": "/legislation/2025/hb-3589"
   },
   {
     "name": "HB 3644",
+    "title": "Establishes statewide shelter program with $204M funding",
     "year": 2025,
     "passed": true,
-    "sponsors": ["Tina Kotek"]
+    "sponsors": ["Tina Kotek"],
+    "link": "/legislation/2025/hb-3644"
   },
   {
     "name": "HB 3746",
+    "title": "Shortens construction defect claims statute of repose to 7 years",
     "year": 2025,
     "passed": true,
-    "sponsors": []
+    "sponsors": [],
+    "link": "/legislation/2025/hb-3746"
   },
   {
     "name": "HB 3792",
+    "title": "Increases low-income energy bill assistance funding cap",
     "year": 2025,
     "passed": true,
-    "sponsors": []
+    "sponsors": [],
+    "link": "/legislation/2025/hb-3792"
   },
   {
     "name": "SB 6",
+    "title": "Requires timely approval (45 business days) for housing permits",
     "year": 2025,
     "passed": true,
-    "sponsors": []
+    "sponsors": [],
+    "link": "/legislation/2025/sb-6"
   },
   {
     "name": "SB 52",
+    "title": "Mandates state study on barriers to market-rate housing",
     "year": 2025,
     "passed": true,
-    "sponsors": []
+    "sponsors": [],
+    "link": "/legislation/2025/sb-52"
   },
   {
     "name": "SB 83",
+    "title": "Repeals the statewide Wildfire Hazard Map",
     "year": 2025,
     "passed": true,
-    "sponsors": []
+    "sponsors": [],
+    "link": "/legislation/2025/sb-83"
   },
   {
     "name": "SB 426",
+    "title": "Makes property owners jointly liable for certain unpaid contractor wages",
     "year": 2025,
     "passed": true,
-    "sponsors": []
+    "sponsors": [],
+    "link": "/legislation/2025/sb-426"
   },
   {
     "name": "SB 599",
+    "title": "Prohibits landlords from inquiring about immigration status",
     "year": 2025,
     "passed": true,
-    "sponsors": []
+    "sponsors": [],
+    "link": "/legislation/2025/sb-599"
   },
   {
     "name": "SB 684",
+    "title": "Amends residential housing to include mixed-income projects; creates loan fund",
     "year": 2025,
     "passed": true,
-    "sponsors": []
+    "sponsors": [],
+    "link": "/legislation/2025/sb-684"
   },
   {
     "name": "SB 690",
+    "title": "Delays evictions for families with infants under one year old",
     "year": 2025,
     "passed": true,
-    "sponsors": []
+    "sponsors": [],
+    "link": "/legislation/2025/sb-690"
   },
   {
     "name": "SB 814",
+    "title": "Expands rental assistance for young adults under 25",
     "year": 2025,
     "passed": true,
-    "sponsors": []
+    "sponsors": [],
+    "link": "/legislation/2025/sb-814"
   },
   {
     "name": "SB 973",
+    "title": "Requires 30 months notice before ending affordability programs",
     "year": 2025,
     "passed": true,
-    "sponsors": []
+    "sponsors": [],
+    "link": "/legislation/2025/sb-973"
   },
   {
     "name": "SB 974",
+    "title": "Expedites land use timeline for multi-unit developments to 45 days",
     "year": 2025,
     "passed": true,
-    "sponsors": []
+    "sponsors": [],
+    "link": "/legislation/2025/sb-974"
   }
 ]

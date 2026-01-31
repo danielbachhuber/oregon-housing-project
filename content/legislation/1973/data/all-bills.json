@@ -1,8 +1,10 @@
 [
   {
     "name": "SB 100",
+    "title": "Established statewide land use planning and Urban Growth Boundaries",
     "year": 1973,
     "passed": true,
-    "sponsors": ["Hector Macpherson", "Ted Hallock"]
+    "sponsors": ["Hector Macpherson", "Ted Hallock"],
+    "link": "/legislation/1973/sb-100"
   }
 ]

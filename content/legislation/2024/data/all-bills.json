@@ -1,20 +1,26 @@
 [
   {
     "name": "HB 4134",
+    "title": "Infrastructure grants tied to affordable housing developments",
     "year": 2024,
     "passed": true,
-    "sponsors": []
+    "sponsors": [],
+    "link": "/legislation/2024/hb-4134"
   },
   {
     "name": "SB 1530",
+    "title": "Housing package funding for infrastructure and housing support",
     "year": 2024,
     "passed": true,
-    "sponsors": []
+    "sponsors": [],
+    "link": "/legislation/2024/sb-1530"
   },
   {
     "name": "SB 1537",
+    "title": "$258M housing package; created Housing Accountability and Production Office (HAPO)",
     "year": 2024,
     "passed": true,
-    "sponsors": ["Tina Kotek"]
+    "sponsors": ["Tina Kotek"],
+    "link": "/legislation/2024/sb-1537"
   }
 ]

@@ -1,26 +1,34 @@
 [
   {
     "name": "SB 8",
+    "title": "Allowed affordable housing on commercial, public, and religious land",
     "year": 2021,
     "passed": true,
-    "sponsors": ["Peter Courtney"]
+    "sponsors": ["Peter Courtney"],
+    "link": "/legislation/2021/sb-8"
   },
   {
     "name": "SB 458",
+    "title": "Middle housing land division to allow lot splits for duplexes/triplexes",
     "year": 2021,
     "passed": true,
-    "sponsors": ["Lew Frederick", "Tim Knopp", "Julie Fahey", "Mark Meek"]
+    "sponsors": ["Lew Frederick", "Tim Knopp", "Julie Fahey", "Mark Meek"],
+    "link": "/legislation/2021/sb-458"
   },
   {
     "name": "SB 282",
+    "title": "COVID-19 tenant protections extending grace periods for pandemic rent",
     "year": 2021,
     "passed": true,
-    "sponsors": ["Kayse Jama", "Julie Fahey"]
+    "sponsors": ["Kayse Jama", "Julie Fahey"],
+    "link": "/legislation/2021/sb-282"
   },
   {
     "name": "HB 2558",
+    "title": "Would have required more housing near transit corridors",
     "year": 2021,
     "passed": false,
-    "sponsors": ["Mark Meek", "Julie Fahey", "Michael Dembrow"]
+    "sponsors": ["Mark Meek", "Julie Fahey", "Michael Dembrow"],
+    "link": "/legislation/2021/hb-2558"
   }
 ]

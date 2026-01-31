@@ -1,20 +1,26 @@
 [
   {
     "name": "HB 4051",
+    "title": "Housing omnibus bill extending emergency shelter provisions and fixing SB 8",
     "year": 2022,
     "passed": true,
-    "sponsors": ["Julie Fahey"]
+    "sponsors": ["Julie Fahey"],
+    "link": "/legislation/2022/hb-4051"
   },
   {
     "name": "HB 4064",
+    "title": "Manufactured Home Park protections for wildfire recovery",
     "year": 2022,
     "passed": true,
-    "sponsors": ["Pam Marsh"]
+    "sponsors": ["Pam Marsh"],
+    "link": "/legislation/2022/hb-4064"
   },
   {
     "name": "HB 4123",
+    "title": "City-county homeless services pilot program",
     "year": 2022,
     "passed": true,
-    "sponsors": ["Kropf", "Williams", "Evans", "Gomberg", "Tim Knopp", "Sara Gelser"]
+    "sponsors": ["Kropf", "Williams", "Evans", "Gomberg", "Tim Knopp", "Sara Gelser"],
+    "link": "/legislation/2022/hb-4123"
   }
 ]

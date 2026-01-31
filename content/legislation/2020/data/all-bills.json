@@ -1,8 +1,10 @@
 [
   {
     "name": "HB 4001",
+    "title": "Allowed emergency homeless shelters on religious institution property",
     "year": 2020,
     "passed": true,
-    "sponsors": ["Tina Kotek", "Julie Fahey", "Alissa Keny-Guyer", "Pam Marsh", "Mark Meek"]
+    "sponsors": ["Tina Kotek", "Julie Fahey", "Alissa Keny-Guyer", "Pam Marsh", "Mark Meek"],
+    "link": "/legislation/2020/hb-4001"
   }
 ]

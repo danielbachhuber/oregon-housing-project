@@ -1,26 +1,34 @@
 [
   {
     "name": "HB 2001",
+    "title": "Legalized middle housing (duplexes, triplexes, fourplexes) statewide",
     "year": 2019,
     "passed": true,
-    "sponsors": ["Tina Kotek", "Julie Fahey", "Diego Hernandez", "Pam Marsh", "Barbara Smith Warner"]
+    "sponsors": ["Tina Kotek", "Julie Fahey", "Diego Hernandez", "Pam Marsh", "Barbara Smith Warner"],
+    "link": "/legislation/2019/hb-2001"
   },
   {
     "name": "HB 2002",
+    "title": "Affordable housing preservation and tenant opportunity to purchase",
     "year": 2019,
     "passed": true,
-    "sponsors": ["Tina Kotek", "Alissa Keny-Guyer", "Pam Marsh"]
+    "sponsors": ["Tina Kotek", "Alissa Keny-Guyer", "Pam Marsh"],
+    "link": "/legislation/2019/hb-2002"
   },
   {
     "name": "HB 2003",
+    "title": "Required local governments to conduct housing needs analyses",
     "year": 2019,
     "passed": true,
-    "sponsors": ["Tina Kotek", "Julie Fahey", "Alissa Keny-Guyer", "Rob Wilde"]
+    "sponsors": ["Tina Kotek", "Julie Fahey", "Alissa Keny-Guyer", "Rob Wilde"],
+    "link": "/legislation/2019/hb-2003"
   },
   {
     "name": "SB 608",
+    "title": "First statewide rent stabilization law in the nation",
     "year": 2019,
     "passed": true,
-    "sponsors": ["Ginny Burdick", "Laurie Monnes Anderson", "Tina Kotek", "Peter Courtney", "Shemia Fagan", "Chris Gorsek", "Alissa Keny-Guyer"]
+    "sponsors": ["Ginny Burdick", "Laurie Monnes Anderson", "Tina Kotek", "Peter Courtney", "Shemia Fagan", "Chris Gorsek", "Alissa Keny-Guyer"],
+    "link": "/legislation/2019/sb-608"
   }
 ]
