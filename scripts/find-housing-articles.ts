@@ -418,7 +418,7 @@ async function classifyArticle(article: ArticleData): Promise<ClassificationResu
 
   try {
     const msg = await anthropic.messages.create({
-      model: "claude-3-haiku-20240307", // Fast and cheap
+      model: "claude-haiku-4-5-20251001",
       max_tokens: 1024,
       messages: [{ role: "user", content: prompt }]
     });
