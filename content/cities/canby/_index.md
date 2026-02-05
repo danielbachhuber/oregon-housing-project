@@ -36,7 +36,15 @@ Information about Canby's buildable land inventory and residential capacity is d
 
 ## Key Housing Challenges
 
-[To be researched and populated]
+As documented in Canby's Housing Needs Assessment,[^3] the city faces several housing challenges common to the Portland metropolitan area:
+
+- **Housing affordability**: Despite a relatively high median household income of $100,268, housing costs remain a significant burden for many residents, particularly those in lower income brackets
+- **Limited buildable land**: Constraints on available residential land within the urban growth boundary limit development capacity and housing supply
+- **Workforce housing gap**: The gap between local wages and housing costs makes it difficult for workers to live in the community where they work
+- **Infill development pressures**: With limited vacant land, the city must focus on intensifying existing neighborhoods through middle housing and infill development
+- **Diverse housing needs**: The need to provide housing options across the income spectrum, from affordable housing to market-rate units, while maintaining community character
+
+The Housing Production Strategy[^1] outlines approaches to address these challenges and meet projected housing needs through 2040.
 
 ## Local Housing Policies
 
