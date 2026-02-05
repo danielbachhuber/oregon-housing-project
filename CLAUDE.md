@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-The Oregon Housing Project is a research-focused website about housing policy in Oregon. It uses Hugo (a static site generator) to publish in-depth research and analysis on housing legislation, key people, cities, and concepts. The project is biased towards the view that Oregon isn't building enough housing, housing is too expensive, and some regulations are counter-productive. See `content/about.md` for more detail about its aims.
+The Oregon Housing Project is a research-focused website about housing policy in Oregon. It uses Hugo (a static site generator) to publish in-depth research and analysis on housing legislation, key people, cities, and concepts. The project is biased towards the view that Oregon isn't building enough housing, housing is too expensive, and some regulations are counter-productive. See `content/_index.md` for more detail about its aims.
 
 **This is a research project, not a software development project.** When reviewing or contributing to this project, focus on accuracy, conciseness, quality of analysis, and proper sourcing rather than code quality.
 
