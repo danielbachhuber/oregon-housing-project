@@ -1,7 +1,7 @@
 Oregon Housing Project
 ======================
 
-The Oregon Housing Project is a collection of research and analysis on housing in Oregon. It's mission is to explore the topic of housing in Oregon at depth in a way that makes the topic accessible to more people.
+The Oregon Housing Project is a collection of research and analysis on housing in Oregon. Its mission is to explore the topic of housing in Oregon at depth in a way that makes the topic accessible to more people.
 
 [Visit the Oregon Housing Project](https://oregonhousingproject.org/) to learn more about the project.
 
