@@ -136,6 +136,16 @@ To add support for a new jurisdiction:
 3. Create content directory structure
 4. Update this documentation
 
+## Package Management
+
+This project uses **PNPM** as its package manager. Always use `pnpm` commands for package management:
+- Install dependencies: `pnpm install`
+- Add a package: `pnpm add <package-name>`
+- Add a dev dependency: `pnpm add -D <package-name>`
+- Run scripts: `pnpm <script-name>`
+
+**Do NOT use NPM** commands (`npm install`, etc.) as this will create conflicting lock files.
+
 ## LLM-Assisted Research
 
 The project explicitly uses LLMs (Gemini, Claude) for research, drafting, editing, and infographics. All AI-generated content receives human review before publication. This is documented in the About page.
