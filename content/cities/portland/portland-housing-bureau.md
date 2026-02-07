@@ -13,7 +13,7 @@ The Portland Housing Bureau operates under the City of Portland's government str
 
 ## Funding Sources
 
-The bureau administers multiple revenue streams for housing programs, including:
+The bureau administers multiple revenue streams for housing programs, including:[^1]
 - Short-term rental fees
 - Transient Lodging Tax revenues
 - Housing Investment Fund
@@ -41,6 +41,14 @@ The bureau's self-described responsibilities include:
 - Ensuring protections for renters
 - Preserving existing homes
 - Managing city housing programs and initiatives
+
+## Budget
+
+The Portland Housing Bureau manages a substantial budget for housing programs and initiatives. As revealed in February 2026, the bureau had accumulated $106 million in previously unbudgeted housing funds across multiple revenue streams.[^2] The discovery highlighted questions about budget transparency and financial management during Portland's government transition.
+
+The bureau's budget comes from diverse sources including short-term rental fees, transient lodging tax revenues, the Housing Investment Fund, and state and federal housing grants.[^1] These funds are intended to support affordable housing development, renter protections, and housing preservation throughout Portland.
+
+The accumulation of unspent funds occurred during a period when Portland faced deep budget cuts and an ongoing housing crisis, raising concerns from city councilors about why these resources were not deployed more quickly to address urgent housing needs.[^1][^2]
 
 ## Context
 
