@@ -9,5 +9,6 @@ hugo.log
 
 # Dependencies and OS-specific files (optional, but recommended)
 node_modules/
+package-lock.json
 .DS_Store
 Thumbs.db
