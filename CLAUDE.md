@@ -146,6 +146,16 @@ This project uses **PNPM** as its package manager. Always use `pnpm` commands fo
 
 **Do NOT use NPM** commands (`npm install`, etc.) as this will create conflicting lock files.
 
+## Running the Site
+
+This project uses **Hugo** as its static site generator. To run the development server:
+
+```bash
+hugo server
+```
+
+This will start a local development server, typically at `http://localhost:1313/`.
+
 ## LLM-Assisted Research
 
 The project explicitly uses LLMs (Gemini, Claude) for research, drafting, editing, and infographics. All AI-generated content receives human review before publication. This is documented in the About page.

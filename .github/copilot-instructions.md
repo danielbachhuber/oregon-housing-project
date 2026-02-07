@@ -15,6 +15,16 @@ This project uses **PNPM** as its package manager. Always use `pnpm` commands fo
 
 The project uses `pnpm-lock.yaml` as its lock file. Never create or modify `package-lock.json`.
 
+## Running the Site
+
+This project uses **Hugo** as its static site generator. To run the development server:
+
+```sh
+hugo server
+```
+
+This will start a local development server, typically at `http://localhost:1313/`.
+
 ## Project Overview
 
 The Oregon Housing Project is a research-focused website about housing policy in Oregon. It uses Hugo (a static site generator) to publish in-depth research and analysis on housing legislation, key people, cities, and concepts.
