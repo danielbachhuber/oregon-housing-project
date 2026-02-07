@@ -11,7 +11,7 @@ This project uses **PNPM** as its package manager. Always use `pnpm` commands fo
 - Add a dev dependency: `pnpm add -D <package-name>`
 - Run scripts: `pnpm <script-name>` or `pnpm run <script-name>`
 
-**Do NOT use NPM** commands (`npm install`, `npm add`, etc.) as this will create conflicting lock files (`package-lock.json`).
+**Do NOT use NPM** commands (`npm install`, etc.) as this will create conflicting lock files (`package-lock.json`).
 
 The project uses `pnpm-lock.yaml` as its lock file. Never create or modify `package-lock.json`.
 
