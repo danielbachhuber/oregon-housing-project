@@ -9,7 +9,7 @@ Keith Wilson (born 1963) is the 54th Mayor of Portland, Oregon, serving since Ja
 
 ## Background
 
-Wilson was born and raised in North Portland and holds a Bachelor of Science in business administration from Oregon State University and an MBA from the University of Portland.[^4] He is the president and CEO of Titan Freight Systems, a company he formed in 1998 by merging his father's two companies.[^4] Wilson also founded Shelter Portland, a nonprofit organization focused on ending homelessness.[^5]
+Wilson was born and raised in North Portland and holds a Bachelor of Science in business administration from Oregon State University and an MBA from the University of Portland.[^4] He was the president and CEO of Titan Freight Systems, a company he formed in 1998 by merging his father's two companies.[^4] Wilson also founded Shelter Portland, a nonprofit organization focused on ending homelessness.[^5]
 
 Before running for mayor, Wilson self-funded trips to cities and countries worldwide to study homelessness solutions. He was a delegate to the 2024 Democratic National Convention and served on the Platform Committee.[^6]
 

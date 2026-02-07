@@ -44,7 +44,9 @@ The bureau's self-described responsibilities include:
 
 ## Budget
 
-The Portland Housing Bureau manages a substantial budget for housing programs and initiatives. As revealed in February 2026, the bureau had accumulated $106 million in previously unbudgeted housing funds across multiple revenue streams.[^2] The discovery highlighted questions about budget transparency and financial management during Portland's government transition.
+The [Portland Housing Bureau](https://www.portland.gov/phb) manages a substantial budget for housing programs and initiatives.[^3] The bureau regulates a portfolio of over 19,000 units of affordable housing throughout the city and implements programs in four key areas: production and preservation, homeownership, preventing displacement, and ending homelessness.[^3]
+
+As revealed in February 2026, the bureau had accumulated $106 million in previously unbudgeted housing funds across multiple revenue streams.[^2] The discovery highlighted questions about budget transparency and financial management during Portland's government transition.
 
 The bureau's budget comes from diverse sources including short-term rental fees, transient lodging tax revenues, the Housing Investment Fund, and state and federal housing grants.[^1] These funds are intended to support affordable housing development, renter protections, and housing preservation throughout Portland.
 
@@ -59,3 +61,5 @@ The unspent funds came to light during a period when Portland faced, and continu
 [^1]: [Willamette Week: Housing Bureau Finds Extra $20 Million in Unspent Funds (February 2, 2026)](https://www.wweek.com/news/city/2026/02/02/housing-bureau-finds-extra-20-million-in-unspent-funds-bringing-total-to-around-40-million/)
 
 [^2]: [Willamette Week: Portland Sitting on $106 Million in Unspent Housing Dollars (February 6, 2026)](https://www.wweek.com/news/city/2026/02/06/somehow-portland-is-sitting-on-106-million-in-unspent-housing-dollars/)
+
+[^3]: [Portland Housing Bureau: About](https://www.portland.gov/phb/about)
