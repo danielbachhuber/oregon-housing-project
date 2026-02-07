@@ -54,6 +54,12 @@ fi
 # Change to worktree directory
 cd "$WORKTREE_DIR"
 
+# Copy .env file if it exists in the main project
+if [ -f "$PROJECT_DIR/.env" ]; then
+    echo "Copying .env file from main project..."
+    cp "$PROJECT_DIR/.env" "$WORKTREE_DIR/.env"
+fi
+
 # Install dependencies if needed
 if [ ! -d "node_modules" ]; then
     echo "Installing dependencies..."
