@@ -11,7 +11,7 @@ Raymond C. Lee III is the City Administrator of Portland, Oregon, appointed by M
 
 ### As City Administrator (2025-present)
 
-- **Portland Housing Bureau Unbudgeted Balances (2026)**: In February 2026, Lee disclosed that the Portland Housing Bureau had accumulated $106 million in unspent funds, far exceeding the $21 million initially identified in November 2025.[^2] Lee issued a [detailed memo](https://www.portland.gov/hello/documents/memo-portland-housing-bureau-unbudgeted-balances/download) explaining where his office found "previously unbudgeted housing funds" and how the money may be legally spent, noting that the situation "reflects the city's ongoing shift from bureaus and offices developing budgets independently to the city of Portland managing its finances holistically under our new form of government."[^2]
+- **Portland Housing Bureau Unbudgeted Balances (2026)**: In February 2026, Lee disclosed that the Portland Housing Bureau had accumulated $106 million in unspent funds, far exceeding the $21 million initially identified in November 2025.[^2] Lee issued a [detailed memo](/cities/portland/files/2026-02-06-unbudgeted-housing-balances-memo.pdf) explaining where his office found "previously unbudgeted housing funds" and how the money may be legally spent, noting that the situation "reflects the city's ongoing shift from bureaus and offices developing budgets independently to the city of Portland managing its finances holistically under our new form of government."[^2]
 
 [^1]: [Portland.gov: City Leaders](https://www.portland.gov/)
 

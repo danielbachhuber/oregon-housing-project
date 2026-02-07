@@ -30,7 +30,7 @@ In November 2025, bureau officials identified approximately $21 million in unspe
 
 City Councilor [Loretta Smith](/people/loretta-smith) expressed concerns about financial oversight, stating: "This unexpected discovery raises serious concerns about our financial oversight. I am deeply troubled by the possibility that departments may be withholding vital financial information from the council."[^1]
 
-City Administrator Lee attributed the accumulation to Portland's transition from a system where "bureaus and offices developing budgets independently" to one where the city manages "its finances holistically under our new form of government."[^2] He issued a [detailed memo](/cities/portland/files/2026-02-07-unbudgeted-housing-balances-memo.pdf) on February 7, 2026, explaining where the funds were found and how they may be legally spent.[^2]
+City Administrator Lee attributed the accumulation to Portland's transition from a system where "bureaus and offices developing budgets independently" to one where the city manages "its finances holistically under our new form of government."[^2] He issued a [detailed memo](/cities/portland/files/2026-02-06-unbudgeted-housing-balances-memo.pdf) on February 6, 2026, explaining where the funds were found and how they may be legally spent.[^2]
 
 Council President Jamie Dunphy characterized the situation as "a relic of the old government system of accounting" rather than malicious wrongdoing, though he acknowledged the timing was difficult.[^1]
 
