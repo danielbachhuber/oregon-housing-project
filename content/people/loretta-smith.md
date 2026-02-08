@@ -27,7 +27,7 @@ She also ran for Oregon's 6th Congressional District in 2022, finishing in fourt
 
 ### Portland City Council (2025-present)
 
-Smith successfully won election to the Portland City Council in November 2024 under Portland's new district-based system, assuming office on January 1, 2025.[^1]
+Smith successfully won election to the Portland City Council in November 2024 under [Portland](/cities/portland)'s new district-based system, assuming office on January 1, 2025.[^1]
 
 ## Key Housing Actions
 

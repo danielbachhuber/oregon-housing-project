@@ -5,7 +5,7 @@ date = '2026-01-23'
 
 # Tualatin
 
-Tualatin is a city of 27,383 residents spanning Washington and Clackamas Counties in the Portland metropolitan area.[^1] With a median household income of $105,073, Tualatin is relatively affluent, but faces significant housing affordability challenges common to the region.[^2] The city covers 8.2 square miles and has seen slight population decline from its 2020 peak of 27,883.[^1]
+Tualatin is a city of 27,383 residents spanning Washington and Clackamas Counties in the [Portland](/cities/portland) metropolitan area.[^1] With a median household income of $105,073, Tualatin is relatively affluent, but faces significant housing affordability challenges common to the region.[^2] The city covers 8.2 square miles and has seen slight population decline from its 2020 peak of 27,883.[^1]
 
 ## Housing Statistics
 
