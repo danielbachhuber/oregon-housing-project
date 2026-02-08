@@ -41,7 +41,7 @@ interface SourceConfig {
   name: string;
   sitemapUrl: string;
   processedFile: string;
-  sitemapType: 'xml-index-news' | 'yoast-index' | 'flat';
+  sitemapType: 'xml-index-news' | 'yoast-index' | 'flat' | 'rss';
   extractContent: (html: string, url: string) => ArticleData;
 }
 
@@ -65,9 +65,9 @@ const SOURCES: SourceConfig[] = [
   {
     id: 'occ',
     name: 'Oregon Capital Chronicle',
-    sitemapUrl: 'https://oregoncapitalchronicle.com/sitemap_index.xml',
+    sitemapUrl: 'https://oregoncapitalchronicle.com/feed/',
     processedFile: path.join(DATA_DIR, 'processed-occ-urls.txt'),
-    sitemapType: 'yoast-index',
+    sitemapType: 'rss',
     extractContent: extractOCCContent,
   },
 ];
@@ -157,30 +157,39 @@ async function processSource(source: SourceConfig, dryRun: boolean, limit: numbe
   const initialCount = processedUrls.size;
   console.log(`Loaded ${initialCount} previously processed URLs.`);
 
-  // 2. Fetch candidates from sitemap
-  const candidates = await fetchSitemapCandidates(sitemapUrl, sitemapType, processedUrls);
-  console.log(`Found ${candidates.length} new candidates to check.`);
-
-  const toProcess = candidates.slice(0, limit);
-  if (toProcess.length < candidates.length) {
-    console.log(`Processing ${toProcess.length} of ${candidates.length} (limited).`);
-  }
-
-  // 3. Process candidates
-  let created = 0;
-  for (const url of toProcess) {
-    try {
-      console.log(`\nChecking: ${url}`);
-
+  // 2. Fetch candidates
+  let articles: ArticleData[];
+  if (sitemapType === 'rss') {
+    articles = await fetchRssCandidates(sitemapUrl, processedUrls);
+  } else {
+    const candidateUrls = await fetchSitemapCandidates(sitemapUrl, sitemapType, processedUrls);
+    console.log(`Found ${candidateUrls.length} new candidates to check.`);
+    // Fetch and extract each URL
+    articles = [];
+    for (const url of candidateUrls) {
       const html = await fetchUrl(url);
       if (!html) continue;
-
-      const articleData = extractContent(html, url);
-      if (!articleData || !articleData.title) {
-        console.log('  -> Could not extract content, skipping.');
+      const data = extractContent(html, url);
+      if (data && data.title) {
+        articles.push(data);
+      } else {
+        // Mark unfetchable URLs as processed to avoid retrying
         if (!dryRun) appendProcessedUrl(processedFile, url);
-        continue;
       }
+    }
+  }
+  console.log(`Found ${articles.length} new candidates to check.`);
+
+  const toProcess = articles.slice(0, limit);
+  if (toProcess.length < articles.length) {
+    console.log(`Processing ${toProcess.length} of ${articles.length} (limited).`);
+  }
+
+  // 3. Classify and process candidates
+  let created = 0;
+  for (const articleData of toProcess) {
+    try {
+      console.log(`\nChecking: ${articleData.url}`);
 
       // Step 1: Classify with Haiku
       const classification = await classifyArticle(articleData);
@@ -210,9 +219,9 @@ async function processSource(source: SourceConfig, dryRun: boolean, limit: numbe
       }
 
       // Mark as processed incrementally so killed runs don't reprocess
-      if (!dryRun) appendProcessedUrl(processedFile, url);
+      if (!dryRun) appendProcessedUrl(processedFile, articleData.url);
     } catch (error: any) {
-      console.error(`  -> Error processing ${url}:`, error.message);
+      console.error(`  -> Error processing ${articleData.url}:`, error.message);
     }
   }
 
@@ -315,6 +324,50 @@ async function fetchSitemapCandidates(
   }
 
   return candidates;
+}
+
+async function fetchRssCandidates(
+  feedUrl: string,
+  processedSet: Set<string>
+): Promise<ArticleData[]> {
+  const articles: ArticleData[] = [];
+  const parser = new xml2js.Parser();
+
+  try {
+    const xml = await fetchUrl(feedUrl);
+    if (!xml) return [];
+
+    const result = await parser.parseStringPromise(xml);
+    const items = result.rss?.channel?.[0]?.item || [];
+
+    for (const item of items) {
+      const url = item.link?.[0] || '';
+      if (!url || processedSet.has(url)) continue;
+
+      const title = item.title?.[0] || '';
+      const author = item['dc:creator']?.[0] || '';
+      const pubDate = item.pubDate?.[0] || '';
+      const encoded = item['content:encoded']?.[0] || '';
+      const description = item.description?.[0] || '';
+
+      // Strip HTML from content:encoded to get plain text
+      const $ = cheerio.load(encoded);
+      const content = $('p').map((_i, el) => $(el).text()).get().join('\n\n');
+
+      articles.push({
+        title: title.trim(),
+        description: typeof description === 'string' ? cheerio.load(description).text().trim() : '',
+        date: pubDate ? new Date(pubDate).toISOString() : new Date().toISOString(),
+        author: author.trim(),
+        content: content.trim(),
+        url,
+      });
+    }
+  } catch (err: any) {
+    console.error(`Error parsing RSS feed ${feedUrl}:`, err.message);
+  }
+
+  return articles;
 }
 
 // --- Content extraction helpers ---
