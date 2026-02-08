@@ -3,7 +3,6 @@ title = 'SB 6'
 date = '2025-01-01'
 +++
 
-# SB 6
 
 Requires timely approval (45 business days) for housing permits.
 

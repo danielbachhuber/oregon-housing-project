@@ -1,6 +1,9 @@
 {{ define "main" }}
 <article class="markdown book-article">
 
+  <h1>{{ .Title }}</h1>
+  {{ with .Params.status }}<p><strong>Status:</strong> {{ . }}</p>{{ end }}
+
   {{ .Content }}
 
   {{/* Find news coverage that links to this legislation */}}
