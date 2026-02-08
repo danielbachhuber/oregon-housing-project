@@ -626,8 +626,6 @@ original_url = '${article.url}'
 author = '${escAuthor}'
 +++
 
-# ${article.title}
-
 ${summary}
 `;
 

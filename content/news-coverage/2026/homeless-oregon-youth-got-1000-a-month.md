@@ -6,8 +6,6 @@ original_url = 'https://oregoncapitalchronicle.com/2026/01/30/homeless-oregon-yo
 author = 'Staff'
 +++
 
-# Homeless Oregon youth got $1,000 a month for two years. Most found housing after
-
 The article reports on a program in Oregon that provided homeless youth with $1,000 per month for two years, which helped most of the participants find housing and improve their living situations.
 
 <!--
