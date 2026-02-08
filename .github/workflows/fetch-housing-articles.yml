@@ -1,4 +1,4 @@
-name: Daily Housing Article Search
+name: Fetch Housing Articles
 
 on:
   schedule:
