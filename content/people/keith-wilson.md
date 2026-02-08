@@ -5,7 +5,7 @@ title = 'Keith Wilson'
 
 # Keith Wilson
 
-Keith Wilson (born 1963) is the 54th Mayor of Portland, Oregon, serving since January 1, 2025.[^1][^2] A businessman and Democratic politician, Wilson ran as a political outsider focused on addressing Portland's homelessness crisis with his campaign promise to end unsheltered homelessness within one year.[^3]
+Keith Wilson (born 1963) is the 54th Mayor of [Portland](/cities/portland), Oregon, serving since January 1, 2025.[^1][^2] A businessman and Democratic politician, Wilson ran as a political outsider focused on addressing Portland's homelessness crisis with his campaign promise to end unsheltered homelessness within one year.[^3]
 
 ## Background
 

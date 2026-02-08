@@ -9,7 +9,7 @@ The Oregon Department of Land Conservation and Development (DLCD) is the state's
 
 ## Overview
 
-DLCD was established in 1973 under Senate Bill 100, which created Oregon's nationally recognized statewide land use planning program.[^1] A seven-member volunteer citizen board known as the Land Conservation and Development Commission (LCDC) guides DLCD and adopts administrative rules that local governments must follow.
+DLCD was established in 1973 under [SB 100](/legislation/1973/sb-100), which created Oregon's nationally recognized statewide land use planning program.[^1] A seven-member volunteer citizen board known as the Land Conservation and Development Commission (LCDC) guides DLCD and adopts administrative rules that local governments must follow.
 
 The agency has approximately 115 full-time equivalent (FTE) positions as of the 2023-25 biennium budget.[^3]
 
