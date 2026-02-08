@@ -2,7 +2,91 @@
 <article class="markdown book-article">
   <h1>{{ .Title }}</h1>
 
+  {{ with .Params.catch_line }}
+  <p><em>{{ . }}</em></p>
+  {{ end }}
+
+  {{ if .Params.bill_number }}
+  <table>
+    <tbody>
+      <tr>
+        <td><strong>Status</strong></td>
+        <td>{{ .Params.status }}{{ with .Params.current_committee }} ({{ . }}){{ end }}</td>
+      </tr>
+      {{ with .Params.at_the_request_of }}
+      <tr>
+        <td><strong>Requested by</strong></td>
+        <td>{{ . }}</td>
+      </tr>
+      {{ end }}
+      {{ with .Params.sponsors }}
+      <tr>
+        <td><strong>Sponsors</strong></td>
+        <td>
+          {{ range $i, $s := . }}{{ if $i }}, {{ end }}<a href="/people/{{ $s.slug }}">{{ $s.name }}</a>{{ with $s.party }} ({{ . }}){{ end }}{{ if eq $s.level "Chief" }} <em>(Chief)</em>{{ end }}{{ end }}
+        </td>
+      </tr>
+      {{ end }}
+      {{ with .Params.fiscal_impact }}
+      <tr>
+        <td><strong>Fiscal impact</strong></td>
+        <td>{{ . }}</td>
+      </tr>
+      {{ end }}
+      {{ with .Params.revenue_impact }}
+      <tr>
+        <td><strong>Revenue impact</strong></td>
+        <td>{{ . }}</td>
+      </tr>
+      {{ end }}
+      {{ if .Params.emergency_clause }}
+      <tr>
+        <td><strong>Emergency clause</strong></td>
+        <td>Yes</td>
+      </tr>
+      {{ end }}
+      {{ if .Params.vetoed }}
+      <tr>
+        <td><strong>Vetoed</strong></td>
+        <td>Yes</td>
+      </tr>
+      {{ end }}
+    </tbody>
+  </table>
+
+  {{ with .Params.documents }}
+  <h3>Bill Text</h3>
+  <ul>
+    {{ range . }}
+    <li><a href="{{ .url }}">{{ .version }}</a></li>
+    {{ end }}
+  </ul>
+  {{ end }}
+  {{ end }}
+
   {{ .Content }}
+
+  {{ with .Params.history }}
+  <h2>Legislative History</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Date</th>
+        <th>Chamber</th>
+        <th>Action</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{ range . }}
+      <tr>
+        <td>{{ .date }}</td>
+        <td>{{ .chamber }}</td>
+        <td>{{ .action }}</td>
+      </tr>
+      {{ end }}
+    </tbody>
+  </table>
+  {{ end }}
 
   {{/* Find news coverage that links to this legislation */}}
   {{/* Strip trailing slash since markdown links don't include it */}}

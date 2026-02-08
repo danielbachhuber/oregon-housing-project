@@ -1,0 +1,125 @@
+{
+  "measure": {
+    "SessionKey": "2026R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 1566,
+    "CatchLine": "Exempts certain projects for public works, primarily related to affordable housing, from the requirement to pay a prevailing rate of wage.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: Says that a public agency does not need to set a certain wage level for a project that is affordable housing. (Flesch Readability Score: 60.6). \n\tExempts certain projects for public works, primarily related to affordable housing, from the requirement to pay a prevailing rate of wage. \n\tTakes effect on the 91st day following adjournment sine die.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to the prevailing rate of wage; creating new provisions; amending ORS 279C.810; and prescribing an effective date.\n\t",
+    "RelatingTo": "Relating to the prevailing rate of wage; prescribing an effective date.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SLB",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Haylee Morse-Miller",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 31,
+    "Vetoed": false,
+    "CreatedDate": "2026-01-16T13:31:52",
+    "ModifiedDate": "2026-02-02T12:21:51",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "156787",
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1566,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "(Presession filed.)",
+      "CreatedDate": "2026-01-23T16:21:09",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "156788",
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1566,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Anderson",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2026-01-23T16:21:09",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "156789",
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1566,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Breese-Iverson",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "2",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2026-01-23T16:21:09",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 663881,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1566,
+      "Chamber": "S",
+      "ActionDate": "2026-02-02T07:32:59",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-02T07:33:20",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 664149,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1566,
+      "Chamber": "S",
+      "ActionDate": "2026-02-02T09:38:57",
+      "ActionText": "Referred to Labor and Business.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-02T09:39:09",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 665178,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1566,
+      "Chamber": "S",
+      "ActionDate": "2026-02-09T13:01:00",
+      "ActionText": "Public Hearing Scheduled.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-06T11:14:50",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1566,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1566/Introduced",
+      "CreatedDate": "2026-01-28T15:25:33.02",
+      "ModifiedDate": null
+    }
+  ]
+}

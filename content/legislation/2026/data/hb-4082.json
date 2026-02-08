@@ -1,0 +1,110 @@
+{
+  "measure": {
+    "SessionKey": "2026R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 4082,
+    "CatchLine": "Adds to a temporary UGB addition program an option for each city or Metro to also add to its urban growth boundary a site for manufactured dwelling parks, or for housing for older persons, that is affordable for households with incomes not more than 120 percent of area median income.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: This Act allows cities to add sites to their UGB for manufactured dwelling parks or housing for older persons. (Flesch Readability Score: 62.8). \n\tAdds to a temporary UGB addition program an option for each city or Metro to also add to its urban growth boundary a site for manufactured dwelling parks, or for housing for older persons, that is affordable for households with incomes not more than 120 percent of area median income. \n\tSunsets January 2, 2033. \n\tTakes effect on the 91st day following adjournment sine die.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to housing for older persons; creating new provisions; amending sections 57 and 60, chapter 110, Oregon Laws 2024; and prescribing an effective date.\n\t",
+    "RelatingTo": "Relating to housing for older persons; prescribing an effective date.",
+    "AtTheRequestOf": "(at the request of Governor Tina Kotek for Office of the Governor)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HHOUSH",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Twais Broadus",
+    "RevenueEconomist": "Beau Olen",
+    "LCNumber": 94,
+    "Vetoed": false,
+    "CreatedDate": "2026-01-16T16:14:03",
+    "ModifiedDate": "2026-02-06T18:00:01",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "155477",
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4082,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "Introduced and printed pursuant to House Rule 12.00.  Presession filed.",
+      "CreatedDate": "2026-01-23T16:21:08",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 663997,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4082,
+      "Chamber": "H",
+      "ActionDate": "2026-02-02T08:50:03",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-02T09:21:25",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 664285,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4082,
+      "Chamber": "H",
+      "ActionDate": "2026-02-02T09:51:51",
+      "ActionText": "Referred to Housing and Homelessness.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-02T09:59:43",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 664821,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4082,
+      "Chamber": "H",
+      "ActionDate": "2026-02-03T15:01:00",
+      "ActionText": "Public Hearing held.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-03T16:44:57",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 665243,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4082,
+      "Chamber": "H",
+      "ActionDate": "2026-02-10T15:01:00",
+      "ActionText": "Possible Work Session scheduled.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-06T13:22:53",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4082,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4082/Introduced",
+      "CreatedDate": "2026-01-28T15:25:15.4",
+      "ModifiedDate": null
+    }
+  ]
+}

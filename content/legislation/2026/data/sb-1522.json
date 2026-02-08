@@ -1,0 +1,97 @@
+{
+  "measure": {
+    "SessionKey": "2026R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 1522,
+    "CatchLine": "Requires the Housing and Community Services Department to study housing.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: This Act makes OHCS study housing. (Flesch Readability Score: 87.9). \n\tRequires the Housing and Community Services Department to study housing. Directs the department to submit findings to the interim committees of the Legislative Assembly related to housing no later than September 15, 2027. \n\tSunsets on January 2, 2028.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to housing.\n\t",
+    "RelatingTo": "Relating to housing.",
+    "AtTheRequestOf": "(at the request of Senate Interim Committee on Housing and Development)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SHDEV",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 54,
+    "Vetoed": false,
+    "CreatedDate": "2026-01-14T13:37:51",
+    "ModifiedDate": "2026-02-02T12:31:33",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "156658",
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1522,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "Printed pursuant to Senate Interim Rule 213.28 by order of the President of the Senate in conformance with presession filing rules, indicating neither advocacy nor opposition on the part of the President.",
+      "CreatedDate": "2026-01-23T16:21:09",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 663837,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1522,
+      "Chamber": "S",
+      "ActionDate": "2026-02-02T07:32:59",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-02T07:33:20",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 664106,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1522,
+      "Chamber": "S",
+      "ActionDate": "2026-02-02T09:38:57",
+      "ActionText": "Referred to Housing and Development.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-02T09:39:09",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 665071,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1522,
+      "Chamber": "S",
+      "ActionDate": "2026-02-12T15:01:00",
+      "ActionText": "Public Hearing and Possible Work Session scheduled.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-05T13:29:58",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1522,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1522/Introduced",
+      "CreatedDate": "2026-01-28T15:25:27.683",
+      "ModifiedDate": null
+    }
+  ]
+}

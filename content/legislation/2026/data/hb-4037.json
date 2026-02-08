@@ -1,0 +1,110 @@
+{
+  "measure": {
+    "SessionKey": "2026R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 4037,
+    "CatchLine": "Adjusts certain terms of the revolving loan program for cities and counties to fund affordable housing projects.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: This Act changes some housing programs, agencies and laws and rules about home building. (Flesch Readability Score: 65.7). \n\tAdjusts certain terms of the revolving loan program for cities and counties to fund affordable housing projects. \n\tAllows state agencies to adjust terms of a grant made to the Network for Oregon Affordable Housing in the last biennium. \n\tAuthorizes the Housing Accountability and Production Office to enter an interim administrative order against local governments. \n\tLimits the building permit plan review for housing with two or fewer dwelling units. \n\tEstablishes a local government process for land use approvals for housing subject only to clear and objective standards, conditions and procedures. \n\tShortens the period under which local governments may review similar housing development applications by the same applicant. \n\tEstablishes responsibilities for landlords and tenants for residential tenancies destroyed by natural disasters. \n\tRequires state agencies to give priority to housing providers when transferring surplus real property. \n\tTakes effect on the 91st day following adjournment sine die.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to housing; creating new provisions; amending ORS 92.031, 197.320, 197A.140, 197A.400, 197A.805, 215.427, 227.178, 270.010, 270.030, 270.100, 307.213, 307.214, 307.216, 307.221, 307.225, 307.227, 307.229, 307.231, 307.233, 455.628 and 458.352 and section 22, chapter 476, Oregon Laws 2025; and prescribing an effective date.\n\t",
+    "RelatingTo": "Relating to housing; prescribing an effective date.",
+    "AtTheRequestOf": "(at the request of House Interim Committee on Housing and Homelessness for Representative Pam Marsh)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HHOUSH",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 222,
+    "Vetoed": false,
+    "CreatedDate": "2026-01-15T09:47:17",
+    "ModifiedDate": "2026-02-02T11:25:23",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "155190",
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4037,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "Introduced and printed pursuant to House Rule 12.00.  Presession filed.",
+      "CreatedDate": "2026-01-23T16:21:08",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 663952,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4037,
+      "Chamber": "H",
+      "ActionDate": "2026-02-02T08:50:03",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-02T09:21:25",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 664240,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4037,
+      "Chamber": "H",
+      "ActionDate": "2026-02-02T09:51:51",
+      "ActionText": "Referred to Housing and Homelessness.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-02T09:59:43",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 665139,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4037,
+      "Chamber": "H",
+      "ActionDate": "2026-02-05T15:01:00",
+      "ActionText": "Public Hearing held.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-05T16:54:10",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 665246,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4037,
+      "Chamber": "H",
+      "ActionDate": "2026-02-10T15:01:00",
+      "ActionText": "Public Hearing and Possible Work Session scheduled.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-06T13:22:53",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4037,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4037/Introduced",
+      "CreatedDate": "2026-01-28T15:25:09.583",
+      "ModifiedDate": null
+    }
+  ]
+}

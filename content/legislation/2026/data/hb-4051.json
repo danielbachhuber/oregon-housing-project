@@ -1,0 +1,126 @@
+{
+  "measure": {
+    "SessionKey": "2026R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 4051,
+    "CatchLine": "Creates a program for deferred loans to first-time home buyers in an amount not greater than the lesser of the closing costs on the purchase or one percent of the purchase price.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: The Act would have loans made to first-time home buyers to offset closing costs. The Act would make the loan plus interest due when the home is sold, the borrower moves out or, if the home is a mobile home, it is moved out of state. The Act would have the program run for three years. (Flesch Readability Score: 88.1). \n\tCreates a program for deferred loans to first-time home buyers in an amount not greater than the lesser of the closing costs on the purchase or one percent of the purchase price. Makes the deferred loans repayable when the home changes ownership, is no longer the homestead of the borrower or, if the home is mobile, is moved out of state. Retires the program after three years. \n\tDeclares an emergency, effective on passage.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to first-time homeownership; and declaring an emergency.\n\t",
+    "RelatingTo": "Relating to first-time homeownership; declaring an emergency.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HHOUSH",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": true,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Beau Olen",
+    "LCNumber": 233,
+    "Vetoed": false,
+    "CreatedDate": "2026-01-16T10:41:48",
+    "ModifiedDate": "2026-02-02T11:30:30",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "155273",
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4051,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "(Presession filed.)",
+      "CreatedDate": "2026-01-23T16:21:08",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "155274",
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4051,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Reschke",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2026-01-23T16:21:08",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "155275",
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4051,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Drazan",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "2",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2026-01-23T16:21:08",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "155276",
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4051,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Scharf",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2026-01-23T16:21:08",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 663966,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4051,
+      "Chamber": "H",
+      "ActionDate": "2026-02-02T08:50:03",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-02T09:21:25",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 664254,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4051,
+      "Chamber": "H",
+      "ActionDate": "2026-02-02T09:51:51",
+      "ActionText": "Referred to Housing and Homelessness with subsequent referral to Revenue.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-02T09:59:43",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4051,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4051/Introduced",
+      "CreatedDate": "2026-01-28T15:25:11.64",
+      "ModifiedDate": null
+    }
+  ]
+}

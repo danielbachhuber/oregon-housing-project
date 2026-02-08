@@ -1,0 +1,110 @@
+{
+  "measure": {
+    "SessionKey": "2026R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 4036,
+    "CatchLine": "Establishes the Preserve Affordable Homes for Oregon Fund to deposit Article XI-Q bonds to be used to preserve affordable housing at risk of loss.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: This Act sets up a bond fund to preserve low-cost housing and requires OHCS to report on low-cost housing barriers. (Flesch Readability Score: 63.8). \n\tEstablishes the Preserve Affordable Homes for Oregon Fund to deposit Article XI-Q bonds to be used to preserve affordable housing at risk of loss. \n\tRequires the Housing and Community Services Department to, with input from stakeholders, report to the interim committees of the Legislative Assembly relating to housing on or before December 1, 2026, on legal and policy barriers to affordable housing production. \n\tDeclares an emergency, effective on passage.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to affordable housing; creating new provisions; amending ORS 456.559 and 456.824 and section 1, chapter 630, Oregon Laws 2025; and declaring an emergency.\n\t",
+    "RelatingTo": "Relating to affordable housing; declaring an emergency.",
+    "AtTheRequestOf": "(at the request of House Interim Committee on Housing and Homelessness for Representative Pam Marsh)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HHOUSH",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": true,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Mazen Malik",
+    "LCNumber": 209,
+    "Vetoed": false,
+    "CreatedDate": "2026-01-15T09:47:17",
+    "ModifiedDate": "2026-02-04T11:27:05",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "155189",
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4036,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "Introduced and printed pursuant to House Rule 12.00.  Presession filed.",
+      "CreatedDate": "2026-01-23T16:21:08",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 663951,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4036,
+      "Chamber": "H",
+      "ActionDate": "2026-02-02T08:50:03",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-02T09:21:25",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 664239,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4036,
+      "Chamber": "H",
+      "ActionDate": "2026-02-02T09:51:51",
+      "ActionText": "Referred to Housing and Homelessness with subsequent referral to Ways and Means.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-02T09:59:43",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 664819,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4036,
+      "Chamber": "H",
+      "ActionDate": "2026-02-03T15:01:00",
+      "ActionText": "Public Hearing held.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-03T16:44:57",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 665245,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4036,
+      "Chamber": "H",
+      "ActionDate": "2026-02-10T15:01:00",
+      "ActionText": "Possible Work Session scheduled.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-06T13:22:53",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4036,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4036/Introduced",
+      "CreatedDate": "2026-01-28T15:25:09.463",
+      "ModifiedDate": null
+    }
+  ]
+}

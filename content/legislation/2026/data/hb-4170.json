@@ -1,0 +1,84 @@
+{
+  "measure": {
+    "SessionKey": "2026R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 4170,
+    "CatchLine": "Requires the Housing and Community Services Department to study housing.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: This Act makes OHCS study housing. (Flesch Readability Score: 87.9). \n\tRequires the Housing and Community Services Department to study housing. Directs the department to submit findings to the interim committees of the Legislative Assembly related to housing no later than September 15, 2027. \n\tSunsets on January 2, 2028.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to housing.\n\t",
+    "RelatingTo": "Relating to housing.",
+    "AtTheRequestOf": "(at the request of Representative Ben Bowman)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HRULES",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 170,
+    "Vetoed": false,
+    "CreatedDate": "2026-02-03T11:14:00",
+    "ModifiedDate": "2026-02-05T13:04:08",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "157585",
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4170,
+      "SponsorType": "Committee",
+      "LegislatoreCode": null,
+      "CommitteeCode": "HRULES",
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2026-02-04T18:05:02",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 664981,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4170,
+      "Chamber": "H",
+      "ActionDate": "2026-02-05T10:16:55",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-05T10:17:36",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 665049,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4170,
+      "Chamber": "H",
+      "ActionDate": "2026-02-05T12:13:21",
+      "ActionText": "Referred to Rules.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-05T12:13:39",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4170,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4170/Introduced",
+      "CreatedDate": "2026-02-04T17:15:16.453",
+      "ModifiedDate": null
+    }
+  ]
+}

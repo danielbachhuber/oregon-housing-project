@@ -543,28 +543,16 @@ function updateBillFrontMatter(filepath: string, bill: Bill, legislators: Map<st
   const frontMatter = match[1];
   const body = existing.slice(match[0].length);
 
-  // Build sponsors string
-  let sponsorNames = '';
-  if (bill.sponsors.length > 0) {
-    const chiefSponsors = bill.sponsors.filter(s => s.level === 'Chief');
-    sponsorNames = chiefSponsors
-      .map(s => {
-        const legislator = legislators.get(s.name);
-        return generatePersonName(legislator);
-      })
-      .join(', ');
-  }
-
-  // Remove existing status/sponsors lines if present
+  // Only update status — the single field that changes over time.
+  // All other structured fields are managed by refine-legislation.
   let updatedFrontMatter = frontMatter
-    .replace(/^status\s*=\s*'.*'$/m, '')
-    .replace(/^sponsors\s*=\s*'.*'$/m, '')
-    .replace(/\n{2,}/g, '\n')
+    .replace(/^status\s*=\s*['"].*['"]$\n?/m, '')
     .trim();
 
-  // Append new fields
-  updatedFrontMatter += `\nstatus = '${bill.status.replace(/'/g, "''")}'`;
-  updatedFrontMatter += `\nsponsors = '${sponsorNames.replace(/'/g, "''")}'`;
+  const escapedStatus = bill.status.includes("'")
+    ? `"${bill.status.replace(/\\/g, '\\\\').replace(/"/g, '\\"')}"`
+    : `'${bill.status}'`;
+  updatedFrontMatter += `\nstatus = ${escapedStatus}`;
 
   fs.writeFileSync(filepath, `+++\n${updatedFrontMatter}\n+++${body}`);
 }

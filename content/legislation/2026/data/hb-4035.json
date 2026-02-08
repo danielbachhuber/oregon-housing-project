@@ -1,0 +1,110 @@
+{
+  "measure": {
+    "SessionKey": "2026R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 4035,
+    "CatchLine": "Expands eligibility for cities and Metro to amend their urban growth boundaries under a temporary program.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: This Act amends temp UGB program and lets LCDC award grants. (Flesch Readability Score: 80.3). \n\tExpands eligibility for cities and Metro to amend their urban growth boundaries under a temporary program. \n\tAuthorizes the Land Conservation and Development Commission to issue grants to implement the commission's duties.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to land use; amending ORS 197.045 and sections 50, 52 and 60, chapter 110, Oregon Laws 2024.\n\t",
+    "RelatingTo": "Relating to land use.",
+    "AtTheRequestOf": "(at the request of House Interim Committee on Housing and Homelessness for Representative Pam Marsh)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HHOUSH",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Twais Broadus",
+    "RevenueEconomist": "Beau Olen",
+    "LCNumber": 205,
+    "Vetoed": false,
+    "CreatedDate": "2026-01-15T09:47:17",
+    "ModifiedDate": "2026-02-02T11:24:59",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "155188",
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4035,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "Introduced and printed pursuant to House Rule 12.00.  Presession filed.",
+      "CreatedDate": "2026-01-23T16:21:08",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 663950,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4035,
+      "Chamber": "H",
+      "ActionDate": "2026-02-02T08:50:03",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-02T09:21:25",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 664238,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4035,
+      "Chamber": "H",
+      "ActionDate": "2026-02-02T09:51:51",
+      "ActionText": "Referred to Housing and Homelessness.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-02T09:59:43",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 665138,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4035,
+      "Chamber": "H",
+      "ActionDate": "2026-02-05T15:01:00",
+      "ActionText": "Public Hearing held.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-05T16:54:10",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 665242,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4035,
+      "Chamber": "H",
+      "ActionDate": "2026-02-10T15:01:00",
+      "ActionText": "Possible Work Session scheduled.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-06T13:22:53",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4035,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4035/Introduced",
+      "CreatedDate": "2026-01-28T15:25:09.293",
+      "ModifiedDate": null
+    }
+  ]
+}

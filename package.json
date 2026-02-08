@@ -8,7 +8,8 @@
 		"fetch-legislation": "tsx scripts/fetch-legislation.ts",
 		"wts": "bin/start-worktree.sh",
 		"wtd": "bin/delete-worktree.sh",
-		"refine-internal-links": "tsx scripts/refine-internal-links.ts"
+		"refine-internal-links": "tsx scripts/refine-internal-links.ts",
+		"refine-legislation": "tsx scripts/refine-legislation.ts"
 	},
 	"keywords": [],
 	"author": "",

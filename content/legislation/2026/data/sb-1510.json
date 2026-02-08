@@ -1,0 +1,97 @@
+{
+  "measure": {
+    "SessionKey": "2026R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 1510,
+    "CatchLine": "Updates the terminology used to describe certain income earned by multinational corporations to reflect a change in the term used in federal law.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: The Act makes technical fixes and slight policy updates to some tax statutes. (Flesch Readability Score: 63.4). \n\tUpdates the terminology used to describe certain income earned by multinational corporations to reflect a change in the term used in federal law. Aligns sunset dates for earned income tax credit provisions with the underlying sunset date for the credit. \n\tExpands the tax credit for certified film production development contributions to allow the use of contributions for the production of commercials. Applies to fiscal years beginning on or after July 1, 2026. \n\tProvides an exception from the annual filing requirement for the property tax exemption for property burdened by an affordable housing covenant used for owner-occupied housing. Applies to property tax years beginning on or after July 1, 2027. \n\tTakes effect on the 91st day following adjournment sine die.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to taxation; creating new provisions; amending ORS 284.368, 307.162, 314.698 and 317.267 and section 32a, chapter 579, Oregon Laws 2019; and prescribing an effective date.\n\t",
+    "RelatingTo": "Relating to taxation; prescribing an effective date.",
+    "AtTheRequestOf": "(at the request of Senate Interim Committee on Finance and Revenue)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SFR",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Twais Broadus",
+    "RevenueEconomist": "Kyle Easton",
+    "LCNumber": 254,
+    "Vetoed": false,
+    "CreatedDate": "2026-01-14T09:36:13",
+    "ModifiedDate": "2026-02-02T11:56:34",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "156646",
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1510,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "Printed pursuant to Senate Interim Rule 213.28 by order of the President of the Senate in conformance with presession filing rules, indicating neither advocacy nor opposition on the part of the President.",
+      "CreatedDate": "2026-01-23T16:21:09",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 663825,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1510,
+      "Chamber": "S",
+      "ActionDate": "2026-02-02T07:32:59",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-02T07:33:20",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 664094,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1510,
+      "Chamber": "S",
+      "ActionDate": "2026-02-02T09:38:57",
+      "ActionText": "Referred to Finance and Revenue.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-02T09:39:09",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 665247,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1510,
+      "Chamber": "S",
+      "ActionDate": "2026-02-11T08:01:00",
+      "ActionText": "Public Hearing Scheduled.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-06T13:26:55",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1510,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1510/Introduced",
+      "CreatedDate": "2026-01-28T15:25:26.077",
+      "ModifiedDate": null
+    }
+  ]
+}
