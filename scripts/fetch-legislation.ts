@@ -11,10 +11,10 @@ const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY;
 const LEGISLATION_DIR = path.join(process.cwd(), 'content/legislation');
 const PEOPLE_DIR = path.join(process.cwd(), 'content/people');
 
-// Initialize Anthropic
-const anthropic = new Anthropic({
+// Initialize Anthropic (only if API key is available)
+const anthropic = ANTHROPIC_API_KEY ? new Anthropic({
   apiKey: ANTHROPIC_API_KEY,
-});
+}) : null;
 
 interface Sponsor {
   name: string;
@@ -40,12 +40,7 @@ interface ClassificationResult {
 }
 
 async function main() {
-  if (!ANTHROPIC_API_KEY) {
-    console.error('Error: ANTHROPIC_API_KEY is not set.');
-    process.exit(1);
-  }
-
-  // Parse arguments
+  // Parse arguments first to check if classification is being skipped
   const args = process.argv.slice(2);
 
   // Get positional arguments (non-flag arguments)
@@ -53,6 +48,13 @@ async function main() {
   const sessionArg = args.find(arg => arg.startsWith('--session='));
   const skipClassification = args.includes('--skip-classification');
   const debug = args.includes('--debug');
+
+  // Only require API key if classification is not being skipped
+  if (!ANTHROPIC_API_KEY && !skipClassification) {
+    console.error('Error: ANTHROPIC_API_KEY is not set.');
+    console.error('Use --skip-classification flag to download data without classification.');
+    process.exit(1);
+  }
 
   if (positionalArgs.length === 0) {
     console.error('Error: year argument is required.');
@@ -309,6 +311,10 @@ async function fetchAllBills(sessionCode: string, debug = false): Promise<{ bill
 }
 
 async function classifyBill(bill: Bill): Promise<ClassificationResult> {
+  if (!anthropic) {
+    throw new Error('Anthropic client not initialized');
+  }
+
   const prompt = `
 Analyze the following Oregon legislative bill to determine if it is primarily about housing.
 
@@ -396,6 +402,10 @@ function generatePersonName(legislator: ODataLegislator | null): string {
 }
 
 async function generateLegislatorBio(legislator: ODataLegislator): Promise<string> {
+  if (!anthropic) {
+    throw new Error('Anthropic client not initialized');
+  }
+
   const name = generatePersonName(legislator);
   const title = legislator.Title;
   const party = legislator.Party;
