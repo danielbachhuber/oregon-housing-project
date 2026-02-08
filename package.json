@@ -2,10 +2,9 @@
 	"name": "oregon-housing-project-scripts",
 	"version": "1.0.0",
 	"description": "Scripts for Oregon Housing Project",
-	"main": "scripts/find-housing-articles.ts",
+	"main": "scripts/fetch-housing-articles.ts",
 	"scripts": {
-		"start": "tsx scripts/find-housing-articles.ts",
-		"find-housing-articles": "tsx scripts/find-housing-articles.ts",
+		"fetch-housing-articles": "tsx scripts/fetch-housing-articles.ts",
 		"fetch-legislation": "tsx scripts/fetch-legislation.ts",
 		"wts": "bin/start-worktree.sh",
 		"wtd": "bin/delete-worktree.sh"
@@ -17,11 +16,7 @@
 		"@anthropic-ai/sdk": "^0.72.1",
 		"axios": "^1.13.4",
 		"cheerio": "^1.2.0",
-		"date-fns": "^4.1.0",
 		"dotenv": "^17.2.3",
-		"puppeteer": "^24.36.1",
-		"puppeteer-extra": "^3.3.6",
-		"puppeteer-extra-plugin-stealth": "^2.11.2",
 		"xml2js": "^0.6.2"
 	},
 	"devDependencies": {
