@@ -6,6 +6,7 @@
 	"scripts": {
 		"start": "tsx scripts/find-housing-articles.ts",
 		"find-housing-articles": "tsx scripts/find-housing-articles.ts",
+		"fetch-legislation": "tsx scripts/fetch-legislation.ts",
 		"wts": "bin/start-worktree.sh",
 		"wtd": "bin/delete-worktree.sh"
 	},

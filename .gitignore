@@ -6,6 +6,9 @@
 .hugo_build.lock
 hugo_stats.json
 hugo.log
+.cache/
+debug-*.html
+debug-*.json
 
 # Dependencies and OS-specific files (optional, but recommended)
 node_modules/
