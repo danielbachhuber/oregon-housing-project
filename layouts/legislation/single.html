@@ -23,7 +23,7 @@
       <tr>
         <td><strong>Sponsors</strong></td>
         <td>
-          {{ range $i, $s := . }}{{ if $i }}, {{ end }}<a href="/people/{{ $s.slug }}">{{ $s.name }}</a>{{ with $s.party }} ({{ . }}){{ end }}{{ if eq $s.level "Chief" }} <em>(Chief)</em>{{ end }}{{ end }}
+          {{ range $i, $s := . }}{{ if $i }}, {{ end }}{{ with site.GetPage (printf "/people/%s" $s.slug) }}<a href="{{ .RelPermalink }}">{{ $s.name }}</a>{{ else }}{{ $s.name }}{{ end }}{{ with $s.party }} ({{ . }}){{ end }}{{ if eq $s.level "Chief" }} <em>(Chief)</em>{{ end }}{{ end }}
         </td>
       </tr>
       {{ end }}

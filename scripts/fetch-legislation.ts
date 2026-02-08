@@ -460,6 +460,11 @@ function generatePersonName(legislator: ODataLegislator | null): string {
   return `${legislator.FirstName} ${legislator.LastName}`;
 }
 
+function personFileExists(slug: string): boolean {
+  const filepath = path.join(PEOPLE_DIR, `${slug}.md`);
+  return fs.existsSync(filepath);
+}
+
 async function generateLegislatorBio(legislator: ODataLegislator): Promise<string> {
   const name = generatePersonName(legislator);
   const title = legislator.Title;
@@ -581,7 +586,12 @@ function createBillFile(filepath: string, bill: Bill, classification: Classifica
           const legislator = legislators.get(s.name);
           const name = generatePersonName(legislator);
           const slug = generatePersonSlug(legislator);
-          return `[${name}](/people/${slug})`;
+          // Only create a link if the person file exists
+          if (personFileExists(slug)) {
+            return `[${name}](/people/${slug})`;
+          } else {
+            return name;
+          }
         })
         .join(', ');
       sponsorsSection += '\n\n';
@@ -594,7 +604,12 @@ function createBillFile(filepath: string, bill: Bill, classification: Classifica
           const legislator = legislators.get(s.name);
           const name = generatePersonName(legislator);
           const slug = generatePersonSlug(legislator);
-          return `[${name}](/people/${slug})`;
+          // Only create a link if the person file exists
+          if (personFileExists(slug)) {
+            return `[${name}](/people/${slug})`;
+          } else {
+            return name;
+          }
         })
         .join(', ');
       sponsorsSection += '\n\n';

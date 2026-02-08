@@ -37,7 +37,7 @@
             {{ $sortable = $sortable | append (dict "name" ($sponsors.Get (printf "name_%s" .)) "count" ($sponsors.Get .) "slug" .) }}
           {{ end }}
           {{ $sorted := sort $sortable "count" "desc" }}
-          <p><strong>Most active sponsors:</strong> {{ range $i, $s := first 5 $sorted }}{{ if $i }}, {{ end }}<a href="/people/{{ $s.slug }}">{{ $s.name }}</a> ({{ $s.count }}){{ end }}</p>
+          <p><strong>Most active sponsors:</strong> {{ range $i, $s := first 5 $sorted }}{{ if $i }}, {{ end }}{{ with site.GetPage (printf "/people/%s" $s.slug) }}<a href="{{ .RelPermalink }}">{{ $s.name }}</a>{{ else }}{{ $s.name }}{{ end }} ({{ $s.count }}){{ end }}</p>
         {{ end }}
       </blockquote>
     {{ end }}
@@ -72,7 +72,7 @@
           {{ $sortable = $sortable | append (dict "name" ($sponsors.Get (printf "name_%s" .)) "count" ($sponsors.Get .) "slug" .) }}
         {{ end }}
         {{ $sorted := sort $sortable "count" "desc" }}
-        <p><strong>Most active sponsors:</strong> {{ range $i, $s := first 5 $sorted }}{{ if $i }}, {{ end }}<a href="/people/{{ $s.slug }}">{{ $s.name }}</a> ({{ $s.count }}){{ end }}</p>
+        <p><strong>Most active sponsors:</strong> {{ range $i, $s := first 5 $sorted }}{{ if $i }}, {{ end }}{{ with site.GetPage (printf "/people/%s" $s.slug) }}<a href="{{ .RelPermalink }}">{{ $s.name }}</a>{{ else }}{{ $s.name }}{{ end }} ({{ $s.count }}){{ end }}</p>
       {{ end }}
     </blockquote>
     <table>
@@ -88,7 +88,7 @@
         <tr>
           <td><a href="{{ .Permalink }}" style="font-size:1.1em;font-weight:bold">{{ .Title }}</a><br>{{ with .Params.catch_line }}{{ . }}{{ else }}{{ .Plain | replaceRE (printf "^%s\\s*" .Title) "" | truncate 120 }}{{ end }}</td>
           <td>{{ .Params.status }}</td>
-          <td>{{ with .Params.sponsors }}{{ range $i, $s := first 3 . }}{{ if $i }}, {{ end }}<a href="/people/{{ $s.slug }}">{{ $s.name }}</a>{{ end }}{{ if gt (len .) 3 }} +{{ sub (len .) 3 }} more{{ end }}{{ end }}</td>
+          <td>{{ with .Params.sponsors }}{{ range $i, $s := first 3 . }}{{ if $i }}, {{ end }}{{ with site.GetPage (printf "/people/%s" $s.slug) }}<a href="{{ .RelPermalink }}">{{ $s.name }}</a>{{ else }}{{ $s.name }}{{ end }}{{ end }}{{ if gt (len .) 3 }} +{{ sub (len .) 3 }} more{{ end }}{{ end }}</td>
         </tr>
         {{ end }}
       </tbody>
