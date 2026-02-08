@@ -7,42 +7,39 @@
   {{ if .Sections }}
     {{/* Top-level legislation page - show year summaries */}}
     {{ range .Sections }}
-      {{ $billCount := len .Pages }}
-
-      {{/* Count people references across all bills in this year */}}
-      {{ $scratch := newScratch }}
-      {{ $scratch.Set "peopleKeys" slice }}
-      {{ range .Pages }}
-        {{ $matches := findRE `\[[^\]]+\]\(/people/[a-z][-a-z]+\)` .RawContent }}
-        {{ range $matches }}
-          {{ $path := . | replaceRE `.*\((/people/[a-z][-a-z]+)\)` "$1" }}
-          {{ if ne $path "/people/unknown" }}
-            {{ $scratch.Add $path 1 }}
-            {{ if not ($scratch.Get (printf "name_%s" $path)) }}
-              {{ $name := . | replaceRE `\[([^\]]+)\]\(.*\)` "$1" }}
-              {{ $scratch.Set (printf "name_%s" $path) $name }}
-            {{ end }}
-            {{ $keys := $scratch.Get "peopleKeys" }}
-            {{ if not (in $keys $path) }}
-              {{ $scratch.Set "peopleKeys" ($keys | append $path) }}
-            {{ end }}
+      {{ $bills := .Pages }}
+      {{ $billCount := len $bills }}
+      {{ $chambers := newScratch }}
+      {{ $sponsors := newScratch }}
+      {{ $sponsors.Set "keys" slice }}
+      {{ range $bills }}
+        {{ $ch := .Params.chamber | default "Unknown" }}
+        {{ $chambers.Add $ch 1 }}
+        {{ range .Params.sponsors }}
+          {{ $sponsors.Add .slug 1 }}
+          {{ if not ($sponsors.Get (printf "name_%s" .slug)) }}
+            {{ $sponsors.Set (printf "name_%s" .slug) .name }}
+          {{ end }}
+          {{ $keys := $sponsors.Get "keys" }}
+          {{ if not (in $keys .slug) }}
+            {{ $sponsors.Set "keys" ($keys | append .slug) }}
           {{ end }}
         {{ end }}
       {{ end }}
 
-      <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-      <p>
-        {{ $billCount }} {{ if eq $billCount 1 }}bill{{ else }}bills{{ end }} tracked.
-        {{ with $scratch.Get "peopleKeys" }}
+      <h2><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></h2>
+      <blockquote class="book-hint info">
+        <p>{{ $billCount }} bill{{ if ne $billCount 1 }}s{{ end }} tracked.
+        {{ $first := true }}{{ range $ch, $count := $chambers.Values }}{{ if not $first }}, {{ end }}{{ $ch }} ({{ $count }}){{ $first = false }}{{ end }}.</p>
+        {{ with $sponsors.Get "keys" }}
           {{ $sortable := slice }}
           {{ range . }}
-            {{ $sortable = $sortable | append (dict "name" ($scratch.Get (printf "name_%s" .)) "count" ($scratch.Get .) "path" .) }}
+            {{ $sortable = $sortable | append (dict "name" ($sponsors.Get (printf "name_%s" .)) "count" ($sponsors.Get .) "slug" .) }}
           {{ end }}
           {{ $sorted := sort $sortable "count" "desc" }}
-          Most active:
-          {{ range $i, $p := first 3 $sorted }}{{ if $i }}, {{ end }}<a href="{{ $p.path }}">{{ $p.name }}</a> ({{ $p.count }}){{ end }}.
+          <p><strong>Most active sponsors:</strong> {{ range $i, $s := first 5 $sorted }}{{ if $i }}, {{ end }}<a href="/people/{{ $s.slug }}">{{ $s.name }}</a> ({{ $s.count }}){{ end }}</p>
         {{ end }}
-      </p>
+      </blockquote>
     {{ end }}
   {{ else }}
     {{/* Year subsection page - show bill table */}}
