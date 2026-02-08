@@ -55,7 +55,7 @@
   </table>
 
   {{ with .Params.documents }}
-  <h3>Bill Text</h3>
+  <h2 id="bill-text">Bill Text</h2>
   <ul>
     {{ range . }}
     <li><a href="{{ .url }}">{{ .version }}</a></li>
@@ -66,8 +66,32 @@
 
   {{ .Content }}
 
+  {{ with .Params.testimony }}
+  <h2 id="public-testimony">Public Testimony</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Organization</th>
+        <th>Position</th>
+        <th>Date</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{ range . }}
+      <tr>
+        <td><a href="{{ .url }}">{{ .name }}</a></td>
+        <td>{{ .organization }}</td>
+        <td>{{ .position }}</td>
+        <td>{{ .date }}</td>
+      </tr>
+      {{ end }}
+    </tbody>
+  </table>
+  {{ end }}
+
   {{ with .Params.history }}
-  <h2>Legislative History</h2>
+  <h2 id="legislative-history">Legislative History</h2>
   <table>
     <thead>
       <tr>
@@ -99,7 +123,7 @@
   {{ end }}
 
   {{ if gt (len $backlinks) 0 }}
-  <h2>News Coverage</h2>
+  <h2 id="news-coverage">News Coverage</h2>
   <table>
     <thead>
       <tr>

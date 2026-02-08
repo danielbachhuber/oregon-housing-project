@@ -1,0 +1,14 @@
+{{ partial "docs/inject/toc-before" . }}
+{{ if and (eq .Kind "page") (eq .Section "legislation") .Params.bill_number }}
+<nav id="TableOfContents">
+  <ul>
+    {{ with .Params.documents }}<li><a href="#bill-text">Bill Text</a></li>{{ end }}
+    {{ with .TableOfContents }}{{ . | replaceRE `</?nav[^>]*>` "" | replaceRE `</?ul>` "" | safeHTML }}{{ end }}
+    {{ with .Params.testimony }}<li><a href="#public-testimony">Public Testimony</a></li>{{ end }}
+    {{ with .Params.history }}<li><a href="#legislative-history">Legislative History</a></li>{{ end }}
+  </ul>
+</nav>
+{{ else }}
+{{ .TableOfContents }}
+{{ end }}
+{{ partial "docs/inject/toc-after" . }}
