@@ -400,5 +400,29 @@
       "CreatedDate": "2026-01-28T15:25:21.25",
       "ModifiedDate": null
     }
+  ],
+  "testimony": [
+    {
+      "CommTestId": 239326,
+      "SubmitterFirstName": "Bonnie",
+      "SubmitterLastName": "Mogstad",
+      "BehalfOf": "Oregonians",
+      "Organization": "SPRINGFIELD",
+      "DocumentDescription": "Testimony",
+      "CreatedDate": "2026-02-07T13:53:40",
+      "ModifiedDate": "2026-02-07T13:53:54.077",
+      "PdfCreatedFlag": "Y",
+      "PositionOnMeasureId": 3983,
+      "SessionKey": "2026R1",
+      "CommitteeCode": "HHOUSH",
+      "MeetingDate": "2026-02-10T15:00:00",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4128,
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1",
+      "FirstName": null,
+      "LastName": null,
+      "ExecApptId": null,
+      "Topic": "Prohibits covered entities from purchasing, acquiring or offering to purchase or acquire a single-family residence unless the residence has been listed for sale to the general public for at least 90 days."
+    }
   ]
 }

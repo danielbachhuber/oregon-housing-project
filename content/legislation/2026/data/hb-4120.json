@@ -331,5 +331,51 @@
       "CreatedDate": "2026-01-28T15:25:20.333",
       "ModifiedDate": null
     }
+  ],
+  "testimony": [
+    {
+      "CommTestId": 236390,
+      "SubmitterFirstName": "Karen",
+      "SubmitterLastName": "Good",
+      "BehalfOf": "God loves you",
+      "Organization": "Smoke smelling dwellings hard to tent",
+      "DocumentDescription": "Testimony",
+      "CreatedDate": "2026-02-06T11:13:58.663",
+      "ModifiedDate": "2026-02-06T11:14:26.673",
+      "PdfCreatedFlag": "Y",
+      "PositionOnMeasureId": 3983,
+      "SessionKey": "2026R1",
+      "CommitteeCode": "HHOUSH",
+      "MeetingDate": "2026-02-12T15:00:00",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4120,
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1",
+      "FirstName": null,
+      "LastName": null,
+      "ExecApptId": null,
+      "Topic": "Allows residential landlords of multifamily housing to convert premises to nonsmoking for existing tenants upon 90 days' written notice."
+    },
+    {
+      "CommTestId": 237542,
+      "SubmitterFirstName": "Amy",
+      "SubmitterLastName": "Oberholtzer",
+      "BehalfOf": null,
+      "Organization": "Portland",
+      "DocumentDescription": "Testimony",
+      "CreatedDate": "2026-02-06T16:14:24.077",
+      "ModifiedDate": "2026-02-06T16:16:07.813",
+      "PdfCreatedFlag": "Y",
+      "PositionOnMeasureId": 3983,
+      "SessionKey": "2026R1",
+      "CommitteeCode": "HHOUSH",
+      "MeetingDate": "2026-02-12T15:00:00",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4120,
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1",
+      "FirstName": null,
+      "LastName": null,
+      "ExecApptId": null,
+      "Topic": "Allows residential landlords of multifamily housing to convert premises to nonsmoking for existing tenants upon 90 days' written notice."
+    }
   ]
 }
