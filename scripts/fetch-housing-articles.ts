@@ -558,7 +558,7 @@ Respond ONLY with a JSON object:
 async function generateSummary(article: ArticleData): Promise<SummaryResult> {
   const contentSnippet = article.content.substring(0, 15000);
 
-  const prompt = `Write a single concise paragraph (3-5 sentences) summarizing this Oregon housing news article. Focus on the main housing policy news, key actors involved, and significance.
+  const prompt = `Write a concise summary (3 sentences max) of this Oregon housing news article. Focus on the main housing policy news, key actors involved, and significance.
 
 IMPORTANT: Include internal links using the formats below wherever the article mentions these entities. Only link entities that are actually mentioned in the article.
 
