@@ -47,6 +47,37 @@
   {{ else }}
     {{/* Year subsection page - show bill table */}}
     {{ if .Pages }}
+    {{ $bills := .Pages }}
+    {{ $billCount := len $bills }}
+    {{ $chambers := newScratch }}
+    {{ $sponsors := newScratch }}
+    {{ $sponsors.Set "keys" slice }}
+    {{ range $bills }}
+      {{ $ch := .Params.chamber | default "Unknown" }}
+      {{ $chambers.Add $ch 1 }}
+      {{ range .Params.sponsors }}
+        {{ $sponsors.Add .slug 1 }}
+        {{ if not ($sponsors.Get (printf "name_%s" .slug)) }}
+          {{ $sponsors.Set (printf "name_%s" .slug) .name }}
+        {{ end }}
+        {{ $keys := $sponsors.Get "keys" }}
+        {{ if not (in $keys .slug) }}
+          {{ $sponsors.Set "keys" ($keys | append .slug) }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+    <blockquote class="book-hint info">
+      <p>{{ $billCount }} bill{{ if ne $billCount 1 }}s{{ end }} tracked.
+      {{ $first := true }}{{ range $ch, $count := $chambers.Values }}{{ if not $first }}, {{ end }}{{ $ch }} ({{ $count }}){{ $first = false }}{{ end }}.</p>
+      {{ with $sponsors.Get "keys" }}
+        {{ $sortable := slice }}
+        {{ range . }}
+          {{ $sortable = $sortable | append (dict "name" ($sponsors.Get (printf "name_%s" .)) "count" ($sponsors.Get .) "slug" .) }}
+        {{ end }}
+        {{ $sorted := sort $sortable "count" "desc" }}
+        <p><strong>Most active sponsors:</strong> {{ range $i, $s := first 5 $sorted }}{{ if $i }}, {{ end }}<a href="/people/{{ $s.slug }}">{{ $s.name }}</a> ({{ $s.count }}){{ end }}</p>
+      {{ end }}
+    </blockquote>
     <table>
       <thead>
         <tr>

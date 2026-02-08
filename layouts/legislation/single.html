@@ -79,10 +79,11 @@
     </thead>
     <tbody>
       {{ range . }}
+      {{ $t := . }}
       <tr>
-        <td><a href="{{ .url }}">{{ .name }}</a></td>
+        <td>{{ $slug := .name | urlize }}{{ with site.GetPage (printf "/people/%s" $slug) }}<a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ else }}{{ $t.name }}{{ end }}</td>
         <td>{{ .organization }}</td>
-        <td>{{ .position }}</td>
+        <td>{{ with .url }}<a href="{{ . }}">{{ $t.position }}</a>{{ else }}{{ $t.position }}{{ end }}</td>
         <td>{{ .date }}</td>
       </tr>
       {{ end }}
