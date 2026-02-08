@@ -229,8 +229,10 @@ async function downloadTestimonyPdf(
   commTestId: number,
   sessionCode: string,
   destPath: string
-): Promise<boolean> {
-  if (fs.existsSync(destPath)) return true;
+): Promise<{ success: boolean; alreadyExisted: boolean }> {
+  if (fs.existsSync(destPath)) {
+    return { success: true, alreadyExisted: true };
+  }
 
   const url = `https://olis.oregonlegislature.gov/liz/${sessionCode}/Downloads/PublicTestimonyDocument/${commTestId}`;
   try {
@@ -240,10 +242,10 @@ async function downloadTestimonyPdf(
       timeout: 30000
     });
     fs.writeFileSync(destPath, response.data);
-    return true;
+    return { success: true, alreadyExisted: false };
   } catch (e: any) {
     console.error(`  Failed to download testimony ${commTestId}: ${e.message}`);
-    return false;
+    return { success: false, alreadyExisted: false };
   }
 }
 
@@ -548,12 +550,21 @@ async function main() {
       fs.mkdirSync(filesDir, { recursive: true });
     }
 
-    console.log(`Downloading ${testimonyRecords.length} testimony PDFs...`);
+    console.log(`Processing ${testimonyRecords.length} testimony PDFs...`);
+    let downloaded = 0;
+    let skipped = 0;
+    let failed = 0;
+
     for (const t of testimonyRecords) {
       const filename = `${t.CommTestId}.pdf`;
       const destPath = path.join(filesDir, filename);
-      const downloaded = await downloadTestimonyPdf(t.CommTestId, sessionCode, destPath);
-      if (downloaded) {
+      const result = await downloadTestimonyPdf(t.CommTestId, sessionCode, destPath);
+      if (result.success) {
+        if (result.alreadyExisted) {
+          skipped++;
+        } else {
+          downloaded++;
+        }
         const name = `${t.SubmitterFirstName} ${t.SubmitterLastName}`.trim();
         testimony.push({
           name: name || 'Anonymous',
@@ -563,9 +574,12 @@ async function main() {
           file: `files/${billIdentifier}/${filename}`,
           url: `https://olis.oregonlegislature.gov/liz/${sessionCode}/Downloads/PublicTestimonyDocument/${t.CommTestId}`,
         });
+      } else {
+        failed++;
       }
     }
-    console.log(`  Downloaded ${testimony.length} testimony PDFs to ${filesDir}`);
+    console.log(`  Downloaded: ${downloaded}, Skipped (already exist): ${skipped}, Failed: ${failed}`);
+    console.log(`  Total testimony PDFs: ${testimony.length} in ${filesDir}`);
   }
 
   // Build front matter and update file
