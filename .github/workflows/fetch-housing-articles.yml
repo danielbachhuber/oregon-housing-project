@@ -2,8 +2,8 @@ name: Daily Housing Article Search
 
 on:
   schedule:
-    # Runs at 14:00 UTC (6:00 AM PST) every day
-    # - cron: '0 14 * * *'
+    - cron: '0 14 * * *'  # 6:00 AM PST
+    - cron: '0 2 * * *'   # 6:00 PM PST
   workflow_dispatch:
 
 permissions:
