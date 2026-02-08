@@ -94,6 +94,29 @@ interface ODataLegislator {
   WebSiteUrl: string;
 }
 
+interface ODataTestimony {
+  CommTestId: number;
+  SubmitterFirstName: string;
+  SubmitterLastName: string;
+  BehalfOf: string | null;
+  Organization: string | null;
+  DocumentDescription: string | null;
+  CreatedDate: string;
+  ModifiedDate: string | null;
+  PdfCreatedFlag: string | null;
+  PositionOnMeasureId: number | null;
+  SessionKey: string;
+  CommitteeCode: string | null;
+  MeetingDate: string | null;
+  MeasurePrefix: string;
+  MeasureNumber: number;
+  DocumentUrl: string | null;
+  FirstName: string | null;
+  LastName: string | null;
+  ExecApptId: number | null;
+  Topic: string | null;
+}
+
 interface SponsorInfo {
   name: string;
   slug: string;
@@ -101,6 +124,22 @@ interface SponsorInfo {
   party: string;
   district: string;
 }
+
+interface TestimonyInfo {
+  name: string;
+  organization: string;
+  position: string;
+  date: string;
+  file: string;
+  url: string;
+}
+
+// Position ID mapping (observed from HB 4035 cross-referenced with OLIS website)
+const POSITION_MAP: Record<number, string> = {
+  3983: 'Support',
+  3982: 'Oppose',
+  3981: 'Neutral',
+};
 
 // --- TOML helpers ---
 
@@ -165,6 +204,52 @@ async function loadOrFetchLegislators(sessionCode: string, year: string): Promis
     map.set(leg.LegislatorCode, leg);
   }
   return map;
+}
+
+// --- Testimony fetching ---
+
+async function fetchAllTestimony(filter: string): Promise<ODataTestimony[]> {
+  const allRecords: ODataTestimony[] = [];
+  const PAGE_SIZE = 40;
+  let skip = 0;
+
+  while (true) {
+    const encodedFilter = encodeURIComponent(filter);
+    const url = `${BASE_URL}/CommitteePublicTestimonies?$format=json&$filter=${encodedFilter}&$top=${PAGE_SIZE}&$skip=${skip}`;
+    const page = await fetchJSON<ODataTestimony>(url);
+    allRecords.push(...page);
+    if (page.length < PAGE_SIZE) break;
+    skip += PAGE_SIZE;
+  }
+
+  return allRecords;
+}
+
+async function downloadTestimonyPdf(
+  commTestId: number,
+  sessionCode: string,
+  destPath: string
+): Promise<boolean> {
+  if (fs.existsSync(destPath)) return true;
+
+  const url = `https://olis.oregonlegislature.gov/liz/${sessionCode}/Downloads/PublicTestimonyDocument/${commTestId}`;
+  try {
+    const response = await axios.get(url, {
+      responseType: 'arraybuffer',
+      headers: HEADERS,
+      timeout: 30000
+    });
+    fs.writeFileSync(destPath, response.data);
+    return true;
+  } catch (e: any) {
+    console.error(`  Failed to download testimony ${commTestId}: ${e.message}`);
+    return false;
+  }
+}
+
+function positionLabel(positionId: number | null): string {
+  if (positionId === null) return 'Unknown';
+  return POSITION_MAP[positionId] || 'Unknown';
 }
 
 // --- Sponsor resolution ---
@@ -247,6 +332,7 @@ function buildFrontMatter(
   sponsors: SponsorInfo[],
   documents: ODataDocument[],
   history: ODataHistoryAction[],
+  testimony: TestimonyInfo[],
   sessionCode: string
 ): string {
   const billNumber = `${measure.MeasurePrefix}${measure.MeasureNumber}`;
@@ -332,6 +418,22 @@ function buildFrontMatter(
     fm += `action = ${tomlString(action.ActionText)}\n`;
   }
 
+  // Testimony array of tables (sorted by date)
+  const sortedTestimony = [...testimony].sort((a, b) =>
+    new Date(a.date).getTime() - new Date(b.date).getTime()
+  );
+  for (const t of sortedTestimony) {
+    fm += `\n[[testimony]]\n`;
+    fm += `name = ${tomlString(t.name)}\n`;
+    if (t.organization) {
+      fm += `organization = ${tomlString(t.organization)}\n`;
+    }
+    fm += `position = '${t.position}'\n`;
+    fm += `date = '${t.date}'\n`;
+    fm += `file = '${t.file}'\n`;
+    fm += `url = '${t.url}'\n`;
+  }
+
   return fm;
 }
 
@@ -395,11 +497,12 @@ async function main() {
   const filter = `SessionKey eq '${sessionCode}' and MeasurePrefix eq '${prefix}' and MeasureNumber eq ${number}`;
   const encodedFilter = encodeURIComponent(filter);
 
-  const [measures, sponsorRecords, historyActions, documents, legislators] = await Promise.all([
+  const [measures, sponsorRecords, historyActions, documents, testimonyRecords, legislators] = await Promise.all([
     fetchJSON<ODataMeasure>(`${BASE_URL}/Measures?$format=json&$filter=${encodedFilter}`),
     fetchJSON<ODataSponsor>(`${BASE_URL}/MeasureSponsors?$format=json&$filter=${encodedFilter}`),
     fetchJSON<ODataHistoryAction>(`${BASE_URL}/MeasureHistoryActions?$format=json&$filter=${encodedFilter}`),
     fetchJSON<ODataDocument>(`${BASE_URL}/MeasureDocuments?$format=json&$filter=${encodedFilter}`),
+    fetchAllTestimony(filter),
     loadOrFetchLegislators(sessionCode, year)
   ]);
 
@@ -413,6 +516,7 @@ async function main() {
   console.log(`  Sponsors: ${sponsorRecords.length} records`);
   console.log(`  History: ${historyActions.length} actions`);
   console.log(`  Documents: ${documents.length} versions`);
+  console.log(`  Testimony: ${testimonyRecords.length} records`);
 
   // Store full combined JSON blob
   const dataDir = path.join(LEGISLATION_DIR, year, 'data');
@@ -424,7 +528,8 @@ async function main() {
     measure: measures[0],
     sponsors: sponsorRecords,
     historyActions,
-    documents
+    documents,
+    testimony: testimonyRecords
   };
 
   const jsonPath = path.join(dataDir, `${billIdentifier}.json`);
@@ -435,8 +540,36 @@ async function main() {
   const sponsors = buildSponsors(sponsorRecords, legislators, measure.AtTheRequestOf);
   console.log(`  Resolved sponsors: ${sponsors.map(s => s.name).join(', ') || '(none)'}`);
 
+  // Download testimony PDFs
+  const testimony: TestimonyInfo[] = [];
+  if (testimonyRecords.length > 0) {
+    const filesDir = path.join(LEGISLATION_DIR, year, 'files', billIdentifier);
+    if (!fs.existsSync(filesDir)) {
+      fs.mkdirSync(filesDir, { recursive: true });
+    }
+
+    console.log(`Downloading ${testimonyRecords.length} testimony PDFs...`);
+    for (const t of testimonyRecords) {
+      const filename = `${t.CommTestId}.pdf`;
+      const destPath = path.join(filesDir, filename);
+      const downloaded = await downloadTestimonyPdf(t.CommTestId, sessionCode, destPath);
+      if (downloaded) {
+        const name = `${t.SubmitterFirstName} ${t.SubmitterLastName}`.trim();
+        testimony.push({
+          name: name || 'Anonymous',
+          organization: t.Organization || '',
+          position: positionLabel(t.PositionOnMeasureId),
+          date: t.CreatedDate ? t.CreatedDate.split('T')[0] : '',
+          file: `files/${billIdentifier}/${filename}`,
+          url: `https://olis.oregonlegislature.gov/liz/${sessionCode}/Downloads/PublicTestimonyDocument/${t.CommTestId}`,
+        });
+      }
+    }
+    console.log(`  Downloaded ${testimony.length} testimony PDFs to ${filesDir}`);
+  }
+
   // Build front matter and update file
-  const frontMatter = buildFrontMatter(measure, sponsors, documents, historyActions, sessionCode);
+  const frontMatter = buildFrontMatter(measure, sponsors, documents, historyActions, testimony, sessionCode);
   updateMarkdownFile(mdFilepath, frontMatter);
   console.log(`Updated ${mdFilepath}`);
 
