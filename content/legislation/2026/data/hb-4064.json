@@ -1,0 +1,125 @@
+{
+  "measure": {
+    "SessionKey": "2026R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 4064,
+    "CatchLine": "Establishes when homeowners and condominium association assessments accrue on property deeded to the county in the tax foreclosure process.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: The Act would establish when charges made by HOAs and condo associations start to accrue on property deeded to the county in a tax foreclosure. The Act would create a lien for the amount of the charges on the property. The Act would bar certain costs from inclusion in the amount of the charges secured by the lien. The Act would say who is liable for the charges and the date on which the lien must be satisfied. (Flesch Readability Score: 69.9). \n\tEstablishes when homeowners and condominium association assessments accrue on property deeded to the county in the tax foreclosure process. Creates a lien for the amount of the assessments against the property. Excludes certain costs from the amount of assessments secured by the lien. Establishes the liability for the assessments and the date on which the lien must be satisfied. \n\tTakes effect on the 91st day following adjournment sine die.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to acquisitions of real property by foreclosure for delinquent taxes; creating new provisions; amending ORS 94.709 and 100.450; and prescribing an effective date.\n\t",
+    "RelatingTo": "Relating to acquisitions of real property by foreclosure for delinquent taxes; prescribing an effective date.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HHOUSH",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Beau Olen",
+    "LCNumber": 73,
+    "Vetoed": false,
+    "CreatedDate": "2026-01-16T12:50:44",
+    "ModifiedDate": "2026-02-02T11:32:54",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "155349",
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4064,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "(Presession filed.)",
+      "CreatedDate": "2026-01-23T16:21:08",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "155350",
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4064,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Javadi",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2026-01-23T16:21:08",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 663979,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4064,
+      "Chamber": "H",
+      "ActionDate": "2026-02-02T08:50:03",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-02T09:21:25",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 664267,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4064,
+      "Chamber": "H",
+      "ActionDate": "2026-02-02T09:51:51",
+      "ActionText": "Referred to Housing and Homelessness.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-02T09:59:43",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 665094,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4064,
+      "Chamber": "H",
+      "ActionDate": "2026-02-12T15:01:00",
+      "ActionText": "Possible Work Session scheduled.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-05T13:50:27",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 665238,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4064,
+      "Chamber": "H",
+      "ActionDate": "2026-02-10T15:01:00",
+      "ActionText": "Public Hearing scheduled.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-06T13:22:53",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4064,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4064/Introduced",
+      "CreatedDate": "2026-01-28T15:25:13.267",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

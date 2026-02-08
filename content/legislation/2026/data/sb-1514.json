@@ -1,0 +1,85 @@
+{
+  "measure": {
+    "SessionKey": "2026R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 1514,
+    "CatchLine": "Repeals the statute enacted by House Bill 3115 (2021) that established objective reasonableness as a statewide standard, for city and county laws regulating the use of public property with respect to persons experiencing homelessness, as the basis for a cause of action for injunctive and declaratory relief to challenge such laws and as an affirmative defense in the prosecution of violations of such laws.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: The Act would repeal the law that set a state standard for city and county laws that govern the use of public property by the homeless. (Flesch Readability Score: 63.3). \n\tRepeals the statute enacted by House Bill 3115 (2021) that established objective reasonableness as a statewide standard, for city and county laws regulating the use of public property with respect to persons experiencing homelessness, as the basis for a cause of action for injunctive and declaratory relief to challenge such laws and as an affirmative defense in the prosecution of violations of such laws. \n\tDeclares an emergency, effective on passage.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to the regulation of public property with respect to persons experiencing homelessness; repealing ORS 195.530; and declaring an emergency.\n\t",
+    "RelatingTo": "Relating to the regulation of public property with respect to persons experiencing homelessness; declaring an emergency.",
+    "AtTheRequestOf": "(at the request of Senate Interim Committee on Commerce and General Government)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SCGG",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": true,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Chelsey Herrmann-Nordness",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 296,
+    "Vetoed": false,
+    "CreatedDate": "2026-01-14T09:40:02",
+    "ModifiedDate": "2026-02-02T12:31:33",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "156650",
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1514,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "Printed pursuant to Senate Interim Rule 213.28 by order of the President of the Senate in conformance with presession filing rules, indicating neither advocacy nor opposition on the part of the President.",
+      "CreatedDate": "2026-01-23T16:21:09",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 663829,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1514,
+      "Chamber": "S",
+      "ActionDate": "2026-02-02T07:32:59",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-02T07:33:20",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 664098,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1514,
+      "Chamber": "S",
+      "ActionDate": "2026-02-02T09:38:57",
+      "ActionText": "Referred to Commerce and General Government, then Housing and Development.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-02T09:39:09",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1514,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1514/Introduced",
+      "CreatedDate": "2026-01-28T15:25:26.597",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

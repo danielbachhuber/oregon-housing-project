@@ -9,6 +9,7 @@
 		"wts": "bin/start-worktree.sh",
 		"wtd": "bin/delete-worktree.sh",
 		"refine-internal-links": "tsx scripts/refine-internal-links.ts",
+		"refine-legislation": "tsx scripts/refine-legislation.ts",
 		"refine-person": "tsx scripts/refine-person.ts"
 	},
 	"keywords": [],
