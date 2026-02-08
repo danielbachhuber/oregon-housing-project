@@ -53,8 +53,8 @@ jobs:
 
           echo "Found new articles: $NEW_FILES"
 
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git config user.name 'oregonhousingproject[bot]'
+          git config user.email 'info@oregonhousingproject.org'
 
           for file in $NEW_FILES; do
              echo "Processing $file..."
@@ -95,8 +95,8 @@ jobs:
       - name: Update Processed URLs State
         if: success()
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git config user.name 'oregonhousingproject[bot]'
+          git config user.email 'info@oregonhousingproject.org'
 
           # Check if state files have changed
           if [[ -n $(git status --porcelain content/news-coverage/data/processed-*-urls.txt) ]]; then
