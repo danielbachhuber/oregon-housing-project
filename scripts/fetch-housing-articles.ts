@@ -317,23 +317,73 @@ async function fetchSitemapCandidates(
   return candidates;
 }
 
+// --- Content extraction helpers ---
+
+function extractMeta($: cheerio.CheerioAPI, field: string): string {
+  // Check both property= and name= since sites vary (OPB uses property=, WWeek uses name=)
+  return (
+    $(`meta[property="${field}"]`).attr('content') ||
+    $(`meta[name="${field}"]`).attr('content') ||
+    ''
+  );
+}
+
+function extractJsonLd($: cheerio.CheerioAPI): { date?: string; author?: string } {
+  const result: { date?: string; author?: string } = {};
+  $('script[type="application/ld+json"]').each((_i, el) => {
+    try {
+      const data = JSON.parse($(el).text());
+      if (data.datePublished) result.date = data.datePublished;
+      if (data.author?.name) result.author = data.author.name;
+    } catch {}
+  });
+  return result;
+}
+
+// Extract date/author from Arc Fusion globalContent JS object (used by WWeek)
+function extractFusionData(html: string): { date?: string; author?: string } {
+  const result: { date?: string; author?: string } = {};
+  const dateMatch = html.match(/["']publish_date["']\s*:\s*["']([^"']+)["']/);
+  if (dateMatch) result.date = dateMatch[1];
+  const authorMatch = html.match(/"credits":\{"by":\[\{"[^}]*"name":"([^"]+)"/);
+  if (authorMatch) result.author = authorMatch[1];
+  return result;
+}
+
+function extractDate($: cheerio.CheerioAPI, html: string): string {
+  return (
+    extractMeta($, 'article:published_time') ||
+    extractJsonLd($).date ||
+    extractFusionData(html).date ||
+    ''
+  );
+}
+
+function extractAuthor($: cheerio.CheerioAPI, html: string): string {
+  return (
+    extractMeta($, 'article:author') ||
+    extractMeta($, 'author') ||
+    extractJsonLd($).author ||
+    extractFusionData(html).author ||
+    ''
+  );
+}
+
 // --- Content extraction ---
 
 function extractOPBContent(html: string, url: string): ArticleData {
   const $ = cheerio.load(html);
 
-  const title = $('meta[property="og:title"]').attr('content') || $('h1').first().text() || '';
-  const description = $('meta[property="og:description"]').attr('content') || '';
-  const dateStr = $('meta[property="article:published_time"]').attr('content') || '';
-  const author = $('meta[name="author"]').attr('content') || '';
+  const title = extractMeta($, 'og:title') || $('h1').first().text() || '';
+  const description = extractMeta($, 'og:description');
+  const dateStr = extractDate($, html);
+  const author = extractAuthor($, html);
 
   let content = '';
-  // OPB uses article body paragraphs
   $('article p').each((_i, el) => {
     content += $(el).text() + '\n\n';
   });
   if (!content) {
-    // Fallback: grab all paragraphs
     $('p').each((_i, el) => {
       content += $(el).text() + '\n\n';
     });
@@ -352,10 +402,10 @@ function extractOPBContent(html: string, url: string): ArticleData {
 function extractWWeekContent(html: string, url: string): ArticleData {
   const $ = cheerio.load(html);
 
-  const title = $('meta[property="og:title"]').attr('content') || $('h1').first().text() || '';
-  const description = $('meta[property="og:description"]').attr('content') || '';
-  const dateStr = $('meta[property="article:published_time"]').attr('content') || '';
-  const author = $('meta[name="author"]').attr('content') || $('a[rel="author"]').first().text() || '';
+  const title = extractMeta($, 'og:title') || $('h1').first().text() || '';
+  const description = extractMeta($, 'og:description');
+  const dateStr = extractDate($, html);
+  const author = extractAuthor($, html) || $('a[rel="author"]').first().text() || '';
 
   let content = '';
   $('.article-body p').each((_i, el) => {
@@ -380,10 +430,10 @@ function extractWWeekContent(html: string, url: string): ArticleData {
 function extractOCCContent(html: string, url: string): ArticleData {
   const $ = cheerio.load(html);
 
-  const title = $('meta[property="og:title"]').attr('content') || $('h1').first().text() || '';
-  const description = $('meta[property="og:description"]').attr('content') || '';
-  const dateStr = $('meta[property="article:published_time"]').attr('content') || '';
-  const author = $('meta[name="author"]').attr('content') || $('.author-name').text() || '';
+  const title = extractMeta($, 'og:title') || $('h1').first().text() || '';
+  const description = extractMeta($, 'og:description');
+  const dateStr = extractDate($, html);
+  const author = extractAuthor($, html) || $('.author-name').text() || '';
 
   let content = '';
   $('.entry-content p').each((_i, el) => {
