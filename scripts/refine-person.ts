@@ -1,5 +1,6 @@
 import fs from 'fs';
 import path from 'path';
+import { execSync } from 'child_process';
 import Anthropic from '@anthropic-ai/sdk';
 import 'dotenv/config';
 
@@ -33,65 +34,6 @@ function slugToName(slug: string): string {
 }
 
 // --- Context Building ---
-
-function buildLegislationList(): string {
-  const dir = path.join(CONTENT_DIR, 'legislation');
-  const entries: string[] = [];
-
-  for (const yearDir of fs.readdirSync(dir)) {
-    const yearPath = path.join(dir, yearDir);
-    if (!fs.statSync(yearPath).isDirectory()) continue;
-
-    for (const file of fs.readdirSync(yearPath)) {
-      if (file === '_index.md' || !file.endsWith('.md')) continue;
-      const title = extractTitle(path.join(yearPath, file));
-      if (!title) continue;
-      const slug = file.replace('.md', '');
-      entries.push(`- ${title} (${yearDir}): /legislation/${yearDir}/${slug}`);
-    }
-  }
-
-  return entries.join('\n');
-}
-
-function buildPeopleList(): string {
-  const dir = path.join(CONTENT_DIR, 'people');
-  const entries: string[] = [];
-
-  for (const file of fs.readdirSync(dir)) {
-    if (file === '_index.md' || !file.endsWith('.md')) continue;
-    const title = extractTitle(path.join(dir, file));
-    if (!title) continue;
-    const slug = file.replace('.md', '');
-    entries.push(`- ${title}: /people/${slug}`);
-  }
-
-  return entries.join('\n');
-}
-
-function buildCitiesList(): string {
-  const dir = path.join(CONTENT_DIR, 'cities');
-  const entries: string[] = [];
-
-  for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
-    if (entry.name === '_index.md') continue;
-
-    if (entry.isDirectory()) {
-      const indexPath = path.join(dir, entry.name, '_index.md');
-      if (!fs.existsSync(indexPath)) continue;
-      const title = extractTitle(indexPath);
-      if (!title) continue;
-      entries.push(`- ${title}: /cities/${entry.name}`);
-    } else if (entry.name.endsWith('.md')) {
-      const title = extractTitle(path.join(dir, entry.name));
-      if (!title) continue;
-      const slug = entry.name.replace('.md', '');
-      entries.push(`- ${title}: /cities/${slug}`);
-    }
-  }
-
-  return entries.join('\n');
-}
 
 function loadExemplarProfiles(): string {
   const profiles: string[] = [];
@@ -141,23 +83,9 @@ async function main() {
   // Build context
   console.log('Building context...');
   const template = fs.readFileSync(path.join(TEMPLATES_DIR, 'person.md'), 'utf-8');
-  const legislationList = buildLegislationList();
-  const peopleList = buildPeopleList();
-  const citiesList = buildCitiesList();
   const exemplarProfiles = loadExemplarProfiles();
 
   const systemPrompt = `${template}
-
-## Available Internal Links
-
-### Legislation
-${legislationList}
-
-### People
-${peopleList}
-
-### Cities
-${citiesList}
 
 ## Example Profiles
 
@@ -170,31 +98,58 @@ ${exemplarProfiles}`;
 
   let userPrompt: string;
   if (isExisting) {
-    userPrompt = `Refine and improve this existing profile for ${personName}. Keep any accurate information and citations, but improve the structure, add missing context, ensure proper internal linking, and fill in any gaps. Use web search to find additional relevant housing actions and citations.
+    userPrompt = `Refine and improve this existing profile for ${personName}. Keep any accurate information and citations, but improve the structure, add missing context, ensure proper internal linking, and fill in any gaps.
+
+IMPORTANT: Respond with ONLY the markdown file content starting with +++. No preamble, no explanation, no code fences.
 
 Here is the existing profile:
 
 ${existingContent}`;
   } else {
-    userPrompt = `Create a new profile for ${personName}. Research their role in Oregon housing policy and write a complete profile following the template instructions. Use web search to find relevant information and citations.`;
+    userPrompt = `Create a new profile for ${personName}. Research their role in Oregon housing policy and write a complete profile following the template instructions.
+
+IMPORTANT: Respond with ONLY the markdown file content starting with +++. No preamble, no explanation, no code fences.`;
   }
 
-  // Call Anthropic API
-  console.log(`Calling Anthropic API (claude-sonnet-4-5-20250929) to ${isExisting ? 'refine' : 'create'} profile...`);
+  // Call Anthropic API with web search enabled
+  console.log(`Calling Anthropic API (claude-opus-4-6) with web search to ${isExisting ? 'refine' : 'create'} profile...`);
 
   const msg = await anthropic.messages.create({
-    model: 'claude-sonnet-4-5-20250929',
-    max_tokens: 8192,
+    model: 'claude-opus-4-6',
+    max_tokens: 16384,
     system: systemPrompt,
     messages: [{ role: 'user', content: userPrompt }],
+    tools: [{
+      type: 'web_search_20250305' as const,
+      name: 'web_search',
+      max_uses: 10,
+    }],
   });
 
-  const responseText = (msg.content[0] as Anthropic.TextBlock).text;
+  // Log search usage
+  const searchRequests = (msg.usage as any).server_tool_use?.web_search_requests || 0;
+  console.log(`  Web searches performed: ${searchRequests}`);
 
-  // Strip any markdown code fences the model may wrap around the output
-  const cleaned = responseText
-    .replace(/^```(?:markdown|md)?\s*\n/, '')
-    .replace(/\n```\s*$/, '');
+  // Extract the final text block(s) from the response — web search responses
+  // contain interleaved text, server_tool_use, and web_search_tool_result blocks
+  const responseText = msg.content
+    .filter((block): block is Anthropic.TextBlock => block.type === 'text')
+    .map(block => block.text)
+    .join('');
+
+  // Extract the markdown content: find the front matter start and strip any preamble/fences
+  let cleaned = responseText;
+  // Strip markdown code fences
+  cleaned = cleaned.replace(/^```(?:markdown|md)?\s*\n/, '').replace(/\n```\s*$/, '');
+  // If model included preamble before the front matter, extract from +++ onward
+  const frontMatterStart = cleaned.indexOf('+++');
+  if (frontMatterStart > 0) {
+    cleaned = cleaned.substring(frontMatterStart);
+  }
+  // Ensure file ends with a newline
+  if (!cleaned.endsWith('\n')) {
+    cleaned += '\n';
+  }
 
   console.log(`\nGenerated profile (${cleaned.length} chars):\n`);
 
@@ -206,6 +161,10 @@ ${existingContent}`;
   } else {
     fs.writeFileSync(filePath, cleaned);
     console.log(`Wrote profile to: ${filePath}`);
+
+    // Run refine-internal-links to add internal links to this file
+    console.log('\nRunning refine-internal-links --write...');
+    execSync(`pnpm refine-internal-links ${filePath} --write`, { stdio: 'inherit' });
   }
 }
 
