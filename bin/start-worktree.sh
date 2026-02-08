@@ -54,6 +54,10 @@ fi
 # Change to worktree directory
 cd "$WORKTREE_DIR"
 
+# Initialize submodules
+echo "Initializing submodules..."
+git submodule update --init
+
 # Copy .env file if it exists in the main project
 if [ -f "$PROJECT_DIR/.env" ]; then
     echo "Copying .env file from main project..."
