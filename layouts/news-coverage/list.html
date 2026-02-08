@@ -28,9 +28,9 @@
     {{/* Year page: show article cards */}}
     {{ range .Pages.ByDate.Reverse }}
     <div style="margin-bottom: 1.5rem; padding-bottom: 1.5rem; border-bottom: 1px solid var(--gray-200);">
-      <h3 style="margin: 0 0 0.25rem 0;"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+      <h3 style="margin: 0 0 0.25rem 0;"><a href="{{ .Params.original_url }}" target="_blank" rel="noopener">{{ .Title }}</a></h3>
       <small style="color: var(--gray-600); font-style: italic;">{{ .Params.source }} · {{ .Date.Format "January 2, 2006" }}{{ with .Params.author }} · {{ . }}{{ end }}</small>
-      <p style="margin: 0.5rem 0 0 0;">{{ .Plain | replaceRE (printf "(?i)^%s\\s*" .Title) "" | truncate 200 }}</p>
+      {{ .Content }}
     </div>
     {{ end }}
   {{ end }}
