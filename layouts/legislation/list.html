@@ -1,0 +1,38 @@
+{{ define "main" }}
+<article class="markdown book-article">
+  {{ .Content }}
+
+  {{/* Root legislation section: show year summaries */}}
+  {{ if eq .RelPermalink "/legislation/" }}
+    {{ range sort .Sections "Title" "desc" }}
+    {{ $count := len .Pages }}
+    <h2><a href="{{ .Permalink }}">{{ .Title }}</a> ({{ $count }} bill{{ if ne $count 1 }}s{{ end }})</h2>
+    {{ .Content }}
+    {{ end }}
+
+  {{/* Year subsection: show all bills */}}
+  {{ else }}
+    <table>
+      <thead>
+        <tr>
+          <th>Bill</th>
+          <th>Summary</th>
+          <th>Sponsors</th>
+          <th>Status</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{ range .Pages }}
+        {{ $summary := .Plain | replaceRE "#+" "" | replaceRE (printf "%s" .Title) "" | replaceRE "Original Bill Text" "" | replaceRE "\\n+" " " | replaceRE "\\s+" " " | replaceRE "^\\s+" "" | truncate 200 }}
+        <tr>
+          <td><a href="{{ .Permalink }}">{{ .Title }}</a></td>
+          <td>{{ $summary }}</td>
+          <td>{{ with .Params.sponsors }}{{ . }}{{ end }}</td>
+          <td>{{ with .Params.status }}{{ . }}{{ end }}</td>
+        </tr>
+        {{ end }}
+      </tbody>
+    </table>
+  {{ end }}
+</article>
+{{ end }}
