@@ -6,8 +6,6 @@ original_url = '[Full URL to original article]'
 author = '[Author Name]'
 +++
 
-# [Article Headline]
-
 [Write a single concise paragraph (3-5 sentences) summarizing the key points of the article. Focus on the main housing policy news, key actors involved, and significance. Include internal links to relevant legislation, people, cities, and concepts throughout the summary.]
 
 ---
