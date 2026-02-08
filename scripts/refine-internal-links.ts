@@ -370,6 +370,8 @@ function getAllContentFiles(): string[] {
 function main() {
   const args = process.argv.slice(2);
   const writeMode = args.includes('--write');
+  const positionalArgs = args.filter(a => !a.startsWith('--'));
+  const targetFile = positionalArgs[0] || null;
 
   // Build entity registry
   const people = buildPeopleEntities();
@@ -394,8 +396,20 @@ function main() {
   console.log(`  Legislation: ${legislation.length} entities${ambigNote}`);
   console.log('');
 
-  // Process all content files
-  const contentFiles = getAllContentFiles();
+  // Determine which files to process
+  let contentFiles: string[];
+  if (targetFile) {
+    const resolvedPath = path.resolve(targetFile);
+    if (!fs.existsSync(resolvedPath)) {
+      console.error(`Error: File not found: ${resolvedPath}`);
+      process.exit(1);
+    }
+    contentFiles = [resolvedPath];
+    console.log(`Processing single file: ${targetFile}\n`);
+  } else {
+    contentFiles = getAllContentFiles();
+  }
+
   let filesWithChanges = 0;
   let totalLinks = 0;
 

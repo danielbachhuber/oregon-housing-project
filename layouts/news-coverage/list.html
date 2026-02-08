@@ -2,27 +2,53 @@
 <article class="markdown book-article">
   <h1>{{ .Title }}</h1>
 
-  {{ .Content }}
+  {{ if .Sections }}
+    {{/* Parent page: show year-by-year summary */}}
+    {{ range .Sections.ByDate.Reverse }}
+      {{ $articles := where .Pages "Params.bookHidden" true }}
+      {{ $count := len $articles }}
+      <h2><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></h2>
 
-  <table>
-    <thead>
-      <tr>
-        <th>Article</th>
-        <th>Source</th>
-        <th>Date</th>
-        <th>Summary</th>
-      </tr>
-    </thead>
-    <tbody>
-      {{ range .Pages.Reverse }}
-      <tr>
-        <td><a href="{{ .Permalink }}">{{ .Title }}</a></td>
-        <td>{{ .Params.source }}</td>
-        <td>{{ .Date.Format "January 2, 2006" }}</td>
-        <td>{{ .Plain | replaceRE (printf "^%s\\s*" .Title) "" | truncate 200 }}</td>
-      </tr>
+      {{ $sources := newScratch }}
+      {{ $authors := newScratch }}
+      {{ range $articles }}
+        {{ $src := .Params.source | default "Unknown" }}
+        {{ $sources.Add $src 1 }}
+        {{ $author := .Params.author | default "Unknown" }}
+        {{ $authors.Add $author 1 }}
       {{ end }}
-    </tbody>
-  </table>
+
+      <blockquote class="book-hint info">
+        {{ $authorCount := len $authors.Values }}<p>{{ $count }} article{{ if ne $count 1 }}s{{ end }} from {{ $authorCount }} author{{ if ne $authorCount 1 }}s{{ end }}</p>
+        <p><strong>By publication:</strong> {{ $first := true }}{{ range $src, $count := $sources.Values }}{{ if not $first }}, {{ end }}{{ $src }} ({{ $count }}){{ $first = false }}{{ end }}</p>
+        <p><strong>By author:</strong> {{ $first := true }}{{ range $author, $count := $authors.Values }}{{ if not $first }}, {{ end }}{{ $author }} ({{ $count }}){{ $first = false }}{{ end }}</p>
+      </blockquote>
+    {{ end }}
+  {{ else }}
+    {{/* Year page: summary + article cards */}}
+    {{ $articles := .Pages }}
+    {{ $count := len $articles }}
+    {{ $sources := newScratch }}
+    {{ $authors := newScratch }}
+    {{ range $articles }}
+      {{ $src := .Params.source | default "Unknown" }}
+      {{ $sources.Add $src 1 }}
+      {{ $author := .Params.author | default "Unknown" }}
+      {{ $authors.Add $author 1 }}
+    {{ end }}
+    <blockquote class="book-hint info">
+      {{ $authorCount := len $authors.Values }}<p>{{ $count }} article{{ if ne $count 1 }}s{{ end }} from {{ $authorCount }} author{{ if ne $authorCount 1 }}s{{ end }}</p>
+      <p><strong>By publication:</strong> {{ $first := true }}{{ range $src, $count := $sources.Values }}{{ if not $first }}, {{ end }}{{ $src }} ({{ $count }}){{ $first = false }}{{ end }}</p>
+      <p><strong>By author:</strong> {{ $first := true }}{{ range $author, $count := $authors.Values }}{{ if not $first }}, {{ end }}{{ $author }} ({{ $count }}){{ $first = false }}{{ end }}</p>
+    </blockquote>
+
+    {{ range $articles.ByDate.Reverse }}
+    <div style="margin-bottom: 0.75rem; padding-bottom: 0.75rem; border-bottom: 1px solid var(--gray-200); font-size: 0.9375rem;">
+      <h3 style="margin: 0 0 0.25rem 0; font-size: 1rem;"><a href="{{ .Params.original_url }}" target="_blank" rel="noopener">{{ .Title }}</a></h3>
+      <small style="color: var(--gray-600); font-style: italic;">{{ .Params.source }} · {{ .Date.Format "January 2, 2006" }}{{ with .Params.author }} · {{ . }}{{ end }}</small>
+      <div style="margin-top: 0.25rem;">{{ .Content }}</div>
+    </div>
+    {{ end }}
+  {{ end }}
 </article>
 {{ end }}
