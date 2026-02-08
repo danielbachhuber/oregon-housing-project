@@ -51,14 +51,16 @@
       <thead>
         <tr>
           <th>Bill</th>
-          <th>Summary</th>
+          <th>Status</th>
+          <th>Sponsors</th>
         </tr>
       </thead>
       <tbody>
-        {{ range .Pages }}
+        {{ range sort .Pages "Title" }}
         <tr>
-          <td><a href="{{ .Permalink }}">{{ .Title }}</a></td>
-          <td>{{ .Plain | replaceRE (printf "^%s\\s*" .Title) "" | truncate 200 }}</td>
+          <td><a href="{{ .Permalink }}" style="font-size:1.1em;font-weight:bold">{{ .Title }}</a><br>{{ with .Params.catch_line }}{{ . }}{{ else }}{{ .Plain | replaceRE (printf "^%s\\s*" .Title) "" | truncate 120 }}{{ end }}</td>
+          <td>{{ .Params.status }}</td>
+          <td>{{ with .Params.sponsors }}{{ range $i, $s := first 3 . }}{{ if $i }}, {{ end }}<a href="/people/{{ $s.slug }}">{{ $s.name }}</a>{{ end }}{{ if gt (len .) 3 }} +{{ sub (len .) 3 }} more{{ end }}{{ end }}</td>
         </tr>
         {{ end }}
       </tbody>

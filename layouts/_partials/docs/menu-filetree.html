@@ -9,7 +9,9 @@
 
 {{ define "book-section-children" }}{{/* (dict "Section" .Section "CurrentPage" .CurrentPage) */}}
   <ul>
-    {{ range (where .Section.Pages "Params.bookHidden" "ne" true) }}
+    {{ $sortByTitle := or (eq .Section.Section "people") (eq .Section.Section "cities") (and (eq .Section.Section "legislation") (.Section.Parent) (ne .Section.Parent.Kind "home")) }}
+    {{ $pages := where .Section.Pages "Params.bookHidden" "ne" true }}
+    {{ range (cond $sortByTitle (sort $pages "Title") $pages) }}
       {{ if .IsSection }}
         <li {{- if .Params.BookFlatSection }} class="book-section-flat" {{ end -}}>
           {{ template "book-page-link" (dict "Page" . "CurrentPage" $.CurrentPage) }}
