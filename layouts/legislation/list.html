@@ -1,0 +1,69 @@
+{{ define "main" }}
+<article class="markdown book-article">
+  <h1>{{ .Title }}</h1>
+
+  {{ .Content }}
+
+  {{ if .Sections }}
+    {{/* Top-level legislation page - show year summaries */}}
+    {{ range .Sections }}
+      {{ $billCount := len .Pages }}
+
+      {{/* Count people references across all bills in this year */}}
+      {{ $scratch := newScratch }}
+      {{ $scratch.Set "peopleKeys" slice }}
+      {{ range .Pages }}
+        {{ $matches := findRE `\[[^\]]+\]\(/people/[a-z][-a-z]+\)` .RawContent }}
+        {{ range $matches }}
+          {{ $path := . | replaceRE `.*\((/people/[a-z][-a-z]+)\)` "$1" }}
+          {{ if ne $path "/people/unknown" }}
+            {{ $scratch.Add $path 1 }}
+            {{ if not ($scratch.Get (printf "name_%s" $path)) }}
+              {{ $name := . | replaceRE `\[([^\]]+)\]\(.*\)` "$1" }}
+              {{ $scratch.Set (printf "name_%s" $path) $name }}
+            {{ end }}
+            {{ $keys := $scratch.Get "peopleKeys" }}
+            {{ if not (in $keys $path) }}
+              {{ $scratch.Set "peopleKeys" ($keys | append $path) }}
+            {{ end }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+
+      <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+      <p>
+        {{ $billCount }} {{ if eq $billCount 1 }}bill{{ else }}bills{{ end }} tracked.
+        {{ with $scratch.Get "peopleKeys" }}
+          {{ $sortable := slice }}
+          {{ range . }}
+            {{ $sortable = $sortable | append (dict "name" ($scratch.Get (printf "name_%s" .)) "count" ($scratch.Get .) "path" .) }}
+          {{ end }}
+          {{ $sorted := sort $sortable "count" "desc" }}
+          Most active:
+          {{ range $i, $p := first 3 $sorted }}{{ if $i }}, {{ end }}<a href="{{ $p.path }}">{{ $p.name }}</a> ({{ $p.count }}){{ end }}.
+        {{ end }}
+      </p>
+    {{ end }}
+  {{ else }}
+    {{/* Year subsection page - show bill table */}}
+    {{ if .Pages }}
+    <table>
+      <thead>
+        <tr>
+          <th>Bill</th>
+          <th>Summary</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{ range .Pages }}
+        <tr>
+          <td><a href="{{ .Permalink }}">{{ .Title }}</a></td>
+          <td>{{ .Plain | replaceRE (printf "^%s\\s*" .Title) "" | truncate 200 }}</td>
+        </tr>
+        {{ end }}
+      </tbody>
+    </table>
+    {{ end }}
+  {{ end }}
+</article>
+{{ end }}
