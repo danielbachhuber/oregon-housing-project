@@ -1,0 +1,126 @@
+name: Update Legislation
+
+on:
+  schedule:
+    - cron: '0 15 * * *'  # 7:00 AM PST
+  workflow_dispatch:
+    inputs:
+      year:
+        description: 'Legislation year (defaults to current year)'
+        required: false
+        type: string
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: update-legislation
+  cancel-in-progress: true
+
+jobs:
+  update-legislation:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v3
+        with:
+          version: 9
+
+      - name: Install dependencies
+        run: pnpm install
+
+      - name: Determine year
+        id: year
+        run: |
+          if [ -n "${{ inputs.year }}" ]; then
+            echo "value=${{ inputs.year }}" >> "$GITHUB_OUTPUT"
+          else
+            echo "value=$(date +%Y)" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Restore classification cache
+        uses: actions/cache@v4
+        with:
+          path: .cache/
+          key: legislation-cache-${{ steps.year.outputs.value }}-${{ github.run_id }}
+          restore-keys: |
+            legislation-cache-${{ steps.year.outputs.value }}-
+
+      - name: Fetch legislation
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: pnpm fetch-legislation ${{ steps.year.outputs.value }}
+
+      - name: Refine all bills
+        run: |
+          YEAR="${{ steps.year.outputs.value }}"
+          BILL_DIR="content/legislation/${YEAR}"
+
+          if [ ! -d "$BILL_DIR" ]; then
+            echo "No legislation directory found for ${YEAR}"
+            exit 0
+          fi
+
+          for file in "${BILL_DIR}"/*.md; do
+            BASENAME=$(basename "$file" .md)
+
+            # Skip _index.md
+            if [ "$BASENAME" = "_index" ]; then
+              continue
+            fi
+
+            echo "Refining ${BASENAME}..."
+            pnpm refine-legislation "$BASENAME" --year="$YEAR" || echo "Warning: failed to refine ${BASENAME}"
+
+            # Respect API rate limits
+            sleep 2
+          done
+
+      - name: Create or update PR
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          YEAR="${{ steps.year.outputs.value }}"
+
+          # Check for changes in legislation or people content
+          if [ -z "$(git status --porcelain content/legislation/ content/people/)" ]; then
+            echo "No changes detected."
+            exit 0
+          fi
+
+          git config user.name 'oregonhousingproject[bot]'
+          git config user.email 'info@oregonhousingproject.org'
+
+          # Ensure label exists
+          gh label create "legislation-update" --color "0e8a16" --description "Automated legislation update" 2>/dev/null || true
+
+          # Close existing PRs with the legislation-update label
+          EXISTING_PRS=$(gh pr list --label "legislation-update" --state open --json number --jq '.[].number')
+          for pr in $EXISTING_PRS; do
+            echo "Closing existing PR #${pr}..."
+            gh pr close "$pr" --delete-branch || true
+          done
+
+          # Create branch and PR
+          BRANCH_NAME="auto/update-legislation-${YEAR}-$(date +%Y-%m-%d)-${{ github.run_number }}"
+          git checkout -b "$BRANCH_NAME"
+          git add content/legislation/ content/people/
+          git commit -m "Update legislation data for ${YEAR}"
+          git push -u origin "$BRANCH_NAME"
+
+          gh pr create \
+            --title "Update legislation data for ${YEAR}" \
+            --body "Automated daily legislation update. Fetches latest bill data and refines all bills with sponsors, history, documents, and testimony." \
+            --base main \
+            --head "$BRANCH_NAME" \
+            --label "legislation-update" \
+            --reviewer danielbachhuber
