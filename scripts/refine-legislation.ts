@@ -559,7 +559,6 @@ async function main() {
       const filename = `${t.CommTestId}.pdf`;
       const destPath = path.join(filesDir, filename);
       const result = await downloadTestimonyPdf(t.CommTestId, sessionCode, destPath);
-      
       if (result.success) {
         if (result.alreadyExisted) {
           skipped++;
@@ -579,7 +578,6 @@ async function main() {
         failed++;
       }
     }
-    
     console.log(`  Downloaded: ${downloaded}, Skipped (already exist): ${skipped}, Failed: ${failed}`);
     console.log(`  Total testimony PDFs: ${testimony.length} in ${filesDir}`);
   }
