@@ -53,6 +53,9 @@ jobs:
 
           echo "Found new articles: $NEW_FILES"
 
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
           for file in $NEW_FILES; do
              echo "Processing $file..."
 
@@ -69,7 +72,7 @@ jobs:
              git add "$file"
 
              # Commit
-             TITLE=$(grep '^title:' "$file" | head -n 1 | sed 's/title: "//;s/"$//')
+             TITLE=$(grep '^title' "$file" | head -n 1 | sed "s/title = '//;s/'$//")
              git commit -m "Add article: $TITLE"
 
              # Push
