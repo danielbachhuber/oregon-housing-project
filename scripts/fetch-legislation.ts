@@ -10,6 +10,7 @@ const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY;
 // Paths
 const LEGISLATION_DIR = path.join(process.cwd(), 'content/legislation');
 const PEOPLE_DIR = path.join(process.cwd(), 'content/people');
+const CACHE_DIR = path.join(process.cwd(), '.cache');
 
 // Initialize Anthropic
 const anthropic = new Anthropic({
@@ -91,44 +92,108 @@ async function main() {
   fs.writeFileSync(jsonPath, JSON.stringify(bills, null, 2));
   console.log(`Saved raw data to ${jsonPath}`);
 
+  // Update front matter on existing bill files regardless of classification
+  let updatedCount = 0;
+  for (const bill of bills) {
+    const filename = generateFilename(year, bill.billNumber);
+    const filepath = path.join(LEGISLATION_DIR, filename);
+    if (fs.existsSync(filepath)) {
+      updateBillFrontMatter(filepath, bill, legislators);
+      updatedCount++;
+    }
+  }
+  if (updatedCount > 0) {
+    console.log(`Updated front matter on ${updatedCount} existing bill files.`);
+  }
+
   if (skipClassification) {
     console.log('\nSkipping classification (--skip-classification flag set).');
-    console.log('Person pages will only be created for sponsors of housing-related bills.');
     return;
+  }
+
+  // Load classification cache
+  const cachePath = path.join(CACHE_DIR, `classifications-${sessionCode}.json`);
+  if (!fs.existsSync(CACHE_DIR)) {
+    fs.mkdirSync(CACHE_DIR, { recursive: true });
+  }
+  const classificationCache = new Map<string, ClassificationResult>();
+  if (fs.existsSync(cachePath)) {
+    const cached = JSON.parse(fs.readFileSync(cachePath, 'utf-8')) as Record<string, ClassificationResult>;
+    for (const [key, value] of Object.entries(cached)) {
+      classificationCache.set(key, value);
+    }
+    console.log(`Loaded ${classificationCache.size} cached classifications.`);
   }
 
   // Classify and create files for housing-related bills
   const housingBills: Bill[] = [];
   let housingCount = 0;
+  const BATCH_SIZE = 20;
 
-  for (let i = 0; i < bills.length; i++) {
-    const bill = bills[i];
-    console.log(`\n[${i + 1}/${bills.length}] Checking ${bill.billNumber}...`);
-
-    const classification = await classifyBill(bill);
-
-    if (classification.is_housing) {
-      console.log(`  -> [HOUSING RELATED]`);
-      console.log(`  -> Relevance: ${classification.relevance_explanation}`);
-
-      housingBills.push(bill);
-
-      const filename = generateFilename(year, bill.billNumber);
-      const filepath = path.join(LEGISLATION_DIR, filename);
-
-      if (fs.existsSync(filepath)) {
-        console.log(`  -> File already exists: ${filename}`);
-      } else {
-        createBillFile(filepath, bill, classification, year, legislators);
-        console.log(`  -> Created file: ${filename}`);
-        housingCount++;
+  // Split bills into cached and uncached
+  const uncachedBills: Bill[] = [];
+  for (const bill of bills) {
+    if (classificationCache.has(bill.billNumber)) {
+      const classification = classificationCache.get(bill.billNumber)!;
+      if (classification.is_housing) {
+        housingBills.push(bill);
+        const filename = generateFilename(year, bill.billNumber);
+        const filepath = path.join(LEGISLATION_DIR, filename);
+        if (!fs.existsSync(filepath)) {
+          createBillFile(filepath, bill, classification, year, legislators);
+          console.log(`  ${bill.billNumber} -> [CACHED: HOUSING] Created file: ${filename}`);
+          housingCount++;
+        }
       }
     } else {
-      console.log(`  -> Not housing related.`);
+      uncachedBills.push(bill);
     }
+  }
 
-    // Small delay to avoid rate limiting
-    await new Promise(resolve => setTimeout(resolve, 500));
+  if (uncachedBills.length === 0) {
+    console.log(`\nAll ${bills.length} bills already classified (cached). No API calls needed.`);
+  } else {
+    console.log(`\n${classificationCache.size} bills cached, ${uncachedBills.length} bills to classify...`);
+
+    for (let batchStart = 0; batchStart < uncachedBills.length; batchStart += BATCH_SIZE) {
+      const batch = uncachedBills.slice(batchStart, batchStart + BATCH_SIZE);
+      console.log(`\nClassifying batch ${Math.floor(batchStart / BATCH_SIZE) + 1} (bills ${batchStart + 1}-${batchStart + batch.length} of ${uncachedBills.length})...`);
+
+      const classifications = await classifyBillsBatch(batch);
+
+      for (let i = 0; i < batch.length; i++) {
+        const bill = batch[i];
+        const classification = classifications[i] || { is_housing: false, relevance_explanation: 'Missing from batch response.', one_sentence_summary: '' };
+
+        // Cache the result
+        classificationCache.set(bill.billNumber, classification);
+
+        if (classification.is_housing) {
+          console.log(`  ${bill.billNumber} -> [HOUSING RELATED] ${classification.relevance_explanation}`);
+
+          housingBills.push(bill);
+
+          const filename = generateFilename(year, bill.billNumber);
+          const filepath = path.join(LEGISLATION_DIR, filename);
+
+          if (fs.existsSync(filepath)) {
+            console.log(`    File already exists: ${filename}`);
+          } else {
+            createBillFile(filepath, bill, classification, year, legislators);
+            console.log(`    Created file: ${filename}`);
+            housingCount++;
+          }
+        }
+      }
+
+      // Save cache after each batch
+      const cacheObj: Record<string, ClassificationResult> = {};
+      for (const [key, value] of classificationCache) {
+        cacheObj[key] = value;
+      }
+      fs.writeFileSync(cachePath, JSON.stringify(cacheObj, null, 2));
+      console.log(`Saved ${classificationCache.size} classifications to cache.`);
+    }
   }
 
   console.log(`\nDone! Created ${housingCount} new housing-related bill files.`);
@@ -308,13 +373,12 @@ async function fetchAllBills(sessionCode: string, debug = false): Promise<{ bill
   return { bills, legislators: new Map() };
 }
 
-async function classifyBill(bill: Bill): Promise<ClassificationResult> {
-  const prompt = `
-Analyze the following Oregon legislative bill to determine if it is primarily about housing.
+async function classifyBillsBatch(bills: Bill[]): Promise<ClassificationResult[]> {
+  const billsList = bills.map((bill, i) => `${i + 1}. Bill Number: ${bill.billNumber}\n   Title: ${bill.title}\n   Summary: ${bill.summary}`).join('\n\n');
 
-Bill Number: ${bill.billNumber}
-Title: ${bill.title}
-Summary: ${bill.summary}
+  const prompt = `Analyze each of the following Oregon legislative bills to determine if it is primarily about housing.
+
+${billsList}
 
 Housing-related topics include:
 - Residential construction and development
@@ -335,8 +399,9 @@ NOT housing-related:
 - Business taxation
 - Non-residential building codes
 
-Respond ONLY with a JSON object in the following format:
+Respond ONLY with a JSON array of ${bills.length} objects, one per bill in the same order, each with this format:
 {
+  "bill_number": "the bill number",
   "is_housing": boolean,
   "relevance_explanation": "A 1-2 sentence explanation of why this is or isn't housing-related.",
   "one_sentence_summary": "A single clear sentence describing what the legislation does."
@@ -346,33 +411,33 @@ Respond ONLY with a JSON object in the following format:
   try {
     const msg = await anthropic.messages.create({
       model: "claude-haiku-4-5-20251001",
-      max_tokens: 1024,
+      max_tokens: 4096,
       messages: [{ role: "user", content: prompt }]
     });
 
     const responseText = (msg.content[0] as any).text;
-    const jsonMatch = responseText.match(/\{[\s\S]*\}/);
+    const jsonMatch = responseText.match(/\[[\s\S]*\]/);
     if (jsonMatch) {
-      return JSON.parse(jsonMatch[0]) as ClassificationResult;
+      const parsed = JSON.parse(jsonMatch[0]) as ClassificationResult[];
+      return parsed;
     }
-    return {
-      is_housing: false,
-      relevance_explanation: "Failed to parse JSON response.",
-      one_sentence_summary: ""
-    };
+    console.error("Failed to parse batch JSON response.");
+    return bills.map(() => ({ is_housing: false, relevance_explanation: "Failed to parse batch response.", one_sentence_summary: "" }));
 
   } catch (e: any) {
-    console.error("Classification error:", e);
-    return {
-      is_housing: false,
-      relevance_explanation: "Classification failed.",
-      one_sentence_summary: ""
-    };
+    console.error("Batch classification error:", e);
+    return bills.map(() => ({ is_housing: false, relevance_explanation: "Classification failed.", one_sentence_summary: "" }));
   }
 }
 
+function formatBillNumber(billNumber: string): string {
+  // "HB2001" -> "HB 2001", "SJR202" -> "SJR 202"
+  return billNumber.replace(/^([A-Za-z]+)(\d+)$/, '$1 $2').toUpperCase();
+}
+
 function generateFilename(year: string, billNumber: string): string {
-  const slug = billNumber.toLowerCase().replace(/[^a-z0-9]/g, '-');
+  // "HB2001" -> "hb-2001", "SJR202" -> "sjr-202"
+  const slug = billNumber.replace(/^([A-Za-z]+)(\d+)$/, '$1-$2').toLowerCase();
   return `${year}/${slug}.md`;
 }
 
@@ -468,6 +533,42 @@ Party: ${legislator.Party}
   return slug;
 }
 
+function updateBillFrontMatter(filepath: string, bill: Bill, legislators: Map<string, ODataLegislator>) {
+  const existing = fs.readFileSync(filepath, 'utf-8');
+
+  // Parse TOML front matter between +++ delimiters
+  const match = existing.match(/^\+\+\+\n([\s\S]*?)\n\+\+\+/);
+  if (!match) return;
+
+  const frontMatter = match[1];
+  const body = existing.slice(match[0].length);
+
+  // Build sponsors string
+  let sponsorNames = '';
+  if (bill.sponsors.length > 0) {
+    const chiefSponsors = bill.sponsors.filter(s => s.level === 'Chief');
+    sponsorNames = chiefSponsors
+      .map(s => {
+        const legislator = legislators.get(s.name);
+        return generatePersonName(legislator);
+      })
+      .join(', ');
+  }
+
+  // Remove existing status/sponsors lines if present
+  let updatedFrontMatter = frontMatter
+    .replace(/^status\s*=\s*'.*'$/m, '')
+    .replace(/^sponsors\s*=\s*'.*'$/m, '')
+    .replace(/\n{2,}/g, '\n')
+    .trim();
+
+  // Append new fields
+  updatedFrontMatter += `\nstatus = '${bill.status.replace(/'/g, "''")}'`;
+  updatedFrontMatter += `\nsponsors = '${sponsorNames.replace(/'/g, "''")}'`;
+
+  fs.writeFileSync(filepath, `+++\n${updatedFrontMatter}\n+++${body}`);
+}
+
 function createBillFile(filepath: string, bill: Bill, classification: ClassificationResult, year: string, legislators: Map<string, ODataLegislator>) {
   const dir = path.dirname(filepath);
   if (!fs.existsSync(dir)) {
@@ -512,12 +613,26 @@ function createBillFile(filepath: string, bill: Bill, classification: Classifica
     }
   }
 
-  const content = `+++
-title = '${bill.billNumber}'
-date = '${date}'
-+++
+  // Build sponsors string for front matter
+  let sponsorNames = '';
+  if (bill.sponsors.length > 0) {
+    const chiefSponsors = bill.sponsors.filter(s => s.level === 'Chief');
+    sponsorNames = chiefSponsors
+      .map(s => {
+        const legislator = legislators.get(s.name);
+        return generatePersonName(legislator);
+      })
+      .join(', ');
+  }
 
-# ${bill.billNumber}
+  const displayName = formatBillNumber(bill.billNumber);
+
+  const content = `+++
+title = '${displayName}'
+date = '${date}'
+status = '${bill.status.replace(/'/g, "''")}'
+sponsors = '${sponsorNames.replace(/'/g, "''")}'
++++
 
 ${classification.one_sentence_summary}
 
