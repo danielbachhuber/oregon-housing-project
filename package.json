@@ -5,6 +5,7 @@
 	"main": "scripts/fetch-housing-articles.ts",
 	"scripts": {
 		"fetch-housing-articles": "tsx scripts/fetch-housing-articles.ts",
+		"fetch-legislation": "tsx scripts/fetch-legislation.ts",
 		"wts": "bin/start-worktree.sh",
 		"wtd": "bin/delete-worktree.sh"
 	},
