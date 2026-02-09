@@ -303,5 +303,50 @@
       "ModifiedDate": null
     }
   ],
-  "testimony": []
+  "testimony": [
+    {
+      "CommTestId": 240828,
+      "SubmitterFirstName": "Katherine",
+      "SubmitterLastName": "Beale",
+      "BehalfOf": null,
+      "Organization": "Canby OR",
+      "DocumentDescription": "Letter",
+      "CreatedDate": "2026-02-08T15:36:53.543",
+      "ModifiedDate": "2026-02-08T15:39:59.467",
+      "PdfCreatedFlag": "Y",
+      "PositionOnMeasureId": 3982,
+      "SessionKey": "2026R1",
+      "CommitteeCode": "SHDEV",
+      "MeetingDate": "2026-02-10T15:00:00",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1561,
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1",
+      "FirstName": null,
+      "LastName": null,
+      "ExecApptId": null,
+      "Topic": "Requires local governments to approve restoration or replacement of dwellings rendered uninhabitable under an alternative process that is not a land use decision."
+    },
+    {
+      "CommTestId": 241254,
+      "SubmitterFirstName": "Catherine ",
+      "SubmitterLastName": "BROOKSHIRE",
+      "BehalfOf": null,
+      "Organization": "Klamath Falls",
+      "DocumentDescription": "Testimony",
+      "CreatedDate": "2026-02-09T06:03:07.237",
+      "ModifiedDate": "2026-02-09T06:04:28.56",
+      "PdfCreatedFlag": "Y",
+      "PositionOnMeasureId": 3983,
+      "SessionKey": "2026R1",
+      "CommitteeCode": "SHDEV",
+      "MeetingDate": "2026-02-10T15:00:00",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1561,
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1",
+      "FirstName": null,
+      "LastName": null,
+      "ExecApptId": null,
+      "Topic": "Requires local governments to approve restoration or replacement of dwellings rendered uninhabitable under an alternative process that is not a land use decision."
+    }
+  ]
 }

@@ -1379,6 +1379,11 @@
         "name": "Sen Anderson",
         "level": "Chief",
         "type": "Member"
+      },
+      {
+        "name": "Sen Smith DB",
+        "level": "Regular",
+        "type": "Member"
       }
     ]
   },
@@ -1723,6 +1728,11 @@
       {
         "name": "Sen Girod",
         "level": "Chief",
+        "type": "Member"
+      },
+      {
+        "name": "Sen Smith DB",
+        "level": "Regular",
         "type": "Member"
       }
     ]
@@ -2164,6 +2174,11 @@
       {
         "name": "Rep Breese-Iverson",
         "level": "Chief",
+        "type": "Member"
+      },
+      {
+        "name": "Sen Smith DB",
+        "level": "Regular",
         "type": "Member"
       }
     ]
@@ -6971,6 +6986,11 @@
       {
         "name": "Rep Scharf",
         "level": "Chief",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Levy B",
+        "level": "Regular",
         "type": "Member"
       }
     ]
