@@ -5,4 +5,4 @@ weight = 1
 bookCollapseSection = true
 +++
 
-<!-- clickable sidebar link -->
+_This page is updated on a \~roughly daily basis as the 2026 legislative session progresses._
