@@ -308,7 +308,7 @@
       "PublicNotification": true
     },
     {
-      "MeasureHistoryId": 665093,
+      "MeasureHistoryId": 665480,
       "SessionKey": "2026R1",
       "MeasurePrefix": "HB",
       "MeasureNumber": 4120,
@@ -316,7 +316,7 @@
       "ActionDate": "2026-02-12T15:01:00",
       "ActionText": "Public Hearing and Possible Work Session scheduled.",
       "VoteText": null,
-      "CreatedDate": "2026-02-05T13:50:27",
+      "CreatedDate": "2026-02-09T13:17:57",
       "ModifiedDate": null,
       "PublicNotification": true
     }

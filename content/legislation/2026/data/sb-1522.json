@@ -70,7 +70,7 @@
       "PublicNotification": true
     },
     {
-      "MeasureHistoryId": 665071,
+      "MeasureHistoryId": 665578,
       "SessionKey": "2026R1",
       "MeasurePrefix": "SB",
       "MeasureNumber": 1522,
@@ -78,7 +78,7 @@
       "ActionDate": "2026-02-12T15:01:00",
       "ActionText": "Public Hearing and Possible Work Session scheduled.",
       "VoteText": null,
-      "CreatedDate": "2026-02-05T13:29:58",
+      "CreatedDate": "2026-02-09T15:30:51",
       "ModifiedDate": null,
       "PublicNotification": true
     }
@@ -94,5 +94,50 @@
       "ModifiedDate": null
     }
   ],
-  "testimony": []
+  "testimony": [
+    {
+      "CommTestId": 241698,
+      "SubmitterFirstName": "Dan",
+      "SubmitterLastName": "Keeley",
+      "BehalfOf": null,
+      "Organization": "Saint Paul",
+      "DocumentDescription": "Testimony",
+      "CreatedDate": "2026-02-09T09:24:38.533",
+      "ModifiedDate": "2026-02-09T09:25:06.247",
+      "PdfCreatedFlag": "Y",
+      "PositionOnMeasureId": 3982,
+      "SessionKey": "2026R1",
+      "CommitteeCode": "SHDEV",
+      "MeetingDate": "2026-02-12T15:00:00",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1522,
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1",
+      "FirstName": null,
+      "LastName": null,
+      "ExecApptId": null,
+      "Topic": "Requires the Housing and Community Services Department to study housing."
+    },
+    {
+      "CommTestId": 244395,
+      "SubmitterFirstName": "Nellie",
+      "SubmitterLastName": "McAdams",
+      "BehalfOf": null,
+      "Organization": "Oregon Agricultural Trust",
+      "DocumentDescription": "Testimony",
+      "CreatedDate": "2026-02-10T06:14:15.88",
+      "ModifiedDate": "2026-02-10T06:20:02.387",
+      "PdfCreatedFlag": "Y",
+      "PositionOnMeasureId": 3982,
+      "SessionKey": "2026R1",
+      "CommitteeCode": "SHDEV",
+      "MeetingDate": "2026-02-12T15:00:00",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1522,
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1",
+      "FirstName": null,
+      "LastName": null,
+      "ExecApptId": null,
+      "Topic": "Requires the Housing and Community Services Department to study housing."
+    }
+  ]
 }

@@ -278,6 +278,20 @@
       "PresessionFiledMessage": null,
       "CreatedDate": "2026-02-05T12:50:55",
       "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "157663",
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4123,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Walters",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2026-02-09T13:10:18",
+      "ModifiedDate": null
     }
   ],
   "historyActions": [
@@ -321,7 +335,7 @@
       "PublicNotification": false
     },
     {
-      "MeasureHistoryId": 665241,
+      "MeasureHistoryId": 665474,
       "SessionKey": "2026R1",
       "MeasurePrefix": "HB",
       "MeasureNumber": 4123,
@@ -329,7 +343,7 @@
       "ActionDate": "2026-02-10T15:01:00",
       "ActionText": "Possible Work Session scheduled.",
       "VoteText": null,
-      "CreatedDate": "2026-02-06T13:22:53",
+      "CreatedDate": "2026-02-09T13:17:30",
       "ModifiedDate": null,
       "PublicNotification": true
     }

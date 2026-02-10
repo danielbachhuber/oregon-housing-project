@@ -82,32 +82,6 @@
       "CreatedDate": "2026-02-02T09:59:43",
       "ModifiedDate": null,
       "PublicNotification": true
-    },
-    {
-      "MeasureHistoryId": 665094,
-      "SessionKey": "2026R1",
-      "MeasurePrefix": "HB",
-      "MeasureNumber": 4064,
-      "Chamber": "H",
-      "ActionDate": "2026-02-12T15:01:00",
-      "ActionText": "Possible Work Session scheduled.",
-      "VoteText": null,
-      "CreatedDate": "2026-02-05T13:50:27",
-      "ModifiedDate": null,
-      "PublicNotification": true
-    },
-    {
-      "MeasureHistoryId": 665238,
-      "SessionKey": "2026R1",
-      "MeasurePrefix": "HB",
-      "MeasureNumber": 4064,
-      "Chamber": "H",
-      "ActionDate": "2026-02-10T15:01:00",
-      "ActionText": "Public Hearing scheduled.",
-      "VoteText": null,
-      "CreatedDate": "2026-02-06T13:22:53",
-      "ModifiedDate": null,
-      "PublicNotification": true
     }
   ],
   "documents": [

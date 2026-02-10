@@ -278,6 +278,20 @@
       "PresessionFiledMessage": null,
       "CreatedDate": "2026-01-23T16:21:09",
       "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "157657",
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1576,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Manning Jr",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2026-02-09T10:50:14",
+      "ModifiedDate": null
     }
   ],
   "historyActions": [
