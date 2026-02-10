@@ -6,13 +6,13 @@
     "CatchLine": "Authorizes the Housing and Community Services Department to fund mixed income housing.",
     "MinorityCatchLine": null,
     "MeasureSummary": "\tDigest: This Act lets OHCS make loans for mixed income housing projects. (Flesch Readability Score: 87.9). \n\tAuthorizes the Housing and Community Services Department to fund mixed income housing. Requires the department to develop a mixed income housing loan program. Establishes the Mixed Income Development Loan Fund for such purposes. Requires the department to adopt initial program rules by January 1, 2027. \n\tTakes effect on the 91st day following adjournment sine die.",
-    "CurrentVersion": null,
+    "CurrentVersion": "A",
     "RelatingToFull": "Relating to mixed income housing; creating new provisions; amending ORS 456.550, 456.612 and 456.620; and prescribing an effective date.\n\t",
     "RelatingTo": "Relating to mixed income housing; prescribing an effective date.",
     "AtTheRequestOf": null,
     "ChapterNumber": null,
-    "CurrentLocation": "In Senate Committee Awaiting transfer to Desk",
-    "CurrentCommitteeCode": "SHDEV",
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "JWM",
     "CurrentSubCommittee": null,
     "FiscalImpact": "Fiscal impact issued",
     "RevenueImpact": "Revenue impact issued",
@@ -23,7 +23,7 @@
     "LCNumber": 156,
     "Vetoed": false,
     "CreatedDate": "2026-01-16T14:00:23",
-    "ModifiedDate": "2026-02-06T11:46:04",
+    "ModifiedDate": "2026-02-09T18:05:02",
     "PrefixMeaning": "Senate Bill"
   },
   "sponsors": [
@@ -388,6 +388,32 @@
       "CreatedDate": "2026-02-05T16:28:18",
       "ModifiedDate": null,
       "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 665358,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1567,
+      "Chamber": "S",
+      "ActionDate": "2026-02-09T09:47:58",
+      "ActionText": "Recommendation: Do pass with amendments and be referred to Ways and Means by prior reference. (Printed A-Eng.)",
+      "VoteText": null,
+      "CreatedDate": "2026-02-09T09:53:36",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 665359,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1567,
+      "Chamber": "S",
+      "ActionDate": "2026-02-09T09:47:59",
+      "ActionText": "Referred to Ways and Means by prior reference.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-09T09:53:36",
+      "ModifiedDate": null,
+      "PublicNotification": false
     }
   ],
   "documents": [
@@ -395,9 +421,27 @@
       "SessionKey": "2026R1",
       "MeasurePrefix": "SB",
       "MeasureNumber": 1567,
+      "VersionDescription": "A-Engrossed",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1567/A-Engrossed",
+      "CreatedDate": "2026-02-09T16:12:28.427",
+      "ModifiedDate": null
+    },
+    {
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1567,
       "VersionDescription": "Introduced",
       "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1567/Introduced",
       "CreatedDate": "2026-01-28T15:25:33.133",
+      "ModifiedDate": null
+    },
+    {
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1567,
+      "VersionDescription": "Senate Amendments to Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1567/Senate Amendments to Introduced",
+      "CreatedDate": "2026-02-09T16:12:28.533",
       "ModifiedDate": null
     }
   ],

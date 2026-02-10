@@ -83,7 +83,7 @@
       "PublicNotification": false
     },
     {
-      "MeasureHistoryId": 665245,
+      "MeasureHistoryId": 665478,
       "SessionKey": "2026R1",
       "MeasurePrefix": "HB",
       "MeasureNumber": 4036,
@@ -91,7 +91,7 @@
       "ActionDate": "2026-02-10T15:01:00",
       "ActionText": "Possible Work Session scheduled.",
       "VoteText": null,
-      "CreatedDate": "2026-02-06T13:22:53",
+      "CreatedDate": "2026-02-09T13:17:30",
       "ModifiedDate": null,
       "PublicNotification": true
     }

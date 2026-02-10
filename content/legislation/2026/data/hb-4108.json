@@ -23,7 +23,7 @@
     "LCNumber": 34,
     "Vetoed": false,
     "CreatedDate": "2026-01-17T13:13:23",
-    "ModifiedDate": "2026-02-02T11:46:58",
+    "ModifiedDate": "2026-02-09T20:44:55",
     "PrefixMeaning": "House Bill"
   },
   "sponsors": [
@@ -251,7 +251,7 @@
       "PublicNotification": false
     },
     {
-      "MeasureHistoryId": 665244,
+      "MeasureHistoryId": 665477,
       "SessionKey": "2026R1",
       "MeasurePrefix": "HB",
       "MeasureNumber": 4108,
@@ -259,7 +259,7 @@
       "ActionDate": "2026-02-10T15:01:00",
       "ActionText": "Possible Work Session scheduled.",
       "VoteText": null,
-      "CreatedDate": "2026-02-06T13:22:53",
+      "CreatedDate": "2026-02-09T13:17:30",
       "ModifiedDate": null,
       "PublicNotification": true
     }

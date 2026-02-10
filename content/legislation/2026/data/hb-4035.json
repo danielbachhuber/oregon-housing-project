@@ -23,7 +23,7 @@
     "LCNumber": 205,
     "Vetoed": false,
     "CreatedDate": "2026-01-15T09:47:17",
-    "ModifiedDate": "2026-02-02T11:24:59",
+    "ModifiedDate": "2026-02-09T17:45:25",
     "PrefixMeaning": "House Bill"
   },
   "sponsors": [
@@ -83,7 +83,7 @@
       "PublicNotification": false
     },
     {
-      "MeasureHistoryId": 665242,
+      "MeasureHistoryId": 665475,
       "SessionKey": "2026R1",
       "MeasurePrefix": "HB",
       "MeasureNumber": 4035,
@@ -91,7 +91,7 @@
       "ActionDate": "2026-02-10T15:01:00",
       "ActionText": "Possible Work Session scheduled.",
       "VoteText": null,
-      "CreatedDate": "2026-02-06T13:22:53",
+      "CreatedDate": "2026-02-09T13:17:30",
       "ModifiedDate": null,
       "PublicNotification": true
     }
@@ -952,7 +952,7 @@
       "Organization": "American Planning Association - Oregon Chapter",
       "DocumentDescription": "Testimony",
       "CreatedDate": "2026-02-06T17:58:38.927",
-      "ModifiedDate": "2026-02-06T18:04:53.45",
+      "ModifiedDate": "2026-02-09T16:09:09.19",
       "PdfCreatedFlag": "Y",
       "PositionOnMeasureId": 3982,
       "SessionKey": "2026R1",
@@ -1019,6 +1019,28 @@
       "DocumentDescription": "Testimony",
       "CreatedDate": "2026-02-07T13:57:39.84",
       "ModifiedDate": "2026-02-07T14:00:11.38",
+      "PdfCreatedFlag": "Y",
+      "PositionOnMeasureId": 3982,
+      "SessionKey": "2026R1",
+      "CommitteeCode": "HHOUSH",
+      "MeetingDate": "2026-02-05T15:00:00",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4035,
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1",
+      "FirstName": null,
+      "LastName": null,
+      "ExecApptId": null,
+      "Topic": "Expands eligibility for cities and Metro to amend their urban growth boundaries under a temporary program."
+    },
+    {
+      "CommTestId": 243498,
+      "SubmitterFirstName": "Tabitha",
+      "SubmitterLastName": "Boschetti CORRECTED",
+      "BehalfOf": "American Planning Association - Oregon Chapter",
+      "Organization": "American Planning Association - Oregon Chapter",
+      "DocumentDescription": "Testimony",
+      "CreatedDate": "2026-02-09T16:08:26.45",
+      "ModifiedDate": "2026-02-09T16:09:57.77",
       "PdfCreatedFlag": "Y",
       "PositionOnMeasureId": 3982,
       "SessionKey": "2026R1",
