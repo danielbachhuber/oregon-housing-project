@@ -15,7 +15,7 @@
     "CurrentCommitteeCode": "SHDEV",
     "CurrentSubCommittee": null,
     "FiscalImpact": "Has minimal fiscal impact",
-    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "RevenueImpact": "No revenue impact",
     "EmergencyClause": false,
     "EffectiveDate": null,
     "FiscalAnalyst": "Twais Broadus",
@@ -23,7 +23,7 @@
     "LCNumber": 4,
     "Vetoed": false,
     "CreatedDate": "2026-01-16T13:16:37",
-    "ModifiedDate": "2026-02-06T08:45:44",
+    "ModifiedDate": "2026-02-08T20:58:18",
     "PrefixMeaning": "Senate Bill"
   },
   "sponsors": [
