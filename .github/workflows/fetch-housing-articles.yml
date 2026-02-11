@@ -140,15 +140,18 @@ jobs:
             for artifact_dir in artifacts/processed-*-urls/; do
               if [ -d "$artifact_dir" ]; then
                 found_artifacts=true
-                artifact_name=$(basename "$artifact_dir")
-                # The artifact contains a file with the same name as the directory
-                txt_file="${artifact_dir}${artifact_name}.txt"
-                if [ -f "$txt_file" ]; then
-                  cp "$txt_file" content/news-coverage/data/
-                  echo "Updated ${artifact_name}.txt"
-                else
-                  echo "Warning: Expected file not found: $txt_file"
-                fi
+                # List what's in the artifact directory for debugging
+                echo "Processing artifact: $artifact_dir"
+                ls -la "$artifact_dir"
+                
+                # Copy all .txt files from this artifact directory
+                for txt_file in "${artifact_dir}"*.txt; do
+                  if [ -f "$txt_file" ]; then
+                    filename=$(basename "$txt_file")
+                    cp "$txt_file" content/news-coverage/data/
+                    echo "Updated $filename from $(basename "$artifact_dir")"
+                  fi
+                done
               fi
             done
             if [ "$found_artifacts" = false ]; then
