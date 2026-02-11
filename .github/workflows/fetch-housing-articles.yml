@@ -132,19 +132,28 @@ jobs:
           git config user.email 'info@oregonhousingproject.org'
 
           # Copy downloaded artifacts back to their proper locations
-          # Loop through all artifact directories
+          # Enable nullglob to handle case when no artifacts match
+          shopt -s nullglob
+          
           if [ -d "artifacts" ]; then
+            found_artifacts=false
             for artifact_dir in artifacts/processed-*-urls/; do
               if [ -d "$artifact_dir" ]; then
+                found_artifacts=true
                 artifact_name=$(basename "$artifact_dir")
-                # Extract source name (e.g., "opb" from "processed-opb-urls")
+                # The artifact contains a file with the same name as the directory
                 txt_file="${artifact_dir}${artifact_name}.txt"
                 if [ -f "$txt_file" ]; then
                   cp "$txt_file" content/news-coverage/data/
                   echo "Updated ${artifact_name}.txt"
+                else
+                  echo "Warning: Expected file not found: $txt_file"
                 fi
               fi
             done
+            if [ "$found_artifacts" = false ]; then
+              echo "No artifact directories found - no state files changed."
+            fi
           else
             echo "No artifacts directory found - no state files changed."
           fi
