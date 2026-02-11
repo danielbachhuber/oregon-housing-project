@@ -11,11 +11,11 @@
     "RelatingTo": "Relating to accessibility standards for housing; prescribing an effective date.",
     "AtTheRequestOf": null,
     "ChapterNumber": null,
-    "CurrentLocation": "In Senate Committee",
+    "CurrentLocation": "In Senate Committee Awaiting transfer to Desk",
     "CurrentCommitteeCode": "SHDEV",
     "CurrentSubCommittee": null,
     "FiscalImpact": "May have fiscal impact, but no statement yet issued",
-    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "RevenueImpact": "No revenue impact",
     "EmergencyClause": false,
     "EffectiveDate": null,
     "FiscalAnalyst": "MaryMichelle Sosne",
@@ -23,7 +23,7 @@
     "LCNumber": 72,
     "Vetoed": false,
     "CreatedDate": "2026-01-16T15:10:46",
-    "ModifiedDate": "2026-02-06T12:09:58",
+    "ModifiedDate": "2026-02-10T17:45:22",
     "PrefixMeaning": "Senate Bill"
   },
   "sponsors": [
@@ -322,19 +322,6 @@
       "PublicNotification": true
     },
     {
-      "MeasureHistoryId": 665003,
-      "SessionKey": "2026R1",
-      "MeasurePrefix": "SB",
-      "MeasureNumber": 1576,
-      "Chamber": "S",
-      "ActionDate": "2026-02-10T15:01:00",
-      "ActionText": "Work Session scheduled.",
-      "VoteText": null,
-      "CreatedDate": "2026-02-05T11:01:34",
-      "ModifiedDate": null,
-      "PublicNotification": true
-    },
-    {
       "MeasureHistoryId": 665131,
       "SessionKey": "2026R1",
       "MeasurePrefix": "SB",
@@ -344,6 +331,19 @@
       "ActionText": "Public Hearing held.",
       "VoteText": null,
       "CreatedDate": "2026-02-05T16:28:18",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 665976,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1576,
+      "Chamber": "S",
+      "ActionDate": "2026-02-10T15:02:00",
+      "ActionText": "Work Session held.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-10T16:56:42",
       "ModifiedDate": null,
       "PublicNotification": false
     }

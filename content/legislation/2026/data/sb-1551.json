@@ -11,7 +11,7 @@
     "RelatingTo": "Relating to fire hardening of residential properties; prescribing an effective date.",
     "AtTheRequestOf": null,
     "ChapterNumber": null,
-    "CurrentLocation": "In Senate Committee",
+    "CurrentLocation": "In Senate Committee Awaiting transfer to Desk",
     "CurrentCommitteeCode": "SNRW",
     "CurrentSubCommittee": null,
     "FiscalImpact": "Has minimal fiscal impact",
@@ -23,7 +23,7 @@
     "LCNumber": 33,
     "Vetoed": false,
     "CreatedDate": "2026-01-15T15:56:17",
-    "ModifiedDate": "2026-02-06T16:53:39",
+    "ModifiedDate": "2026-02-10T14:16:23",
     "PrefixMeaning": "Senate Bill"
   },
   "sponsors": [
@@ -181,17 +181,17 @@
       "PublicNotification": false
     },
     {
-      "MeasureHistoryId": 665298,
+      "MeasureHistoryId": 665898,
       "SessionKey": "2026R1",
       "MeasurePrefix": "SB",
       "MeasureNumber": 1551,
       "Chamber": "S",
-      "ActionDate": "2026-02-10T13:01:00",
-      "ActionText": "Work Session scheduled.",
+      "ActionDate": "2026-02-10T13:02:00",
+      "ActionText": "Work Session held.",
       "VoteText": null,
-      "CreatedDate": "2026-02-06T16:13:10",
+      "CreatedDate": "2026-02-10T14:16:23",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     }
   ],
   "documents": [
