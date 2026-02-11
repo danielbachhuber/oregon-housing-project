@@ -115,7 +115,7 @@ jobs:
   commit-state-changes:
     needs: search-and-process
     runs-on: ubuntu-latest
-    if: success() || failure()
+    if: success()
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -132,19 +132,21 @@ jobs:
           git config user.email 'info@oregonhousingproject.org'
 
           # Copy downloaded artifacts back to their proper locations
-          if [ -d "artifacts/processed-opb-urls" ]; then
-            cp artifacts/processed-opb-urls/processed-opb-urls.txt content/news-coverage/data/
-            echo "Updated opb state file"
-          fi
-
-          if [ -d "artifacts/processed-wweek-urls" ]; then
-            cp artifacts/processed-wweek-urls/processed-wweek-urls.txt content/news-coverage/data/
-            echo "Updated wweek state file"
-          fi
-
-          if [ -d "artifacts/processed-occ-urls" ]; then
-            cp artifacts/processed-occ-urls/processed-occ-urls.txt content/news-coverage/data/
-            echo "Updated occ state file"
+          # Loop through all artifact directories
+          if [ -d "artifacts" ]; then
+            for artifact_dir in artifacts/processed-*-urls/; do
+              if [ -d "$artifact_dir" ]; then
+                artifact_name=$(basename "$artifact_dir")
+                # Extract source name (e.g., "opb" from "processed-opb-urls")
+                txt_file="${artifact_dir}${artifact_name}.txt"
+                if [ -f "$txt_file" ]; then
+                  cp "$txt_file" content/news-coverage/data/
+                  echo "Updated ${artifact_name}.txt"
+                fi
+              fi
+            done
+          else
+            echo "No artifacts directory found - no state files changed."
           fi
 
           # Check if any state files have changed
