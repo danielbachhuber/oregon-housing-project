@@ -92,13 +92,61 @@ jobs:
              git checkout main
           done
 
-      - name: Update Processed URLs State
-        if: success()
+      - name: Check State File Changes
+        id: state-check
+        run: |
+          # Check if this source's state file has changed
+          if [[ -n $(git status --porcelain content/news-coverage/data/processed-${{ matrix.source }}-urls.txt) ]]; then
+            echo "has-changes=true" >> "$GITHUB_OUTPUT"
+            echo "State file for ${{ matrix.source }} has changes."
+          else
+            echo "has-changes=false" >> "$GITHUB_OUTPUT"
+            echo "No changes to state file for ${{ matrix.source }}."
+          fi
+
+      - name: Upload State File Artifact
+        if: steps.state-check.outputs.has-changes == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: processed-${{ matrix.source }}-urls
+          path: content/news-coverage/data/processed-${{ matrix.source }}-urls.txt
+          retention-days: 1
+
+  commit-state-changes:
+    needs: search-and-process
+    runs-on: ubuntu-latest
+    if: always()
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Download all state file artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: artifacts
+
+      - name: Update State Files
         run: |
           git config user.name 'oregonhousingproject[bot]'
           git config user.email 'info@oregonhousingproject.org'
 
-          # Check if state files have changed
+          # Copy downloaded artifacts back to their proper locations
+          if [ -d "artifacts/processed-opb-urls" ]; then
+            cp artifacts/processed-opb-urls/processed-opb-urls.txt content/news-coverage/data/
+            echo "Updated opb state file"
+          fi
+
+          if [ -d "artifacts/processed-wweek-urls" ]; then
+            cp artifacts/processed-wweek-urls/processed-wweek-urls.txt content/news-coverage/data/
+            echo "Updated wweek state file"
+          fi
+
+          if [ -d "artifacts/processed-occ-urls" ]; then
+            cp artifacts/processed-occ-urls/processed-occ-urls.txt content/news-coverage/data/
+            echo "Updated occ state file"
+          fi
+
+          # Check if any state files have changed
           if [[ -n $(git status --porcelain content/news-coverage/data/processed-*-urls.txt) ]]; then
             echo "State files changed. Committing updates."
             git add content/news-coverage/data/processed-*-urls.txt
