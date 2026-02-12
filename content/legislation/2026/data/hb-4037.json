@@ -83,20 +83,20 @@
       "PublicNotification": false
     },
     {
-      "MeasureHistoryId": 665479,
+      "MeasureHistoryId": 665959,
       "SessionKey": "2026R1",
       "MeasurePrefix": "HB",
       "MeasureNumber": 4037,
       "Chamber": "H",
       "ActionDate": "2026-02-10T15:01:00",
-      "ActionText": "Public Hearing scheduled.",
+      "ActionText": "Public Hearing held.",
       "VoteText": null,
-      "CreatedDate": "2026-02-09T13:17:30",
+      "CreatedDate": "2026-02-10T16:45:26",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
-      "MeasureHistoryId": 665483,
+      "MeasureHistoryId": 665968,
       "SessionKey": "2026R1",
       "MeasurePrefix": "HB",
       "MeasureNumber": 4037,
@@ -104,7 +104,7 @@
       "ActionDate": "2026-02-12T15:01:00",
       "ActionText": "Possible Work Session scheduled.",
       "VoteText": null,
-      "CreatedDate": "2026-02-09T13:17:57",
+      "CreatedDate": "2026-02-10T16:46:08",
       "ModifiedDate": null,
       "PublicNotification": true
     }
@@ -220,6 +220,28 @@
       "ModifiedDate": "2026-02-09T15:35:09.26",
       "PdfCreatedFlag": "Y",
       "PositionOnMeasureId": 3982,
+      "SessionKey": "2026R1",
+      "CommitteeCode": "HHOUSH",
+      "MeetingDate": "2026-02-10T15:00:00",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4037,
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1",
+      "FirstName": null,
+      "LastName": null,
+      "ExecApptId": null,
+      "Topic": "Adjusts certain terms of the revolving loan program for cities and counties to fund affordable housing projects."
+    },
+    {
+      "CommTestId": 245489,
+      "SubmitterFirstName": "Vanessa",
+      "SubmitterLastName": "Cornwall",
+      "BehalfOf": "Lane County Commissioner Heather Buch",
+      "Organization": "Lane County",
+      "DocumentDescription": "Testimony",
+      "CreatedDate": "2026-02-10T15:39:01.01",
+      "ModifiedDate": "2026-02-10T15:45:09.62",
+      "PdfCreatedFlag": "Y",
+      "PositionOnMeasureId": 3983,
       "SessionKey": "2026R1",
       "CommitteeCode": "HHOUSH",
       "MeetingDate": "2026-02-10T15:00:00",

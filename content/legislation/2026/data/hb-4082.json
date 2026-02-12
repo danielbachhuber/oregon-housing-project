@@ -11,11 +11,11 @@
     "RelatingTo": "Relating to housing for older persons; prescribing an effective date.",
     "AtTheRequestOf": "(at the request of Governor Tina Kotek for Office of the Governor)",
     "ChapterNumber": null,
-    "CurrentLocation": "In House Committee",
+    "CurrentLocation": "In House Committee Awaiting transfer to Desk",
     "CurrentCommitteeCode": "HHOUSH",
     "CurrentSubCommittee": null,
-    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
-    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "FiscalImpact": "Has minimal fiscal impact",
+    "RevenueImpact": "No revenue impact",
     "EmergencyClause": false,
     "EffectiveDate": null,
     "FiscalAnalyst": "Twais Broadus",
@@ -23,7 +23,7 @@
     "LCNumber": 94,
     "Vetoed": false,
     "CreatedDate": "2026-01-16T16:14:03",
-    "ModifiedDate": "2026-02-06T18:00:01",
+    "ModifiedDate": "2026-02-10T16:45:26",
     "PrefixMeaning": "House Bill"
   },
   "sponsors": [
@@ -83,17 +83,17 @@
       "PublicNotification": false
     },
     {
-      "MeasureHistoryId": 665476,
+      "MeasureHistoryId": 665964,
       "SessionKey": "2026R1",
       "MeasurePrefix": "HB",
       "MeasureNumber": 4082,
       "Chamber": "H",
-      "ActionDate": "2026-02-10T15:01:00",
-      "ActionText": "Possible Work Session scheduled.",
+      "ActionDate": "2026-02-10T15:02:00",
+      "ActionText": "Work Session held.",
       "VoteText": null,
-      "CreatedDate": "2026-02-09T13:17:30",
+      "CreatedDate": "2026-02-10T16:45:26",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     }
   ],
   "documents": [

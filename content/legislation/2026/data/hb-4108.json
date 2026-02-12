@@ -18,7 +18,7 @@
     "RevenueImpact": "May have revenue impact, but no statement yet issued",
     "EmergencyClause": false,
     "EffectiveDate": null,
-    "FiscalAnalyst": "Haylee Morse-Miller",
+    "FiscalAnalyst": "Chelsey Herrmann-Nordness",
     "RevenueEconomist": "Chris Allanach",
     "LCNumber": 34,
     "Vetoed": false,
@@ -251,15 +251,15 @@
       "PublicNotification": false
     },
     {
-      "MeasureHistoryId": 665477,
+      "MeasureHistoryId": 665970,
       "SessionKey": "2026R1",
       "MeasurePrefix": "HB",
       "MeasureNumber": 4108,
       "Chamber": "H",
-      "ActionDate": "2026-02-10T15:01:00",
+      "ActionDate": "2026-02-12T15:01:00",
       "ActionText": "Possible Work Session scheduled.",
       "VoteText": null,
-      "CreatedDate": "2026-02-09T13:17:30",
+      "CreatedDate": "2026-02-10T16:46:08",
       "ModifiedDate": null,
       "PublicNotification": true
     }

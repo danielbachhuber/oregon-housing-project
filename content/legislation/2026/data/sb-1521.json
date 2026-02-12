@@ -70,19 +70,6 @@
       "PublicNotification": true
     },
     {
-      "MeasureHistoryId": 665002,
-      "SessionKey": "2026R1",
-      "MeasurePrefix": "SB",
-      "MeasureNumber": 1521,
-      "Chamber": "S",
-      "ActionDate": "2026-02-10T15:01:00",
-      "ActionText": "Work Session scheduled.",
-      "VoteText": null,
-      "CreatedDate": "2026-02-05T11:01:34",
-      "ModifiedDate": null,
-      "PublicNotification": true
-    },
-    {
       "MeasureHistoryId": 665130,
       "SessionKey": "2026R1",
       "MeasurePrefix": "SB",
@@ -94,6 +81,19 @@
       "CreatedDate": "2026-02-05T16:28:18",
       "ModifiedDate": null,
       "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 665869,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1521,
+      "Chamber": "S",
+      "ActionDate": "2026-02-12T15:01:00",
+      "ActionText": "Work Session scheduled.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-10T11:59:37",
+      "ModifiedDate": null,
+      "PublicNotification": true
     }
   ],
   "documents": [
