@@ -10,6 +10,7 @@
 		"wtd": "bin/delete-worktree.sh",
 		"refine-internal-links": "tsx scripts/refine-internal-links.ts",
 		"refine-legislation": "tsx scripts/refine-legislation.ts",
+		"refine-city": "tsx scripts/refine-city.ts",
 		"refine-person": "tsx scripts/refine-person.ts"
 	},
 	"keywords": [],

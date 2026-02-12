@@ -1,0 +1,80 @@
+name: Refine City
+
+on:
+  workflow_dispatch:
+    inputs:
+      slug:
+        description: 'City slug (e.g. "bend", "lake-oswego")'
+        required: true
+        type: string
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: refine-city
+  cancel-in-progress: true
+
+jobs:
+  refine-city:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v3
+        with:
+          version: 9
+
+      - name: Install dependencies
+        run: pnpm install
+
+      - name: Refine city profile
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: pnpm refine-city ${{ inputs.slug }}
+
+      - name: Create PR
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          SLUG="${{ inputs.slug }}"
+
+          if [ -z "$(git status --porcelain content/)" ]; then
+            echo "No changes detected."
+            exit 0
+          fi
+
+          git config user.name 'oregonhousingproject[bot]'
+          git config user.email 'info@oregonhousingproject.org'
+
+          # Ensure label exists
+          gh label create "refine-city" --color "1d76db" --description "Automated city profile refinement" 2>/dev/null || true
+
+          # Close existing PRs for the same city
+          EXISTING_PRS=$(gh pr list --label "refine-city" --state open --json number,headRefName --jq ".[] | select(.headRefName | contains(\"${SLUG}\")) | .number")
+          for pr in $EXISTING_PRS; do
+            echo "Closing existing PR #${pr}..."
+            gh pr close "$pr" --delete-branch || true
+          done
+
+          BRANCH_NAME="auto/refine-city-${SLUG}-$(date +%Y-%m-%d)-${{ github.run_number }}"
+          git checkout -b "$BRANCH_NAME"
+          git add content/
+          git commit -m "Refine city profile for ${SLUG}"
+          git push -u origin "$BRANCH_NAME"
+
+          gh pr create \
+            --title "Refine city profile: ${SLUG}" \
+            --body "Automated city profile refinement for **${SLUG}**. Generated using \`pnpm refine-city\` with web search." \
+            --base main \
+            --head "$BRANCH_NAME" \
+            --label "refine-city" \
+            --reviewer danielbachhuber
