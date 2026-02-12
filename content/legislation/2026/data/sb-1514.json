@@ -70,7 +70,7 @@
       "PublicNotification": true
     },
     {
-      "MeasureHistoryId": 665378,
+      "MeasureHistoryId": 666062,
       "SessionKey": "2026R1",
       "MeasurePrefix": "SB",
       "MeasureNumber": 1514,
@@ -78,7 +78,7 @@
       "ActionDate": "2026-02-16T08:01:00",
       "ActionText": "Public Hearing and Work Session scheduled.",
       "VoteText": null,
-      "CreatedDate": "2026-02-09T10:39:46",
+      "CreatedDate": "2026-02-11T10:58:59",
       "ModifiedDate": null,
       "PublicNotification": true
     }
@@ -94,5 +94,28 @@
       "ModifiedDate": null
     }
   ],
-  "testimony": []
+  "testimony": [
+    {
+      "CommTestId": 247827,
+      "SubmitterFirstName": "Kathleen",
+      "SubmitterLastName": "Mahoney",
+      "BehalfOf": null,
+      "Organization": "Portland",
+      "DocumentDescription": "Testimony",
+      "CreatedDate": "2026-02-11T19:59:34.38",
+      "ModifiedDate": "2026-02-11T20:05:02.59",
+      "PdfCreatedFlag": "Y",
+      "PositionOnMeasureId": 3982,
+      "SessionKey": "2026R1",
+      "CommitteeCode": "SCGG",
+      "MeetingDate": "2026-02-16T08:00:00",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1514,
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1",
+      "FirstName": null,
+      "LastName": null,
+      "ExecApptId": null,
+      "Topic": "Repeals the statute enacted by House Bill 3115 (2021) that established objective reasonableness as a statewide standard, for city and county laws regulating the use of public property with respect to persons experiencing homelessness, as the basis for a cause of action for injunctive and declaratory relief to challenge such laws and as an affirmative defense in the prosecution of violations of such laws."
+    }
+  ]
 }

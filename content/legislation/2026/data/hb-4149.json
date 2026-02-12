@@ -335,15 +335,15 @@
       "PublicNotification": false
     },
     {
-      "MeasureHistoryId": 665366,
+      "MeasureHistoryId": 666045,
       "SessionKey": "2026R1",
       "MeasurePrefix": "HB",
       "MeasureNumber": 4149,
       "Chamber": "H",
-      "ActionDate": "2026-02-11T08:01:00",
+      "ActionDate": "2026-02-16T08:01:00",
       "ActionText": "Work Session scheduled.",
       "VoteText": null,
-      "CreatedDate": "2026-02-09T09:58:07",
+      "CreatedDate": "2026-02-11T10:21:30",
       "ModifiedDate": null,
       "PublicNotification": true
     }
