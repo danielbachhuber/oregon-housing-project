@@ -11,11 +11,6 @@ on:
 permissions:
   contents: write
   pull-requests: write
-
-concurrency:
-  group: refine-city
-  cancel-in-progress: true
-
 jobs:
   refine-city:
     runs-on: ubuntu-latest
