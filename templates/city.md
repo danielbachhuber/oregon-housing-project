@@ -34,3 +34,9 @@ Major housing issues facing the city (affordability, supply, homelessness, etc.)
 Any city-specific housing programs, incentives, or regulations.
 
 Include internal links to relevant legislation and people as appropriate.
+
+## Citation Requirements
+
+Every factual claim MUST have a footnote citation. This includes population figures, demographic percentages, housing prices, vacancy rates, zoning details, land acreage, policy descriptions, development project details, and any other specific facts or statistics. Do not make any factual statement without a corresponding footnote reference (e.g. [^1]) that links to a source in the Sources section at the end of the document.
+
+Every footnote defined in the Sources section MUST be referenced at least once in the body text. Do not include orphaned footnotes.
