@@ -11,10 +11,10 @@
     "RelatingTo": "Relating to land use.",
     "AtTheRequestOf": "(at the request of House Interim Committee on Housing and Homelessness for Representative Pam Marsh)",
     "ChapterNumber": null,
-    "CurrentLocation": "In House Committee",
+    "CurrentLocation": "In House Committee Awaiting transfer to Desk",
     "CurrentCommitteeCode": "HHOUSH",
     "CurrentSubCommittee": null,
-    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "FiscalImpact": "Has minimal fiscal impact",
     "RevenueImpact": "May have revenue impact, but no statement yet issued",
     "EmergencyClause": false,
     "EffectiveDate": null,
@@ -23,7 +23,7 @@
     "LCNumber": 205,
     "Vetoed": false,
     "CreatedDate": "2026-01-15T09:47:17",
-    "ModifiedDate": "2026-02-09T17:45:25",
+    "ModifiedDate": "2026-02-12T16:39:32",
     "PrefixMeaning": "House Bill"
   },
   "sponsors": [
@@ -83,17 +83,17 @@
       "PublicNotification": false
     },
     {
-      "MeasureHistoryId": 665969,
+      "MeasureHistoryId": 666344,
       "SessionKey": "2026R1",
       "MeasurePrefix": "HB",
       "MeasureNumber": 4035,
       "Chamber": "H",
-      "ActionDate": "2026-02-12T15:01:00",
-      "ActionText": "Possible Work Session scheduled.",
+      "ActionDate": "2026-02-12T15:02:00",
+      "ActionText": "Work Session held.",
       "VoteText": null,
-      "CreatedDate": "2026-02-10T16:46:08",
+      "CreatedDate": "2026-02-12T16:39:32",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     }
   ],
   "documents": [
