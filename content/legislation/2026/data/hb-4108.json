@@ -11,11 +11,11 @@
     "RelatingTo": "Relating to annexation of land noncontiguous to a city.",
     "AtTheRequestOf": null,
     "ChapterNumber": null,
-    "CurrentLocation": "In House Committee",
+    "CurrentLocation": "In House Committee Awaiting transfer to Desk",
     "CurrentCommitteeCode": "HHOUSH",
     "CurrentSubCommittee": null,
-    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
-    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "FiscalImpact": "Has minimal fiscal impact",
+    "RevenueImpact": "No revenue impact",
     "EmergencyClause": false,
     "EffectiveDate": null,
     "FiscalAnalyst": "Chelsey Herrmann-Nordness",
@@ -23,7 +23,7 @@
     "LCNumber": 34,
     "Vetoed": false,
     "CreatedDate": "2026-01-17T13:13:23",
-    "ModifiedDate": "2026-02-09T20:44:55",
+    "ModifiedDate": "2026-02-12T18:27:19",
     "PrefixMeaning": "House Bill"
   },
   "sponsors": [
@@ -208,6 +208,34 @@
       "PresessionFiledMessage": null,
       "CreatedDate": "2026-02-03T15:47:29",
       "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "157747",
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4108,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Wise",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2026-02-12T15:27:06",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "157748",
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4108,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Boice",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2026-02-12T15:28:17",
+      "ModifiedDate": null
     }
   ],
   "historyActions": [
@@ -251,17 +279,17 @@
       "PublicNotification": false
     },
     {
-      "MeasureHistoryId": 665970,
+      "MeasureHistoryId": 666345,
       "SessionKey": "2026R1",
       "MeasurePrefix": "HB",
       "MeasureNumber": 4108,
       "Chamber": "H",
-      "ActionDate": "2026-02-12T15:01:00",
-      "ActionText": "Possible Work Session scheduled.",
+      "ActionDate": "2026-02-12T15:02:00",
+      "ActionText": "Work Session held.",
       "VoteText": null,
-      "CreatedDate": "2026-02-10T16:46:08",
+      "CreatedDate": "2026-02-12T16:39:32",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     }
   ],
   "documents": [

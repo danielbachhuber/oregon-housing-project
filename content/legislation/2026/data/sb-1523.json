@@ -5,14 +5,14 @@
     "MeasureNumber": 1523,
     "CatchLine": "Defines \"tenant portal\" for the purposes of residential tenancies.",
     "MinorityCatchLine": null,
-    "MeasureSummary": "\tDigest: This Act allows a tenant or applicant for housing to opt not to use a tenant portal or to pay by card or electronic means. (Flesch Readability Score: 63.0). \n\tDefines \"tenant portal\" for the purposes of residential tenancies. Requires landlords to provide an alternative to a tenant portal in response to a request from an applicant or tenant. Prohibits landlords from requiring payments via a tenant portal, card or electronic means. Requires landlords to provide an alternative to a tenant portal to access common areas of the premises. Allows landlords to charge tenants for payment processing fees for payments made by credit card or tenant portal. \n\tTakes effect on the 91st day following adjournment sine die.",
-    "CurrentVersion": null,
+    "MeasureSummary": "\tDigest: This Act allows a tenant or applicant for housing to opt not to use a tenant portal or to pay by card or electronic means. (Flesch Readability Score: 63.0). \n\tDefines \"tenant portal\" for the purposes of residential tenancies. Requires landlords to provide an alternative to a tenant portal in response to a request from an applicant or tenant<b> under certain circumstances</b>. Prohibits landlords from requiring payments via a tenant portal, card or electronic means. Requires landlords to provide an alternative to a tenant portal to access common areas of the premises. Allows landlords to charge tenants for payment processing fees for payments made by credit card or tenant portal. \n\tTakes effect on the 91st day following adjournment sine die.",
+    "CurrentVersion": "A",
     "RelatingToFull": "Relating to electronic access to residential tenancies; creating new provisions; amending ORS 90.100, 90.302 and 90.320; and prescribing an effective date.\n\t",
     "RelatingTo": "Relating to electronic access to residential tenancies; prescribing an effective date.",
     "AtTheRequestOf": "(at the request of Senate Interim Committee on Housing and Development)",
     "ChapterNumber": null,
-    "CurrentLocation": "In Senate Committee Awaiting transfer to Desk",
-    "CurrentCommitteeCode": "SHDEV",
+    "CurrentLocation": "Senate Desk - Awaiting Second Reading",
+    "CurrentCommitteeCode": null,
     "CurrentSubCommittee": null,
     "FiscalImpact": "Has minimal fiscal impact",
     "RevenueImpact": "No revenue impact",
@@ -23,7 +23,7 @@
     "LCNumber": 287,
     "Vetoed": false,
     "CreatedDate": "2026-01-14T13:37:51",
-    "ModifiedDate": "2026-02-10T17:51:01",
+    "ModifiedDate": "2026-02-13T18:05:02",
     "PrefixMeaning": "Senate Bill"
   },
   "sponsors": [
@@ -94,6 +94,19 @@
       "CreatedDate": "2026-02-10T16:56:42",
       "ModifiedDate": null,
       "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 666522,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1523,
+      "Chamber": "S",
+      "ActionDate": "2026-02-13T15:27:15",
+      "ActionText": "Recommendation: Do pass with amendments.  (Printed A-Eng.)",
+      "VoteText": null,
+      "CreatedDate": "2026-02-13T15:28:33",
+      "ModifiedDate": null,
+      "PublicNotification": true
     }
   ],
   "documents": [
@@ -101,9 +114,27 @@
       "SessionKey": "2026R1",
       "MeasurePrefix": "SB",
       "MeasureNumber": 1523,
+      "VersionDescription": "A-Engrossed",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1523/A-Engrossed",
+      "CreatedDate": "2026-02-13T16:45:22.547",
+      "ModifiedDate": null
+    },
+    {
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1523,
       "VersionDescription": "Introduced",
       "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1523/Introduced",
       "CreatedDate": "2026-01-28T15:25:27.907",
+      "ModifiedDate": null
+    },
+    {
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1523,
+      "VersionDescription": "Senate Amendments to Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1523/Senate Amendments to Introduced",
+      "CreatedDate": "2026-02-13T16:45:22.68",
       "ModifiedDate": null
     }
   ],

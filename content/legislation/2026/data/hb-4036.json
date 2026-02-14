@@ -3,16 +3,16 @@
     "SessionKey": "2026R1",
     "MeasurePrefix": "HB",
     "MeasureNumber": 4036,
-    "CatchLine": "Establishes the Preserve Affordable Homes for Oregon Fund to deposit Article XI-Q bonds to be used to preserve affordable housing at risk of loss.",
+    "CatchLine": "Establishes the Housing Opportunity, Longevity and Durability Fund to deposit Article XI-Q bonds to be used by the Housing and Community Services Department to preserve affordable housing at risk of loss.",
     "MinorityCatchLine": null,
-    "MeasureSummary": "\tDigest: This Act sets up a bond fund to preserve low-cost housing and requires OHCS to report on low-cost housing barriers. (Flesch Readability Score: 63.8). \n\tEstablishes the Preserve Affordable Homes for Oregon Fund to deposit Article XI-Q bonds to be used to preserve affordable housing at risk of loss. \n\tRequires the Housing and Community Services Department to, with input from stakeholders, report to the interim committees of the Legislative Assembly relating to housing on or before December 1, 2026, on legal and policy barriers to affordable housing production. \n\tDeclares an emergency, effective on passage.",
-    "CurrentVersion": null,
+    "MeasureSummary": "\tDigest: This Act sets up a bond fund to preserve low-cost housing and requires OHCS to report on low-cost housing barriers. (Flesch Readability Score: 63.8). \n\tEstablishes the [<i>Preserve Affordable Homes for Oregon</i>]<b> Housing Opportunity, Longevity and Durability</b> Fund to deposit Article XI-Q bonds to be used <b>by the Housing and Community Services Department</b> to preserve affordable housing at risk of loss.<b> Authorizes the State Treasurer to issue $100 million in bonds for the fund for the 2025-2027 biennium.</b> \n\tRequires the [<i>Housing and Community Services</i>] department to, with input from stakeholders, report to the interim committees of the Legislative Assembly relating to housing on or before December 1, 2026, on legal and policy barriers to affordable housing production. \n\tDeclares an emergency, effective on passage.",
+    "CurrentVersion": "A",
     "RelatingToFull": "Relating to affordable housing; creating new provisions; amending ORS 456.559 and 456.824 and section 1, chapter 630, Oregon Laws 2025; and declaring an emergency.\n\t",
     "RelatingTo": "Relating to affordable housing; declaring an emergency.",
     "AtTheRequestOf": "(at the request of House Interim Committee on Housing and Homelessness for Representative Pam Marsh)",
     "ChapterNumber": null,
-    "CurrentLocation": "In House Committee Awaiting transfer to Desk",
-    "CurrentCommitteeCode": "HHOUSH",
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "JWM",
     "CurrentSubCommittee": null,
     "FiscalImpact": "Fiscal impact issued",
     "RevenueImpact": "Revenue impact issued",
@@ -23,7 +23,7 @@
     "LCNumber": 209,
     "Vetoed": false,
     "CreatedDate": "2026-01-15T09:47:17",
-    "ModifiedDate": "2026-02-10T18:22:18",
+    "ModifiedDate": "2026-02-12T18:05:01",
     "PrefixMeaning": "House Bill"
   },
   "sponsors": [
@@ -94,9 +94,53 @@
       "CreatedDate": "2026-02-10T16:45:26",
       "ModifiedDate": null,
       "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 666318,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4036,
+      "Chamber": "H",
+      "ActionDate": "2026-02-12T14:27:04",
+      "ActionText": "Recommendation: Do pass with amendments, be printed A-Engrossed, and be referred to Ways and Means by prior reference.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-12T14:38:22",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 666319,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4036,
+      "Chamber": "H",
+      "ActionDate": "2026-02-12T14:28:27",
+      "ActionText": "Referred to Ways and Means by prior reference.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-12T14:38:22",
+      "ModifiedDate": null,
+      "PublicNotification": false
     }
   ],
   "documents": [
+    {
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4036,
+      "VersionDescription": "A-Engrossed",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4036/A-Engrossed",
+      "CreatedDate": "2026-02-12T16:51:27.04",
+      "ModifiedDate": null
+    },
+    {
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4036,
+      "VersionDescription": "House Amendments to Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4036/House Amendments to Introduced",
+      "CreatedDate": "2026-02-12T16:51:27.177",
+      "ModifiedDate": null
+    },
     {
       "SessionKey": "2026R1",
       "MeasurePrefix": "HB",

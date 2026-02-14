@@ -3,16 +3,16 @@
     "SessionKey": "2026R1",
     "MeasurePrefix": "SB",
     "MeasureNumber": 1551,
-    "CatchLine": "Invalidates deed restrictions and planned community governing documents prohibiting the removal of nonfire-hardened building materials or installation of fire-hardened building materials on residential properties.",
+    "CatchLine": "Invalidates deed restrictions and planned community governing documents prohibiting the replacement of nonfire-hardened building materials or installation of fire-hardened building materials on residential properties.",
     "MinorityCatchLine": null,
-    "MeasureSummary": "\tDigest: This Act stops HOAs or deed terms from limiting an owner from upgrading the fire safety of materials in their home. (Flesch Readability Score: 60.6). \n\tInvalidates deed restrictions and planned community governing documents prohibiting the removal of nonfire-hardened building materials or installation of fire-hardened building materials on residential properties. Limits a homeowners association's ability to enforce regulations that would constrain installation of fire-hardened building materials. Applies to new and existing deed restrictions and planned communities. \n\tTakes effect on the 91st day following adjournment sine die.",
-    "CurrentVersion": null,
+    "MeasureSummary": "\tDigest: This Act stops HOAs or deed terms from limiting an owner from upgrading the fire safety of materials in their home. (Flesch Readability Score: 60.6). \n\tInvalidates deed restrictions and planned community governing documents prohibiting the [<i>removal</i>]<b> replacement</b> of nonfire-hardened building materials or installation of fire-hardened building materials on residential properties. Limits a homeowners association's ability to enforce regulations that would constrain installation of fire-hardened building materials. Applies to new and existing deed restrictions and planned communities. \n\tTakes effect on the 91st day following adjournment sine die.",
+    "CurrentVersion": "A",
     "RelatingToFull": "Relating to fire hardening of residential properties; creating new provisions; amending ORS 94.572, 94.573 and 94.630; and prescribing an effective date.\n\t",
     "RelatingTo": "Relating to fire hardening of residential properties; prescribing an effective date.",
     "AtTheRequestOf": null,
     "ChapterNumber": null,
-    "CurrentLocation": "In Senate Committee Awaiting transfer to Desk",
-    "CurrentCommitteeCode": "SNRW",
+    "CurrentLocation": "Senate Desk - Awaiting Second Reading",
+    "CurrentCommitteeCode": null,
     "CurrentSubCommittee": null,
     "FiscalImpact": "Has minimal fiscal impact",
     "RevenueImpact": "No revenue impact",
@@ -23,7 +23,7 @@
     "LCNumber": 33,
     "Vetoed": false,
     "CreatedDate": "2026-01-15T15:56:17",
-    "ModifiedDate": "2026-02-10T14:16:23",
+    "ModifiedDate": "2026-02-13T18:05:02",
     "PrefixMeaning": "Senate Bill"
   },
   "sponsors": [
@@ -192,6 +192,19 @@
       "CreatedDate": "2026-02-10T14:16:23",
       "ModifiedDate": null,
       "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 666377,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1551,
+      "Chamber": "S",
+      "ActionDate": "2026-02-13T09:55:29",
+      "ActionText": "Recommendation: Do pass with amendments.  (Printed A-Eng.)",
+      "VoteText": null,
+      "CreatedDate": "2026-02-13T10:03:54",
+      "ModifiedDate": null,
+      "PublicNotification": true
     }
   ],
   "documents": [
@@ -199,9 +212,27 @@
       "SessionKey": "2026R1",
       "MeasurePrefix": "SB",
       "MeasureNumber": 1551,
+      "VersionDescription": "A-Engrossed",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1551/A-Engrossed",
+      "CreatedDate": "2026-02-13T16:45:23.433",
+      "ModifiedDate": null
+    },
+    {
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1551,
       "VersionDescription": "Introduced",
       "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1551/Introduced",
       "CreatedDate": "2026-01-28T15:25:31.23",
+      "ModifiedDate": null
+    },
+    {
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1551,
+      "VersionDescription": "Senate Amendments to Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1551/Senate Amendments to Introduced",
+      "CreatedDate": "2026-02-13T16:45:23.6",
       "ModifiedDate": null
     }
   ],
