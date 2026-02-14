@@ -3,18 +3,18 @@
     "SessionKey": "2026R1",
     "MeasurePrefix": "SB",
     "MeasureNumber": 1576,
-    "CatchLine": "Requires the Director of the Department of Consumer and Business Services to adopt rules to conform the state building code to accessibility requirements under the Fair Housing Act and to certain American National Standards Institute standards for housing accessibility.",
+    "CatchLine": "Requires the Director of the Department of Consumer and Business Services to adopt rules to conform the state building code to accessibility requirements under the Fair Housing Act.",
     "MinorityCatchLine": null,
-    "MeasureSummary": "\tDigest: Tells two state agencies to set rules for making housing easier to access and use for people with disabilities. Takes effect 91 days after the session ends. (Flesch Readability Score: 61.5). \n\tRequires the Director of the Department of Consumer and Business Services to adopt rules to conform the state building code to accessibility requirements under the Fair Housing Act and to certain American National Standards Institute standards for housing accessibility. \n\tProhibits the Housing and Community Services Department from funding new rental housing that is a subsidized development unless the housing meets specified accessibility standards. \n\tTakes effect on the 91st day following adjournment sine die.",
-    "CurrentVersion": null,
+    "MeasureSummary": "\tDigest: Tells two state agencies to set rules for making housing easier to access and use for people with disabilities. Takes effect 91 days after the session ends. (Flesch Readability Score: 61.5). \n\tRequires the Director of the Department of Consumer and Business Services to adopt rules to conform the state building code to accessibility requirements under the Fair Housing Act [<i>and to certain American National Standards Institute standards for housing accessibility</i>]. \n\tProhibits the Housing and Community Services Department from funding new rental housing that is a subsidized development unless the housing meets specified accessibility standards. \n\tTakes effect on the 91st day following adjournment sine die.",
+    "CurrentVersion": "A",
     "RelatingToFull": "Relating to accessibility standards for housing; creating new provisions; and amending ORS 447.220, 456.508 and 456.510; and prescribing an effective date.\n\t",
     "RelatingTo": "Relating to accessibility standards for housing; prescribing an effective date.",
     "AtTheRequestOf": null,
     "ChapterNumber": null,
-    "CurrentLocation": "In Senate Committee Awaiting transfer to Desk",
-    "CurrentCommitteeCode": "SHDEV",
+    "CurrentLocation": "Senate Desk - Awaiting Second Reading",
+    "CurrentCommitteeCode": null,
     "CurrentSubCommittee": null,
-    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "FiscalImpact": "Has minimal fiscal impact",
     "RevenueImpact": "No revenue impact",
     "EmergencyClause": false,
     "EffectiveDate": null,
@@ -23,7 +23,7 @@
     "LCNumber": 72,
     "Vetoed": false,
     "CreatedDate": "2026-01-16T15:10:46",
-    "ModifiedDate": "2026-02-10T17:45:22",
+    "ModifiedDate": "2026-02-13T18:05:02",
     "PrefixMeaning": "Senate Bill"
   },
   "sponsors": [
@@ -346,6 +346,19 @@
       "CreatedDate": "2026-02-10T16:56:42",
       "ModifiedDate": null,
       "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 666525,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1576,
+      "Chamber": "S",
+      "ActionDate": "2026-02-13T15:27:33",
+      "ActionText": "Recommendation: Do pass with amendments.  (Printed A-Eng.)",
+      "VoteText": null,
+      "CreatedDate": "2026-02-13T15:28:33",
+      "ModifiedDate": null,
+      "PublicNotification": true
     }
   ],
   "documents": [
@@ -353,9 +366,27 @@
       "SessionKey": "2026R1",
       "MeasurePrefix": "SB",
       "MeasureNumber": 1576,
+      "VersionDescription": "A-Engrossed",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1576/A-Engrossed",
+      "CreatedDate": "2026-02-13T16:45:24.49",
+      "ModifiedDate": null
+    },
+    {
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1576,
       "VersionDescription": "Introduced",
       "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1576/Introduced",
       "CreatedDate": "2026-01-28T15:25:34.113",
+      "ModifiedDate": null
+    },
+    {
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1576,
+      "VersionDescription": "Senate Amendments to Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1576/Senate Amendments to Introduced",
+      "CreatedDate": "2026-02-13T16:45:24.647",
       "ModifiedDate": null
     }
   ],

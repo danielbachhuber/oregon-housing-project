@@ -3,16 +3,16 @@
     "SessionKey": "2026R1",
     "MeasurePrefix": "HB",
     "MeasureNumber": 4082,
-    "CatchLine": "Adds to a temporary UGB addition program an option for each city or Metro to also add to its urban growth boundary a site for manufactured dwelling parks, or for housing for older persons, that is affordable for households with incomes not more than 120 percent of area median income.",
+    "CatchLine": "Adds to a temporary UGB addition program an option for each city or Metro to also add to its urban growth boundary a site for manufactured dwellings, prefabricated structures or manufactured dwelling parks, or for housing that is predominantly for older persons and affordable for households with incomes not more than 120 percent of area median income.",
     "MinorityCatchLine": null,
-    "MeasureSummary": "\tDigest: This Act allows cities to add sites to their UGB for manufactured dwelling parks or housing for older persons. (Flesch Readability Score: 62.8). \n\tAdds to a temporary UGB addition program an option for each city or Metro to also add to its urban growth boundary a site for manufactured dwelling parks, or for housing for older persons, that is affordable for households with incomes not more than 120 percent of area median income. \n\tSunsets January 2, 2033. \n\tTakes effect on the 91st day following adjournment sine die.",
-    "CurrentVersion": null,
+    "MeasureSummary": "\tDigest: This Act allows cities to add sites to their UGB for manufactured dwelling parks or housing for older persons. (Flesch Readability Score: 62.8). \n\tAdds to a temporary UGB addition program an option for each city or Metro to also add to its urban growth boundary a site for<b> manufactured dwellings, prefabricated structures or</b> manufactured dwelling parks, or for housing <b>that is predominantly</b> for older persons[<i>, that is</i>] <b>and</b> affordable for households with incomes not more than 120 percent of area median income. \n\tSunsets January 2, 2033. \n\tTakes effect on the 91st day following adjournment sine die.",
+    "CurrentVersion": "A",
     "RelatingToFull": "Relating to housing for older persons; creating new provisions; amending sections 57 and 60, chapter 110, Oregon Laws 2024; and prescribing an effective date.\n\t",
     "RelatingTo": "Relating to housing for older persons; prescribing an effective date.",
     "AtTheRequestOf": "(at the request of Governor Tina Kotek for Office of the Governor)",
     "ChapterNumber": null,
-    "CurrentLocation": "In House Committee Awaiting transfer to Desk",
-    "CurrentCommitteeCode": "HHOUSH",
+    "CurrentLocation": "House Desk - Second Reading",
+    "CurrentCommitteeCode": null,
     "CurrentSubCommittee": null,
     "FiscalImpact": "Has minimal fiscal impact",
     "RevenueImpact": "No revenue impact",
@@ -23,7 +23,7 @@
     "LCNumber": 94,
     "Vetoed": false,
     "CreatedDate": "2026-01-16T16:14:03",
-    "ModifiedDate": "2026-02-10T16:45:26",
+    "ModifiedDate": "2026-02-12T18:05:02",
     "PrefixMeaning": "House Bill"
   },
   "sponsors": [
@@ -94,9 +94,40 @@
       "CreatedDate": "2026-02-10T16:45:26",
       "ModifiedDate": null,
       "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 666328,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4082,
+      "Chamber": "H",
+      "ActionDate": "2026-02-12T14:27:15",
+      "ActionText": "Recommendation: Do pass with amendments and be printed A-Engrossed.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-12T14:38:22",
+      "ModifiedDate": null,
+      "PublicNotification": true
     }
   ],
   "documents": [
+    {
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4082,
+      "VersionDescription": "A-Engrossed",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4082/A-Engrossed",
+      "CreatedDate": "2026-02-12T16:51:28.08",
+      "ModifiedDate": null
+    },
+    {
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4082,
+      "VersionDescription": "House Amendments to Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4082/House Amendments to Introduced",
+      "CreatedDate": "2026-02-12T16:51:28.207",
+      "ModifiedDate": null
+    },
     {
       "SessionKey": "2026R1",
       "MeasurePrefix": "HB",

@@ -6,13 +6,13 @@
     "CatchLine": "Limits the circumstances under which a landlord may disclose confidential information.",
     "MinorityCatchLine": null,
     "MeasureSummary": "\tDigest: This Act limits the private information that a landlord can share. (Flesch Readability Score: 64.9). \n\tLimits the circumstances under which a landlord may disclose confidential information. Authorizes statutory damages for individuals affected by knowing violations. \n\tTakes effect on the 91st day following adjournment sine die.",
-    "CurrentVersion": null,
+    "CurrentVersion": "A",
     "RelatingToFull": "Relating to landlord disclosure of confidential information; and prescribing an effective date.\n\t",
     "RelatingTo": "Relating to landlord disclosure of confidential information; prescribing an effective date.",
     "AtTheRequestOf": null,
     "ChapterNumber": null,
-    "CurrentLocation": "In House Committee Awaiting transfer to Desk",
-    "CurrentCommitteeCode": "HHOUSH",
+    "CurrentLocation": "House Desk - Second Reading",
+    "CurrentCommitteeCode": null,
     "CurrentSubCommittee": null,
     "FiscalImpact": "Has minimal fiscal impact",
     "RevenueImpact": "No revenue impact",
@@ -23,7 +23,7 @@
     "LCNumber": 165,
     "Vetoed": false,
     "CreatedDate": "2026-01-18T10:48:38",
-    "ModifiedDate": "2026-02-10T16:47:40",
+    "ModifiedDate": "2026-02-12T18:05:02",
     "PrefixMeaning": "House Bill"
   },
   "sponsors": [
@@ -292,6 +292,20 @@
       "PresessionFiledMessage": null,
       "CreatedDate": "2026-02-09T13:10:18",
       "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "157743",
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4123,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Hartman",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2026-02-12T13:13:56",
+      "ModifiedDate": null
     }
   ],
   "historyActions": [
@@ -346,9 +360,40 @@
       "CreatedDate": "2026-02-10T16:45:26",
       "ModifiedDate": null,
       "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 666331,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4123,
+      "Chamber": "H",
+      "ActionDate": "2026-02-12T14:27:18",
+      "ActionText": "Recommendation: Do pass with amendments and be printed A-Engrossed.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-12T14:38:22",
+      "ModifiedDate": null,
+      "PublicNotification": true
     }
   ],
   "documents": [
+    {
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4123,
+      "VersionDescription": "A-Engrossed",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4123/A-Engrossed",
+      "CreatedDate": "2026-02-12T16:51:28.567",
+      "ModifiedDate": null
+    },
+    {
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4123,
+      "VersionDescription": "House Amendments to Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4123/House Amendments to Introduced",
+      "CreatedDate": "2026-02-12T16:51:28.683",
+      "ModifiedDate": null
+    },
     {
       "SessionKey": "2026R1",
       "MeasurePrefix": "HB",
