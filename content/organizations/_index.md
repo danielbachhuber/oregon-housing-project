@@ -4,8 +4,6 @@ date = "2026-01-11"
 weight = 70
 +++
 
-# Organizations
-
 Oregon advocacy organizations, nonprofits, and industry groups involved in housing policy.
 
 ## Housing Advocacy & Policy
