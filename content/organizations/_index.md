@@ -1,6 +1,7 @@
 +++
 title = "Organizations"
 date = "2026-01-11"
+weight = 2
 +++
 
 # Organizations

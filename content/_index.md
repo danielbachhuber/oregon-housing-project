@@ -22,6 +22,7 @@ The Oregon Housing Project catalogs and analyzes Oregon's housing policy landsca
 * **[Cities](/cities/)**: Detailed profiles of individual Oregon cities and their housing situations
 * **[News Coverage](/news-coverage/)**: Media reporting on housing policy developments
 * **[Key Concepts](/key-concepts/)**: Educational content explaining housing policy terms and issues
+* **[Organizations](/organizations/)**: Advocacy groups, nonprofits, and industry associations involved in housing policy
 * **[Metrics](/metrics/)**: Data on housing production and related statistics
 
 Browse the navigation menu to explore these areas in depth.
