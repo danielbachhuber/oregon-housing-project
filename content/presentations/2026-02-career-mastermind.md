@@ -2,6 +2,7 @@
 title = 'Career Mastermind: Housing in Oregon'
 date = '2026-02-16'
 layout = 'single'
+extra_js = ['/js/presentations/career-mastermind-charts.js']
 +++
 
 ## Oregon's Housing Deficit
