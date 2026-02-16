@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 1141,
+    "CatchLine": "Allows the use of dwellings for vacation occupancy on lands zoned for farm or forest uses.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: This Act allows short term rentals in resource housing but presumes that short term rentals may not be resumed as a nonconforming use. (Flesch Readability Score: 62.1). \n\tAllows the use of dwellings for vacation occupancy on lands zoned for farm or forest uses. Prohibits the resumption of a nonconforming vacation occupancy in counties except as allowed by county land use regulation.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to vacation occupancies on resource lands; amending ORS 197.488, 215.130, 215.213, 215.215, 215.283, 215.297, 215.448, 215.799 and 308A.462.\n\t",
+    "RelatingTo": "Relating to vacation occupancies on resource lands.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SHDEV",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 2192,
+    "Vetoed": false,
+    "CreatedDate": "2025-02-25T13:46:07",
+    "ModifiedDate": "2025-03-03T15:33:39",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "151590",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1141,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Smith DB",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-02-26T17:50:06",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 624851,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1141,
+      "Chamber": "S",
+      "ActionDate": "2025-02-27T10:24:49",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-02-27T11:02:50",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 625763,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1141,
+      "Chamber": "S",
+      "ActionDate": "2025-03-03T14:19:38",
+      "ActionText": "Referred to Housing and Development.",
+      "VoteText": null,
+      "CreatedDate": "2025-03-03T14:19:58",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 659236,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1141,
+      "Chamber": "S",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-28T16:50:21",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1141,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB1141/Introduced",
+      "CreatedDate": "2025-02-26T15:12:22.253",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

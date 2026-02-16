@@ -1,0 +1,191 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 52,
+    "CatchLine": "Requires the Legislative Policy and Research Director to study affordable housing and to report to the interim committees of the Legislative Assembly related to housing by August 15, 2026.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\t<b>Digest: This Act tells LPRO to study affordable housing. (Flesch Readability Score: 61.2).</b> \n\t[<i>Digest: The Act tells OHCS to study housing. (Flesch Readability Score: 90.9).</i>] \n\tRequires the [<i>Housing and Community Services Department</i>]<b> Legislative Policy and Research Director </b>to study <b>affordable</b> housing and to report to the interim committees of the Legislative Assembly related to housing by [<i>September</i>]<b> August</b> 15, 2026.",
+    "CurrentVersion": "A",
+    "RelatingToFull": "Relating to housing; and declaring an emergency.\n\t",
+    "RelatingTo": "Relating to housing; declaring an emergency.",
+    "AtTheRequestOf": "(at the request of Senate Interim Committee on Housing and Development)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "JWM",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "Fiscal impact issued",
+    "RevenueImpact": "No revenue impact",
+    "EmergencyClause": true,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 1760,
+    "Vetoed": false,
+    "CreatedDate": "2024-12-31T13:18:07",
+    "ModifiedDate": "2025-04-17T18:05:02",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "142227",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 52,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "Printed pursuant to Senate Interim Rule 213.28 by order of the President of the Senate in conformance with presession filing rules, indicating neither advocacy nor opposition on the part of the President.",
+      "CreatedDate": "2024-12-20T17:28:43",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 615357,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 52,
+      "Chamber": "S",
+      "ActionDate": "2025-01-13T09:07:30",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-13T09:07:45",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 617624,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 52,
+      "Chamber": "S",
+      "ActionDate": "2025-01-17T14:13:22",
+      "ActionText": "Referred to Housing and Development.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-17T14:16:31",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 638344,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 52,
+      "Chamber": "S",
+      "ActionDate": "2025-04-07T13:01:00",
+      "ActionText": "Public Hearing held.",
+      "VoteText": null,
+      "CreatedDate": "2025-04-07T14:31:47",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 639385,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 52,
+      "Chamber": "S",
+      "ActionDate": "2025-04-09T13:02:00",
+      "ActionText": "Work Session held.",
+      "VoteText": null,
+      "CreatedDate": "2025-04-09T13:52:06",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 641694,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 52,
+      "Chamber": "S",
+      "ActionDate": "2025-04-17T15:01:57",
+      "ActionText": "Recommendation: Do pass with amendments and be referred to Ways and Means. (Printed A-Eng.)",
+      "VoteText": null,
+      "CreatedDate": "2025-04-17T15:34:05",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 641695,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 52,
+      "Chamber": "S",
+      "ActionDate": "2025-04-17T15:01:58",
+      "ActionText": "Referred to Ways and Means by order of the President.",
+      "VoteText": null,
+      "CreatedDate": "2025-04-17T15:34:05",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 658762,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 52,
+      "Chamber": "S",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-28T16:50:21",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 52,
+      "VersionDescription": "A-Engrossed",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB52/A-Engrossed",
+      "CreatedDate": "2025-04-17T16:18:27.987",
+      "ModifiedDate": null
+    },
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 52,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB52/Introduced",
+      "CreatedDate": "2025-01-10T13:20:17.53",
+      "ModifiedDate": null
+    },
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 52,
+      "VersionDescription": "Senate Amendments to Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB52/Senate Amendments to Introduced",
+      "CreatedDate": "2025-04-17T16:18:28.05",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": [
+    {
+      "CommTestId": 193798,
+      "SubmitterFirstName": "Shelby",
+      "SubmitterLastName": "Schuppe",
+      "BehalfOf": null,
+      "Organization": "Corvallis",
+      "DocumentDescription": "Testimony",
+      "CreatedDate": "2025-04-09T11:23:49.75",
+      "ModifiedDate": "2025-04-09T11:24:12.877",
+      "PdfCreatedFlag": "Y",
+      "PositionOnMeasureId": 3981,
+      "SessionKey": "2025R1",
+      "CommitteeCode": "SHDEV",
+      "MeetingDate": "2025-04-07T13:00:00",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 52,
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1",
+      "FirstName": null,
+      "LastName": null,
+      "ExecApptId": null,
+      "Topic": "Requires the Housing and Community Services Department to study housing and to report to the interim committees of the Legislative Assembly related to housing by September 15, 2026."
+    }
+  ]
+}

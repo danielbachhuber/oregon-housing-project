@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3606,
+    "CatchLine": "Requires the Housing and Community Services Department to study homelessness and submit findings to the interim committees of the Legislative Assembly related to housing no later than September 15, 2026.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: This Act makes OHCS look at homelessness. (Flesch Readability Score: 78.8). \n\tRequires the Housing and Community Services Department to study homelessness and submit findings to the interim committees of the Legislative Assembly related to housing no later than September 15, 2026.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to homelessness.\n\t",
+    "RelatingTo": "Relating to homelessness.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HHOUSH",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 4299,
+    "Vetoed": false,
+    "CreatedDate": "2025-02-14T18:10:38",
+    "ModifiedDate": "2025-02-20T11:00:54",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "150331",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3606,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Diehl",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-02-17T18:03:00",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 622941,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3606,
+      "Chamber": "H",
+      "ActionDate": "2025-02-18T11:23:22",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-02-18T11:24:54",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 623496,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3606,
+      "Chamber": "H",
+      "ActionDate": "2025-02-20T09:58:52",
+      "ActionText": "Referred to Housing and Homelessness.",
+      "VoteText": null,
+      "CreatedDate": "2025-02-20T09:59:52",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 661386,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3606,
+      "Chamber": "H",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-30T15:33:43",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3606,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3606/Introduced",
+      "CreatedDate": "2025-02-17T16:57:36.03",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

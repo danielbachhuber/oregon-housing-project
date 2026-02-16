@@ -1,0 +1,16 @@
+{
+	"permissions": {
+		"allow": [
+			"Bash(ls:*)",
+			"WebSearch",
+			"WebFetch(domain:www.tualatinoregon.gov)",
+			"WebFetch(domain:tualatinlife.com)",
+			"Bash(gh issue view:*)",
+			"Bash(./scripts/process_meeting.sh:*)",
+			"WebFetch(domain:www.wweek.com)",
+			"WebFetch(domain:wweek-feeds.partner.nile.works)",
+			"Bash(curl:*)",
+			"Bash(pnpm fetch-legislation:*)"
+		]
+	}
+}

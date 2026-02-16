@@ -1,0 +1,112 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 962,
+    "CatchLine": "Directs the Department of Early Learning and Care to administer a grant program to award moneys to tenants to update dwellings for use as a family child care home.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: The Act tells DELC to run a grant program to support tenants with updating dwellings for use as a family child care home. (Flesch Readability Score: 69.4). \n\tDirects the Department of Early Learning and Care to administer a grant program to award moneys to tenants to update dwellings for use as a family child care home. \n\tSunsets January 2, 2045.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to funding to support use of rental units as family child care homes.\n\t",
+    "RelatingTo": "Relating to funding to support use of rental units as family child care homes.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SECBH",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 1358,
+    "Vetoed": false,
+    "CreatedDate": "2025-01-28T16:05:41",
+    "ModifiedDate": "2025-01-30T13:16:37",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "149081",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 962,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Anderson",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-01-29T18:10:02",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "151805",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 962,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Smith DB",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-03-02T18:08:32",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 619884,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 962,
+      "Chamber": "S",
+      "ActionDate": "2025-01-30T11:30:02",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-30T11:30:09",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 619906,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 962,
+      "Chamber": "S",
+      "ActionDate": "2025-01-30T11:45:11",
+      "ActionText": "Referred to Early Childhood and Behavioral Health, then Ways and Means.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-30T11:46:04",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 658593,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 962,
+      "Chamber": "S",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-28T16:50:21",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 962,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB962/Introduced",
+      "CreatedDate": "2025-01-29T16:36:09.937",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

@@ -1,0 +1,112 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 1199,
+    "CatchLine": "Allows counties with a population density of less than 10 people per square mile to rezone up to 50 acres to be divided and developed for residential dwellings of at least five units per acre.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: This Act allows rural counties to rezone up to 50 acres for dense housing and provides grants for services. (Flesch Readability Score: 62.8). \n\tAllows counties with a population density of less than 10 people per square mile to rezone up to 50 acres to be divided and developed for residential dwellings of at least five units per acre. \n\tRequires the Oregon Business Development Department to provide grants to counties for infrastructure supporting these lands. \n\tSunsets January 2, 2034.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to the development of housing in rural counties.\n\t",
+    "RelatingTo": "Relating to the development of housing in rural counties.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SHDEV",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 4762,
+    "Vetoed": false,
+    "CreatedDate": "2025-03-21T14:23:43",
+    "ModifiedDate": "2025-03-24T14:47:09",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "152825",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1199,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Nash",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-03-21T18:05:01",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "152826",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1199,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Levy B",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "2",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-03-21T18:05:01",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 631930,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1199,
+      "Chamber": "S",
+      "ActionDate": "2025-03-24T11:11:51",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-03-24T11:36:08",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 631999,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1199,
+      "Chamber": "S",
+      "ActionDate": "2025-03-24T13:09:31",
+      "ActionText": "Referred to Housing and Development.",
+      "VoteText": null,
+      "CreatedDate": "2025-03-24T13:09:39",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 658961,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1199,
+      "Chamber": "S",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-28T16:50:21",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1199,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB1199/Introduced",
+      "CreatedDate": "2025-03-21T16:27:12.91",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

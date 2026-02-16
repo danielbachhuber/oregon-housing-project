@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 955,
+    "CatchLine": "Provides, for purposes of ad valorem property taxation, a specially assessed value for the owner-occupied primary residences of veterans and surviving spouses of veterans.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: The Act would grant a specially assessed property tax value for the homes of veterans and their spouses who outlive them. (Flesch Readability Score: 60.6). \n\tProvides, for purposes of ad valorem property taxation, a specially assessed value for the owner-occupied primary residences of veterans and surviving spouses of veterans. Disqualifies the residence for the special assessment on the death of the veteran, remarriage of the surviving spouse or sale of the residence. \n\tTakes effect on the 91st day following adjournment sine die.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to a specially assessed value for the residences of veterans; and prescribing an effective date.\n\t",
+    "RelatingTo": "Relating to a specially assessed value for the residences of veterans; prescribing an effective date.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SFR",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Roxanne Adams",
+    "RevenueEconomist": "Beau Olen",
+    "LCNumber": 1733,
+    "Vetoed": false,
+    "CreatedDate": "2025-01-27T12:36:31",
+    "ModifiedDate": "2025-01-28T13:43:15",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "148987",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 955,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Smith DB",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-01-27T18:22:00",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 619531,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 955,
+      "Chamber": "S",
+      "ActionDate": "2025-01-28T11:02:06",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-28T11:06:23",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 619563,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 955,
+      "Chamber": "S",
+      "ActionDate": "2025-01-28T11:37:34",
+      "ActionText": "Referred to Finance and Revenue.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-28T11:38:37",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 659258,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 955,
+      "Chamber": "S",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-28T16:50:21",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 955,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB955/Introduced",
+      "CreatedDate": "2025-01-27T16:21:12.457",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

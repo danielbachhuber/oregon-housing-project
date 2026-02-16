@@ -1,0 +1,140 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3520,
+    "CatchLine": "Requires a person that proposes to construct a building or structure located within 1,000 feet of an interstate pipeline to notify the Oregon Utility Notification Center.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: Makes a person that wants to build a building or structure near an interstate pipeline to give notice. (Flesch Readability Score: 66.3). \n\tRequires a person that proposes to construct a building or structure located within 1,000 feet of an interstate pipeline to notify the Oregon Utility Notification Center. \n\tProhibits a state agency or municipality from issuing a building permit for a building or structure unless the agency or municipality receives a copy of the notice and a copy of a reply from the owner or operator of the interstate pipeline. \n\tRequires an owner or operator of an interstate pipeline each year to provide contact information to the Oregon Utility Notification Center. \n\tTakes effect on the 91st day following adjournment sine die.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to notification requirements for structures located within 1,000 feet of an interstate pipeline; and prescribing an effective date.\n\t",
+    "RelatingTo": "Relating to notification requirements for structures located within 1,000 feet of an interstate pipeline; prescribing an effective date.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HEMGGV",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Roxanne Adams",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 4016,
+    "Vetoed": false,
+    "CreatedDate": "2025-02-05T14:42:59",
+    "ModifiedDate": "2025-02-11T09:09:21",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "149482",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3520,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Levy E",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "2",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-02-05T17:40:02",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "149483",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3520,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Nash",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "3",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-02-05T17:40:02",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "149484",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3520,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Lively",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-02-05T17:40:02",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "149648",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3520,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Levy B",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "10",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-02-10T10:48:58",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 620889,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3520,
+      "Chamber": "H",
+      "ActionDate": "2025-02-06T11:13:13",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-02-06T11:15:35",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 621268,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3520,
+      "Chamber": "H",
+      "ActionDate": "2025-02-07T14:06:33",
+      "ActionText": "Referred to Emergency Management, General Government, and Veterans.",
+      "VoteText": null,
+      "CreatedDate": "2025-02-07T14:06:51",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 660865,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3520,
+      "Chamber": "H",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-30T15:33:43",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3520,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3520/Introduced",
+      "CreatedDate": "2025-02-05T16:36:11.3",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2024R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 1528,
+    "CatchLine": "Authorizes cities and counties to adopt a program for awarding grants to developers of affordable housing and moderate income housing projects to finance certain costs associated with such housing projects.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: The Act would create a fund for grants to developers of affordable housing. (Flesch Readability Score: 63.4). \n\tAuthorizes cities and counties to adopt a program for awarding grants to developers of affordable housing and moderate income housing projects to finance certain costs associated with such housing projects. Directs the Housing and Community Services Department to develop a revolving loan program to make interest-free loans to participating cities and counties to fund the grants. Imposes an annual fee on each grantee developer in repayment of the loans. Provides for the distribution of the fee moneys first to fire districts for ad valorem property taxes and then to the department in repayment of the loan that funded the grant awarded to the developer. \n\tTakes effect on the 91st day following adjournment sine die.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to financing affordable housing; and prescribing an effective date.\n\t",
+    "RelatingTo": "Relating to financing affordable housing; prescribing an effective date.",
+    "AtTheRequestOf": "(at the request of Senate Interim Committee on Housing and Development)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SHDEV",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 155,
+    "Vetoed": false,
+    "CreatedDate": "2024-01-12T10:06:26",
+    "ModifiedDate": "2024-02-26T11:32:06",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "139982",
+      "SessionKey": "2024R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1528,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "Printed pursuant to Senate Interim Rule 213.28 by order of the President of the Senate in conformance with presession filing rules, indicating neither advocacy nor opposition on the part of the President.",
+      "CreatedDate": "2024-01-19T10:21:39",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 605023,
+      "SessionKey": "2024R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1528,
+      "Chamber": "S",
+      "ActionDate": "2024-02-05T07:05:18",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2024-02-05T07:05:27",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 605305,
+      "SessionKey": "2024R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1528,
+      "Chamber": "S",
+      "ActionDate": "2024-02-05T09:31:30",
+      "ActionText": "Referred to Housing and Development, then Ways and Means.",
+      "VoteText": null,
+      "CreatedDate": "2024-02-05T09:31:46",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 611350,
+      "SessionKey": "2024R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1528,
+      "Chamber": "S",
+      "ActionDate": "2024-03-07T19:30:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2024-03-08T09:29:57",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2024R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1528,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2024R1/Downloads/MeasureDocument/SB1528/Introduced",
+      "CreatedDate": "2024-02-14T11:15:32.15",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

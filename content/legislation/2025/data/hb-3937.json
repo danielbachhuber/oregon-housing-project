@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3937,
+    "CatchLine": "Applies to cities that have a population of 50,000 or less.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: The Act would reduce the number of hours that a notice must be posted before homeless people may be removed from an established camping site. The Act would say when property left behind shall be disposed of or collected. The Act would apply only to small cities. (Flesch Readability Score: 68.5). \n\tApplies to cities that have a population of 50,000 or less. Reduces the number of hours that notice must be posted before removing homeless individuals from an established camping site. Provides circumstances in which property left at an established camping site after the notice period shall be disposed of or collected. \n\tDeclares an emergency, effective on passage.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to homeless camps; creating new provisions; amending ORS 195.505 and 195.530; and declaring an emergency.\n\t",
+    "RelatingTo": "Relating to homeless camps; declaring an emergency.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HHOUSH",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": true,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 4754,
+    "Vetoed": false,
+    "CreatedDate": "2025-03-17T10:29:01",
+    "ModifiedDate": "2025-03-19T11:05:57",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "152503",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3937,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Osborne",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-03-17T18:05:03",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 629399,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3937,
+      "Chamber": "H",
+      "ActionDate": "2025-03-18T12:02:15",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-03-18T12:02:19",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 629547,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3937,
+      "Chamber": "H",
+      "ActionDate": "2025-03-18T15:32:30",
+      "ActionText": "Referred to Housing and Homelessness.",
+      "VoteText": null,
+      "CreatedDate": "2025-03-18T15:32:41",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 660736,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3937,
+      "Chamber": "H",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-30T15:33:42",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3937,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3937/Introduced",
+      "CreatedDate": "2025-03-17T16:51:04.207",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}
