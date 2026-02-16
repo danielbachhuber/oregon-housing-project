@@ -1,0 +1,126 @@
+{
+  "measure": {
+    "SessionKey": "2021R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 2779,
+    "CatchLine": "Authorizes counties to allow contiguous clustered nonresource dwellings on clustered development tract in lieu of approval of individual nonresource dwellings on exclusive farm use or forest lands.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tAuthorizes counties to allow contiguous clustered nonresource dwellings on clustered development tract in lieu of approval of individual nonresource dwellings on exclusive farm use or forest lands. Allows bonus dwellings when dwellings are sited on low value soil or with shared water or sewage systems. Establishes requirements for siting and approving dwellings and subdividing or partitioning clustered development tracts.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to clustered resource dwellings; creating new provisions; and amending ORS 215.236, 215.262 and 215.700.\n\t",
+    "RelatingTo": "Relating to clustered resource dwellings.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HRULES",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Tim Walker",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 2747,
+    "Vetoed": false,
+    "CreatedDate": "2020-12-28T15:10:35",
+    "ModifiedDate": "2021-02-01T14:35:07",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "114872",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2779,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "(Presession filed.)",
+      "CreatedDate": "2021-01-09T19:32:19",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "114873",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2779,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Smith DB",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2021-01-09T19:32:19",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "114874",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2779,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Zika",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "2",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2021-01-09T19:32:19",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 492832,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2779,
+      "Chamber": "H",
+      "ActionDate": "2021-01-11T07:57:04",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2021-01-11T07:59:32",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 495372,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2779,
+      "Chamber": "H",
+      "ActionDate": "2021-01-19T20:40:25",
+      "ActionText": "Referred to Rules.",
+      "VoteText": null,
+      "CreatedDate": "2021-01-19T20:40:49",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 536658,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2779,
+      "Chamber": "H",
+      "ActionDate": "2021-06-26T17:37:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2021-07-13T12:52:00",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2779,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/HB2779/Introduced",
+      "CreatedDate": "2021-01-10T08:06:39.893",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

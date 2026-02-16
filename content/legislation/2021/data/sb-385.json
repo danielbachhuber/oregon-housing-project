@@ -1,0 +1,112 @@
+{
+  "measure": {
+    "SessionKey": "2021R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 385,
+    "CatchLine": "Authorizes county to allow owner of lot or parcel within rural residential zone to construct one accessory dwelling unit on lot or parcel, subject to certain restrictions.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tAuthorizes county to allow owner of lot or parcel within rural residential zone to construct one accessory dwelling unit on lot or parcel, subject to certain restrictions. Specifies that single-family dwelling and accessory dwelling on same lot or parcel are considered single unit for purposes of calculating exemptions from ground water rights requirements. \n\tDeclares emergency, effective on passage.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to accessory dwelling units in rural residential areas; and declaring an emergency.\n\t",
+    "RelatingTo": "Relating to accessory dwelling units in rural residential areas; declaring an emergency.",
+    "AtTheRequestOf": "(at the request of Association of Oregon Counties)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SHDEV",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": true,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Haylee Morse-Miller",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 2144,
+    "Vetoed": false,
+    "CreatedDate": "2020-12-21T09:56:57",
+    "ModifiedDate": "2021-01-19T18:08:30",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "114172",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 385,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "(Presession filed.)",
+      "CreatedDate": "2021-01-09T19:31:24",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "114173",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 385,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Findley",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2021-01-09T19:31:24",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 493478,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 385,
+      "Chamber": "S",
+      "ActionDate": "2021-01-11T09:28:22",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2021-01-11T09:28:41",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 494301,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 385,
+      "Chamber": "S",
+      "ActionDate": "2021-01-19T11:35:42",
+      "ActionText": "Referred to Housing and Development.",
+      "VoteText": null,
+      "CreatedDate": "2021-01-19T11:36:36",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 536086,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 385,
+      "Chamber": "S",
+      "ActionDate": "2021-06-26T17:37:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2021-07-06T13:57:54",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 385,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/SB385/Introduced",
+      "CreatedDate": "2021-01-10T08:27:31.513",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

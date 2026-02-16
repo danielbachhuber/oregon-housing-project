@@ -1,0 +1,139 @@
+{
+  "measure": {
+    "SessionKey": "2021R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 2236,
+    "CatchLine": "Establishes Task Force on Rural Fire Protection District Community Development to study and develop recommendations for developing, enhancing or expanding ability of rural fire protection districts to facilitate community development efforts following natural disaster.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tEstablishes Task Force on Rural Fire Protection District Community Development to study and develop recommendations for developing, enhancing or expanding ability of rural fire protection districts to facilitate community development efforts following natural disaster. \n\tRequires task force to report to interim committee of Legislative Assembly no later than September 15, 2022. \n\tSunsets task force December 31, 2022. \n\tDeclares emergency, effective on passage.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to community development; and declaring an emergency.\n\t",
+    "RelatingTo": "Relating to community development; declaring an emergency.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HVEM",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": true,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Kim To",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 1176,
+    "Vetoed": false,
+    "CreatedDate": "2020-12-17T11:18:05",
+    "ModifiedDate": "2021-01-21T11:28:11",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "112637",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2236,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "(Presession filed.)",
+      "CreatedDate": "2021-01-09T19:30:56",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "112638",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2236,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Wilde",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2021-01-09T19:30:56",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "116709",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2236,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Evans",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2021-01-19T11:04:45",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 492289,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2236,
+      "Chamber": "H",
+      "ActionDate": "2021-01-11T07:57:04",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2021-01-11T07:59:30",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 494829,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2236,
+      "Chamber": "H",
+      "ActionDate": "2021-01-19T20:40:25",
+      "ActionText": "Referred to Veterans and Emergency Management with subsequent referral to Ways and Means.",
+      "VoteText": null,
+      "CreatedDate": "2021-01-19T20:40:47",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 498160,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2236,
+      "Chamber": "H",
+      "ActionDate": "2021-02-09T15:16:00",
+      "ActionText": "Public Hearing held.",
+      "VoteText": null,
+      "CreatedDate": "2021-02-09T16:44:44",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 537069,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2236,
+      "Chamber": "H",
+      "ActionDate": "2021-06-26T17:37:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2021-07-13T12:52:01",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2236,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/HB2236/Introduced",
+      "CreatedDate": "2021-01-10T07:48:28.787",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

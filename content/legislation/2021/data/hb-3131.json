@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2021R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3131,
+    "CatchLine": "Prohibits outdoor production of industrial hemp or marijuana within specified distance of residential property or boundary of area zoned for residential use.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tProhibits outdoor production of industrial hemp or marijuana within specified distance of residential property or boundary of area zoned for residential use. Requires processing of industrial hemp to occur only in area zoned for industrial use. Prohibits industrial hemp processing facility from using lighting visible outside facility between 7 p.m. and 7 a.m. \n\tTakes effect on 91st day following adjournment sine die.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to cannabis; and prescribing an effective date.\n\t",
+    "RelatingTo": "Relating to cannabis; prescribing an effective date.",
+    "AtTheRequestOf": "(at the request of Amy Larson)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HRULES",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Mazen Malik",
+    "LCNumber": 2517,
+    "Vetoed": false,
+    "CreatedDate": "2021-02-03T11:32:02",
+    "ModifiedDate": "2021-03-03T14:03:59",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "117799",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3131,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Noble",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2021-02-08T21:05:03",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 497928,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3131,
+      "Chamber": "H",
+      "ActionDate": "2021-02-09T10:27:16",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2021-02-09T10:29:22",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 499029,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3131,
+      "Chamber": "H",
+      "ActionDate": "2021-02-16T17:11:58",
+      "ActionText": "Referred to Rules.",
+      "VoteText": null,
+      "CreatedDate": "2021-02-16T17:12:02",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 537543,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3131,
+      "Chamber": "H",
+      "ActionDate": "2021-06-26T17:37:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2021-07-13T12:52:01",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3131,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/HB3131/Introduced",
+      "CreatedDate": "2021-02-08T16:21:47.91",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

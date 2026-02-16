@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2021R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3384,
+    "CatchLine": "Allows specified local governments to coordinate in planning for housing needs.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tAllows specified local governments to coordinate in planning for housing needs. Repeals limits on coordination in Lane County.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to housing needs; amending ORS 197.296; and repealing ORS 197.304.\n\t",
+    "RelatingTo": "Relating to housing needs.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HHOUS",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Kim To",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 3636,
+    "Vetoed": false,
+    "CreatedDate": "2021-03-15T19:59:53",
+    "ModifiedDate": "2021-03-30T07:57:19",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "119707",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3384,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Weber",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2021-03-21T17:45:03",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 507074,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3384,
+      "Chamber": "H",
+      "ActionDate": "2021-03-22T10:38:46",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2021-03-22T10:39:17",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 509779,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3384,
+      "Chamber": "H",
+      "ActionDate": "2021-03-29T17:39:45",
+      "ActionText": "Referred to Housing.",
+      "VoteText": null,
+      "CreatedDate": "2021-03-29T17:39:52",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 537041,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3384,
+      "Chamber": "H",
+      "ActionDate": "2021-06-26T17:37:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2021-07-13T12:52:01",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3384,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/HB3384/Introduced",
+      "CreatedDate": "2021-03-19T16:36:59.383",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

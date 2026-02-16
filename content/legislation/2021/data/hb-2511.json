@@ -1,0 +1,112 @@
+{
+  "measure": {
+    "SessionKey": "2021R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 2511,
+    "CatchLine": "Directs Housing and Community Services Department to study issues relating to residential dwelling facilities and report to appropriate committee or interim committee of Legislative Assembly on or before September 15, 2022.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDirects Housing and Community Services Department to study issues relating to residential dwelling facilities and report to appropriate committee or interim committee of Legislative Assembly on or before September 15, 2022. \n\tSunsets December 31, 2022.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to residential dwelling facilities.\n\t",
+    "RelatingTo": "Relating to residential dwelling facilities.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HHOUS",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Kim To",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 834,
+    "Vetoed": false,
+    "CreatedDate": "2020-12-23T15:27:56",
+    "ModifiedDate": "2021-01-26T11:33:51",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "113525",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2511,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "(Presession filed.)",
+      "CreatedDate": "2021-01-09T19:31:20",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "113526",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2511,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Marsh",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2021-01-09T19:31:20",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 492564,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2511,
+      "Chamber": "H",
+      "ActionDate": "2021-01-11T07:57:04",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2021-01-11T07:59:31",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 495104,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2511,
+      "Chamber": "H",
+      "ActionDate": "2021-01-19T20:40:25",
+      "ActionText": "Referred to Housing.",
+      "VoteText": null,
+      "CreatedDate": "2021-01-19T20:40:48",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 537139,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2511,
+      "Chamber": "H",
+      "ActionDate": "2021-06-26T17:37:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2021-07-13T12:52:01",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2511,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/HB2511/Introduced",
+      "CreatedDate": "2021-01-10T07:57:34.033",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

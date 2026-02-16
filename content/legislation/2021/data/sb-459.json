@@ -1,0 +1,112 @@
+{
+  "measure": {
+    "SessionKey": "2021R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 459,
+    "CatchLine": "Provides that new property or new improvements to property constructed on same lot to replace homestead destroyed or damaged by wildfire in September 2020 may not be taken into account or added to assessment roll for any property tax year beginning before July 1, 2025.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tProvides that new property or new improvements to property constructed on same lot to replace homestead destroyed or damaged by wildfire in September 2020 may not be taken into account or added to assessment roll for any property tax year beginning before July 1, 2025. \n\tTakes effect on 91st day following adjournment sine die.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to the assessment of homesteads damaged by wildfire; and prescribing an effective date.\n\t",
+    "RelatingTo": "Relating to the assessment of homesteads damaged by wildfire; prescribing an effective date.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SFR",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Haylee Morse-Miller",
+    "RevenueEconomist": "Jaime McGovern",
+    "LCNumber": 1327,
+    "Vetoed": false,
+    "CreatedDate": "2020-12-21T18:44:31",
+    "ModifiedDate": "2021-01-26T11:43:09",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "115147",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 459,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "(Presession filed.)",
+      "CreatedDate": "2021-01-09T19:32:19",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "115148",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 459,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Girod",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2021-01-09T19:32:19",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 493552,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 459,
+      "Chamber": "S",
+      "ActionDate": "2021-01-11T09:28:22",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2021-01-11T09:28:42",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 494375,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 459,
+      "Chamber": "S",
+      "ActionDate": "2021-01-19T11:35:42",
+      "ActionText": "Referred to Finance and Revenue.",
+      "VoteText": null,
+      "CreatedDate": "2021-01-19T11:36:36",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 536013,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 459,
+      "Chamber": "S",
+      "ActionDate": "2021-06-26T17:37:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2021-07-06T13:57:54",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 459,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/SB459/Introduced",
+      "CreatedDate": "2021-01-10T08:27:36.157",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

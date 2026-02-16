@@ -1,0 +1,139 @@
+{
+  "measure": {
+    "SessionKey": "2021R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 2153,
+    "CatchLine": "Directs Director of Veterans' Affairs to establish Oregon Veterans' Community, to include residential units and medical and social services for veterans and family members.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDirects Director of Veterans' Affairs to establish Oregon Veterans' Community, to include residential units and medical and social services for veterans and family members. Directs director to contract with nongovernmental entity for construction, operation and management of veterans' community. \n\tAuthorizes incorporated cities to acquire real property for sale or donation to Department of Veterans' Affairs for purposes of veterans' community and to incur debt for such acquisitions. \n\tAllocates lottery moneys for purposes of veterans' community.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to veterans' communities.\n\t",
+    "RelatingTo": "Relating to veterans' communities.",
+    "AtTheRequestOf": "(at the request of Vern Brown, Jr.)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HVEM",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Kim To",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 786,
+    "Vetoed": false,
+    "CreatedDate": "2020-12-14T13:17:14",
+    "ModifiedDate": "2021-01-21T11:05:53",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "112493",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2153,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "(Presession filed.)",
+      "CreatedDate": "2021-01-09T19:30:56",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "112494",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2153,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Owens",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2021-01-09T19:30:56",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "116691",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2153,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Evans",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2021-01-19T10:57:34",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 492206,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2153,
+      "Chamber": "H",
+      "ActionDate": "2021-01-11T07:57:04",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2021-01-11T07:59:29",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 494746,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2153,
+      "Chamber": "H",
+      "ActionDate": "2021-01-19T20:40:25",
+      "ActionText": "Referred to Veterans and Emergency Management with subsequent referral to Ways and Means.",
+      "VoteText": null,
+      "CreatedDate": "2021-01-19T20:40:47",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 497089,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2153,
+      "Chamber": "H",
+      "ActionDate": "2021-02-02T15:16:00",
+      "ActionText": "Public Hearing held.",
+      "VoteText": null,
+      "CreatedDate": "2021-02-02T16:33:08",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 536796,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2153,
+      "Chamber": "H",
+      "ActionDate": "2021-06-26T17:37:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2021-07-13T12:52:00",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2153,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/HB2153/Introduced",
+      "CreatedDate": "2021-01-10T07:42:28.98",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

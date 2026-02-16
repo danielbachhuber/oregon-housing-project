@@ -1,0 +1,139 @@
+{
+  "measure": {
+    "SessionKey": "2021R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 2233,
+    "CatchLine": "Establishes Emergency Shelter Task Force.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tEstablishes Emergency Shelter Task Force. Directs task force to study and make recommendations regarding state provision of emergency shelter. \n\tSunsets task force on June 30, 2022. \n\tDeclares emergency, effective on passage.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to emergency shelter; and declaring an emergency.\n\t",
+    "RelatingTo": "Relating to emergency shelter; declaring an emergency.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HVEM",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": true,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Kim To",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 1448,
+    "Vetoed": false,
+    "CreatedDate": "2020-12-17T11:18:05",
+    "ModifiedDate": "2021-01-21T11:28:11",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "112631",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2233,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "(Presession filed.)",
+      "CreatedDate": "2021-01-09T19:30:56",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "112632",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2233,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Wilde",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2021-01-09T19:30:56",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "116706",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2233,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Evans",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2021-01-19T11:03:45",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 492286,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2233,
+      "Chamber": "H",
+      "ActionDate": "2021-01-11T07:57:04",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2021-01-11T07:59:30",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 494826,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2233,
+      "Chamber": "H",
+      "ActionDate": "2021-01-19T20:40:25",
+      "ActionText": "Referred to Veterans and Emergency Management with subsequent referral to Ways and Means.",
+      "VoteText": null,
+      "CreatedDate": "2021-01-19T20:40:47",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 504582,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2233,
+      "Chamber": "H",
+      "ActionDate": "2021-03-16T15:16:00",
+      "ActionText": "Public Hearing held.",
+      "VoteText": null,
+      "CreatedDate": "2021-03-16T16:16:20",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 537066,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2233,
+      "Chamber": "H",
+      "ActionDate": "2021-06-26T17:37:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2021-07-13T12:52:01",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2233,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/HB2233/Introduced",
+      "CreatedDate": "2021-01-10T07:48:28.613",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}
