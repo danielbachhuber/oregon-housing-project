@@ -66,6 +66,38 @@
 
   {{ .Content }}
 
+  {{/* Find news coverage that links to this legislation */}}
+  {{/* Strip trailing slash since markdown links don't include it */}}
+  {{ $currentPath := .RelPermalink | replaceRE "/$" "" }}
+  {{ $backlinks := slice }}
+  {{ range where .Site.RegularPages "Section" "news-coverage" }}
+    {{ if findRE (printf `\]\(%s\)` $currentPath) .RawContent }}
+      {{ $backlinks = $backlinks | append . }}
+    {{ end }}
+  {{ end }}
+
+  {{ if gt (len $backlinks) 0 }}
+  <h2 id="news-coverage">News Coverage</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Article</th>
+        <th>Source</th>
+        <th>Date</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{ range sort $backlinks "Date" "desc" }}
+      <tr>
+        <td><a href="{{ .Permalink }}">{{ .Title }}</a></td>
+        <td>{{ .Params.source }}</td>
+        <td>{{ .Date.Format "January 2, 2006" }}</td>
+      </tr>
+      {{ end }}
+    </tbody>
+  </table>
+  {{ end }}
+
   {{ with .Params.testimony }}
   <h2 id="public-testimony">Public Testimony</h2>
   <table>
@@ -107,38 +139,6 @@
         <td>{{ .date }}</td>
         <td>{{ .chamber }}</td>
         <td>{{ .action }}</td>
-      </tr>
-      {{ end }}
-    </tbody>
-  </table>
-  {{ end }}
-
-  {{/* Find news coverage that links to this legislation */}}
-  {{/* Strip trailing slash since markdown links don't include it */}}
-  {{ $currentPath := .RelPermalink | replaceRE "/$" "" }}
-  {{ $backlinks := slice }}
-  {{ range where .Site.RegularPages "Section" "news-coverage" }}
-    {{ if findRE (printf `\]\(%s\)` $currentPath) .RawContent }}
-      {{ $backlinks = $backlinks | append . }}
-    {{ end }}
-  {{ end }}
-
-  {{ if gt (len $backlinks) 0 }}
-  <h2 id="news-coverage">News Coverage</h2>
-  <table>
-    <thead>
-      <tr>
-        <th>Article</th>
-        <th>Source</th>
-        <th>Date</th>
-      </tr>
-    </thead>
-    <tbody>
-      {{ range sort $backlinks "Date" "desc" }}
-      <tr>
-        <td><a href="{{ .Permalink }}">{{ .Title }}</a></td>
-        <td>{{ .Params.source }}</td>
-        <td>{{ .Date.Format "January 2, 2006" }}</td>
       </tr>
       {{ end }}
     </tbody>

@@ -3,5 +3,23 @@
   <h1>{{ .Title }}</h1>
 
   {{ .Content }}
+
+  {{ $defined_links := findRE `\]\(/legislation/[^\)]+\)` .RawContent }}
+  {{ $defined_legislation := slice }}
+  {{ range $defined_links }}
+    {{ $defined_path := replaceRE `\]\((/legislation/[^\)]+)\)` "$1" . }}
+    {{ $defined_page := site.GetPage $defined_path }}
+    {{ if $defined_page }}
+      {{ $defined_legislation = $defined_legislation | append $defined_page }}
+    {{ end }}
+  {{ end }}
+  {{ if gt (len $defined_legislation) 0 }}
+  <h2>Related Legislation</h2>
+  <ul>
+    {{ range $defined_legislation }}
+    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+    {{ end }}
+  </ul>
+  {{ end }}
 </article>
 {{ end }}

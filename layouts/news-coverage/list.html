@@ -47,6 +47,18 @@
       <h3 style="margin: 0 0 0.25rem 0; font-size: 1rem;"><a href="{{ .Params.original_url }}" target="_blank" rel="noopener">{{ .Title }}</a></h3>
       <small style="color: var(--gray-600); font-style: italic;">{{ .Params.source }} · {{ .Date.Format "January 2, 2006" }}{{ with .Params.author }} · {{ . }}{{ end }}</small>
       <div style="margin-top: 0.25rem;">{{ .Content }}</div>
+      {{ $defined_links := findRE `\]\(/legislation/[^\)]+\)` .RawContent }}
+      {{ $defined_legislation := slice }}
+      {{ range $defined_links }}
+        {{ $defined_path := replaceRE `\]\((/legislation/[^\)]+)\)` "$1" . }}
+        {{ $defined_page := site.GetPage $defined_path }}
+        {{ if $defined_page }}
+          {{ $defined_legislation = $defined_legislation | append $defined_page }}
+        {{ end }}
+      {{ end }}
+      {{ if gt (len $defined_legislation) 0 }}
+      <small><strong>Related legislation:</strong> {{ $first := true }}{{ range $defined_legislation }}{{ if not $first }}, {{ end }}<a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ $first = false }}{{ end }}</small>
+      {{ end }}
     </div>
     {{ end }}
   {{ end }}
