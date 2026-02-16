@@ -19,8 +19,9 @@
   </div>
 
   <script src="https://unpkg.com/reveal.js@5.1.0/dist/reveal.js"></script>
+  <script src="https://unpkg.com/reveal.js@5.1.0/plugin/notes/notes.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
   <script>
-    // Split content on <hr> elements into individual slides
     (function() {
       var container = document.getElementById('slides-content');
       var html = container.innerHTML;
@@ -39,8 +40,59 @@
 
       Reveal.initialize({
         hash: true,
-        slideNumber: true
+        slideNumber: true,
+        plugins: [RevealNotes]
       });
+
+      // Initialize charts after reveal.js is ready
+      var ctx = document.getElementById('underproduction-chart');
+      if (ctx) {
+        new Chart(ctx, {
+          type: 'line',
+          data: {
+            labels: ['2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2021', '2022'],
+            datasets: [
+              {
+                label: 'Units needed',
+                data: [1716954, 1727819, 1741956, 1780118, 1794285, 1836224, 1877237, 1894464, 1924274, 1937817],
+                borderColor: '#c0392b',
+                backgroundColor: 'rgba(192, 57, 43, 0.1)',
+                borderWidth: 3,
+                pointRadius: 4,
+                fill: false
+              },
+              {
+                label: 'Units built',
+                data: [1682531, 1684107, 1700611, 1718509, 1732887, 1768582, 1788743, 1808482, 1837009, 1859349],
+                borderColor: '#2c3e50',
+                backgroundColor: 'rgba(44, 62, 80, 0.1)',
+                borderWidth: 3,
+                pointRadius: 4,
+                fill: false
+              }
+            ]
+          },
+          options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: {
+              legend: {
+                position: 'top',
+                labels: { font: { size: 14 }, usePointStyle: true }
+              }
+            },
+            scales: {
+              y: {
+                ticks: {
+                  callback: function(value) {
+                    return (value / 1000000).toFixed(1) + 'M';
+                  }
+                }
+              }
+            }
+          }
+        });
+      }
     })();
   </script>
 </body>
