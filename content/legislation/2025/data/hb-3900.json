@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3900,
+    "CatchLine": "Disallows, for purposes of personal income taxation, the mortgage interest deduction for a residence other than the taxpayer's principal residence, unless the taxpayer sells the residence or actively markets the residence for sale.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: The Act says a taxpayer must pay income tax on interest paid on a loan for a second or third or additional home. The Act says some taxpayers must pay income tax on some or all interest paid on loans for a principal home. (Flesch Readability Score: 69.1). \n\tDisallows, for purposes of personal income taxation, the mortgage interest deduction for a residence other than the taxpayer's principal residence, unless the taxpayer sells the residence or actively markets the residence for sale. Phases out the allowable deduction for the interest for a principal residence based upon income. Disallows a deduction for a principal residence above the threshold income amount. \n\tEstablishes the Oregon Housing Opportunity Account. Transfers an amount equal to the estimated increase in revenue attributable to restrictions on the deduction of mortgage interest to the account. \n\tApplies to tax years beginning on or after January 1, 2026. \n\tTakes effect on the 91st day following adjournment sine die.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to tax treatment of mortgage interest; creating new provisions; amending ORS 316.695; and prescribing an effective date.\n\t",
+    "RelatingTo": "Relating to tax treatment of mortgage interest; prescribing an effective date.",
+    "AtTheRequestOf": "(at the request of Ecumenical Ministries of Oregon)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HHOUSH",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 2552,
+    "Vetoed": false,
+    "CreatedDate": "2025-02-26T13:13:06",
+    "ModifiedDate": "2025-03-05T10:33:48",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "151489",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3900,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Nathanson",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-02-26T17:50:06",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 625076,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3900,
+      "Chamber": "H",
+      "ActionDate": "2025-02-27T11:29:00",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-02-27T11:29:08",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 626485,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3900,
+      "Chamber": "H",
+      "ActionDate": "2025-03-04T16:19:48",
+      "ActionText": "Referred to Housing and Homelessness with subsequent referral to Revenue.",
+      "VoteText": null,
+      "CreatedDate": "2025-03-04T16:19:57",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 661104,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3900,
+      "Chamber": "H",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-30T15:33:43",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3900,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3900/Introduced",
+      "CreatedDate": "2025-02-26T16:50:42.393",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

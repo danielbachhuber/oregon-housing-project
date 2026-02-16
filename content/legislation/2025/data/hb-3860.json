@@ -1,0 +1,134 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3860,
+    "CatchLine": "Prohibits a major residential contractor from collecting or retaining more than 50 percent of the original contract price before substantially completing a remodeling or repair of an owner-occupied one-family or two-family residential structure if the original contract price exceeds $40,000.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: Tells a person that is a major house builder not to collect more than 50 percent of the contract price for a project until the project is finished if the project costs $40,000 or more. Lets the person collect more if the home owner adds scope to the project. Requires a person that installs a fireproofing system to get a certificate from a state board. Takes effect 91 days after the session ends. (Flesch Readability Score: 63.1). \n\tProhibits a major residential contractor from collecting or retaining more than 50 percent of the original contract price before substantially completing a remodeling or repair of an owner-occupied one-family or two-family residential structure if the original contract price exceeds $40,000. Permits a major residential contractor to collect not more than 50 percent of the increase in the contract price if the property owner agrees in writing to changes that increase the contract price by $20,000 or more. Permits a major residential contractor to require a property owner to make progress payments solely to cover the costs of materials, supplies and payments to subcontractors. Specifies the required contents of a contract. Specifies exceptions to the requirements. \n\tProhibits a business from installing, applying, repairing or maintaining spray-on fireproofing material or a spray-on fireproofing system in an essential facility in this state unless the business has a certification from the Construction Contractors Board. Specifies requirements for certification. Allows a building official to require as a condition of issuing a permit that a business has the necessary certification. \n\tTakes effect on the 91st day following adjournment sine die.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to construction contractors; and prescribing an effective date.\n\t",
+    "RelatingTo": "Relating to construction contractors; prescribing an effective date.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HLWS",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "MaryMichelle Sosne",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 3614,
+    "Vetoed": false,
+    "CreatedDate": "2025-02-26T11:15:44",
+    "ModifiedDate": "2025-03-26T23:46:17",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "151397",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3860,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Smith G",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-02-26T17:50:06",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 625036,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3860,
+      "Chamber": "H",
+      "ActionDate": "2025-02-27T11:29:00",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-02-27T11:29:08",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 626445,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3860,
+      "Chamber": "H",
+      "ActionDate": "2025-03-04T16:19:48",
+      "ActionText": "Referred to Labor and Workplace Standards.",
+      "VoteText": null,
+      "CreatedDate": "2025-03-04T16:19:57",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 632250,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3860,
+      "Chamber": "H",
+      "ActionDate": "2025-03-24T15:01:00",
+      "ActionText": "Public Hearing held.",
+      "VoteText": null,
+      "CreatedDate": "2025-03-24T16:40:04",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 661068,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3860,
+      "Chamber": "H",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-30T15:33:43",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3860,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3860/Introduced",
+      "CreatedDate": "2025-02-26T16:50:33.953",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": [
+    {
+      "CommTestId": 167392,
+      "SubmitterFirstName": "Derek",
+      "SubmitterLastName": "Sangston",
+      "BehalfOf": "Oregon Business and Industry",
+      "Organization": "Tigard",
+      "DocumentDescription": "Testimony",
+      "CreatedDate": "2025-03-24T15:23:47.577",
+      "ModifiedDate": "2025-03-24T15:30:21.223",
+      "PdfCreatedFlag": "Y",
+      "PositionOnMeasureId": 3982,
+      "SessionKey": "2025R1",
+      "CommitteeCode": "HLWS",
+      "MeetingDate": "2025-03-24T15:00:00",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3860,
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1",
+      "FirstName": null,
+      "LastName": null,
+      "ExecApptId": null,
+      "Topic": "Prohibits a major residential contractor from collecting or retaining more than 50 percent of the original contract price before substantially completing a remodeling or repair of an owner-occupied one-family or two-family residential structure if the original contract price exceeds $40,000."
+    }
+  ]
+}

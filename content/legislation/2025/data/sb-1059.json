@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 1059,
+    "CatchLine": "Requires the Department of Consumer and Business Services to study needed exemptions from building code standards for workforce housing in certain areas of the state.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: Tells a state agency to study what code exemptions are needed for housing for workers. (Flesch Readability Score: 61.8). \n\tRequires the Department of Consumer and Business Services to study needed exemptions from building code standards for workforce housing in certain areas of the state. Directs the department to submit findings to the interim committees of the Legislative Assembly related to housing no later than September 15, 2026. \n\tSunsets on January 2, 2027.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to workforce housing.\n\t",
+    "RelatingTo": "Relating to workforce housing.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SHDEV",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 4052,
+    "Vetoed": false,
+    "CreatedDate": "2025-02-17T13:55:52",
+    "ModifiedDate": "2025-02-18T13:32:20",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "150382",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1059,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Smith DB",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-02-17T18:03:00",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 623069,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1059,
+      "Chamber": "S",
+      "ActionDate": "2025-02-18T11:12:03",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-02-18T11:53:30",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 623141,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1059,
+      "Chamber": "S",
+      "ActionDate": "2025-02-18T12:39:56",
+      "ActionText": "Referred to Housing and Development, then Ways and Means.",
+      "VoteText": null,
+      "CreatedDate": "2025-02-18T12:40:38",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 659398,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1059,
+      "Chamber": "S",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-28T16:50:21",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1059,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB1059/Introduced",
+      "CreatedDate": "2025-02-17T16:57:42.297",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

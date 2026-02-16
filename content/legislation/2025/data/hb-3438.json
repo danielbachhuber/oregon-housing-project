@@ -1,0 +1,112 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3438,
+    "CatchLine": "Adds additional criteria under which Coos County may approve a golf course on lands zoned for exclusive farm use.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: This Act allows Coos County two years to approve a golf course under new criteria. (Flesch Readability Score: 67.5). \n\tAdds additional criteria under which Coos County may approve a golf course on lands zoned for exclusive farm use. Sunsets on January 1, 2028.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to golf courses on exclusive farm use lands in Coos County; creating new provisions; and amending ORS 215.213 and 215.283.\n\t",
+    "RelatingTo": "Relating to golf courses on exclusive farm use lands in Coos County.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HALNRW",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Twais Broadus",
+    "RevenueEconomist": "Beau Olen",
+    "LCNumber": 4414,
+    "Vetoed": false,
+    "CreatedDate": "2025-01-27T10:30:19",
+    "ModifiedDate": "2025-02-07T16:55:57",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "148893",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3438,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Boice",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-01-27T18:21:59",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "148894",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3438,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Smith DB",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "2",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-01-27T18:21:59",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 619489,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3438,
+      "Chamber": "H",
+      "ActionDate": "2025-01-28T10:00:52",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-28T10:03:23",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 619861,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3438,
+      "Chamber": "H",
+      "ActionDate": "2025-01-30T11:01:46",
+      "ActionText": "Referred to Agriculture, Land Use, Natural Resources, and Water.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-30T11:02:07",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 661510,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3438,
+      "Chamber": "H",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-30T15:33:43",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3438,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3438/Introduced",
+      "CreatedDate": "2025-01-27T16:21:07.423",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

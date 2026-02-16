@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 893,
+    "CatchLine": "Permits a person to open a first-time home buyer savings account until January 1, 2030, and doubles the annual contribution limits on the accounts.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: Doubles the amount of money a person can put in a savings account each year for a first home purchase. (Flesch Readability Score: 72.3). \n\tPermits a person to open a first-time home buyer savings account until January 1, 2030, and doubles the annual contribution limits on the accounts. Permits a person other than the account holder to take a subtraction and exemption for contributions to the account if the account holder does not take the subtraction and exemption. \n\tTakes effect on the 91st day following adjournment sine die.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to first-time home buyer savings accounts; creating new provisions; amending ORS 316.798, 316.800 and 316.803; and prescribing an effective date.\n\t",
+    "RelatingTo": "Relating to first-time home buyer savings accounts; prescribing an effective date.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SFR",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Roxanne Adams",
+    "RevenueEconomist": "Kyle Easton",
+    "LCNumber": 1017,
+    "Vetoed": false,
+    "CreatedDate": "2025-01-06T10:16:01",
+    "ModifiedDate": "2025-02-04T17:25:03",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "148420",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 893,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Anderson",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-01-16T15:59:17",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 618669,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 893,
+      "Chamber": "S",
+      "ActionDate": "2025-01-21T08:44:32",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-21T09:17:22",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 618840,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 893,
+      "Chamber": "S",
+      "ActionDate": "2025-01-21T11:30:54",
+      "ActionText": "Referred to Finance and Revenue.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-21T11:33:02",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 659129,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 893,
+      "Chamber": "S",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-28T16:50:21",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 893,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB893/Introduced",
+      "CreatedDate": "2025-01-16T13:48:18.007",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

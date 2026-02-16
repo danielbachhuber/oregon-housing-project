@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3958,
+    "CatchLine": "Provides that notwithstanding any municipality's ordinance, rule or regulation to the contrary, the state building code applies exclusively and uniformly to any building or structure in which construction, reconstruction, renovation or remodeling occurs for the purpose of converting commercial office space to housing.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: Says that the state building code applies to projects that convert offices to housing, no matter what any city or county law or rule says. (Flesch Readability Score: 63.0). \n\tProvides that notwithstanding any municipality's ordinance, rule or regulation to the contrary, the state building code applies exclusively and uniformly to any building or structure in which construction, reconstruction, renovation or remodeling occurs for the purpose of converting commercial office space to housing. \n\tSunsets on January 1, 2031.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to the application of the state building code; creating new provisions; and amending ORS 455.040.\n\t",
+    "RelatingTo": "Relating to the application of the state building code.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HHOUSH",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 4802,
+    "Vetoed": false,
+    "CreatedDate": "2025-04-09T11:04:36",
+    "ModifiedDate": "2025-04-15T10:34:24",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "153491",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3958,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Mannix",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-04-09T18:05:03",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 639654,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3958,
+      "Chamber": "H",
+      "ActionDate": "2025-04-10T10:57:09",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-04-10T10:57:29",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 640677,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3958,
+      "Chamber": "H",
+      "ActionDate": "2025-04-15T10:31:11",
+      "ActionText": "Referred to Housing and Homelessness.",
+      "VoteText": null,
+      "CreatedDate": "2025-04-15T10:32:33",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 660306,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3958,
+      "Chamber": "H",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-30T15:33:42",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3958,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3958/Introduced",
+      "CreatedDate": "2025-04-09T17:12:22.33",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}
