@@ -136,6 +136,10 @@ To add support for a new jurisdiction:
 3. Create content directory structure
 4. Update this documentation
 
+## Scripting Language
+
+When writing new scripts or rewriting existing ones, **prefer JavaScript (Node.js)** over Python. The existing meeting transcription scripts are in Python but new tooling should use JavaScript.
+
 ## Package Management
 
 This project uses **PNPM** as its package manager. Always use `pnpm` commands for package management:
