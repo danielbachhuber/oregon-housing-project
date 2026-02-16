@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 1203,
+    "CatchLine": "Allows the division of a portion of tracts used as golf courses on lands zoned for exclusive farm use for the purpose of siting single-unit or middle housing.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: This Act allows the siting of homes on golf courses on farm land. (Flesch Readability Score: 89.5). \n\tAllows the division of a portion of tracts used as golf courses on lands zoned for exclusive farm use for the purpose of siting single-unit or middle housing. Sunsets January 2, 2036. \n\tDeclares an emergency, effective on passage.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to development of housing on lands used as golf courses; and declaring an emergency.\n\t",
+    "RelatingTo": "Relating to development of housing on lands used as golf courses; declaring an emergency.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SHDEV",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": true,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 4674,
+    "Vetoed": false,
+    "CreatedDate": "2025-03-31T09:12:39",
+    "ModifiedDate": "2025-04-11T14:11:19",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "153097",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1203,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Anderson",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-03-31T18:05:03",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 635347,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1203,
+      "Chamber": "S",
+      "ActionDate": "2025-04-01T11:26:18",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-04-01T11:26:27",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 635673,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1203,
+      "Chamber": "S",
+      "ActionDate": "2025-04-01T14:20:53",
+      "ActionText": "Referred to Housing and Development.",
+      "VoteText": null,
+      "CreatedDate": "2025-04-01T14:21:00",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 659202,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1203,
+      "Chamber": "S",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-28T16:50:21",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1203,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB1203/Introduced",
+      "CreatedDate": "2025-03-31T16:27:51.62",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

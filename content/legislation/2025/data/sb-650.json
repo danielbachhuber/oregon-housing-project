@@ -1,0 +1,126 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 650,
+    "CatchLine": "Provides, for purposes of ad valorem property taxation, a specially assessed value for the owner-occupied primary residences of individuals who are at least 65 years of age.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: The Act would grant a specially assessed property tax value for the homes of people who are at least 65 years old. (Flesch Readability Score: 69.1). \n\tProvides, for purposes of ad valorem property taxation, a specially assessed value for the owner-occupied primary residences of individuals who are at least 65 years of age. \n\tTakes effect on the 91st day following adjournment sine die.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to a specially assessed value for the residences of seniors; and prescribing an effective date.\n\t",
+    "RelatingTo": "Relating to a specially assessed value for the residences of seniors; prescribing an effective date.",
+    "AtTheRequestOf": "(at the request of Senator Noah Robinson)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SFR",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Roxanne Adams",
+    "RevenueEconomist": "Beau Olen",
+    "LCNumber": 1504,
+    "Vetoed": false,
+    "CreatedDate": "2024-12-31T13:18:07",
+    "ModifiedDate": "2025-01-24T09:25:54",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "146796",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 650,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "(Presession filed.)",
+      "CreatedDate": "2025-01-07T16:28:19",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "146797",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 650,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Bonham",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-01-07T16:28:19",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "148182",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 650,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Robinson",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "10",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-01-13T16:28:44",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 615955,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 650,
+      "Chamber": "S",
+      "ActionDate": "2025-01-13T09:07:30",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-13T09:07:48",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 618222,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 650,
+      "Chamber": "S",
+      "ActionDate": "2025-01-17T14:13:22",
+      "ActionText": "Referred to Finance and Revenue.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-17T14:16:33",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 658844,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 650,
+      "Chamber": "S",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-28T16:50:21",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 650,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB650/Introduced",
+      "CreatedDate": "2025-01-10T12:27:40.55",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

@@ -1,0 +1,111 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3757,
+    "CatchLine": "Allows owners of rural land on which a dwelling is sited to divide the land to add up to four additional dwellings.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: This Act allows splitting rural lands into up to five lots for homes if built before 2029. (Flesch Readability Score: 60.1). \n\tAllows owners of rural land on which a dwelling is sited to divide the land to add up to four additional dwellings. Requires that the development of each dwelling be substantially completed on or before December 31, 2028. Invalidates divisions of land if the development is incomplete. \n\tSunsets January 2, 2029.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to division of rural lands for dwellings.\n\t",
+    "RelatingTo": "Relating to division of rural lands for dwellings.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HHOUSH",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 4373,
+    "Vetoed": false,
+    "CreatedDate": "2025-02-24T20:18:32",
+    "ModifiedDate": "2025-03-05T10:26:19",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "151183",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3757,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Edwards",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-02-26T17:50:06",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 624933,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3757,
+      "Chamber": "H",
+      "ActionDate": "2025-02-27T11:29:00",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-02-27T11:29:08",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 626342,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3757,
+      "Chamber": "H",
+      "ActionDate": "2025-03-04T16:19:48",
+      "ActionText": "Referred to Housing and Homelessness.",
+      "VoteText": null,
+      "CreatedDate": "2025-03-04T16:19:57",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 642081,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3757,
+      "Chamber": "H",
+      "ActionDate": "2025-04-21T13:01:00",
+      "ActionText": "Informational Meeting held.",
+      "VoteText": null,
+      "CreatedDate": "2025-04-21T14:51:04",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 660470,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3757,
+      "Chamber": "H",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-30T15:33:42",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3757,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3757/Introduced",
+      "CreatedDate": "2025-02-26T16:46:29.523",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

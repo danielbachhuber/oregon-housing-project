@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3851,
+    "CatchLine": "Allows a residential landlord to give 59 days' notice after accepting an offer from a buyer who intends to occupy the premises, to terminate a tenancy.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: This bill amends the notices to end a tenancy needed from landlords selling their homes. (Flesch Readability Score: 63.6). \n\tAllows a residential landlord to give 59 days' notice after accepting an offer from a buyer who intends to occupy the premises, to terminate a tenancy. Requires the landlord to first give tenants at least 31 days' notice before listing the property for sale. Replaces the current 90 days' notice requirement for termination. \n\tTakes effect on the 91st day following adjournment sine die.\t.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to termination of residential tenancies; amending ORS 90.427 and 105.124; and prescribing an effective date.\n\t",
+    "RelatingTo": "Relating to termination of residential tenancies; prescribing an effective date.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HHOUSH",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 4539,
+    "Vetoed": false,
+    "CreatedDate": "2025-02-26T10:35:01",
+    "ModifiedDate": "2025-03-05T10:31:00",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "151387",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3851,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Elmer",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-02-26T17:50:06",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 625027,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3851,
+      "Chamber": "H",
+      "ActionDate": "2025-02-27T11:29:00",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-02-27T11:29:08",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 626436,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3851,
+      "Chamber": "H",
+      "ActionDate": "2025-03-04T16:19:48",
+      "ActionText": "Referred to Housing and Homelessness.",
+      "VoteText": null,
+      "CreatedDate": "2025-03-04T16:19:57",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 661284,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3851,
+      "Chamber": "H",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-30T15:33:43",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3851,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3851/Introduced",
+      "CreatedDate": "2025-02-26T16:50:32.657",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

@@ -1,0 +1,112 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 941,
+    "CatchLine": "Requires the Department of Land Conservation and Development to study the supply of land to build homes and grow businesses and submit findings to the interim committees of the Legislative Assembly related to land use no later than September 15, 2026.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: This Act requires DLCD to study the supply of land to build homes and grow businesses. (Flesch Readability Score: 68.9). \n\tRequires the Department of Land Conservation and Development to study the supply of land to build homes and grow businesses and submit findings to the interim committees of the Legislative Assembly related to land use no later than September 15, 2026.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to the supply of land to build homes and grow businesses.\n\t",
+    "RelatingTo": "Relating to the supply of land to build homes and grow businesses.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SHDEV",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Twais Broadus",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 4420,
+    "Vetoed": false,
+    "CreatedDate": "2025-01-22T15:14:22",
+    "ModifiedDate": "2025-01-23T13:05:35",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "148613",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 941,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Meek",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-01-22T17:38:37",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "152618",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 941,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Nash",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-03-19T08:58:58",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 619029,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 941,
+      "Chamber": "S",
+      "ActionDate": "2025-01-23T10:49:27",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-23T10:56:27",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 619036,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 941,
+      "Chamber": "S",
+      "ActionDate": "2025-01-23T13:00:10",
+      "ActionText": "Referred to Housing and Development.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-23T13:00:25",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 659596,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 941,
+      "Chamber": "S",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-28T16:50:21",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 941,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB941/Introduced",
+      "CreatedDate": "2025-01-22T16:27:19.76",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3036,
+    "CatchLine": "Expands purposes, for corporate excise tax credit allowed for affordable housing lending, for which a qualified borrower may use savings from a reduced interest rate to include provision of resident services or supportive services.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: The Act makes changes to the tax credit for banks that lend to build housing. (Flesch Readability Score: 90.9). \n\tExpands purposes, for corporate excise tax credit allowed for affordable housing lending, for which a qualified borrower may use savings from a reduced interest rate to include provision of resident services or supportive services. \n\tApplies to tax years beginning on or after January 1, 2025. \n\tTakes effect on the 91st day following adjournment sine die.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to tax credits for affordable housing lending; creating new provisions; amending ORS 317.097; and prescribing an effective date.\n\t",
+    "RelatingTo": "Relating to tax credits for affordable housing lending; prescribing an effective date.",
+    "AtTheRequestOf": "(at the request of Governor Tina Kotek for Housing and Community Services Department)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HHOUSH",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Kyle Easton",
+    "LCNumber": 527,
+    "Vetoed": false,
+    "CreatedDate": "2024-12-31T13:18:07",
+    "ModifiedDate": "2025-01-28T14:29:06",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "146169",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3036,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "Introduced and printed pursuant to House Rule 12.00.  Presession filed",
+      "CreatedDate": "2025-01-07T16:28:18",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 615000,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3036,
+      "Chamber": "H",
+      "ActionDate": "2025-01-13T08:01:32",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-13T08:01:46",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 617209,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3036,
+      "Chamber": "H",
+      "ActionDate": "2025-01-17T12:47:46",
+      "ActionText": "Referred to Housing and Homelessness.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-17T12:52:00",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 659891,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3036,
+      "Chamber": "H",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-30T15:33:42",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3036,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3036/Introduced",
+      "CreatedDate": "2025-01-10T13:16:41.6",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

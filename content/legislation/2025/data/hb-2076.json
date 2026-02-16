@@ -1,0 +1,111 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 2076,
+    "CatchLine": "Extends the sunset date for the property tax exemption for cargo containers.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: The Act would extend the sunset date for the tax exemption for cargo containers. (Flesch Readability Score: 65.7). \n\tExtends the sunset date for the property tax exemption for cargo containers. \n\tTakes effect on the 91st day following adjournment sine die.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to property tax exemption for cargo containers; amending section 2, chapter 783, Oregon Laws 1979; and prescribing an effective date.\n\t",
+    "RelatingTo": "Relating to property tax exemption for cargo containers; prescribing an effective date.",
+    "AtTheRequestOf": "(at the request of House Interim Committee on Revenue for Representative Nancy Nathanson)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HREV",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Roxanne Adams",
+    "RevenueEconomist": "Beau Olen",
+    "LCNumber": 2114,
+    "Vetoed": false,
+    "CreatedDate": "2024-12-31T13:18:07",
+    "ModifiedDate": "2025-01-21T08:40:08",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "141890",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2076,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "Introduced and printed pursuant to House Rule 12.00.  Presession filed",
+      "CreatedDate": "2024-12-20T17:28:43",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 614040,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2076,
+      "Chamber": "H",
+      "ActionDate": "2025-01-13T08:01:32",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-13T08:01:43",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 616249,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2076,
+      "Chamber": "H",
+      "ActionDate": "2025-01-17T12:47:46",
+      "ActionText": "Referred to Revenue.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-17T12:51:58",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 621135,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2076,
+      "Chamber": "H",
+      "ActionDate": "2025-02-06T15:01:00",
+      "ActionText": "Public Hearing held.",
+      "VoteText": null,
+      "CreatedDate": "2025-02-06T17:26:33",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 661410,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2076,
+      "Chamber": "H",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-30T15:33:43",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2076,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2076/Introduced",
+      "CreatedDate": "2025-01-10T13:10:25.527",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

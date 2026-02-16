@@ -1,0 +1,112 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 2872,
+    "CatchLine": "Requires that a building permit must show a contractor's Construction Contractors Board license number if the contractor is known.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: The Act requires proof that workers in building trades have licenses. (Flesch Readability Score: 72.6). \n\tRequires that a building permit must show a contractor's Construction Contractors Board license number if the contractor is known. \n\tRequires an inspector performing building code inspection as part of a building inspection program, or for the purpose of enforcing a municipal ordinance, to require that persons engaged in regulated building activity present evidence of compliance with applicable licensing, registration or certification requirements. \n\tRequires that a municipality ensure that a person issued a permit for work requiring a Construction Contractors Board license holds a Construction Contractors Board license. \n\tRequires the Director of the Department of Consumer and Business Services to inform the Construction Contractors Board when the director has reason to believe that a person is engaging, has engaged or plans to engage in a violation of laws regarding licensing and endorsement of construction contractors.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to ensuring the credentials of persons working in regulated building activities; amending ORS 455.050, 455.080, 455.158 and 455.775.\n\t",
+    "RelatingTo": "Relating to ensuring the credentials of persons working in regulated building activities.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HCCP",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "MaryMichelle Sosne",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 2055,
+    "Vetoed": false,
+    "CreatedDate": "2024-12-31T13:18:07",
+    "ModifiedDate": "2025-03-22T12:17:24",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "145496",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2872,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "(Presession filed.)",
+      "CreatedDate": "2025-01-06T17:54:11",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "145497",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2872,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Evans",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-01-06T17:54:11",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 614836,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2872,
+      "Chamber": "H",
+      "ActionDate": "2025-01-13T08:01:32",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-13T08:01:45",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 617045,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2872,
+      "Chamber": "H",
+      "ActionDate": "2025-01-17T12:47:46",
+      "ActionText": "Referred to Commerce and Consumer Protection.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-17T12:52:00",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 661181,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2872,
+      "Chamber": "H",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-30T15:33:43",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2872,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2872/Introduced",
+      "CreatedDate": "2025-01-10T13:16:23.133",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}
