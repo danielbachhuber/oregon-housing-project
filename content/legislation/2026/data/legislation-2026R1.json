@@ -5482,6 +5482,11 @@
         "name": "Sen Reynolds",
         "level": "Regular",
         "type": "Member"
+      },
+      {
+        "name": "Rep Javadi",
+        "level": "Regular",
+        "type": "Member"
       }
     ]
   },
@@ -9584,6 +9589,11 @@
         "name": "Rep Owens",
         "level": "Regular",
         "type": "Member"
+      },
+      {
+        "name": "Sen Smith DB",
+        "level": "Regular",
+        "type": "Member"
       }
     ]
   },
@@ -11562,6 +11572,11 @@
         "name": "Rep Nelson",
         "level": "Regular",
         "type": "Member"
+      },
+      {
+        "name": "Rep Javadi",
+        "level": "Regular",
+        "type": "Member"
       }
     ]
   },
@@ -12399,6 +12414,11 @@
       },
       {
         "name": "Rep Rieke Smith",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Javadi",
         "level": "Regular",
         "type": "Member"
       }
@@ -13638,11 +13658,6 @@
       },
       {
         "name": "Sen Campos",
-        "level": "Regular",
-        "type": "Member"
-      },
-      {
-        "name": "Rep Bunch",
         "level": "Regular",
         "type": "Member"
       }
