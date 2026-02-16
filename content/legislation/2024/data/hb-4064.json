@@ -1,0 +1,83 @@
+{
+  "measure": {
+    "SessionKey": "2024R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 4064,
+    "CatchLine": "Requires the Housing and Community Services Department to study housing and to submit a report to the relevant interim committees of the Legislative Assembly no later than September 15, 2025.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: Makes OHCS study and report on housing. (Flesch Readability Score: 78.8). \n\tRequires the Housing and Community Services Department to study housing and to submit a report to the relevant interim committees of the Legislative Assembly no later than September 15, 2025.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to housing.\n\t",
+    "RelatingTo": "Relating to housing.",
+    "AtTheRequestOf": "(at the request of House Interim Committee on Housing and Homelessness for Representative Maxine Dexter)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HHOUSH",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 193,
+    "Vetoed": false,
+    "CreatedDate": "2024-01-12T19:09:23",
+    "ModifiedDate": "2024-02-05T12:19:15",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 605162,
+      "SessionKey": "2024R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4064,
+      "Chamber": "H",
+      "ActionDate": "2024-02-05T08:09:01",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2024-02-05T08:09:09",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 606160,
+      "SessionKey": "2024R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4064,
+      "Chamber": "H",
+      "ActionDate": "2024-02-05T11:10:57",
+      "ActionText": "Referred to Housing and Homelessness with subsequent referral to Ways and Means.",
+      "VoteText": null,
+      "CreatedDate": "2024-02-05T11:11:04",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 611469,
+      "SessionKey": "2024R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4064,
+      "Chamber": "H",
+      "ActionDate": "2024-03-07T20:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2024-03-11T16:06:17",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2024R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4064,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2024R1/Downloads/MeasureDocument/HB4064/Introduced",
+      "CreatedDate": "2024-02-14T11:15:18.07",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

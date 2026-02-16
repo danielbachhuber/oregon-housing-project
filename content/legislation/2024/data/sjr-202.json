@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2024R1",
+    "MeasurePrefix": "SJR",
+    "MeasureNumber": 202,
+    "CatchLine": "Proposes an amendment to the Oregon Constitution directing the Legislative Assembly to enact a property tax relief program for owner-occupied primary residences of certain seniors.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: The resolution would freeze the taxes levied on the homes of seniors. (Flesch Readability Score: 60.7). \n\tProposes an amendment to the Oregon Constitution directing the Legislative Assembly to enact a property tax relief program for owner-occupied primary residences of certain seniors. \n\tRefers the proposed amendment to the people for their approval or rejection at the next regular general election.",
+    "CurrentVersion": null,
+    "RelatingToFull": "\n\t",
+    "RelatingTo": "Proposing amendment to Oregon Constitution relating to a property tax relief program for owner-occupied primary residences of certain seniors.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SFR",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Haylee Morse-Miller",
+    "RevenueEconomist": "Beau Olen",
+    "LCNumber": 235,
+    "Vetoed": false,
+    "CreatedDate": "2024-01-12T14:41:29",
+    "ModifiedDate": "2024-02-07T13:57:32",
+    "PrefixMeaning": "Senate Joint Resolution"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "140876",
+      "SessionKey": "2024R1",
+      "MeasurePrefix": "SJR",
+      "MeasureNumber": 202,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Bonham",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2024-01-19T10:21:40",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 604998,
+      "SessionKey": "2024R1",
+      "MeasurePrefix": "SJR",
+      "MeasureNumber": 202,
+      "Chamber": "S",
+      "ActionDate": "2024-02-05T07:05:18",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2024-02-05T07:05:26",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 605280,
+      "SessionKey": "2024R1",
+      "MeasurePrefix": "SJR",
+      "MeasureNumber": 202,
+      "Chamber": "S",
+      "ActionDate": "2024-02-05T09:31:30",
+      "ActionText": "Referred to Finance and Revenue, then Rules.",
+      "VoteText": null,
+      "CreatedDate": "2024-02-05T09:31:46",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 611383,
+      "SessionKey": "2024R1",
+      "MeasurePrefix": "SJR",
+      "MeasureNumber": 202,
+      "Chamber": "S",
+      "ActionDate": "2024-03-07T19:30:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2024-03-08T09:29:57",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2024R1",
+      "MeasurePrefix": "SJR",
+      "MeasureNumber": 202,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2024R1/Downloads/MeasureDocument/SJR202/Introduced",
+      "CreatedDate": "2024-02-14T11:15:40.883",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}
