@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2023R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 744,
+    "CatchLine": "Allows landlord and tenant to agree to assessment of charge in lieu of security deposit.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tAllows landlord and tenant to agree to assessment of charge in lieu of security deposit. Establishes requirements and form of agreement.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to charge in lieu of security deposit; creating new provisions; and amending ORS 90.100, 90.140, 90.300, 90.302, 90.392 and 90.510.\n\t",
+    "RelatingTo": "Relating to charge in lieu of security deposit.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SHDEV",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Tim Walker",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 3384,
+    "Vetoed": false,
+    "CreatedDate": "2023-01-11T13:19:02",
+    "ModifiedDate": "2023-01-18T15:04:57",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "131479",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 744,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Woods",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-01-16T18:05:03",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 552318,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 744,
+      "Chamber": "S",
+      "ActionDate": "2023-01-17T11:27:39",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2023-01-17T11:27:49",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 552355,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 744,
+      "Chamber": "S",
+      "ActionDate": "2023-01-17T16:43:06",
+      "ActionText": "Referred to Housing and Development.",
+      "VoteText": null,
+      "CreatedDate": "2023-01-17T16:47:52",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 601137,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 744,
+      "Chamber": "S",
+      "ActionDate": "2023-06-25T16:30:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2023-06-29T14:10:29",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 744,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/SB744/Introduced",
+      "CreatedDate": "2023-01-13T15:36:35.817",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2023R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 244,
+    "CatchLine": "Limits interest rate to no more than prime rate plus one percent for loans advanced under veterans' home and farm loan program.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tLimits interest rate to no more than prime rate plus one percent for loans advanced under veterans' home and farm loan program. \n\tAppropriates moneys from General Fund to Department of Veterans' Affairs for deposit in Oregon War Veterans' Fund, for biennium beginning July 1, 2023, to be used to advance loans to qualified veterans for acquisition of farms and homes.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to veterans' loans for acquisition of real property; creating new provisions; and amending ORS 407.315 and 407.325.\n\t",
+    "RelatingTo": "Relating to veterans' loans for acquisition of real property.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SVEMFW",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Tim Walker",
+    "RevenueEconomist": "Mazen Malik",
+    "LCNumber": 2939,
+    "Vetoed": false,
+    "CreatedDate": "2022-12-15T15:16:49",
+    "ModifiedDate": "2023-01-19T09:24:42",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "130503",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 244,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Robinson",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-01-08T00:15:06",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 549684,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 244,
+      "Chamber": "S",
+      "ActionDate": "2023-01-09T10:53:53",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2023-01-09T11:09:22",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 551392,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 244,
+      "Chamber": "S",
+      "ActionDate": "2023-01-13T11:45:37",
+      "ActionText": "Referred to Veterans, Emergency Management, Federal and World Affairs.",
+      "VoteText": null,
+      "CreatedDate": "2023-01-13T12:16:28",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 600634,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 244,
+      "Chamber": "S",
+      "ActionDate": "2023-06-25T16:30:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2023-06-29T14:10:29",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 244,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/SB244/Introduced",
+      "CreatedDate": "2023-01-07T20:57:22.62",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

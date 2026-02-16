@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2023R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 1088,
+    "CatchLine": "Authorizes Department of Early Learning and Care to acquire ownership of, or enter into contract with public or private entity to use, up to three approximately one-quarter-acre parcels in Deschutes County to develop commercial-grade buildings suitable to function as child care facilities.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tAuthorizes Department of Early Learning and Care to acquire ownership of, or enter into contract with public or private entity to use, up to three approximately one-quarter-acre parcels in Deschutes County to develop commercial-grade buildings suitable to function as child care facilities. Requires department to lease buildings at annual rate not to exceed 10 percent of market rate to person qualified to operate certified child care facility. \n\tAppropriates moneys from General Fund to department for specified purposes. \n\tDeclares emergency, effective on passage.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to developing child care facilities; and declaring an emergency.\n\t",
+    "RelatingTo": "Relating to developing child care facilities; declaring an emergency.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SHDEV",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": true,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 4373,
+    "Vetoed": false,
+    "CreatedDate": "2023-03-29T09:47:25",
+    "ModifiedDate": "2023-04-04T11:03:15",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "136122",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1088,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Knopp",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-03-29T21:05:02",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 569257,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1088,
+      "Chamber": "S",
+      "ActionDate": "2023-03-30T12:25:50",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2023-03-30T12:25:57",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 570754,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1088,
+      "Chamber": "S",
+      "ActionDate": "2023-04-04T10:07:31",
+      "ActionText": "Referred to Housing and Development.",
+      "VoteText": null,
+      "CreatedDate": "2023-04-04T10:07:49",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 601337,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1088,
+      "Chamber": "S",
+      "ActionDate": "2023-06-25T16:30:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2023-06-29T14:10:30",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1088,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/SB1088/Introduced",
+      "CreatedDate": "2023-03-29T16:48:25.81",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

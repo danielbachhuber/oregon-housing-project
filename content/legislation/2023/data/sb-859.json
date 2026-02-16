@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2023R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 859,
+    "CatchLine": "Allows local governments, and during emergency period allows Governor or certain agencies, to abate waste, graffiti and vandalism associated with homelessness and other factors.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tAllows local governments, and during emergency period allows Governor or certain agencies, to abate waste, graffiti and vandalism associated with homelessness and other factors. Allows costs to be passed to solid waste collection ratepayers. \n\tRequires Oregon Department of Emergency Management to report to interim committee of Legislative Assembly on state expenses under program on or before September 15, 2024. \n\tSunsets January 2, 2026. \n\tDeclares emergency, effective on passage.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to homelessness; and declaring an emergency.\n\t",
+    "RelatingTo": "Relating to homelessness; declaring an emergency.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SHDEV",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": true,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Tim Walker",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 3852,
+    "Vetoed": false,
+    "CreatedDate": "2023-02-03T13:24:17",
+    "ModifiedDate": "2023-02-12T14:58:08",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "132799",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 859,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Jama",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-02-06T18:05:02",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 554941,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 859,
+      "Chamber": "S",
+      "ActionDate": "2023-02-07T11:13:40",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2023-02-07T11:16:46",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 555475,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 859,
+      "Chamber": "S",
+      "ActionDate": "2023-02-09T16:03:05",
+      "ActionText": "Referred to Housing and Development.",
+      "VoteText": null,
+      "CreatedDate": "2023-02-09T16:10:31",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 601077,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 859,
+      "Chamber": "S",
+      "ActionDate": "2023-06-25T16:30:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2023-06-29T14:10:29",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 859,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/SB859/Introduced",
+      "CreatedDate": "2023-02-06T17:36:36.15",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

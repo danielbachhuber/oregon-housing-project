@@ -1,0 +1,112 @@
+{
+  "measure": {
+    "SessionKey": "2023R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 2849,
+    "CatchLine": "Directs Oregon Department of Emergency Management to identify long-term recovery groups operating in Oregon and to provide grants for their support.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDirects Oregon Department of Emergency Management to identify long-term recovery groups operating in Oregon and to provide grants for their support. \n\tEstablishes Long-Term Recovery Group Fund. Continuously appropriates moneys in fund to department for support of long-term recovery groups operating in areas experiencing emergency. \n\tDeclares emergency, effective on passage.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to long-term recovery groups; and declaring an emergency.\n\t",
+    "RelatingTo": "Relating to long-term recovery groups; declaring an emergency.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HEMGGV",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": true,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Emily Coates",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 3192,
+    "Vetoed": false,
+    "CreatedDate": "2022-12-26T21:23:13",
+    "ModifiedDate": "2023-01-16T20:31:01",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "126578",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2849,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Evans",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-01-07T22:25:04",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "131681",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2849,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Diehl",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "10",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-01-19T11:36:41",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 549218,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2849,
+      "Chamber": "H",
+      "ActionDate": "2023-01-09T08:13:56",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2023-01-09T08:16:14",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 552050,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2849,
+      "Chamber": "H",
+      "ActionDate": "2023-01-16T09:42:49",
+      "ActionText": "Referred to Emergency Management, General Government, and Veterans with subsequent referral to Ways and Means.",
+      "VoteText": null,
+      "CreatedDate": "2023-01-16T09:44:06",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 599694,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2849,
+      "Chamber": "H",
+      "ActionDate": "2023-06-25T16:26:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2023-06-28T16:35:41",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2849,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/HB2849/Introduced",
+      "CreatedDate": "2023-01-07T19:27:37.973",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

@@ -1,0 +1,83 @@
+{
+  "measure": {
+    "SessionKey": "2023R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 2027,
+    "CatchLine": "Requires Housing and Community Services Department to study housing.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tRequires Housing and Community Services Department to study housing. Directs department to submit findings to interim committees of Legislative Assembly related to housing no later than September 15, 2024.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to housing.\n\t",
+    "RelatingTo": "Relating to housing.",
+    "AtTheRequestOf": "(at the request of House Interim Committee on Economic Development and Small Business for Representative Janelle Bynum)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HECDSB",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Tim Walker",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 3494,
+    "Vetoed": false,
+    "CreatedDate": "2022-12-12T11:03:28",
+    "ModifiedDate": "2023-01-17T12:16:28",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 548403,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2027,
+      "Chamber": "H",
+      "ActionDate": "2023-01-09T08:13:56",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2023-01-09T08:16:11",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 550347,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2027,
+      "Chamber": "H",
+      "ActionDate": "2023-01-11T12:08:51",
+      "ActionText": "Referred to Economic Development and Small Business with subsequent referral to Housing and Homelessness.",
+      "VoteText": null,
+      "CreatedDate": "2023-01-11T12:09:17",
+      "ModifiedDate": "2023-01-12T14:47:36",
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 598871,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2027,
+      "Chamber": "H",
+      "ActionDate": "2023-06-25T16:26:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2023-06-28T16:35:40",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2027,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/HB2027/Introduced",
+      "CreatedDate": "2023-01-07T18:48:15.617",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

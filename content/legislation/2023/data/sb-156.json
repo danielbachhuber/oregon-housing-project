@@ -1,0 +1,83 @@
+{
+  "measure": {
+    "SessionKey": "2023R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 156,
+    "CatchLine": "Creates property tax exemption for owner occupied principal dwelling of certain seniors.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tCreates property tax exemption for owner occupied principal dwelling of certain seniors. \n\tTakes effect on 91st day following adjournment sine die.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to a property tax exemption for the homesteads of certain seniors; and prescribing an effective date.\n\t",
+    "RelatingTo": "Relating to a property tax exemption for the homesteads of certain seniors; prescribing an effective date.",
+    "AtTheRequestOf": "(at the request of Senate Interim Committee on Finance and Revenue)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SHDEV",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Tim Walker",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 2314,
+    "Vetoed": false,
+    "CreatedDate": "2022-12-13T14:08:04",
+    "ModifiedDate": "2023-01-17T08:44:00",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 549596,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 156,
+      "Chamber": "S",
+      "ActionDate": "2023-01-09T10:53:53",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2023-01-09T11:09:22",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 551733,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 156,
+      "Chamber": "S",
+      "ActionDate": "2023-01-15T08:54:08",
+      "ActionText": "Referred to Housing and Development, then Tax Expenditures.",
+      "VoteText": null,
+      "CreatedDate": "2023-01-15T08:55:55",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 600512,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 156,
+      "Chamber": "S",
+      "ActionDate": "2023-06-25T16:30:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2023-06-29T14:10:29",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 156,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/SB156/Introduced",
+      "CreatedDate": "2023-01-07T20:51:16.807",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

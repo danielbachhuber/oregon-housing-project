@@ -1,0 +1,83 @@
+{
+  "measure": {
+    "SessionKey": "2023R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 2061,
+    "CatchLine": "Extends sunset of property tax exemption for facility of business firm in rural enterprise zone.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tExtends sunset of property tax exemption for facility of business firm in rural enterprise zone. \n\tTakes effect on 91st day following adjournment sine die.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to rural enterprise zone property tax exemption; amending ORS 285C.406; and prescribing an effective date.\n\t",
+    "RelatingTo": "Relating to rural enterprise zone property tax exemption; prescribing an effective date.",
+    "AtTheRequestOf": "(at the request of House Interim Committee on Revenue for Representative Nancy Nathanson)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "JCTE",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 1540,
+    "Vetoed": false,
+    "CreatedDate": "2022-12-13T13:36:25",
+    "ModifiedDate": "2023-01-17T12:21:29",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 548437,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2061,
+      "Chamber": "H",
+      "ActionDate": "2023-01-09T08:13:56",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2023-01-09T08:16:12",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 551805,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2061,
+      "Chamber": "H",
+      "ActionDate": "2023-01-16T09:42:49",
+      "ActionText": "Referred to Tax Expenditures.",
+      "VoteText": null,
+      "CreatedDate": "2023-01-16T09:44:05",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 598888,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2061,
+      "Chamber": "H",
+      "ActionDate": "2023-06-25T16:26:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2023-06-28T16:35:40",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2061,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/HB2061/Introduced",
+      "CreatedDate": "2023-01-07T18:48:21.427",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

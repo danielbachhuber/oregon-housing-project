@@ -1,0 +1,126 @@
+{
+  "measure": {
+    "SessionKey": "2023R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 2207,
+    "CatchLine": "Limits standing in appeals of land use decisions or limited land use decisions to persons that reside or maintain business in or within 25 miles of boundary of local government or special district and appeared before decision maker in person at hearing if available.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tLimits standing in appeals of land use decisions or limited land use decisions to persons that reside or maintain business in or within 25 miles of boundary of local government or special district and appeared before decision maker in person at hearing if available.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to standing in land use appeal; amending ORS 197.612, 197.620 and 197.830.\n\t",
+    "RelatingTo": "Relating to standing in land use appeal.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HALNRW",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Haylee Morse-Miller",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 2394,
+    "Vetoed": false,
+    "CreatedDate": "2022-12-15T12:56:57",
+    "ModifiedDate": "2023-01-19T09:10:48",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "130992",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2207,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Smith DB",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-01-08T00:35:03",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "130993",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2207,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Morgan",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "2",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-01-08T00:35:03",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "131266",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2207,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Levy B",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-01-11T13:36:54",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 548583,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2207,
+      "Chamber": "H",
+      "ActionDate": "2023-01-09T08:13:56",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2023-01-09T08:16:12",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 550464,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2207,
+      "Chamber": "H",
+      "ActionDate": "2023-01-11T12:08:51",
+      "ActionText": "Referred to Agriculture, Land Use, Natural Resources, and Water.",
+      "VoteText": null,
+      "CreatedDate": "2023-01-11T12:09:17",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 599106,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2207,
+      "Chamber": "H",
+      "ActionDate": "2023-06-25T16:26:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2023-06-28T16:35:40",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2207,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/HB2207/Introduced",
+      "CreatedDate": "2023-01-07T18:57:30.23",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

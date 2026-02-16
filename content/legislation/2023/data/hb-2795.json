@@ -1,0 +1,126 @@
+{
+  "measure": {
+    "SessionKey": "2023R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 2795,
+    "CatchLine": "Prohibits local governments from including lands used for golf courses in inventory of buildable lands for purposes of urban planning.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tProhibits local governments from including lands used for golf courses in inventory of buildable lands for purposes of urban planning.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to buildable lands; amending ORS 197.296 and 197A.300.\n\t",
+    "RelatingTo": "Relating to buildable lands.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HALNRW",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Tim Walker",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 3089,
+    "Vetoed": false,
+    "CreatedDate": "2022-12-26T11:52:54",
+    "ModifiedDate": "2023-01-23T09:48:51",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "126357",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2795,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Hieb",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-01-07T22:25:04",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "126358",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2795,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Morgan",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "2",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-01-07T22:25:04",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "126359",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2795,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Levy B",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-01-07T22:25:04",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 549164,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2795,
+      "Chamber": "H",
+      "ActionDate": "2023-01-09T08:13:56",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2023-01-09T08:16:14",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 552009,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2795,
+      "Chamber": "H",
+      "ActionDate": "2023-01-16T09:42:49",
+      "ActionText": "Referred to Agriculture, Land Use, Natural Resources, and Water.",
+      "VoteText": null,
+      "CreatedDate": "2023-01-16T09:44:06",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 599507,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2795,
+      "Chamber": "H",
+      "ActionDate": "2023-06-25T16:26:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2023-06-28T16:35:41",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2795,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/HB2795/Introduced",
+      "CreatedDate": "2023-01-07T19:21:07.57",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}
