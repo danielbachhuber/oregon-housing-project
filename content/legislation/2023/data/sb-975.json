@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2023R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 975,
+    "CatchLine": "Requires Department of Revenue to study use of tax increment financing revenue received by urban renewal agency to finance infrastructure outside urban renewal area to compensate for displacement of persons by urban renewal agency's projects within area.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tRequires Department of Revenue to study use of tax increment financing revenue received by urban renewal agency to finance infrastructure outside urban renewal area to compensate for displacement of persons by urban renewal agency's projects within area. Directs department to submit report to interim committees of Legislative Assembly related to revenue not later than September 15, 2024.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to urban renewal.\n\t",
+    "RelatingTo": "Relating to urban renewal.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SFR",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Beau Olen",
+    "LCNumber": 3847,
+    "Vetoed": false,
+    "CreatedDate": "2023-02-21T10:08:19",
+    "ModifiedDate": "2023-03-15T07:50:54",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "134069",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 975,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Jama",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-02-21T21:05:04",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 557258,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 975,
+      "Chamber": "S",
+      "ActionDate": "2023-02-22T10:32:27",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2023-02-22T10:47:05",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 557848,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 975,
+      "Chamber": "S",
+      "ActionDate": "2023-02-23T15:50:40",
+      "ActionText": "Referred to Finance and Revenue.",
+      "VoteText": null,
+      "CreatedDate": "2023-02-23T15:50:56",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 601243,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 975,
+      "Chamber": "S",
+      "ActionDate": "2023-06-25T16:30:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2023-06-29T14:10:29",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 975,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/SB975/Introduced",
+      "CreatedDate": "2023-02-21T17:27:07.96",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

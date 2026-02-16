@@ -1,0 +1,111 @@
+{
+  "measure": {
+    "SessionKey": "2023R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 772,
+    "CatchLine": "Requires Legislative Revenue Officer to study homestead property tax deferral program.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tRequires Legislative Revenue Officer to study homestead property tax deferral program. Directs officer to submit report of findings to interim committees of Legislative Assembly related to revenue not later than September 15, 2024.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to the homestead property tax deferral program.\n\t",
+    "RelatingTo": "Relating to the homestead property tax deferral program.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SFR",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Haylee Morse-Miller",
+    "RevenueEconomist": "Beau Olen",
+    "LCNumber": 201,
+    "Vetoed": false,
+    "CreatedDate": "2023-01-18T11:26:02",
+    "ModifiedDate": "2023-03-15T07:50:36",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "131588",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 772,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Findley",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-01-18T18:05:01",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 552414,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 772,
+      "Chamber": "S",
+      "ActionDate": "2023-01-19T10:51:12",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2023-01-19T10:58:14",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 552741,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 772,
+      "Chamber": "S",
+      "ActionDate": "2023-01-23T12:29:56",
+      "ActionText": "Referred to Finance and Revenue.",
+      "VoteText": null,
+      "CreatedDate": "2023-01-23T12:33:19",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 564600,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 772,
+      "Chamber": "S",
+      "ActionDate": "2023-03-20T15:01:00",
+      "ActionText": "Public Hearing held.",
+      "VoteText": null,
+      "CreatedDate": "2023-03-20T17:02:30",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 601212,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 772,
+      "Chamber": "S",
+      "ActionDate": "2023-06-25T16:30:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2023-06-29T14:10:29",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 772,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/SB772/Introduced",
+      "CreatedDate": "2023-01-18T17:18:13.15",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}
