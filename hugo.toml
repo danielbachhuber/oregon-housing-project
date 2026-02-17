@@ -3,5 +3,10 @@ languageCode = 'en-us'
 title = 'Oregon Housing Project'
 theme = 'hugo-book'
 
+[[module.mounts]]
+  source = "content"
+  target = "content"
+  excludeFiles = ["legislation/**/files/**", "legislation/**/data/**"]
+
 [params]
   BookSection = '/'
