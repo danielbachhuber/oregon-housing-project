@@ -5,9 +5,9 @@ layout = 'single'
 extra_js = ['/js/presentations/career-mastermind-charts.js']
 +++
 
-## Oregon Housing Project
+## Oregon needs more housing
 
-<p style="font-weight: bold; font-size: 0.7em; margin-bottom: 0.2em;">Oregon's Housing Deficit</p>
+<p style="font-weight: bold; font-size: 0.7em; margin-bottom: 0.2em;">Oregon's housing deficit</p>
 
 <div style="height: 40vh; width: 80%; margin: 0 auto;">
 <canvas id="underproduction-chart"></canvas>
@@ -40,15 +40,35 @@ SOURCES:
 
 ---
 
-## What I Did
+## Fortunately, I can build websites
 
-- Committed to spending 20 hours on the Oregon Housing Project
-- Got feedback from at least one person
-- Details to come...
+<div style="display: flex; gap: 2em; align-items: flex-start;">
+<div style="flex: 1;">
+
+![Oregon Housing Project](/presentations/images/oregonhousingproject-screenshot.png)
+
+</div>
+<div style="flex: 1; font-size: 0.7em;">
+
+- Cataloged every housing-related bill from 2019–2026 with sponsors, history, and testimony
+- GitHub Actions fetch new bills daily and scan three news outlets for housing articles
+- Claude classifies bills, drafts summaries, refines city profiles, and reviews PRs
+
+</div>
+</div>
 
 ---
 
-## Where I'm Stuck
+## What worked, what didn't
 
-- What's the biggest open question or challenge?
-- What would help from this group?
+<div style="font-size: 0.75em;">
+
+- ✅ Claude Code and spinning up multiple terminal windows
+- ✅ So fun I could easily lose hours working on it
+- ✅ GitHub workflows to monitor for legislation updates and news coverage
+- ❌ GitHub Copilot was meh — no access to my Anthropic API key
+- ❌ Failed to use ClawdBot to work on the go
+- ❌ No clear audience for the website
+- ❌ Didn't figure out running agents in the background continously
+
+</div>
