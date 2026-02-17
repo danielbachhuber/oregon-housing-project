@@ -1,0 +1,143 @@
+{
+  "measure": {
+    "SessionKey": "2022R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 1535,
+    "CatchLine": "Directs Housing and Community Services Department to study issues relating to housing and to report to appropriate committee or interim committee of Legislative Assembly on or before September 15, 2023.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDirects Housing and Community Services Department to study issues relating to housing and to report to appropriate committee or interim committee of Legislative Assembly on or before September 15, 2023. \n\tSunsets December 31, 2023.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to housing.\n\t",
+    "RelatingTo": "Relating to housing.",
+    "AtTheRequestOf": "(at the request of Senate Interim Committee on Housing and Development)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SHDEV",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 25,
+    "Vetoed": false,
+    "CreatedDate": "2022-01-14T08:22:50",
+    "ModifiedDate": "2022-03-08T15:48:59",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "124690",
+      "SessionKey": "2022R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1535,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "Printed pursuant to Senate Interim Rule 213.28 by order of the President of the Senate in conformance with presession filing rules, indicating neither advocacy nor opposition on the part of the President.",
+      "CreatedDate": "2022-01-25T10:40:04",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 540245,
+      "SessionKey": "2022R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1535,
+      "Chamber": "S",
+      "ActionDate": "2022-02-01T07:05:58",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2022-02-01T07:06:13",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 540504,
+      "SessionKey": "2022R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1535,
+      "Chamber": "S",
+      "ActionDate": "2022-02-01T08:27:56",
+      "ActionText": "Referred to Housing and Development.",
+      "VoteText": null,
+      "CreatedDate": "2022-02-01T08:28:05",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 546318,
+      "SessionKey": "2022R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1535,
+      "Chamber": "S",
+      "ActionDate": "2022-03-04T11:58:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2022-03-10T15:12:35",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2022R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1535,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2022R1/Downloads/MeasureDocument/SB1535/Introduced",
+      "CreatedDate": "2022-01-25T10:36:17.963",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": [
+    {
+      "CommTestId": 38391,
+      "SubmitterFirstName": "Terry",
+      "SubmitterLastName": "Sime",
+      "BehalfOf": null,
+      "Organization": "Aloha",
+      "DocumentDescription": "Testimony",
+      "CreatedDate": "2022-02-10T21:43:24.19",
+      "ModifiedDate": "2022-02-10T21:50:39.04",
+      "PdfCreatedFlag": "Y",
+      "PositionOnMeasureId": 3983,
+      "SessionKey": "2022R1",
+      "CommitteeCode": "SHDEV",
+      "MeetingDate": "2022-02-14T15:15:00",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1535,
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2022R1",
+      "FirstName": null,
+      "LastName": null,
+      "ExecApptId": null,
+      "Topic": "Directs Housing and Community Services Department to study issues relating to housing and to report to appropriate committee or interim committee of Legislative Assembly on or before September 15, 2023."
+    },
+    {
+      "CommTestId": 38849,
+      "SubmitterFirstName": "David",
+      "SubmitterLastName": "Wall",
+      "BehalfOf": "Mr Oregon Opposes SB 1535",
+      "Organization": "Newberg",
+      "DocumentDescription": "Testimony",
+      "CreatedDate": "2022-02-14T12:30:18.243",
+      "ModifiedDate": "2022-02-14T12:30:47.123",
+      "PdfCreatedFlag": "Y",
+      "PositionOnMeasureId": 3982,
+      "SessionKey": "2022R1",
+      "CommitteeCode": "SHDEV",
+      "MeetingDate": "2022-02-14T15:15:00",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1535,
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2022R1",
+      "FirstName": null,
+      "LastName": null,
+      "ExecApptId": null,
+      "Topic": "Directs Housing and Community Services Department to study issues relating to housing and to report to appropriate committee or interim committee of Legislative Assembly on or before September 15, 2023."
+    }
+  ]
+}

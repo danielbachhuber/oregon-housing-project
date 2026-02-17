@@ -1,0 +1,140 @@
+{
+  "measure": {
+    "SessionKey": "2023R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3191,
+    "CatchLine": "Allows city to expand its urban growth boundary, or to require Metro to expand its urban growth boundary, in order to include land designated as urban reserve that supports workforce housing and commercial development supportive of workforce housing if certain conditions are met.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tAllows city to expand its urban growth boundary, or to require Metro to expand its urban growth boundary, in order to include land designated as urban reserve that supports workforce housing and commercial development supportive of workforce housing if certain conditions are met.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to housing.\n\t",
+    "RelatingTo": "Relating to housing.",
+    "AtTheRequestOf": "(at the request of former Representative Jack Zika)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HALNRW",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Tim Walker",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 3656,
+    "Vetoed": false,
+    "CreatedDate": "2023-02-01T13:13:04",
+    "ModifiedDate": "2023-02-06T09:38:33",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "132359",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3191,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Morgan",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-02-01T18:05:03",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "132360",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3191,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Meek",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "2",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-02-01T18:05:03",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "132361",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3191,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Helfrich",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "3",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-02-01T18:05:03",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "132581",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3191,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Wallan",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "10",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-02-02T10:55:08",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 554012,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3191,
+      "Chamber": "H",
+      "ActionDate": "2023-02-02T10:23:53",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2023-02-02T10:26:32",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 554417,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3191,
+      "Chamber": "H",
+      "ActionDate": "2023-02-02T15:52:52",
+      "ActionText": "Referred to Agriculture, Land Use, Natural Resources, and Water with subsequent referral to Housing and Homelessness.",
+      "VoteText": null,
+      "CreatedDate": "2023-02-02T15:53:04",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 599983,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3191,
+      "Chamber": "H",
+      "ActionDate": "2023-06-25T16:26:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2023-06-28T16:35:41",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3191,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/HB3191/Introduced",
+      "CreatedDate": "2023-02-02T08:25:30.85",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

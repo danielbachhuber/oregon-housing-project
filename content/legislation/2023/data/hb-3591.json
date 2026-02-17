@@ -1,0 +1,140 @@
+{
+  "measure": {
+    "SessionKey": "2023R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3591,
+    "CatchLine": "Authorizes cities and counties within Rural Oregon Continuum of Care to establish campgrounds for homeless individuals that are protected against civil liability provided campgrounds have certain characteristics and provide certain services.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tAuthorizes cities and counties within Rural Oregon Continuum of Care to establish campgrounds for homeless individuals that are protected against civil liability provided campgrounds have certain characteristics and provide certain services. \n\tDeclares emergency, effective on passage.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to campgrounds for homeless individuals; and declaring an emergency.\n\t",
+    "RelatingTo": "Relating to campgrounds for homeless individuals; declaring an emergency.",
+    "AtTheRequestOf": "(at the request of Ellen Porter)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HHOUSH",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": true,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Tim Walker",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 4366,
+    "Vetoed": false,
+    "CreatedDate": "2023-03-10T09:42:06",
+    "ModifiedDate": "2023-04-06T16:25:15",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "135423",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3591,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Goodwin",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-03-12T18:05:02",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "135424",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3591,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Anderson",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "2",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-03-12T18:05:02",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "135425",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3591,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Smith DB",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-03-12T18:05:02",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "135534",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3591,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Boice",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-03-14T17:24:55",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 561424,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3591,
+      "Chamber": "H",
+      "ActionDate": "2023-03-13T10:34:48",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2023-03-13T10:35:13",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 561645,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3591,
+      "Chamber": "H",
+      "ActionDate": "2023-03-14T09:42:52",
+      "ActionText": "Referred to Housing and Homelessness.",
+      "VoteText": null,
+      "CreatedDate": "2023-03-14T09:43:05",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 600202,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3591,
+      "Chamber": "H",
+      "ActionDate": "2023-06-25T16:26:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2023-06-28T16:35:41",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3591,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/HB3591/Introduced",
+      "CreatedDate": "2023-03-10T17:33:43.06",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

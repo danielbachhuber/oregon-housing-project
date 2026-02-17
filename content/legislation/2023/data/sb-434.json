@@ -1,0 +1,112 @@
+{
+  "measure": {
+    "SessionKey": "2023R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 434,
+    "CatchLine": "Creates Eviction Mediation Program within Housing and Community Services Department.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tCreates Eviction Mediation Program within Housing and Community Services Department. Requires parties to eviction to participate in program. Appropriates moneys from General Fund to department for program. \n\tAmends eviction mediation and settlement procedures. \n\tTakes effect on 91st day following adjournment sine die.\t.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to evictions; creating new provisions; amending ORS 105.113, 105.135, 105.137, 105.145, 105.146, 105.148 and 105.163; and prescribing an effective date.\n\t",
+    "RelatingTo": "Relating to evictions; prescribing an effective date.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SHDEV",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Tim Walker",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 2835,
+    "Vetoed": false,
+    "CreatedDate": "2022-12-21T10:55:03",
+    "ModifiedDate": "2023-01-23T09:53:40",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "129019",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 434,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Thatcher",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-01-07T23:50:05",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "129020",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 434,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Morgan",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "2",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-01-07T23:50:05",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 549874,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 434,
+      "Chamber": "S",
+      "ActionDate": "2023-01-09T10:53:53",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2023-01-09T11:09:23",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 551738,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 434,
+      "Chamber": "S",
+      "ActionDate": "2023-01-15T08:54:08",
+      "ActionText": "Referred to Housing and Development, then Ways and Means.",
+      "VoteText": null,
+      "CreatedDate": "2023-01-15T08:55:55",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 601004,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 434,
+      "Chamber": "S",
+      "ActionDate": "2023-06-25T16:30:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2023-06-29T14:10:29",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 434,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/SB434/Introduced",
+      "CreatedDate": "2023-01-07T21:03:35.65",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

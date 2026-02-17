@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2023R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3577,
+    "CatchLine": "Increases amount of value of homesteads exempt from sale on execution, judgment lien or liability for debts of owner.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tIncreases amount of value of homesteads exempt from sale on execution, judgment lien or liability for debts of owner. \n\tIncreases amount of judgment for which homestead may not be sold on execution.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to the homestead exemption; creating new provisions; and amending ORS 18.395, 18.402, 18.412, 18.845, 18.896, 18.908 and 18.912.\n\t",
+    "RelatingTo": "Relating to the homestead exemption.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HJUD",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Emily Coates",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 3805,
+    "Vetoed": false,
+    "CreatedDate": "2023-03-06T09:27:45",
+    "ModifiedDate": "2023-03-12T21:03:58",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "135207",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3577,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Osborne",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-03-06T21:05:02",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 560175,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3577,
+      "Chamber": "H",
+      "ActionDate": "2023-03-07T10:15:03",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2023-03-07T10:15:51",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 561166,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3577,
+      "Chamber": "H",
+      "ActionDate": "2023-03-10T15:20:24",
+      "ActionText": "Referred to Judiciary.",
+      "VoteText": null,
+      "CreatedDate": "2023-03-10T15:21:03",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 600218,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3577,
+      "Chamber": "H",
+      "ActionDate": "2023-06-25T16:26:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2023-06-28T16:35:41",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3577,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/HB3577/Introduced",
+      "CreatedDate": "2023-03-06T16:27:29.973",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

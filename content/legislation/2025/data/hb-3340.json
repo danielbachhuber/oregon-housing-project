@@ -1,0 +1,140 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3340,
+    "CatchLine": "Requires the Attorney General to adopt and maintain a list of foreign adversaries who are ineligible to receive conveyances of farm or forest lands.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: This Act bans foreign adversaries listed by the AG from getting an interest in farm or forest lands. (Flesch Readability Score: 61.6). \n\tRequires the Attorney General to adopt and maintain a list of foreign adversaries who are ineligible to receive conveyances of farm or forest lands. Makes unauthorized conveyances void. \n\tRequires the State Department of Agriculture to create and publish an annual report relating to foreign ownership of agricultural lands and to deliver copies of the report to the Governor and to relevant interim committees of the Legislative Assembly. \n\tTakes effect on the 91st day following adjournment sine die.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to foreign interest in resources lands; and prescribing an effective date.\n\t",
+    "RelatingTo": "Relating to foreign interest in resources lands; prescribing an effective date.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HEMGGV",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Chelsey Herrmann-Nordness",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 3826,
+    "Vetoed": false,
+    "CreatedDate": "2025-01-18T10:23:06",
+    "ModifiedDate": "2025-01-30T11:48:49",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "148709",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3340,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Diehl",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-01-27T18:21:59",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "149012",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3340,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Osborne",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-01-28T11:54:18",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "152135",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3340,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Reschke",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-03-11T09:48:07",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "153069",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3340,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Boice",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-03-29T17:42:00",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 619391,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3340,
+      "Chamber": "H",
+      "ActionDate": "2025-01-28T10:00:52",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-28T10:03:23",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 619763,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3340,
+      "Chamber": "H",
+      "ActionDate": "2025-01-30T11:01:46",
+      "ActionText": "Referred to Emergency Management, General Government, and Veterans.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-30T11:02:07",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 660320,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3340,
+      "Chamber": "H",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-30T15:33:42",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3340,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3340/Introduced",
+      "CreatedDate": "2025-01-27T16:18:22.357",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

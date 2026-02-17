@@ -1,0 +1,151 @@
+{
+  "measure": {
+    "SessionKey": "2023R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 2814,
+    "CatchLine": "Requires Department of Consumer and Business Services to study approval standards for residential development.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tRequires Department of Consumer and Business Services to study approval standards for residential development. Directs department to submit findings to interim committees of Legislative Assembly related to housing not later than September 15, 2024.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to approval standards for residential development.\n\t",
+    "RelatingTo": "Relating to approval standards for residential development.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HHOUSH",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "Fiscal impact issued",
+    "RevenueImpact": "Revenue impact issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Tim Walker",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 2336,
+    "Vetoed": false,
+    "CreatedDate": "2022-12-26T12:52:54",
+    "ModifiedDate": "2023-02-13T15:34:52",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "126485",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2814,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Morgan",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-01-07T22:25:04",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "126486",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2814,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Wright",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-01-07T22:25:04",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 549183,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2814,
+      "Chamber": "H",
+      "ActionDate": "2023-01-09T08:13:56",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2023-01-09T08:16:14",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 551035,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2814,
+      "Chamber": "H",
+      "ActionDate": "2023-01-12T11:19:20",
+      "ActionText": "Referred to Business and Labor.",
+      "VoteText": null,
+      "CreatedDate": "2023-01-12T11:19:32",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 554792,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2814,
+      "Chamber": "H",
+      "ActionDate": "2023-02-06T08:02:00",
+      "ActionText": "Work Session held.",
+      "VoteText": null,
+      "CreatedDate": "2023-02-06T10:21:30",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 555850,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2814,
+      "Chamber": "H",
+      "ActionDate": "2023-02-13T15:31:16",
+      "ActionText": "Without recommendation as to passage and be referred to Housing and Homelessness.",
+      "VoteText": null,
+      "CreatedDate": "2023-02-13T15:34:52",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 555851,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2814,
+      "Chamber": "H",
+      "ActionDate": "2023-02-13T15:31:17",
+      "ActionText": "Referred to Housing and Homelessness by order of Speaker.",
+      "VoteText": null,
+      "CreatedDate": "2023-02-13T15:34:52",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 599519,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2814,
+      "Chamber": "H",
+      "ActionDate": "2023-06-25T16:26:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2023-06-28T16:35:41",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2814,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/HB2814/Introduced",
+      "CreatedDate": "2023-01-07T19:21:08.91",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

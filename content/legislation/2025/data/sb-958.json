@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 958,
+    "CatchLine": "Allows cities or counties to designate lands outside the urban growth boundary for residential or light commercial use.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: This Act allows cities or counties to select land outside of the UGBs to site homes or light commercial uses. Lands are exempt from statewide land use laws. (Flesch Readability Score: 74.7). \n\tAllows cities or counties to designate lands outside the urban growth boundary for residential or light commercial use. Exempts designated lands from statewide land use planning laws.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to local designation of lands outside of an urban growth boundary.\n\t",
+    "RelatingTo": "Relating to local designation of lands outside of an urban growth boundary.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SHDEV",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Twais Broadus",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 3427,
+    "Vetoed": false,
+    "CreatedDate": "2025-01-28T09:28:27",
+    "ModifiedDate": "2025-01-30T13:16:12",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "149077",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 958,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Smith DB",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-01-29T18:10:01",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 619880,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 958,
+      "Chamber": "S",
+      "ActionDate": "2025-01-30T11:30:02",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-30T11:30:09",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 619902,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 958,
+      "Chamber": "S",
+      "ActionDate": "2025-01-30T11:45:11",
+      "ActionText": "Referred to Housing and Development.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-30T11:46:04",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 659442,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 958,
+      "Chamber": "S",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-28T16:50:21",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 958,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB958/Introduced",
+      "CreatedDate": "2025-01-29T16:36:09.483",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}
