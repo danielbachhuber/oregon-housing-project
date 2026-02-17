@@ -43,12 +43,12 @@ SOURCES:
 ## Fortunately, I can build websites
 
 <div style="display: flex; gap: 2em; align-items: flex-start;">
-<div style="flex: 1;">
+<div style="flex: 2;">
 
-![Oregon Housing Project](/presentations/images/oregonhousingproject-screenshot.png)
+![Oregon Housing Project](/presentations/images/legislation-2026.png)
 
 </div>
-<div style="flex: 1; font-size: 0.7em;">
+<div style="flex: 1; font-size: 0.55em;">
 
 - Cataloged every housing-related bill from 2019–2026 with sponsors, history, and testimony
 - GitHub Actions fetch new bills daily and scan three news outlets for housing articles
