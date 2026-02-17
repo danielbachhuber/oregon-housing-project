@@ -1,0 +1,150 @@
+{
+  "measure": {
+    "SessionKey": "2023R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3209,
+    "CatchLine": "Establishes emergency veterans housing program within Housing and Community Services Department.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tEstablishes emergency veterans housing program within Housing and Community Services Department. Requires department, in coordination with Department of Veterans' Affairs and advisory board, to award grants for project costs of residential housing for persons of lower income who are service-disabled veterans and their families. \n\tAppropriates moneys from General Fund for program. \n\tSunsets January 2, 2028.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to the emergency veterans housing program.\n\t",
+    "RelatingTo": "Relating to the emergency veterans housing program.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "JWM",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "Fiscal impact issued",
+    "RevenueImpact": "No revenue impact",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Tim Walker",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 4037,
+    "Vetoed": false,
+    "CreatedDate": "2023-02-03T16:07:37",
+    "ModifiedDate": "2023-04-12T14:32:28",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "132758",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3209,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Evans",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-02-06T18:05:02",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 554911,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3209,
+      "Chamber": "H",
+      "ActionDate": "2023-02-07T09:59:17",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2023-02-07T09:59:39",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 555577,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3209,
+      "Chamber": "H",
+      "ActionDate": "2023-02-09T17:12:57",
+      "ActionText": "Referred to Emergency Management, General Government, and Veterans.",
+      "VoteText": null,
+      "CreatedDate": "2023-02-09T17:13:11",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 560322,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3209,
+      "Chamber": "H",
+      "ActionDate": "2023-03-07T13:01:00",
+      "ActionText": "Public Hearing held.",
+      "VoteText": null,
+      "CreatedDate": "2023-03-07T14:29:45",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 570953,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3209,
+      "Chamber": "H",
+      "ActionDate": "2023-04-04T13:02:00",
+      "ActionText": "Work Session held.",
+      "VoteText": null,
+      "CreatedDate": "2023-04-04T14:52:41",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 572921,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3209,
+      "Chamber": "H",
+      "ActionDate": "2023-04-12T14:28:52",
+      "ActionText": "Recommendation: Do pass and be referred to Ways and Means.",
+      "VoteText": null,
+      "CreatedDate": "2023-04-12T14:32:28",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 572922,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3209,
+      "Chamber": "H",
+      "ActionDate": "2023-04-12T14:28:53",
+      "ActionText": "Referred to Ways and Means by order of Speaker.",
+      "VoteText": null,
+      "CreatedDate": "2023-04-12T14:32:28",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 599890,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3209,
+      "Chamber": "H",
+      "ActionDate": "2023-06-25T16:26:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2023-06-28T16:35:41",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3209,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/HB3209/Introduced",
+      "CreatedDate": "2023-02-06T17:36:35.31",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

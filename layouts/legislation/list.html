@@ -86,7 +86,8 @@
       <tbody>
         {{ range sort .Pages "Title" }}
         <tr>
-          <td><a href="{{ .Permalink }}" style="font-size:1.1em;font-weight:bold">{{ .Title }}</a><br>{{ with .Params.catch_line }}{{ . }}{{ else }}{{ .Plain | replaceRE (printf "^%s\\s*" .Title) "" | truncate 120 }}{{ end }}{{ with .Params.testimony }} <em style="white-space:nowrap">{{ len . }} testimon{{ if eq (len .) 1 }}y{{ else }}ies{{ end }}</em>{{ end }}</td>
+          {{ $billPath := .RelPermalink | replaceRE "/$" "" }}{{ $newsCount := 0 }}{{ range where site.RegularPages "Section" "news-coverage" }}{{ if findRE (printf `\]\(%s\)` $billPath) .RawContent }}{{ $newsCount = add $newsCount 1 }}{{ end }}{{ end }}
+          <td><a href="{{ .Permalink }}" style="font-size:1.1em;font-weight:bold">{{ .Title }}</a><br>{{ with .Params.catch_line }}{{ . }}{{ else }}{{ .Plain | replaceRE (printf "^%s\\s*" .Title) "" | truncate 120 }}{{ end }}{{ with .Params.testimony }} <em style="white-space:nowrap">{{ len . }} testimon{{ if eq (len .) 1 }}y{{ else }}ies{{ end }}</em>{{ end }} · <em style="white-space:nowrap">{{ $newsCount }} article{{ if ne $newsCount 1 }}s{{ end }}</em></td>
           <td>{{ .Params.status }}</td>
           <td>{{ with .Params.sponsors }}{{ range $i, $s := first 3 . }}{{ if $i }}, {{ end }}{{ with site.GetPage (printf "/people/%s" $s.slug) }}<a href="{{ .RelPermalink }}">{{ $s.name }}</a>{{ else }}{{ $s.name }}{{ end }}{{ end }}{{ if gt (len .) 3 }} +{{ sub (len .) 3 }} more{{ end }}{{ end }}</td>
         </tr>

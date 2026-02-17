@@ -4,6 +4,8 @@
   <ul>
     {{ with .Params.documents }}<li><a href="#bill-text">Bill Text</a></li>{{ end }}
     {{ with .TableOfContents }}{{ . | replaceRE `</?nav[^>]*>` "" | replaceRE `</?ul>` "" | safeHTML }}{{ end }}
+    {{ $tocCurrentPath := .RelPermalink | replaceRE "/$" "" }}{{ $tocHasNews := false }}{{ range where .Site.RegularPages "Section" "news-coverage" }}{{ if findRE (printf `\]\(%s\)` $tocCurrentPath) .RawContent }}{{ $tocHasNews = true }}{{ end }}{{ end }}
+    {{ if $tocHasNews }}<li><a href="#news-coverage">News Coverage</a></li>{{ end }}
     {{ with .Params.testimony }}<li><a href="#public-testimony">Public Testimony</a></li>{{ end }}
     {{ with .Params.history }}<li><a href="#legislative-history">Legislative History</a></li>{{ end }}
   </ul>

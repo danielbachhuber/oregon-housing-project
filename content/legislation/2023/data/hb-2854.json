@@ -1,0 +1,191 @@
+{
+  "measure": {
+    "SessionKey": "2023R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 2854,
+    "CatchLine": "Establishes Oregon Public Assistance Grant Account as account in Oregon Disaster Response Fund.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tEstablishes Oregon Public Assistance Grant Account as account in Oregon Disaster Response Fund. Continuously appropriates moneys in account to Oregon Department of Emergency Management for funding to state agencies, local governments, special government bodies, federally recognized Indian tribes and nonprofit organizations for specified emergency response activities. \n\t<b>Establishes Oregon Individual Assistance Grant Account as account in Oregon Disaster Response Fund. Continuously appropriates moneys in account to department for assistance to individuals and households following emergencies.</b>",
+    "CurrentVersion": "A",
+    "RelatingToFull": "Relating to emergency management; creating new provisions; and amending ORS 401.025, 401.534 and 401.536.\n\t",
+    "RelatingTo": "Relating to emergency management.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "JWM",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "Fiscal impact issued",
+    "RevenueImpact": "No revenue impact",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Emily Coates",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 3197,
+    "Vetoed": false,
+    "CreatedDate": "2022-12-26T21:50:35",
+    "ModifiedDate": "2023-03-28T21:05:01",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "126589",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2854,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Evans",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-01-07T22:25:04",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 549223,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2854,
+      "Chamber": "H",
+      "ActionDate": "2023-01-09T08:13:56",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2023-01-09T08:16:14",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 552055,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2854,
+      "Chamber": "H",
+      "ActionDate": "2023-01-16T09:42:49",
+      "ActionText": "Referred to Emergency Management, General Government, and Veterans with subsequent referral to Ways and Means.",
+      "VoteText": null,
+      "CreatedDate": "2023-01-16T09:44:06",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 560320,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2854,
+      "Chamber": "H",
+      "ActionDate": "2023-03-07T13:01:00",
+      "ActionText": "Public Hearing held.",
+      "VoteText": null,
+      "CreatedDate": "2023-03-07T14:29:45",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 566527,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2854,
+      "Chamber": "H",
+      "ActionDate": "2023-03-23T13:02:00",
+      "ActionText": "Work Session held.",
+      "VoteText": null,
+      "CreatedDate": "2023-03-23T15:02:15",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 567890,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2854,
+      "Chamber": "H",
+      "ActionDate": "2023-03-28T07:06:32",
+      "ActionText": "Recommendation: Do pass with amendments, be printed A-Engrossed, and be referred to Ways and Means by prior reference.",
+      "VoteText": null,
+      "CreatedDate": "2023-03-28T07:10:56",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 567891,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2854,
+      "Chamber": "H",
+      "ActionDate": "2023-03-28T07:06:33",
+      "ActionText": "Referred to Ways and Means by prior reference.",
+      "VoteText": null,
+      "CreatedDate": "2023-03-28T07:10:56",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 599699,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2854,
+      "Chamber": "H",
+      "ActionDate": "2023-06-25T16:26:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2023-06-28T16:35:41",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2854,
+      "VersionDescription": "A-Engrossed",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/HB2854/A-Engrossed",
+      "CreatedDate": "2023-03-28T16:51:48.073",
+      "ModifiedDate": null
+    },
+    {
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2854,
+      "VersionDescription": "House Amendments to Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/HB2854/House Amendments to Introduced",
+      "CreatedDate": "2023-03-28T16:51:48.14",
+      "ModifiedDate": null
+    },
+    {
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2854,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/HB2854/Introduced",
+      "CreatedDate": "2023-01-07T19:27:38.303",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": [
+    {
+      "CommTestId": 60602,
+      "SubmitterFirstName": "Dave",
+      "SubmitterLastName": "Busby",
+      "BehalfOf": "Oregon Emergency Management Association",
+      "Organization": "Oregon Emergency Management Association",
+      "DocumentDescription": "Testimony",
+      "CreatedDate": "2023-03-07T13:17:45.917",
+      "ModifiedDate": "2023-03-07T13:19:34.06",
+      "PdfCreatedFlag": "Y",
+      "PositionOnMeasureId": 3983,
+      "SessionKey": "2023R1",
+      "CommitteeCode": "HEMGGV",
+      "MeetingDate": "2023-03-07T13:00:00",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2854,
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2023R1",
+      "FirstName": null,
+      "LastName": null,
+      "ExecApptId": null,
+      "Topic": "Establishes Oregon Public Assistance Grant Account as account in Oregon Disaster Response Fund."
+    }
+  ]
+}

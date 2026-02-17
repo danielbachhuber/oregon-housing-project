@@ -1,0 +1,83 @@
+{
+  "measure": {
+    "SessionKey": "2023R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 83,
+    "CatchLine": "Provides that local government that adopted and enforces wildfire hazard mitigation building code standards is not subject to any subsequent update to section R327 of Oregon Residential Specialty Code.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tProvides that local government that adopted and enforces wildfire hazard mitigation building code standards is not subject to any subsequent update to section R327 of Oregon Residential Specialty Code.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to local government authority on wildfire policy; amending ORS 455.612.\n\t",
+    "RelatingTo": "Relating to local government authority on wildfire policy.",
+    "AtTheRequestOf": "(at the request of Senate Interim Committee on Natural Resources and Wildfire Recovery)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SNR",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Tim Walker",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 2476,
+    "Vetoed": false,
+    "CreatedDate": "2022-12-12T15:16:13",
+    "ModifiedDate": "2023-01-19T08:43:21",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 549523,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 83,
+      "Chamber": "S",
+      "ActionDate": "2023-01-09T10:53:53",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2023-01-09T11:09:22",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 550714,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 83,
+      "Chamber": "S",
+      "ActionDate": "2023-01-11T15:42:09",
+      "ActionText": "Referred to Natural Resources.",
+      "VoteText": null,
+      "CreatedDate": "2023-01-11T16:48:23",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 600564,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 83,
+      "Chamber": "S",
+      "ActionDate": "2023-06-25T16:30:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2023-06-29T14:10:29",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 83,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/SB83/Introduced",
+      "CreatedDate": "2023-01-07T20:48:28.83",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}
