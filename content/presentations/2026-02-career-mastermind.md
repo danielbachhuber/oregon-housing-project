@@ -1,13 +1,15 @@
 +++
-title = 'Career Mastermind: Housing in Oregon'
+title = 'Career Mastermind: Oregon Housing Project'
 date = '2026-02-16'
 layout = 'single'
 extra_js = ['/js/presentations/career-mastermind-charts.js']
 +++
 
-## Oregon's Housing Deficit
+## Oregon Housing Project
 
-<div style="height: 42vh; width: 80%; margin: 0 auto;">
+<p style="font-weight: bold; font-size: 0.7em; margin-bottom: 0.2em;">Oregon's Housing Deficit</p>
+
+<div style="height: 40vh; width: 80%; margin: 0 auto;">
 <canvas id="underproduction-chart"></canvas>
 </div>
 
