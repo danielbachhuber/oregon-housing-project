@@ -11,7 +11,7 @@
     "RelatingTo": "Relating to land use; declaring an emergency.",
     "AtTheRequestOf": "(at the request of House Interim Committee on Housing and Homelessness for Representative Pam Marsh)",
     "ChapterNumber": null,
-    "CurrentLocation": "House Desk - Third Reading",
+    "CurrentLocation": "Senate Desk - Awaiting First Reading",
     "CurrentCommitteeCode": null,
     "CurrentSubCommittee": null,
     "FiscalImpact": "Has minimal fiscal impact",
@@ -23,7 +23,7 @@
     "LCNumber": 205,
     "Vetoed": false,
     "CreatedDate": "2026-01-15T09:47:17",
-    "ModifiedDate": "2026-02-17T14:09:45",
+    "ModifiedDate": "2026-02-18T17:47:08",
     "PrefixMeaning": "House Bill"
   },
   "sponsors": [
@@ -119,6 +119,19 @@
       "VoteText": null,
       "CreatedDate": "2026-02-17T14:09:45",
       "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 667413,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4035,
+      "Chamber": "H",
+      "ActionDate": "2026-02-18T17:46:32",
+      "ActionText": "Third reading. Carried by Marsh. Passed.",
+      "VoteText": "Ayes, 40; Nays, 1--Walters; Excused, 12--Boice, Bunch, Diehl, Edwards, Hartman, Levy B, Lewis, Osborne, Reschke, Smith G, Valderrama, Wright; Excused for Business of the House, 7--Boshart Davis, Harbick, McIntire, Owens, Scharf, Skarlatos, Wallan.",
+      "CreatedDate": "2026-02-18T17:47:02",
+      "ModifiedDate": "2026-02-18T17:47:08",
       "PublicNotification": true
     }
   ],

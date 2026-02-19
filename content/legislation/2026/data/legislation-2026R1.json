@@ -684,12 +684,12 @@
   },
   {
     "billNumber": "SJR203",
-    "title": "Proposes an amendment to the Oregon Constitution providing that law enforcement officers may not be masked and must wear certain identifying information except in specified circumstances.",
-    "summary": "\tDigest: Amends the Constitution to say that police may not wear masks and must wear ID. (Flesch Readability Score: 78.8). \n\tProposes an amendment to the Oregon Constitution providing that law enforcement officers may not be masked and must wear certain identifying information except in specified circumstances. \n\tRefers the proposed amendment to the people for their approval or rejection at the next regular general election.",
+    "title": "Proposes an amendment to the Oregon Constitution establishing a right to be free from enforcement of the law by secret police. Refers the proposed amendment to the people for their approval or rejection at the next regular general election.",
+    "summary": "\t<b>Digest: Amends the Constitution to say that there is a right to be free from enforcement of the law by secret police. (Flesch Readability Score: 64.6).</b> \n\t[<i>Digest: Amends the Constitution to say that police may not wear masks and must wear ID. (Flesch Readability Score: 78.8).</i>] \n\tProposes an amendment to the Oregon Constitution [<i>providing that law enforcement officers may not be masked and must wear certain identifying information except in specified circumstances</i>]<b> establishing a right to be free from enforcement of the law by secret police</b>. \n\tRefers the proposed amendment to the people for their approval or rejection at the next regular general election.",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SJR203",
     "introduced": "2026-01-16T16:31:21",
     "chamber": "Senate",
-    "status": "Senate Presidents Desk - Awaiting Disposition",
+    "status": "In Senate Committee",
     "sponsors": [
       {
         "name": "Sen Manning Jr",
@@ -932,7 +932,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SCR206",
     "introduced": "2026-01-20T10:03:46",
     "chamber": "Senate",
-    "status": "In Senate Committee",
+    "status": "In Senate Committee Awaiting transfer to Desk",
     "sponsors": [
       {
         "name": "Sen President Wagner",
@@ -1233,7 +1233,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1509",
     "introduced": "2026-01-13T11:50:19",
     "chamber": "Senate",
-    "status": "Senate Desk - Awaiting Second Reading",
+    "status": "Senate Desk - Awaiting Third Reading",
     "sponsors": []
   },
   {
@@ -1253,7 +1253,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1511",
     "introduced": "2026-01-14T09:36:13",
     "chamber": "Senate",
-    "status": "In Senate Committee",
+    "status": "In Senate Committee Awaiting transfer to Desk",
     "sponsors": []
   },
   {
@@ -1298,12 +1298,12 @@
   },
   {
     "billNumber": "SB1516",
-    "title": "Expands the crime of aggravated harassment to include threats concerning public officials in specified circumstances.",
-    "summary": "\tDigest: The Act changes a crime to include subjecting a public official to alarm by conveying a threat. The Act also says that a standing order on pretrial release does not affect how the court makes the release decision. The Act goes into effect when the Governor signs it. (Flesch Readability Score: 63.6). \n\tExpands the crime of aggravated harassment to include threats concerning public officials in specified circumstances. Punishes by a maximum of five years' imprisonment, a fine of up to $125,000, or both. \n\tProvides that standing pretrial release orders do not affect the authority of a magistrate to consider the primary and secondary release criteria when making a release decision. \n\tDeclares an emergency, effective on passage.",
+    "title": "Provides that standing pretrial release orders do not affect the authority of a magistrate to consider the primary and secondary release criteria when making a release decision.",
+    "summary": "\t<b>Digest: The Act puts limits on law enforcement's use of ALPRs. The Act allows a person to sue an ALPR vendor for misuse or improper release of the person's data. The Act says that a standing order on pretrial release does not affect how the court makes the release decision. The Act also makes changes to the Justice Equity Reinvestment Program. The Act goes into effect when the Governor signs it. (Flesch Readability Score: 64.9).</b> \n\t[<i>Digest: The Act changes a crime to include subjecting a public official to alarm by conveying a threat. The Act also says that a standing order on pretrial release does not affect how the court makes the release decision. The Act goes into effect when the Governor signs it. (Flesch Readability Score: 63.6).</i>] \n\t[<i>Expands the crime of aggravated harassment to include threats concerning public officials in specified circumstances. Punishes by a maximum of five years' imprisonment, a fine of up to $125,000, or both.</i>] \n\tProvides that standing pretrial release orders do not affect the authority of a magistrate to consider the primary and secondary release criteria when making a release decision. \n\t<b>Restricts law enforcement agencies' use of automated license plate recognition systems except for specified authorized uses. Limits retention of captured license plate data to no more than 30 days unless the captured license plate data is related to an ongoing criminal investigation or court proceeding. Requires law enforcement agencies to adopt policies for ALPR vendor contracts and the use of ALPRs and captured license plate data. Limits sharing of captured license plate data with non-Oregon law enforcement agencies. \n\t<b>Prohibits ALPR vendors from accessing, selling or disclosing captured license plate data. Provides exemptions. Authorizes the imposition of civil penalties for intentional or grossly negligent violations. Authorizes civil actions for violations. \n\t<b>Removes the named administrator of and technical assistance provider for the Justice Reinvestment Equity Program and requires the Oregon Criminal Justice Commission to select a technical assistance provider according to specified criteria.</b> \n\tDeclares an emergency, effective on passage.",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1516",
     "introduced": "2026-01-14T10:07:08",
     "chamber": "Senate",
-    "status": "In Senate Committee Awaiting transfer to Desk",
+    "status": "Senate Desk - Awaiting Second Reading",
     "sponsors": []
   },
   {
@@ -1323,7 +1323,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1518",
     "introduced": "2026-01-14T10:09:44",
     "chamber": "Senate",
-    "status": "In House Committee",
+    "status": "In House Committee Awaiting transfer to Desk",
     "sponsors": []
   },
   {
@@ -1343,7 +1343,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1520",
     "introduced": "2026-01-14T10:09:44",
     "chamber": "Senate",
-    "status": "In House Committee",
+    "status": "In House Committee Awaiting transfer to Desk",
     "sponsors": []
   },
   {
@@ -1353,7 +1353,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1521",
     "introduced": "2026-01-14T13:37:51",
     "chamber": "Senate",
-    "status": "In Senate Committee Awaiting transfer to Desk",
+    "status": "Senate Desk - Awaiting Second Reading",
     "sponsors": []
   },
   {
@@ -1409,7 +1409,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1525",
     "introduced": "2026-01-14T14:01:01",
     "chamber": "Senate",
-    "status": "In Senate Committee Awaiting transfer to Desk",
+    "status": "In Senate Committee",
     "sponsors": []
   },
   {
@@ -1459,7 +1459,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1530",
     "introduced": "2026-01-15T09:36:02",
     "chamber": "Senate",
-    "status": "In Senate Committee Awaiting transfer to Desk",
+    "status": "Senate Presidents Desk - Awaiting Disposition",
     "sponsors": []
   },
   {
@@ -1479,7 +1479,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1532",
     "introduced": "2026-01-15T09:41:02",
     "chamber": "Senate",
-    "status": "Senate Desk - Awaiting Second Reading",
+    "status": "Senate Desk - Awaiting Third Reading",
     "sponsors": []
   },
   {
@@ -1489,7 +1489,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1533",
     "introduced": "2026-01-15T09:41:02",
     "chamber": "Senate",
-    "status": "Senate Desk - Awaiting Third Reading",
+    "status": "Speakers Desk - Awaiting Referral",
     "sponsors": []
   },
   {
@@ -1540,7 +1540,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1537",
     "introduced": "2026-01-15T09:47:23",
     "chamber": "Senate",
-    "status": "Senate Desk - Awaiting Third Reading",
+    "status": "Speakers Desk - Awaiting Referral",
     "sponsors": []
   },
   {
@@ -1560,7 +1560,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1539",
     "introduced": "2026-01-15T09:50:34",
     "chamber": "Senate",
-    "status": "Senate Desk - Awaiting Second Reading",
+    "status": "Senate Desk - Awaiting Third Reading",
     "sponsors": []
   },
   {
@@ -2050,7 +2050,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1561",
     "introduced": "2026-01-16T12:06:14",
     "chamber": "Senate",
-    "status": "Senate Desk - Awaiting Second Reading",
+    "status": "Senate Desk - Awaiting Third Reading",
     "sponsors": [
       {
         "name": "Sen Weber",
@@ -2447,7 +2447,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1568",
     "introduced": "2026-01-16T14:22:50",
     "chamber": "Senate",
-    "status": "Senate Desk - Awaiting Second Reading",
+    "status": "Senate Desk - Awaiting Third Reading",
     "sponsors": [
       {
         "name": "Sen Reynolds",
@@ -2695,12 +2695,12 @@
   },
   {
     "billNumber": "SB1571",
-    "title": "Adds definition of \"nicotine\" and expands definition of \"tobacco products.",
-    "summary": "\tDigest: This Act changes some laws that apply to products with tobacco or nicotine. (Flesch Readability Score: 63.4). \n\tAdds definition of \"nicotine\" and expands definition of \"tobacco products.\" \n\tRepeals existing criminal prohibition on the sale of inhalant delivery systems or tobacco products to a person under 21 years of age and replaces the repealed law with a civil prohibition enforced by the Oregon Health Authority. Authorizes imposition of civil penalties for violations. \n\tEstablishes a civil prohibition on providing, without compensation, inhalant delivery systems or tobacco products. \n\tAuthorizes the authority to adopt rules to administer certain laws that apply to inhalant delivery systems and tobacco products. \n\tRequires any sale of tobacco products, cigarettes, inhalant delivery systems or smokeless tobacco products to occur in person at licensed premises. \n\tTakes effect on the 91st day following adjournment sine die.",
+    "title": "Adds a definition of \"nicotine\" and expands the definition of \"tobacco products.\"",
+    "summary": "\tDigest: This Act changes some laws that apply to products with tobacco or nicotine. (Flesch Readability Score: 63.4). \n\tAdds a definition of \"nicotine\" and expands the definition of \"tobacco products.\" \n\t[<i>Repeals existing criminal prohibition on the sale of inhalant delivery systems or tobacco products to a person under 21 years of age and replaces the repealed law with a civil prohibition enforced by the Oregon Health Authority. Authorizes imposition of civil penalties for violations.</i>] \n\t[<i>Establishes a civil prohibition on providing, without compensation, inhalant delivery systems or tobacco products.</i>] \n\t[<i>Authorizes the authority to adopt rules to administer certain laws that apply to inhalant delivery systems and tobacco products.</i>] \n\t[<i>Requires any sale of tobacco products, cigarettes, inhalant delivery systems or smokeless tobacco products to occur in person at licensed premises.</i>] \n\tTakes effect on the 91st day following adjournment sine die.",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1571",
     "introduced": "2026-01-16T14:51:41",
     "chamber": "Senate",
-    "status": "In Senate Committee Awaiting transfer to Desk",
+    "status": "Senate Desk - Awaiting Second Reading",
     "sponsors": [
       {
         "name": "Sen Reynolds",
@@ -3994,7 +3994,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1585",
     "introduced": "2026-01-16T16:32:52",
     "chamber": "Senate",
-    "status": "Senate Desk - Awaiting Second Reading",
+    "status": "Senate Desk - Awaiting Third Reading",
     "sponsors": [
       {
         "name": "Sen Manning Jr",
@@ -5241,12 +5241,12 @@
   },
   {
     "billNumber": "SB1597",
-    "title": "Requires an electric utility to disclose to its customers the costs of storing the waste produced by an energy facility in generating electricity.",
-    "summary": "\tDigest: Makes a power provider disclose the costs to store the waste made from making electric power. (Flesch Readability Score: 63.6). \n\tRequires an electric utility to disclose to its customers the costs of storing the waste produced by an energy facility in generating electricity. Requires a person who develops an energy facility to disclose to the electric utility and the public the costs of storing the waste produced by the energy facility in generating electricity. \n\tTakes effect on the 91st day following adjournment sine die.",
+    "title": "Requires an electric utility to disclose to its customers the costs of storing nuclear waste produced by an energy facility in generating electricity.",
+    "summary": "\t<b>Digest: Makes a power provider tell the public the costs to store nuclear waste made from making electric power. (Flesch Readability Score: 61.6).</b> \n\t[<i>Digest: Makes a power provider disclose the costs to store the waste made from making electric power. (Flesch Readability Score: 63.6).</i>] \n\tRequires an electric utility to disclose to its customers the costs of storing [<i>the</i>]<b> nuclear</b> waste produced by an energy facility in generating electricity. Requires a person who develops an energy facility to disclose to the electric utility and the public the costs of storing [<i>the</i>]<b> any nuclear</b> waste produced by the energy facility in generating electricity. \n\tTakes effect on the 91st day following adjournment sine die.",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1597",
     "introduced": "2026-01-20T09:56:48",
     "chamber": "Senate",
-    "status": "In Senate Committee Awaiting transfer to Desk",
+    "status": "Senate Desk - Awaiting Second Reading",
     "sponsors": [
       {
         "name": "Sen Frederick",
@@ -5579,7 +5579,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4004",
     "introduced": "2026-01-13T14:20:28",
     "chamber": "House",
-    "status": "In House Committee",
+    "status": "In House Committee Awaiting transfer to Desk",
     "sponsors": []
   },
   {
@@ -5605,21 +5605,21 @@
   {
     "billNumber": "HB4007",
     "title": "Defines \"powered micromobility device\" for the vehicle code.",
-    "summary": "\tDigest: The Act defines what a \"powered micromobility device\" is. It also combines the laws for kids under 16, making it clear that they must wear helmets when riding bikes, e-bikes, e-scooters and some other vehicles. Changes age a kid must be to use different classes of e-bikes and other types of vehicles. Says a store may not sell a vehicle that looks like an e-bike if it is not an e-bike by state law. The Act tells ODOT to make a new pilot program and let trucks haul more milk on certain routes. The Act tells ODOT to report on the results of the pilot program. (Flesch Readability Score: 70.7). \n\tDefines \"powered micromobility device\" for the vehicle code. \n\tConsolidates and makes uniform standards for wearing protective headgear for children under 16 years of age when riding or using a bicycle, electric assisted bicycle, motor assisted scooter, powered micromobility device and certain nonmotorized vehicles. \n\tLowers the age requirement to operate a Class 1 electric assisted bicycle. Provides that there is no minimum age requirement to operate a Class 1 or Class 2 electric assisted bicycle if the person is participating in a bicycle safety program. \n\tLowers age requirement to operate motor assisted scooter. \n\tCreates offense of improper sale or lease of a vehicle. Punishes by maximum fine of $250. \n\tCreates offense of selling an impostor vehicle. Punishes by maximum fine of $250. \n\tDirects the Department of Transportation to establish a five-year pilot program that allows vehicles to haul fluid milk products with a loaded weight of not more than 129,000 pounds on routes approved by the department. Directs the department to conduct a study and prepare a report on the results of the pilot program.",
+    "summary": "\t<b>Digest: The Act defines what a \"powered micromobility device\" is. It also combines the laws for kids under 16, making it clear that they must wear helmets when riding bikes, e-bikes, e-scooters and some other vehicles. Changes age a kid must be to use different classes of e-bikes and other types of vehicles. Says a store may not sell a vehicle that looks like an e-bike if it is not an e-bike by state law. The Act tells ODOT to make a new pilot program and let trucks haul more milk on certain routes. The Act tells ODOT to report on the results of the pilot program. Gives DAS more time to finish review of HCAS. (Flesch Readability Score: 73.1).</b> \n\t[<i>Digest: The Act defines what a \"powered micromobility device\" is. It also combines the laws for kids under 16, making it clear that they must wear helmets when riding bikes, e-bikes, e-scooters and some other vehicles. Changes age a kid must be to use different classes of e-bikes and other types of vehicles. Says a store may not sell a vehicle that looks like an e-bike if it is not an e-bike by state law. The Act tells ODOT to make a new pilot program and let trucks haul more milk on certain routes. The Act tells ODOT to report on the results of the pilot program. (Flesch Readability Score: 70.7).</i>] \n\tDefines \"powered micromobility device\" for the vehicle code. \n\tConsolidates and makes uniform standards for wearing protective headgear for children under 16 years of age when riding or using a bicycle, electric assisted bicycle, motor assisted scooter, powered micromobility device and certain nonmotorized vehicles. \n\tLowers the age requirement to operate a Class 1 electric assisted bicycle. Provides that there is no minimum age requirement to operate a Class 1 or Class 2 electric assisted bicycle if the person is participating in a bicycle safety program. \n\tLowers age requirement to operate motor assisted scooter. \n\tCreates offense of improper sale or lease of a vehicle. Punishes by maximum fine of $250. \n\tCreates offense of selling an impostor vehicle. Punishes by maximum fine of $250. \n\tDirects the Department of Transportation to establish a five-year pilot program that allows vehicles to haul fluid milk products with a loaded weight of not more than 129,000 pounds on routes approved by the department. Directs the department to conduct a study and prepare a report on the results of the pilot program. \n\t<b>Extends the time the Oregon Department of Administrative Services has to undertake its review of the methodology for the highway cost allocation study. Makes the report due March 15, 2028. \n\t<b>Takes effect on the 91st day following adjournment sine die.</b>",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4007",
     "introduced": "2026-01-13T14:33:40",
     "chamber": "House",
-    "status": "In House Committee Awaiting transfer to Desk",
+    "status": "In House Committee",
     "sponsors": []
   },
   {
     "billNumber": "HB4008",
-    "title": "Establishes the Transit Funding Task Force and directs the task force to report to an interim committee of the Legislative Assembly related to transportation no later than December 15, 2026.",
-    "summary": "\tDigest: The Act makes the Transit Funding Task Force and tells the task force to make a report. (Flesch Readability Score: 100). \n\tEstablishes the Transit Funding Task Force and directs the task force to report to an interim committee of the Legislative Assembly related to transportation no later than December 15, 2026. \n\tDeclares an emergency, effective on passage.",
+    "title": "Establishes the Transit Funding Task Force and directs the task force to report to an interim committee of the Legislative Assembly related to transportation no later than December 1, 2026.",
+    "summary": "\tDigest: The Act makes the Transit Funding Task Force and tells the task force to make a report. (Flesch Readability Score: 100). \n\tEstablishes the Transit Funding Task Force and directs the task force to report to an interim committee of the Legislative Assembly related to transportation no later than December 1, 2026. \n\tDeclares an emergency, effective on passage.",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4008",
     "introduced": "2026-01-13T14:33:40",
     "chamber": "House",
-    "status": "In House Committee Awaiting transfer to Desk",
+    "status": "In House Committee",
     "sponsors": []
   },
   {
@@ -5665,7 +5665,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4012",
     "introduced": "2026-01-14T11:13:55",
     "chamber": "House",
-    "status": "In Senate Committee",
+    "status": "In Senate Committee Awaiting transfer to Desk",
     "sponsors": []
   },
   {
@@ -5675,7 +5675,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4013",
     "introduced": "2026-01-14T11:13:55",
     "chamber": "House",
-    "status": "In Senate Committee",
+    "status": "In Senate Committee Awaiting transfer to Desk",
     "sponsors": []
   },
   {
@@ -5720,12 +5720,12 @@
   },
   {
     "billNumber": "HB4018",
-    "title": "Requires the Secretary of State to study elections.",
-    "summary": "\tDigest: The Act tells the SOS to study elections. (Flesch Readability Score: 82.3). \n\tRequires the Secretary of State to study elections. Directs the Secretary of State to submit findings to the interim committees of the Legislative Assembly related to elections no later than September 15, 2027. \n\tSunsets on January 2, 2028.",
+    "title": "Modifies the timelines for the enactment of certain campaign finance regulations.",
+    "summary": "\t<b>Digest: The Act changes laws about campaign money. (Flesch Readability Score: 66.7).</b> \n\t[<i>Digest: The Act tells the SOS to study elections. (Flesch Readability Score: 82.3).</i>] \n\t[<i>Requires the Secretary of State to study elections. Directs the Secretary of State to submit findings to the interim committees of the Legislative Assembly related to elections no later than September 15, 2027.</i>] \n\t[<i>Sunsets on January 2, 2028.</i>] \n\t<b>Modifies the timelines for the enactment of certain campaign finance regulations. Modifies the names of certain political committees. Modifies provisions related to in-kind contributions and provisions related to campaign funds that may be carried forward. Temporarily reenacts previously repealed provisions related to covered organizations. Permits corporations and labor unions to establish separate, segregated funds that operate like political committees. Modifies specified deadlines regarding certain filings. Permits a person to cure a violation of election laws. \n\t<b>Declares an emergency, effective on passage.</b>",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4018",
     "introduced": "2026-01-14T11:46:13",
     "chamber": "House",
-    "status": "In House Committee Awaiting transfer to Desk",
+    "status": "In House Committee",
     "sponsors": []
   },
   {
@@ -5750,12 +5750,12 @@
   },
   {
     "billNumber": "HB4021",
-    "title": "Requires certain agencies to make adoption, amendment or repeal of administrative rules effective only on January 1, April 1, July 1 or October 1.",
-    "summary": "\tDigest: The Act tells some agencies to use only some effective dates for rules. The Act changes the notice requirements for some agencies' rules. The Act tells some agencies to give the name of a person at the agency who knows about the agencies' rules on the website. (Flesch Readability Score: 65.5). \n\tRequires certain agencies to make adoption, amendment or repeal of administrative rules effective only on January 1, April 1, July 1 or October 1. Modifies notice requirements for rules adopted, amended or repealed by certain agencies. \n\tRequires certain agencies to make available on the agency's website contact information for a person at the agency who is knowledgeable about each rule adopted, amended or repealed. \n\tTakes effect on the 91st day following adjournment sine die.",
+    "title": "Modifies effective date and notice requirements for certain permanent rules adopted, amended or repealed by certain agencies.",
+    "summary": "\t<b>Digest: The Act changes the effective date and notice given for some agencies' rules. The Act tells some agencies to let people know where to ask questions about the agencies' rules. (Flesch Readability Score: 67.5).</b> \n\t[<i>Digest: The Act tells some agencies to use only some effective dates for rules. The Act changes the notice requirements for some agencies' rules. The Act tells some agencies to give the name of a person at the agency who knows about the agencies' rules on the website. (Flesch Readability Score: 65.5).</i>] \n\t[<i>Requires certain agencies to make adoption, amendment or repeal of administrative rules effective only on January 1, April 1, July 1 or October 1.</i>] Modifies <b>effective date and</b> notice requirements for<b> certain permanent</b> rules adopted, amended or repealed by certain agencies. \n\tRequires certain agencies to make available on the agency's website contact information for [<i>a person at the agency who is knowledgeable</i>] <b>questions</b> about each rule adopted, amended or repealed. \n\tTakes effect on the 91st day following adjournment sine die.",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4021",
     "introduced": "2026-01-14T11:46:13",
     "chamber": "House",
-    "status": "In House Committee Awaiting transfer to Desk",
+    "status": "House Desk - Second Reading",
     "sponsors": []
   },
   {
@@ -5801,7 +5801,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4024",
     "introduced": "2026-01-14T13:18:32",
     "chamber": "House",
-    "status": "In Senate Committee",
+    "status": "In Senate Committee Awaiting transfer to Desk",
     "sponsors": []
   },
   {
@@ -5826,12 +5826,12 @@
   },
   {
     "billNumber": "HB4027",
-    "title": "Requires the Legislative Policy and Research Director to conduct a study of the manner in which state labor agencies in other states are funded.",
-    "summary": "\tDigest: Tells LPRO to conduct a study on how state labor agencies in other states are funded. (Flesch Readability Score: 68.9). \n\tRequires the Legislative Policy and Research Director to conduct a study of the manner in which state labor agencies in other states are funded. Directs the director to submit findings to the interim committees of the Legislative Assembly related to labor and business no later than September 15, 2027. \n\tSunsets on January 2, 2028. \n\tTakes effect on the 91st day following adjournment sine die.",
+    "title": "Amends the Workers' Benefit Fund assessment statute to direct the Department of Consumer and Business Services to set an additional assessment rate in order to deposit in a new BOLI Expenses Fund at least the greater of a minimum dollar amount or 12 months of projected expenses to fund the duties of the Commissioner of the Bureau of Labor and Industries, subject to a cap on the costs of new positions, to reimburse certain related expenses of the Director of the Department of Consumer and Business Services and to create and maintain a 12-month reserve in the new fund.",
+    "summary": "\t<b>Digest: The Act would have DCBS set a rate to put at least a minimum amount in a new fund to pay for the duties of the head of BOLI and the related costs of the head of DCBS. The Act would also have the rate be set to create and maintain a 12-month reserve in the new fund. The Act would bar moneys from the Workers Benefit Fund being used to make up the new assessment amounts in the new fund. The Act would raise the cap on the fee paid by public agencies for contracts subject to the prevailing wage rate. The Act would require BOLI to report every other year as to whether the cap brings in enough money to pay for BOLI's staffing needs. (Flesch Readability Score: 71.1).</b> \n\t[<i>Digest: Tells LPRO to conduct a study on how state labor agencies in other states are funded. (Flesch Readability Score: 68.9).</i>] \n\t[<i>Requires the Legislative Policy and Research Director to conduct a study of the manner in which state labor agencies in other states are funded. Directs the director to submit findings to the interim committees of the Legislative Assembly related to labor and business no later than September 15, 2027.</i>] \n\t[<i>Sunsets on January 2, 2028.</i>] \n\t<b>Amends the Workers' Benefit Fund assessment statute to direct the Department of Consumer and Business Services to set an additional assessment rate in order to deposit in a new BOLI Expenses Fund at least the greater of a minimum dollar amount or 12 months of projected expenses to fund the duties of the Commissioner of the Bureau of Labor and Industries, subject to a cap on the costs of new positions, to reimburse certain related expenses of the Director of the Department of Consumer and Business Services and to create and maintain a 12-month reserve in the new fund. Prohibits the transfer of assessment moneys in the Workers' Benefit Fund to the new fund to make up the new assessment amounts. \n\t<b>Raises the maximum fee amount paid by public agencies that award public works contracts subject to the prevailing wage rate. Requires the Bureau of Labor and Industries to submit a biennial report to the interim committees of the Legislative Assembly relating to labor that examines whether the maximum fee amount raises enough revenue for the bureau to meet its staffing needs. \n\t<b>Takes effect on the 91st day following adjournment sine die.</b>",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4027",
     "introduced": "2026-01-14T13:25:19",
     "chamber": "House",
-    "status": "In House Committee Awaiting transfer to Desk",
+    "status": "In House Committee",
     "sponsors": [
       {
         "name": "Rep Watanabe",
@@ -5907,7 +5907,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4028",
     "introduced": "2026-01-14T13:34:06",
     "chamber": "House",
-    "status": "House Desk - Third Reading",
+    "status": "Senate Desk - Awaiting First Reading",
     "sponsors": [
       {
         "name": "Rep Harbick",
@@ -6018,7 +6018,7 @@
   },
   {
     "billNumber": "HB4034",
-    "title": "Revises the definition of \"animal rescue entity.",
+    "title": "Revises the definition of \"animal rescue entity.\"",
     "summary": "\t<b>Digest: The Act changes a definition for places that rescue animals. The Act changes the agency that oversees places that rescue animals. The Act changes the records that the places have to keep. The Act makes changes related to licensing the places. (Flesch Readability Score: 66.4).</b> \n\t[<i>Digest: The Act changes the agency that oversees places that rescue animals. The Act changes the records that the places have to keep. The Act makes changes related to licensing the places. (Flesch Readability Score: 70.8).</i>] \n\t<b>Revises the definition of \"animal rescue entity.\"</b> Provides that veterinary facilities do not qualify as animal rescue entities for purposes of regulating animal rescue entities. Directs the State Department of Agriculture to enforce provisions related to regulating animal rescue entities. Makes changes related to recordkeeping and licensing requirements for animal rescue entities. Removes the impoundment of animals as a civil penalty for a violation of provisions related to animal rescue entities.",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4034",
     "introduced": "2026-01-15T09:10:16",
@@ -6124,7 +6124,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4035",
     "introduced": "2026-01-15T09:47:17",
     "chamber": "House",
-    "status": "House Desk - Third Reading",
+    "status": "Senate Desk - Awaiting First Reading",
     "sponsors": []
   },
   {
@@ -6144,7 +6144,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4037",
     "introduced": "2026-01-15T09:47:17",
     "chamber": "House",
-    "status": "House Desk - Third Reading",
+    "status": "Senate Desk - Awaiting First Reading",
     "sponsors": []
   },
   {
@@ -6179,12 +6179,12 @@
   },
   {
     "billNumber": "HB4041",
-    "title": "Directs the Department of Justice to study whether legislative changes are needed concerning credit for time served and post-conviction relief petitions based on nonunanimous jury verdicts.",
-    "summary": "\tDigest: The Act tells DOJ to do two studies and adds a way of committing the crime of criminal mistreatment in the first degree. The Act changes what is recorded at GJ, when a person can enter a conditional plea and how a misdemeanor is reduced to a violation. The Act also raises the dollar amounts in the elements of some crimes. (Flesch Readability Score: 61.3). \n\tDirects the Department of Justice to study whether legislative changes are needed concerning credit for time served and post-conviction relief petitions based on nonunanimous jury verdicts. Directs the department to submit findings to the interim committees of the Legislative Assembly related to the judiciary no later than September 15, 2027. Sunsets on January 2, 2028. \n\tProvides that a person commits the crime of criminal mistreatment in the first degree if the person exposes another person to an unlawful controlled substance in a specified manner. Punishes by a maximum of five years' imprisonment, $125,000 fine, or both. \n\tRequires the recording of a presentation of facts to the court by a grand jury for the purpose of receiving further instruction. \n\tRemoves the requirement that the state consent to the entry of a conditional plea of guilty or no contest. \n\tAuthorizes the court to enter a judgment of conviction for a Class A violation instead of a misdemeanor in specified circumstances. \n\tIncreases the dollar amounts in specified property crimes that serve as a minimum value amount of damages or stolen property or as a threshold between offense levels of the crime.",
+    "title": "Reduces penalties for driving while suspended if the suspension is due to a conviction for criminal mischief resulting from the operation of a motor vehicle or reckless driving.",
+    "summary": "\t<b>Digest: The Act changes laws about crime and sentencing. The Act takes effect when the Governor signs it. (Flesch Readability Score: 78.7).</b> \n\t[<i>Digest: The Act tells DOJ to do two studies and adds a way of committing the crime of criminal mistreatment in the first degree. The Act changes what is recorded at GJ, when a person can enter a conditional plea and how a misdemeanor is reduced to a violation. The Act also raises the dollar amounts in the elements of some crimes. (Flesch Readability Score: 61.3).</i>] \n\t[<i>Directs the Department of Justice to study whether legislative changes are needed concerning credit for time served and post-conviction relief petitions based on nonunanimous jury verdicts. Directs the department to submit findings to the interim committees of the Legislative Assembly related to the judiciary no later than September 15, 2027. Sunsets on January 2, 2028.</i>] \n\t[<i>Provides that a person commits the crime of criminal mistreatment in the first degree if the person exposes another person to an unlawful controlled substance in a specified manner. Punishes by a maximum of five years' imprisonment, $125,000 fine, or both.</i>] \n\t[<i>Requires the recording of a presentation of facts to the court by a grand jury for the purpose of receiving further instruction.</i>] \n\t[<i>Removes the requirement that the state consent to the entry of a conditional plea of guilty or no contest.</i>] \n\t[<i>Authorizes the court to enter a judgment of conviction for a Class A violation instead of a misdemeanor in specified circumstances.</i>] \n\t<b>Reduces penalties for driving while suspended if the suspension is due to a conviction for criminal mischief resulting from the operation of a motor vehicle or reckless driving. Punishes by a maximum of $2,000 fine. \n\t<b>Increases the crime category, for the sentencing guidelines grid of the Oregon Criminal Justice Commission, for felony fleeing or attempting to elude a police officer when the defendant has a prior conviction or causes injury. \n\t<b>Establishes a final time period for any person to file a petition for post-conviction relief based on a nonunanimous jury verdict. \n\t<b>Creates a procedure by which the Department of Corrections or the state can petition the sentencing court, after determining that a person was released from department custody as the result of a material error in sentence computation or legal interpretation, for a determination as to whether the person is subject to further incarceration. Provides for a process for requesting and ordering that the person be held or taken into custody pending the hearing. \n\t<b>Requires the Department of Corrections to provide notice to specified persons after performing certain sentence recomputations that result in a new projected release date. Limits how presentence incarceration credit may be applied in specified circumstances. \n\t<b>Authorizes the Department of Corrections to grant an additional 120 days of short-term transitional leave to certain persons released from custody due to a material error in sentence computation or legal interpretation concerning presentence incarceration credits.</b> \n\tIncreases the dollar amounts in specified property crimes that serve as a minimum value amount of damages or stolen property or as a threshold between offense levels of the crime. \n\t<b>Declares an emergency, effective on passage.</b>",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4041",
     "introduced": "2026-01-15T10:48:32",
     "chamber": "House",
-    "status": "In House Committee Awaiting transfer to Desk",
+    "status": "House Desk - Second Reading",
     "sponsors": []
   },
   {
@@ -6194,17 +6194,17 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4042",
     "introduced": "2026-01-15T10:48:32",
     "chamber": "House",
-    "status": "House Desk - Third Reading",
+    "status": "Senate Desk - Awaiting First Reading",
     "sponsors": []
   },
   {
     "billNumber": "HB4043",
     "title": "Authorizes the State Treasurer to issue Article XI-Q general obligation bonds to finance renovation or expansion of courthouses.",
-    "summary": "\tDigest: The Act lets the State Treasurer issue bonds to pay to expand or renovate courthouses. (Flesch Readability Score: 61.8). \n\tAuthorizes the State Treasurer to issue Article XI-Q general obligation bonds to finance renovation or expansion of courthouses.",
+    "summary": "\t<b>Digest: The Act lets the State Treasurer issue bonds to pay to expand or renovate courthouses. The Act also changes who has to notify the court, and when, if a defendant found unfit to proceed is not complying with CRS. (Flesch Readability Score: 65.5).</b> \n\t[<i>Digest: The Act lets the State Treasurer issue bonds to pay to expand or renovate courthouses. (Flesch Readability Score: 61.8).</i>] \n\tAuthorizes the State Treasurer to issue Article XI-Q general obligation bonds to finance renovation or expansion of courthouses. \n\t<b>Directs the community mental health program director to notify the court within two judicial days when a defendant found unfit to proceed is not complying with community restoration services. Authorizes the director to delegate the duty to the entity providing the services.</b>",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4043",
     "introduced": "2026-01-15T10:48:32",
     "chamber": "House",
-    "status": "In House Committee Awaiting transfer to Desk",
+    "status": "In House Committee",
     "sponsors": []
   },
   {
@@ -6761,7 +6761,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4052",
     "introduced": "2026-01-16T10:54:06",
     "chamber": "House",
-    "status": "In House Committee",
+    "status": "In House Committee Awaiting transfer to Desk",
     "sponsors": [
       {
         "name": "Rep Reschke",
@@ -6822,7 +6822,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4053",
     "introduced": "2026-01-16T10:58:29",
     "chamber": "House",
-    "status": "House Desk - Third Reading",
+    "status": "Senate Desk - Awaiting First Reading",
     "sponsors": [
       {
         "name": "Rep Grayber",
@@ -7095,7 +7095,7 @@
   },
   {
     "billNumber": "HB4061",
-    "title": "/i>] Directs the Oregon Business Development Department to set up a program for micro-enterprise tariff adjustment grants to small businesses for costs increased by federal tariffs.",
+    "title": "Directs the Oregon Business Development Department to set up a program for micro-enterprise tariff adjustment grants to small businesses for costs increased by federal tariffs.",
     "summary": "\t<b>Digest: The Act would have Business Oregon give grants to small businesses for costs due to federal tariffs. The Act would have Business Oregon work with other state and local bodies to update the state's unified trade strategy. The Act would have DAS make a procurement reform roadmap by December 15 of this year. The Act would set up a task force to advise on how to retain business and private investment in this state. (Flesch Readability Score: 60.0).</b> \n\t[<i>Digest: The Act would have Business Oregon work with other state and local bodies to update the state's unified trade strategy. The Act would have DAS make a procurement reform roadmap by December 15 of this year. The Act would set up a task force to advise on how to retain business and private investment in this state. (Flesch Readability Score: 61.3.)</i>] \n\t<b>Directs the Oregon Business Development Department to set up a program for micro-enterprise tariff adjustment grants to small businesses for costs increased by federal tariffs.</b> \n\tDirects the Oregon Business Development Department to collaborate with the Port of Portland, the Oregon Tourism Commission, the State Department of Agriculture and other stakeholders on updating the unified trade strategy for Oregon. \n\tDirects the Oregon Department of Administrative Services to produce a procurement reform roadmap and deliver the roadmap to a committee or interim committee of the Legislative Assembly related to general government no later than December 15, 2026. \n\tEstablishes the Task Force on Business Retention for the purpose of making recommendations to the Legislative Assembly for improving strategies to retain businesses and private investment in this state. \n\tDeclares an emergency, effective on passage.",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4061",
     "introduced": "2026-01-16T12:03:23",
@@ -7338,7 +7338,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4070",
     "introduced": "2026-01-16T13:08:07",
     "chamber": "House",
-    "status": "House Desk - Third Reading",
+    "status": "Senate Desk - Awaiting First Reading",
     "sponsors": []
   },
   {
@@ -7412,11 +7412,6 @@
       },
       {
         "name": "Rep Owens",
-        "level": "Regular",
-        "type": "Member"
-      },
-      {
-        "name": "Rep Ruiz",
         "level": "Regular",
         "type": "Member"
       },
@@ -7761,7 +7756,7 @@
   {
     "billNumber": "HB4079",
     "title": "Directs school district boards and governing bodies of institutions of higher education to adopt policies that address how the school district or the institution of higher education will respond when a federal immigration authority enters school property or a campus.",
-    "summary": "Directs school district boards and governing bodies of institutions of higher education to adopt policies that address how the school district or the institution of higher education will respond when a federal immigration authority enters school property or a campus.",
+    "summary": "\tDigest: Tells public schools to have a policy for how to respond to immigration issues at the school. (Flesch Readability Score: 65.1). \n\tDirects school district boards and governing bodies of institutions of higher education to adopt policies that address how the school district or the institution of higher education will respond when a federal immigration authority enters school property or a campus. Prescribes the requirements of the policies. \n\tDeclares an emergency, effective on passage.",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4079",
     "introduced": "2026-01-16T15:51:11",
     "chamber": "House",
@@ -8032,7 +8027,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4081",
     "introduced": "2026-01-16T16:03:47",
     "chamber": "House",
-    "status": "In House Committee Awaiting transfer to Desk",
+    "status": "In House Committee",
     "sponsors": [
       {
         "name": "Rep McLain",
@@ -8486,12 +8481,12 @@
   },
   {
     "billNumber": "HB4089",
-    "title": "Specifically includes in the crime of theft of services the nonpayment of compensation of employees and independent contractors.",
-    "summary": "\tDigest: The Act expands the crime of theft of services and changes some crimes relating to contractor licenses. (Flesch Readability Score: 60.1). \n\tSpecifically includes in the crime of theft of services the nonpayment of compensation of employees and independent contractors. \n\tProvides that a prosecution for theft of services constituting wage theft does not preclude other forms of relief. \n\tDirects specified state agencies to report wage theft to the Attorney General or district attorney. \n\tPunishes the use of an unlicensed labor contractor by a maximum penalty of five years' imprisonment, $125,000 fine, or both. \n\tPunishes the use of an unlicensed contractor, or the use of a contractor's license number to deceive the public, by a maximum penalty of five years' imprisonment, $125,000 fine, or both.",
+    "title": "Modifies the crime of theft of services to include partial payments.",
+    "summary": "\t<b>Digest: The Act changes the crime of theft of services and changes some crimes related to contractor licenses. (Flesch Readability Score: 60.1).</b> \n\t[<i>Digest: The Act expands the crime of theft of services and changes some crimes relating to contractor licenses. (Flesch Readability Score: 60.1).</i>] \n\t[<i>Specifically includes in</i>]<b> Modifies</b> the crime of theft of services [<i>the nonpayment of compensation of employees and independent contractors</i>]<b> to include partial payments</b>. \n\tProvides that a prosecution for theft of services [<i>constituting wage theft</i>] does not preclude other forms of relief. \n\t[<i>Directs specified state agencies to report wage theft to the Attorney General or district attorney.</i>] \n\t<b>Directs the Interagency Compliance Network to develop investigative methods concerning persons who may be committing theft of services and not complying with taxation and employment laws.</b> \n\t[<i>Punishes the use of an unlicensed labor contractor by a maximum penalty of five years' imprisonment, $125,000 fine, or both.</i>] \n\t<b>Punishes knowingly entering into a contract with an unlicensed labor contractor, if committed by a direct contractor or subcontractor, by a maximum of 364 days' imprisonment, $6,250 fine, or both. Punishes a second or subsequent conviction by a maximum of five years' imprisonment, $125,000 fine, or both. </b> \n\t[<i>Punishes the use of an unlicensed contractor, or the use of a contractor's license number to deceive the public, by a maximum penalty of five years' imprisonment, $125,000 fine, or both.</i>] \n\t<b>Increases the penalty for the intentional use of a contractor's license number without authorization. Punishes by a maximum of five years' imprisonment, $125,000 fine, or both. \n\t<b>Increases the penalty for the use of a contractor's license number with the intent to deceive the public. Punishes by a maximum of five years' imprisonment, $125,000 fine, or both.</b>",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4089",
     "introduced": "2026-01-17T11:41:52",
     "chamber": "House",
-    "status": "In House Committee Awaiting transfer to Desk",
+    "status": "In House Committee",
     "sponsors": [
       {
         "name": "Rep Tran",
@@ -8779,6 +8774,16 @@
         "name": "Rep Sosa",
         "level": "Regular",
         "type": "Member"
+      },
+      {
+        "name": "Rep McLain",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Dobson",
+        "level": "Regular",
+        "type": "Member"
       }
     ]
   },
@@ -8789,7 +8794,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4092",
     "introduced": "2026-01-17T12:01:36",
     "chamber": "House",
-    "status": "House Desk - Third Reading",
+    "status": "Senate Desk - Awaiting First Reading",
     "sponsors": [
       {
         "name": "Rep Pham H",
@@ -8971,12 +8976,12 @@
   },
   {
     "billNumber": "HB4094",
-    "title": "Requires employers who provide paid vacation time to compensate employees for all earned or accrued but unused paid vacation time when employment terminates.",
-    "summary": "\tDigest: This Act makes laws about payouts for certain unused paid time off. (Flesch Readability Score: 81.8). \n\tRequires employers who provide paid vacation time to compensate employees for all earned or accrued but unused paid vacation time when employment terminates. \n\tTakes effect on the 91st day following adjournment sine die.",
+    "title": "Requires employers that provide, by written policy or employment contract, for the payment of earned or accrued but unused paid time off upon termination to make such payments in accordance with statutory requirements governing final wages.",
+    "summary": "\tDigest: This Act makes laws about payouts for certain unused paid time off. (Flesch Readability Score: 81.8). \n\t[<i>Requires employers who provide paid vacation time to compensate employees for all earned or accrued but unused paid vacation time when employment terminates.</i>] \n\t<b>Requires employers that provide, by written policy or employment contract, for the payment of earned or accrued but unused paid time off upon termination to make such payments in accordance with statutory requirements governing final wages.</b> \n\tTakes effect on the 91st day following adjournment sine die.",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4094",
     "introduced": "2026-01-17T12:11:59",
     "chamber": "House",
-    "status": "In House Committee Awaiting transfer to Desk",
+    "status": "In House Committee",
     "sponsors": [
       {
         "name": "Rep Nelson",
@@ -9225,7 +9230,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4098",
     "introduced": "2026-01-17T12:26:50",
     "chamber": "House",
-    "status": "House Desk - Third Reading",
+    "status": "House Desk - PM Possible Reconsideration",
     "sponsors": [
       {
         "name": "Rep Dobson",
@@ -9329,6 +9334,11 @@
       },
       {
         "name": "Rep Hudson",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Tran",
         "level": "Regular",
         "type": "Member"
       }
@@ -9969,7 +9979,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4107",
     "introduced": "2026-01-17T13:09:14",
     "chamber": "House",
-    "status": "House Desk - Third Reading",
+    "status": "Senate Desk - Awaiting First Reading",
     "sponsors": [
       {
         "name": "Rep Nathanson",
@@ -10015,6 +10025,16 @@
         "name": "Rep Javadi",
         "level": "Regular",
         "type": "Member"
+      },
+      {
+        "name": "Rep Hudson",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Gamba",
+        "level": "Regular",
+        "type": "Member"
       }
     ]
   },
@@ -10025,7 +10045,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4108",
     "introduced": "2026-01-17T13:13:23",
     "chamber": "House",
-    "status": "House Desk - Third Reading",
+    "status": "Senate Desk - Awaiting First Reading",
     "sponsors": [
       {
         "name": "Rep Fragala",
@@ -10214,11 +10234,11 @@
   {
     "billNumber": "HB4111",
     "title": "Provides that evidence of a party's or a witness's immigration status is not admissible as evidence in a civil proceeding.",
-    "summary": "\tDigest: The Act says that data about a party's or a witness's immigration status may not be used in a civil case. The Act makes some exceptions. The Act makes it unlawful for employers to punish employees for taking certain actions after a lawful change in their work authorization documents. The Act makes changes to the definition of \"profiling.\" The Act becomes law 91 days after sine die. (Flesch Readability Score: 60.6). \n\tProvides that evidence of a party's or a witness's immigration status is not admissible as evidence in a civil proceeding. Provides exceptions. \n\tMakes it unlawful for employers to discriminate, retaliate or take other adverse action against an employee because the employee updates, or attempts to update, the employee's personal information based on a lawful change to the employee's employment authorization documentation. \n\tFor purposes of law enforcement profiling requirements, modifies the definition of \"profiling\" to include immigration status. \n\tTakes effect on the 91st day following adjournment sine die.",
+    "summary": "\tDigest: The Act says that data about a party's or a witness's immigration status may not be used in a civil case. The Act makes some exceptions. The Act makes it unlawful for employers to punish employees for taking certain actions after a lawful change in their work authorization documents. The Act makes changes to the definition of \"profiling.\" The Act becomes law 91 days after sine die. (Flesch Readability Score: 60.6). \n\tProvides that evidence of a party's or a witness's immigration status is not admissible as evidence in a civil proceeding. Provides exceptions. \n\tMakes it unlawful for employers to discriminate, retaliate or take other adverse action against an employee because the employee updates, or attempts to update, the employee's personal information based on a lawful change to the employee's employment authorization documentation. <b>Clarifies what actions constitute an unlawful practice.</b> \n\tFor purposes of law enforcement profiling requirements, modifies the definition of \"profiling\" to include immigration status. \n\tTakes effect on the 91st day following adjournment sine die.",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4111",
     "introduced": "2026-01-17T13:25:53",
     "chamber": "House",
-    "status": "In House Committee Awaiting transfer to Desk",
+    "status": "House Desk - Second Reading",
     "sponsors": [
       {
         "name": "Rep Chotzen",
@@ -10721,12 +10741,12 @@
   },
   {
     "billNumber": "HB4114",
-    "title": "Creates a civil cause of action against Creates a civil cause of action against [<i>federal law enforcement agents and law enforcement agents of another state in specified circumstances.",
-    "summary": "Creates a civil cause of action against Creates a civil cause of action against [<i>federal law enforcement agents and law enforcement agents of another state in specified circumstances.",
+    "title": "Creates a civil cause of action against certain individuals who under color of law enter certain property without a warrant or an exception to the warrant requirement.",
+    "summary": "\t<b>Digest: The Act says that a person can sue a person who under color of law comes in property without a warrant or an exception. (Flesch Readability Score: 62.6).</b> \n\t[<i>Digest: The Act sets rules for when federal agents or agents from another state carry out operations in this state. The Act also creates a cause of action when agents violate the rules. The Act goes into effect when the Governor signs it. (Flesch Readability Score: 69.7).</i>] \n\tCreates a civil cause of action against [<i>federal law enforcement agents and law enforcement agents of another state in specified circumstances.</i>]<b> certain individuals who under color of law enter certain property without a warrant or an exception to the warrant requirement. Allows for an award of attorney fees to a prevailing plaintiff and, under certain circumstances, to a prevailing defendant.</b> \n\t[<i>Requires federal law enforcement agents and law enforcement agents of another state to provide notice to the Department of Justice prior to conducting planned operations within this state.</i>] \n\t[<i>Specifies identification requirements for federal law enforcement agents and law enforcement agents of another state conducting law enforcement operations within this state.</i>] \n\t[<i>Prohibits a state or local law enforcement agency from coordinating with a federal law enforcement agency or a law enforcement agency of another state that does not provide notice as required, violates the identification requirements or targets a sensitive location without authorization.</i>] \n\tDeclares an emergency, effective on passage.",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4114",
     "introduced": "2026-01-17T14:44:02",
     "chamber": "House",
-    "status": "House Desk - Third Reading",
+    "status": "Senate Desk - Awaiting First Reading",
     "sponsors": [
       {
         "name": "Rep Munoz",
@@ -10780,6 +10800,31 @@
       },
       {
         "name": "Rep Marsh",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Rep McLain",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Ruiz",
+        "level": "Chief",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Chotzen",
+        "level": "Chief",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Tran",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Javadi",
         "level": "Regular",
         "type": "Member"
       }
@@ -10854,7 +10899,7 @@
   {
     "billNumber": "HB4116",
     "title": "Declares that this state does not want the amendments set forth in section 521 of the Depository Institutions Deregulation and Monetary Control Act of 1980 to apply to consumer finance loans made in this state.",
-    "summary": "Declares that this state does not want the amendments set forth in section 521 of the Depository Institutions Deregulation and Monetary Control Act of 1980 to apply to consumer finance loans made in this state.",
+    "summary": "\tDigest: Declares that this state does not want a certain federal law to apply to consumer finance loans made in this state. Says who the laws that govern consumer finance loans in this state apply to and when. Says what needs to be in an application for a license to make consumer finance loans in this state. (Flesch Readability Score: 73.0). \n\tDeclares that this state does not want the amendments set forth in section 521 of the Depository Institutions Deregulation and Monetary Control Act of 1980 to apply to consumer finance loans made in this state. Specifies persons to whom the consumer finance laws of this state apply and circumstances in which the laws apply. Specifies the requirements for an application for a license to make consumer finance loans in this state. \n\tTakes effect on the 91st day following adjournment sine die.",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4116",
     "introduced": "2026-01-17T14:55:17",
     "chamber": "House",
@@ -11758,7 +11803,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4126",
     "introduced": "2026-01-18T11:24:33",
     "chamber": "House",
-    "status": "In House Committee Awaiting transfer to Desk",
+    "status": "In House Committee",
     "sponsors": [
       {
         "name": "Rep Gamba",
@@ -12081,6 +12126,11 @@
         "name": "Rep Fragala",
         "level": "Regular",
         "type": "Member"
+      },
+      {
+        "name": "Rep Hudson",
+        "level": "Regular",
+        "type": "Member"
       }
     ]
   },
@@ -12107,7 +12157,7 @@
   },
   {
     "billNumber": "HB4130",
-    "title": "Clarifies the meaning of \"preparing\" products or by-products raised for human or animal use on a farm unit for purposes of the definition of \"farm use.",
+    "title": "Clarifies the meaning of \"preparing\" products or by-products raised for human or animal use on a farm unit for purposes of the definition of \"farm use.\"",
     "summary": "\tDigest: The Act would clarify what \"preparing\" farmland products and by-products means in the context of the tax break for land that is in \"farm use.\" (Flesch Readability Score: 66.4). \n\tClarifies the meaning of \"preparing\" products or by-products raised for human or animal use on a farm unit for purposes of the definition of \"farm use.\"",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4130",
     "introduced": "2026-01-18T11:50:55",
@@ -12446,7 +12496,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4134",
     "introduced": "2026-01-18T12:38:44",
     "chamber": "House",
-    "status": "House Desk - Second Reading",
+    "status": "House Desk - Third Reading",
     "sponsors": [
       {
         "name": "Rep Helm",
@@ -12834,7 +12884,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4137",
     "introduced": "2026-01-18T13:32:13",
     "chamber": "House",
-    "status": "In House Committee Awaiting transfer to Desk",
+    "status": "House Desk - Second Reading",
     "sponsors": [
       {
         "name": "Rep Cate",
@@ -12960,12 +13010,12 @@
   },
   {
     "billNumber": "HB4138",
-    "title": "Requires law enforcement agencies to enact policies concerning identifying information on law enforcement uniforms.",
-    "summary": "\tDigest: The Act sets police ID rules and limits the actions of public employees when working with U.S. or out-of-state law enforcement. The Act also creates a cause of action when the rules are violated. The Act goes into effect when the Governor signs it. (Flesch Readability Score: 66.9). \n\tRequires law enforcement agencies to enact policies concerning identifying information on law enforcement uniforms. Broadens the application of laws specifying identification requirements for law enforcement officers. \n\tRequires law enforcement agencies to enact policies prohibiting the wearing of facial coverings by officers except in specified circumstances. Prohibits the wearing of facial coverings by law enforcement officers except in specified circumstances. \n\tCreates the offense of misrepresentation by a law enforcement officer. Punishes by a maximum penalty of a $2,000 fine. \n\tIncludes federal officers in the definition of \"peace officer\" for purposes of the crime of criminal impersonation of a peace officer. \n\tProhibits employees of public bodies in this state from participating in certain actions. Directs public bodies to enact policies prohibiting engagement in certain actions. \n\tSpecifies disclosure requirements for law enforcement agencies that enter into joint task forces or cross-deputization agreements with federal law enforcement agencies or law enforcement agencies of another state. \n\tProvides that volunteers in a civil defense force are agents of a public body for purposes of the Oregon Tort Claims Act. \n\tAllows a person harmed by violations of certain provisions to bring a civil cause of action. Allows a person to seek an injunction. \n\tDeclares an emergency, effective on passage.",
+    "title": "Requires law enforcement agencies to require officers to wear uniforms with specified identifying information.",
+    "summary": "\t<b>Digest: The Act sets police ID rules and limits the actions of public employees when working with U.S. or out-of-state law enforcement. The Act also allows a person to seek an injunction when the rules are violated. The Act goes into effect when the Governor signs it. (Flesch Readability Score: 62.5).</b> \n\t[<i>Digest: The Act sets police ID rules and limits the actions of public employees when working with U.S. or out-of-state law enforcement. The Act also creates a cause of action when the rules are violated. The Act goes into effect when the Governor signs it. (Flesch Readability Score: 66.9).</i>] \n\tRequires law enforcement agencies to [<i>enact policies concerning</i>]<b> require officers to wear uniforms with specified</b> identifying information [<i>on law enforcement uniforms</i>]. [<i>Broadens the application of laws specifying identification requirements for law enforcement officers.</i>]<b> Specifies exceptions.</b> \n\tRequires law enforcement agencies to enact policies prohibiting the wearing of facial coverings by officers except in specified circumstances. Prohibits the wearing of facial coverings by law enforcement officers except in specified circumstances. \n\t[<i>Creates the offense of misrepresentation by a law enforcement officer. Punishes by a maximum penalty of a $2,000 fine.</i>] \n\t[<i>Includes federal officers in the definition of \"peace officer\" for purposes of the crime of criminal impersonation of a peace officer.</i>] \n\tProhibits employees of<b> state and local law enforcement agencies and other</b> public bodies in this state from participating in certain actions. Directs<b> state and local law enforcement agencies and other</b> public bodies to enact policies prohibiting engagement in certain actions. \n\t[<i>Specifies disclosure requirements for law enforcement agencies that enter into joint task forces or cross-deputization agreements with federal law enforcement agencies or law enforcement agencies of another state.</i>] \n\tProvides that volunteers in a civil defense force are agents of a public body for purposes of the Oregon Tort Claims Act. \n\tAllows a person harmed by violations of certain provisions to [<i>bring a civil cause of action. Allows a person to</i>] seek an injunction. \n\tDeclares an emergency, effective on passage.",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4138",
     "introduced": "2026-01-18T13:49:05",
     "chamber": "House",
-    "status": "In House Committee Awaiting transfer to Desk",
+    "status": "House Desk - Second Reading",
     "sponsors": [
       {
         "name": "Rep Chaichi",
@@ -13167,12 +13217,12 @@
   },
   {
     "billNumber": "HB4140",
-    "title": "Modifies the crime of criminal mischief in the first degree by expanding the types of telecommunications entities whose property may be subject to ORS 164.",
-    "summary": "\tDigest: The Act creates a new crime about selling or trading scrap metal without being registered as a scrap metal seller. The Act adds new requirements for scrap metal businesses. (Flesch Readability Score: 60.8). \n\tModifies the crime of criminal mischief in the first degree by expanding the types of telecommunications entities whose property may be subject to ORS 164.365. \n\tProhibits certain individuals from selling or trading nonferrous metal property or commercial metal property to a scrap metal business unless the individual is registered as a scrap metal seller with the Department of Justice. Punishes by a maximum of 364 days' imprisonment, $6,250 fine, or both. Specifies exemptions. Requires the department to establish a scrap metal seller registration database. \n\tRequires scrap metal businesses to sign up with a national scrap metal theft alert system and use the system in conducting business activity. Requires scrap metal businesses to check that individuals are registered as scrap metal sellers before completing a transaction.",
+    "title": "Modifies the crime of criminal mischief in the first degree by expanding the types of telecommunications entities whose property may be subject to ORS 164.365.",
+    "summary": "\t<b>Digest: The Act adds new requirements for scrap metal businesses. The Act changes the definition for a type of scrap metal. (Flesch Readability Score: 61.3).</b> \n\t[<i>Digest: The Act creates a new crime about selling or trading scrap metal without being registered as a scrap metal seller. The Act adds new requirements for scrap metal businesses. (Flesch Readability Score: 60.8).</i>] \n\tModifies the crime of criminal mischief in the first degree by expanding the types of telecommunications entities whose property may be subject to ORS 164.365. \n\t[<i>Prohibits certain individuals from selling or trading nonferrous metal property or commercial metal property to a scrap metal business unless the individual is registered as a scrap metal seller with the Department of Justice. Punishes by a maximum of 364 days' imprisonment, $6,250 fine, or both. Specifies exemptions. Requires the department to establish a scrap metal seller registration database.</i>] \n\t<b>Modifies the definition of \"commercial metal property\" and requires scrap metal businesses to check ownership of certain types of commercial metal property before purchasing or receiving the commercial metal property.</b> \n\tRequires scrap metal businesses to sign up with a national scrap metal theft alert system and use the system in conducting business activity. [<i>Requires scrap metal businesses to check that individuals are registered as scrap metal sellers before completing a transaction.</i>].",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4140",
     "introduced": "2026-01-18T14:01:59",
     "chamber": "House",
-    "status": "In House Committee Awaiting transfer to Desk",
+    "status": "House Desk - Second Reading",
     "sponsors": [
       {
         "name": "Rep Wallan",
@@ -13638,11 +13688,11 @@
   {
     "billNumber": "HB4145",
     "title": "Modifies the firearm permit provisions of Ballot Measure 114 (2022).",
-    "summary": "\tDigest: The Act makes changes to the gun permit and transfer process and to the LCM prohibition. The Act goes into effect when the Governor signs it. (Flesch Readability Score: 73.2). \n\tModifies the firearm permit provisions of Ballot Measure 114 (2022). Specifies where a person may apply for a permit to purchase a firearm and adds an eligibility requirement. Provides that information obtained during the application process and during the criminal background check and maintained within the database of permit holders is exempt from disclosure as a public record. Extends the time, from 30 to 60 days from receipt of the application, by which a permit agent must issue a permit to a qualified applicant or mail reasons for a denial in writing to the applicant. Increases the maximum fee that may be charged for an initial application for and renewal of a permit. Specifies the portion of the fee payable to the Department of State Police for conducting a criminal background check. Establishes alternatives to a firearms training course or class that may be used to satisfy the requirement of proof of completion of a firearm safety course for the permit. Provides that permits are not required for firearm transfers until January 1, 2028. Establishes an exception to the permit requirement for certain active and retired law enforcement officers. \n\tModifies the affirmative defense language for the large capacity magazine provisions of Ballot Measure 114 (2022). Provides that a person may not be prosecuted for prohibited conduct occurring while enforcement of the provisions is enjoined by a court. Provides that gun dealers and manufacturers have 180 days after entry of an appellate judgment reversing or vacating the injunction to take certain actions concerning large capacity magazines. \n\tProvides that a challenge to the legality of the Act must be commenced in the Circuit Court for Marion County. \n\tDeclares an emergency, effective on passage.",
+    "summary": "\tDigest: The Act makes changes to the gun permit and transfer process and to the LCM prohibition. The Act goes into effect when the Governor signs it. (Flesch Readability Score: 73.2). \n\tModifies the firearm permit provisions of Ballot Measure 114 (2022). Specifies where a person may apply for a permit to purchase a firearm and adds an eligibility requirement. Provides that information obtained during the application process and during the criminal background check and maintained within the database of permit holders is exempt from disclosure as a public record. Extends the time, from 30 to 60 days from receipt of the application, by which a permit agent must issue a permit to a qualified applicant or mail reasons for a denial in writing to the applicant. Increases the maximum fee that may be charged for an initial application for and renewal of a permit. Specifies the portion of the fee payable to the Department of State Police for conducting a criminal background check. Establishes alternatives to a firearms training course or class that may be used to satisfy the requirement of proof of completion of a firearm safety course for the permit. Provides that permits are not required for firearm transfers until January 1, 2028. Establishes an exception to the permit requirement for certain active [<i>and retired</i>] law enforcement officers. \n\tModifies the affirmative defense language for the large-capacity magazine provisions of Ballot Measure 114 (2022). Provides that a person may not be prosecuted for prohibited conduct occurring while enforcement of the provisions is enjoined by a court. Provides that gun dealers and manufacturers have 180 days after entry of an appellate judgment reversing or vacating the injunction to take certain actions concerning large-capacity magazines. \n\tProvides that a challenge to the legality of the Act must be commenced in the Circuit Court for Marion County. \n\t<b>Provides that the Legislative Assembly does not intend the Act to affect current court proceedings concerning Ballot Measure 114 (2022).</b> \n\tDeclares an emergency, effective on passage.",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4145",
     "introduced": "2026-01-18T14:36:34",
     "chamber": "House",
-    "status": "In House Committee Awaiting transfer to Desk",
+    "status": "House Desk - Second Reading",
     "sponsors": [
       {
         "name": "Rep Kropf",
@@ -13678,7 +13728,7 @@
   },
   {
     "billNumber": "HB4146",
-    "title": "Defines \"craft low-proof spirit distiller\" and \"low-proof spirit beverage.",
+    "title": "Defines \"craft low-proof spirit distiller\" and \"low-proof spirit beverage.\"",
     "summary": "\tDigest: The Act tells OLCC to let a distillery be a craft low-proof spirit distillery. The Act tells OLCC to let some stores sell low-proof spirit beverages. The Act also taxes the low-proof spirit beverages. (Flesch Readability Score: 60.9). \n\tDefines \"craft low-proof spirit distiller\" and \"low-proof spirit beverage.\" Allows the Oregon Liquor and Cannabis Commission to issue a craft low-proof spirit distiller endorsement to certain distillery licensees. Directs the commission to issue a low-proof spirit beverage endorsement to the holder of an off-premises sales license for a premises that is greater than 4,000 square feet. Directs the commission to establish a craft brewery and distillery marketing and economic development grant program to support the craft brewery and distillery industry. Establishes the Craft Brewery and Distillery Marketing and Economic Development Grant Program Fund in the State Treasury. Imposes a tax on low-proof spirit beverages. \n\tTakes effect on the 91st day following adjournment sine die.",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4146",
     "introduced": "2026-01-18T14:39:19",
@@ -13876,7 +13926,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4149",
     "introduced": "2026-01-18T15:07:48",
     "chamber": "House",
-    "status": "House Desk - Second Reading",
+    "status": "House Desk - Third Reading",
     "sponsors": [
       {
         "name": "Rep Levy E",
@@ -14088,12 +14138,12 @@
   },
   {
     "billNumber": "HB4151",
-    "title": "Increases the penalties for the crime of initiating a false report when the report causes an enhanced law enforcement response that results in physical injury or death.",
-    "summary": "\tDigest: The Act changes the crime of initiating a false report. (Flesch Readability Score: 69.7). \n\tIncreases the penalties for the crime of initiating a false report when the report causes an enhanced law enforcement response that results in physical injury or death. Punishes by a maximum of five years' imprisonment, $125,000 fine, or both.",
+    "title": "Increases the penalties for the crime of initiating a false report when a person intentionally causes an enhanced law enforcement response and recklessly causes serious physical injury or death as a result of the response.",
+    "summary": "\tDigest: The Act changes the crime of initiating a false report. (Flesch Readability Score: 69.7). \n\tIncreases the penalties for the crime of initiating a false report when [<i>the report</i>]<b> a person intentionally</b> causes an enhanced law enforcement response [<i>that results in</i>]<b> and recklessly causes serious</b> physical injury or death<b> as a result of the response</b>. Punishes by a maximum of five years' imprisonment, $125,000 fine, or both.",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4151",
     "introduced": "2026-01-19T11:03:07",
     "chamber": "House",
-    "status": "In House Committee Awaiting transfer to Desk",
+    "status": "House Desk - Second Reading",
     "sponsors": [
       {
         "name": "Rep Edwards",
@@ -14295,6 +14345,11 @@
         "name": "Rep Nelson",
         "level": "Regular",
         "type": "Member"
+      },
+      {
+        "name": "Sen Manning Jr",
+        "level": "Chief",
+        "type": "Member"
       }
     ]
   },
@@ -14391,7 +14446,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4154",
     "introduced": "2026-01-19T11:26:49",
     "chamber": "House",
-    "status": "House Desk - Third Reading",
+    "status": "Senate Desk - Awaiting First Reading",
     "sponsors": [
       {
         "name": "Rep Wise",
@@ -14495,6 +14550,11 @@
       },
       {
         "name": "Rep Chaichi",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Chotzen",
         "level": "Regular",
         "type": "Member"
       }
@@ -14790,6 +14850,21 @@
         "name": "Rep Scharf",
         "level": "Regular",
         "type": "Member"
+      },
+      {
+        "name": "Rep Levy B",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Boshart Davis",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Dobson",
+        "level": "Regular",
+        "type": "Member"
       }
     ]
   },
@@ -14832,7 +14907,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4160",
     "introduced": "2026-02-03T11:14:00",
     "chamber": "House",
-    "status": "House Desk - Second Reading",
+    "status": "House Desk - Third Reading",
     "sponsors": [
       {
         "name": "HRULES",

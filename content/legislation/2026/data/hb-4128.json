@@ -348,6 +348,20 @@
       "PresessionFiledMessage": null,
       "CreatedDate": "2026-02-11T06:52:36",
       "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "157823",
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4128,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Hudson",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2026-02-18T10:25:48",
+      "ModifiedDate": null
     }
   ],
   "historyActions": [
@@ -428,6 +442,19 @@
       "CreatedDate": "2026-02-17T14:09:45",
       "ModifiedDate": null,
       "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 667424,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4128,
+      "Chamber": "H",
+      "ActionDate": "2026-02-18T17:40:31",
+      "ActionText": "Rules suspended. Carried over to February 19, 2026 Calendar.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-18T18:22:54",
+      "ModifiedDate": null,
+      "PublicNotification": false
     }
   ],
   "documents": [

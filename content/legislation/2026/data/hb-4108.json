@@ -11,7 +11,7 @@
     "RelatingTo": "Relating to annexation of land noncontiguous to a city.",
     "AtTheRequestOf": null,
     "ChapterNumber": null,
-    "CurrentLocation": "House Desk - Third Reading",
+    "CurrentLocation": "Senate Desk - Awaiting First Reading",
     "CurrentCommitteeCode": null,
     "CurrentSubCommittee": null,
     "FiscalImpact": "Has minimal fiscal impact",
@@ -23,7 +23,7 @@
     "LCNumber": 34,
     "Vetoed": false,
     "CreatedDate": "2026-01-17T13:13:23",
-    "ModifiedDate": "2026-02-17T14:09:45",
+    "ModifiedDate": "2026-02-18T18:22:39",
     "PrefixMeaning": "House Bill"
   },
   "sponsors": [
@@ -315,6 +315,19 @@
       "VoteText": null,
       "CreatedDate": "2026-02-17T14:09:45",
       "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 667422,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4108,
+      "Chamber": "H",
+      "ActionDate": "2026-02-18T18:22:10",
+      "ActionText": "Third reading. Carried by Fragala. Passed.",
+      "VoteText": "Ayes, 39; Nays, 2--Cate, Evans; Excused, 12--Boice, Bunch, Diehl, Edwards, Hartman, Levy B, Lewis, Osborne, Reschke, Smith G, Valderrama, Wright; Excused for Business of the House, 7--Boshart Davis, Harbick, McIntire, Owens, Scharf, Skarlatos, Wallan.",
+      "CreatedDate": "2026-02-18T18:22:29",
+      "ModifiedDate": "2026-02-18T18:22:39",
       "PublicNotification": true
     }
   ],

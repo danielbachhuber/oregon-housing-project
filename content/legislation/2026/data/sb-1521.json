@@ -6,13 +6,13 @@
     "CatchLine": "Prohibits cities and counties within the Portland MSA from enforcing requirements that developers provide affordable units in multiunit dwellings unless the city or county first calculates the developers' average expected losses due to providing affordable housing and the city or county offsets those losses.",
     "MinorityCatchLine": null,
     "MeasureSummary": "\tDigest: This Act makes Portland-area cities and counties make up the usual costs to a builder when making the builder add low-cost homes. (Flesch Readability Score: 61.4). \n\tProhibits cities and counties within the Portland MSA from enforcing requirements that developers provide affordable units in multiunit dwellings unless the city or county first calculates the developers' average expected losses due to providing affordable housing and the city or county offsets those losses. \n\tBecomes operative for rental housing on January 1, 2028. \n\tBecomes operative for all housing on January 1, 2029.",
-    "CurrentVersion": null,
+    "CurrentVersion": "A",
     "RelatingToFull": "Relating to local requirements to develop affordable housing; creating new provisions; and amending ORS 197A.465, 320.195 and 456.766 and section 8, chapter 52, Oregon Laws 2016, section 2, chapter 112, Oregon Laws 2021, sections 9 and 10, chapter 552, Oregon Laws 2021, and sections 8 and 9, chapter 330, Oregon Laws 2025.\n\t",
     "RelatingTo": "Relating to local requirements to develop affordable housing.",
     "AtTheRequestOf": "(at the request of Senate Interim Committee on Housing and Development)",
     "ChapterNumber": null,
-    "CurrentLocation": "In Senate Committee Awaiting transfer to Desk",
-    "CurrentCommitteeCode": "SHDEV",
+    "CurrentLocation": "Senate Desk - Awaiting Second Reading",
+    "CurrentCommitteeCode": null,
     "CurrentSubCommittee": null,
     "FiscalImpact": "Fiscal impact issued",
     "RevenueImpact": "No revenue impact",
@@ -23,7 +23,7 @@
     "LCNumber": 5,
     "Vetoed": false,
     "CreatedDate": "2026-01-14T13:37:51",
-    "ModifiedDate": "2026-02-16T11:39:24",
+    "ModifiedDate": "2026-02-18T18:05:01",
     "PrefixMeaning": "Senate Bill"
   },
   "sponsors": [
@@ -94,6 +94,19 @@
       "CreatedDate": "2026-02-12T17:17:24",
       "ModifiedDate": null,
       "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 667346,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1521,
+      "Chamber": "S",
+      "ActionDate": "2026-02-18T13:08:30",
+      "ActionText": "Recommendation: Do pass with amendments.  (Printed A-Eng.)",
+      "VoteText": null,
+      "CreatedDate": "2026-02-18T13:09:51",
+      "ModifiedDate": null,
+      "PublicNotification": true
     }
   ],
   "documents": [
@@ -101,9 +114,27 @@
       "SessionKey": "2026R1",
       "MeasurePrefix": "SB",
       "MeasureNumber": 1521,
+      "VersionDescription": "A-Engrossed",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1521/A-Engrossed",
+      "CreatedDate": "2026-02-18T17:00:18.303",
+      "ModifiedDate": null
+    },
+    {
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1521,
       "VersionDescription": "Introduced",
       "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1521/Introduced",
       "CreatedDate": "2026-01-28T15:25:27.567",
+      "ModifiedDate": null
+    },
+    {
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1521,
+      "VersionDescription": "Senate Amendments to Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1521/Senate Amendments to Introduced",
+      "CreatedDate": "2026-02-18T17:00:18.433",
       "ModifiedDate": null
     }
   ],
