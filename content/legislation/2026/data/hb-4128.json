@@ -5,14 +5,14 @@
     "MeasureNumber": 4128,
     "CatchLine": "Prohibits covered entities from purchasing, acquiring or offering to purchase or acquire a single-family residence unless the residence has been listed for sale to the general public for at least 90 days.",
     "MinorityCatchLine": null,
-    "MeasureSummary": "\tDigest: Imposes a waiting period of 90 days on some entities to buy a house made for one family. Allows the Department of Justice to enforce the law. (Flesch Readability Score: 61.5). \n\tProhibits covered entities from purchasing, acquiring or offering to purchase or acquire a single-family residence unless the residence has been listed for sale to the general public for at least 90 days. Provides that the 90-day waiting period restarts each time the sale price is modified. \n\tRequires a covered entity or its agent, upon making an offer to purchase or acquire a single-family residence, to submit a completed and notarized disclosure form to the seller or seller's agent. Requires the covered entity to submit the same form to the Department of Justice within three days of submitting the form to the seller or seller's agent. \n\tAuthorizes the Attorney General to bring a civil action in circuit court against a covered entity for declaratory relief, to restrain a threatened or actual violation of the 90-day waiting period or disclosure form requirements or to otherwise compel compliance with those requirements. Authorizes the Attorney General to impose a civil penalty against a covered entity upon finding a violation.",
-    "CurrentVersion": null,
+    "MeasureSummary": "\t<b>Digest: This Act forbids some house purchases by large investors who do not wait 90 days and give notices and awards damages to those who sue law breakers. (Flesch Readability Score: 60.3).</b> \n\t[<i>Digest: Imposes a waiting period of 90 days on some entities to buy a house made for one family. Allows the Department of Justice to enforce the law. (Flesch Readability Score: 61.5).</i>] \n\tProhibits covered entities from purchasing, acquiring or offering to purchase or acquire a single-family residence unless the residence has been listed for sale to the general public for at least 90 days. [<i>Provides that the 90-day waiting period restarts each time the sale price is modified.</i>] \n\tRequires a covered entity [<i>or its agent</i>], upon making <b>or accepting</b> an offer to purchase or acquire a single-family residence, to submit a completed and notarized disclosure form to the seller or seller's agent. Requires the covered entity to submit <b>a copy of</b> the [<i>same</i>] form to the Department of Justice within three days of submitting the form to the seller or seller's agent. \n\tAuthorizes [<i>the Attorney General</i>]<b> any person</b> to bring a civil action in circuit court against a covered entity for [<i>declaratory relief, to restrain a threatened or actual</i>] <b>a</b> violation of the 90-day waiting period or disclosure form requirements or to otherwise compel compliance with those requirements. [<i>Authorizes the Attorney General to impose a civil penalty against a covered entity upon finding a violation.</i>]<b> Provides for statutory damages.</b>",
+    "CurrentVersion": "A",
     "RelatingToFull": "Relating to sale of single-family residences.\n\t",
     "RelatingTo": "Relating to sale of single-family residences.",
     "AtTheRequestOf": null,
     "ChapterNumber": null,
-    "CurrentLocation": "In House Committee Awaiting transfer to Desk",
-    "CurrentCommitteeCode": "HHOUSH",
+    "CurrentLocation": "House Desk - Third Reading",
+    "CurrentCommitteeCode": null,
     "CurrentSubCommittee": null,
     "FiscalImpact": "Has minimal fiscal impact",
     "RevenueImpact": "No revenue impact",
@@ -23,7 +23,7 @@
     "LCNumber": 264,
     "Vetoed": false,
     "CreatedDate": "2026-01-18T11:34:03",
-    "ModifiedDate": "2026-02-12T18:23:16",
+    "ModifiedDate": "2026-02-17T14:09:45",
     "PrefixMeaning": "House Bill"
   },
   "sponsors": [
@@ -402,9 +402,53 @@
       "CreatedDate": "2026-02-12T16:39:32",
       "ModifiedDate": null,
       "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 666981,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4128,
+      "Chamber": "H",
+      "ActionDate": "2026-02-16T15:15:59",
+      "ActionText": "Recommendation: Do pass with amendments and be printed A-Engrossed.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-16T15:28:05",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 667224,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4128,
+      "Chamber": "H",
+      "ActionDate": "2026-02-17T14:09:36",
+      "ActionText": "Second reading.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-17T14:09:45",
+      "ModifiedDate": null,
+      "PublicNotification": true
     }
   ],
   "documents": [
+    {
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4128,
+      "VersionDescription": "A-Engrossed",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4128/A-Engrossed",
+      "CreatedDate": "2026-02-16T17:28:09.947",
+      "ModifiedDate": null
+    },
+    {
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4128,
+      "VersionDescription": "House Amendments to Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4128/House Amendments to Introduced",
+      "CreatedDate": "2026-02-16T17:28:10.063",
+      "ModifiedDate": null
+    },
     {
       "SessionKey": "2026R1",
       "MeasurePrefix": "HB",

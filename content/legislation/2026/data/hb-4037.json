@@ -5,14 +5,14 @@
     "MeasureNumber": 4037,
     "CatchLine": "Adjusts certain terms of the revolving loan program for cities and counties to fund affordable housing projects.",
     "MinorityCatchLine": null,
-    "MeasureSummary": "\tDigest: This Act changes some housing programs, agencies and laws and rules about home building. (Flesch Readability Score: 65.7). \n\tAdjusts certain terms of the revolving loan program for cities and counties to fund affordable housing projects. \n\tAllows state agencies to adjust terms of a grant made to the Network for Oregon Affordable Housing in the last biennium. \n\tAuthorizes the Housing Accountability and Production Office to enter an interim administrative order against local governments. \n\tLimits the building permit plan review for housing with two or fewer dwelling units. \n\tEstablishes a local government process for land use approvals for housing subject only to clear and objective standards, conditions and procedures. \n\tShortens the period under which local governments may review similar housing development applications by the same applicant. \n\tEstablishes responsibilities for landlords and tenants for residential tenancies destroyed by natural disasters. \n\tRequires state agencies to give priority to housing providers when transferring surplus real property. \n\tTakes effect on the 91st day following adjournment sine die.",
-    "CurrentVersion": null,
-    "RelatingToFull": "Relating to housing; creating new provisions; amending ORS 92.031, 197.320, 197A.140, 197A.400, 197A.805, 215.427, 227.178, 270.010, 270.030, 270.100, 307.213, 307.214, 307.216, 307.221, 307.225, 307.227, 307.229, 307.231, 307.233, 455.628 and 458.352 and section 22, chapter 476, Oregon Laws 2025; and prescribing an effective date.\n\t",
+    "MeasureSummary": "\tDigest: This Act changes some housing programs, agencies and laws and rules about home building. (Flesch Readability Score: 65.7). \n\tAdjusts certain terms of the revolving loan program for cities and counties to fund affordable housing projects. \n\tAllows state agencies to adjust terms of a grant made to the Network for Oregon Affordable Housing in the last biennium. \n\t[<i>Authorizes the Housing Accountability and Production Office to enter an interim administrative order against local governments.</i>] \n\tLimits the building permit plan review for housing with two or fewer dwelling units. \n\tEstablishes a local government process for land use approvals for housing subject only to clear and objective standards, conditions and procedures.<b> Becomes operative on July 1, 2026.</b> \n\t[<i>Shortens the period under which local governments may review similar housing development applications by the same applicant.</i>] \n\tEstablishes responsibilities for landlords and tenants for residential tenancies destroyed by natural disasters. \n\tRequires state agencies to give priority to housing providers when transferring surplus real property. \n\tTakes effect on the 91st day following adjournment sine die.",
+    "CurrentVersion": "A",
+    "RelatingToFull": "Relating to housing; creating new provisions; amending ORS 92.031, 197.320, 197A.140, 197A.400, 270.010, 270.030, 270.100, 307.213, 307.214, 307.216, 307.221, 307.225, 307.227, 307.229, 307.231, 307.233, 455.628 and 458.352 and section 22, chapter 476, Oregon Laws 2025; and prescribing an effective date.\n\t",
     "RelatingTo": "Relating to housing; prescribing an effective date.",
     "AtTheRequestOf": "(at the request of House Interim Committee on Housing and Homelessness for Representative Pam Marsh)",
     "ChapterNumber": null,
-    "CurrentLocation": "In House Committee Awaiting transfer to Desk",
-    "CurrentCommitteeCode": "HHOUSH",
+    "CurrentLocation": "House Desk - Third Reading",
+    "CurrentCommitteeCode": null,
     "CurrentSubCommittee": null,
     "FiscalImpact": "Has minimal fiscal impact",
     "RevenueImpact": "No revenue impact",
@@ -23,7 +23,7 @@
     "LCNumber": 222,
     "Vetoed": false,
     "CreatedDate": "2026-01-15T09:47:17",
-    "ModifiedDate": "2026-02-13T11:07:16",
+    "ModifiedDate": "2026-02-17T14:09:45",
     "PrefixMeaning": "House Bill"
   },
   "sponsors": [
@@ -107,9 +107,53 @@
       "CreatedDate": "2026-02-12T16:39:32",
       "ModifiedDate": null,
       "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 666964,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4037,
+      "Chamber": "H",
+      "ActionDate": "2026-02-16T15:15:42",
+      "ActionText": "Recommendation: Do pass with amendments and be printed A-Engrossed.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-16T15:28:05",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 667212,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4037,
+      "Chamber": "H",
+      "ActionDate": "2026-02-17T14:09:36",
+      "ActionText": "Second reading.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-17T14:09:45",
+      "ModifiedDate": null,
+      "PublicNotification": true
     }
   ],
   "documents": [
+    {
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4037,
+      "VersionDescription": "A-Engrossed",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4037/A-Engrossed",
+      "CreatedDate": "2026-02-16T17:28:03.767",
+      "ModifiedDate": null
+    },
+    {
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4037,
+      "VersionDescription": "House Amendments to Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4037/House Amendments to Introduced",
+      "CreatedDate": "2026-02-16T17:28:03.887",
+      "ModifiedDate": null
+    },
     {
       "SessionKey": "2026R1",
       "MeasurePrefix": "HB",

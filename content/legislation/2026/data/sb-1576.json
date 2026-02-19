@@ -11,7 +11,7 @@
     "RelatingTo": "Relating to accessibility standards for housing; prescribing an effective date.",
     "AtTheRequestOf": null,
     "ChapterNumber": null,
-    "CurrentLocation": "Senate Desk - Awaiting Second Reading",
+    "CurrentLocation": "Senate Desk - Awaiting Third Reading",
     "CurrentCommitteeCode": null,
     "CurrentSubCommittee": null,
     "FiscalImpact": "Has minimal fiscal impact",
@@ -23,7 +23,7 @@
     "LCNumber": 72,
     "Vetoed": false,
     "CreatedDate": "2026-01-16T15:10:46",
-    "ModifiedDate": "2026-02-13T18:05:02",
+    "ModifiedDate": "2026-02-16T11:29:12",
     "PrefixMeaning": "Senate Bill"
   },
   "sponsors": [
@@ -359,6 +359,32 @@
       "CreatedDate": "2026-02-13T15:28:33",
       "ModifiedDate": null,
       "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 666769,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1576,
+      "Chamber": "S",
+      "ActionDate": "2026-02-16T11:05:10",
+      "ActionText": "Second reading.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-16T11:29:12",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 667188,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1576,
+      "Chamber": "S",
+      "ActionDate": "2026-02-17T12:52:50",
+      "ActionText": "Carried over to 02-18 by unanimous consent.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-17T12:53:05",
+      "ModifiedDate": null,
+      "PublicNotification": false
     }
   ],
   "documents": [

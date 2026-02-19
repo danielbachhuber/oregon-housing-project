@@ -14,8 +14,8 @@
     "CurrentLocation": "In Senate Committee Awaiting transfer to Desk",
     "CurrentCommitteeCode": "SHDEV",
     "CurrentSubCommittee": null,
-    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
-    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "FiscalImpact": "Fiscal impact issued",
+    "RevenueImpact": "No revenue impact",
     "EmergencyClause": false,
     "EffectiveDate": null,
     "FiscalAnalyst": "Twais Broadus",
@@ -23,7 +23,7 @@
     "LCNumber": 5,
     "Vetoed": false,
     "CreatedDate": "2026-01-14T13:37:51",
-    "ModifiedDate": "2026-02-12T17:17:24",
+    "ModifiedDate": "2026-02-16T11:39:24",
     "PrefixMeaning": "Senate Bill"
   },
   "sponsors": [
