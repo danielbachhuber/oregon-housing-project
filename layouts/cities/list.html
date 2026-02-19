@@ -1,0 +1,15 @@
+{{ define "main" }}
+<article class="markdown book-article">
+  <h1>{{ .Title }}</h1>
+
+  {{ .Content }}
+
+  {{ if .Sections }}
+  <ul>
+    {{ range .Sections.ByTitle }}
+    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    {{ end }}
+  </ul>
+  {{ end }}
+</article>
+{{ end }}
