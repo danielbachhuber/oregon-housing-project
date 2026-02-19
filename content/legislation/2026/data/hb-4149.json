@@ -11,7 +11,7 @@
     "RelatingTo": "Relating to homeless students.",
     "AtTheRequestOf": null,
     "ChapterNumber": null,
-    "CurrentLocation": "House Desk - Second Reading",
+    "CurrentLocation": "House Desk - Third Reading",
     "CurrentCommitteeCode": null,
     "CurrentSubCommittee": null,
     "FiscalImpact": "No fiscal impact",
@@ -23,7 +23,7 @@
     "LCNumber": 29,
     "Vetoed": false,
     "CreatedDate": "2026-01-18T15:07:48",
-    "ModifiedDate": "2026-02-17T18:05:01",
+    "ModifiedDate": "2026-02-18T17:33:51",
     "PrefixMeaning": "House Bill"
   },
   "sponsors": [
@@ -371,6 +371,19 @@
       "ActionText": "Recommendation: Do pass with amendments and be printed A-Engrossed.",
       "VoteText": null,
       "CreatedDate": "2026-02-17T12:15:40",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 667410,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4149,
+      "Chamber": "H",
+      "ActionDate": "2026-02-18T17:33:46",
+      "ActionText": "Second reading.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-18T17:33:51",
       "ModifiedDate": null,
       "PublicNotification": true
     }

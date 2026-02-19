@@ -11,7 +11,7 @@
     "RelatingTo": "Relating to restoration of dwellings damaged by involuntary causes.",
     "AtTheRequestOf": null,
     "ChapterNumber": null,
-    "CurrentLocation": "Senate Desk - Awaiting Second Reading",
+    "CurrentLocation": "Senate Desk - Awaiting Third Reading",
     "CurrentCommitteeCode": null,
     "CurrentSubCommittee": null,
     "FiscalImpact": "Has minimal fiscal impact",
@@ -23,7 +23,7 @@
     "LCNumber": 96,
     "Vetoed": false,
     "CreatedDate": "2026-01-16T12:06:14",
-    "ModifiedDate": "2026-02-17T18:05:01",
+    "ModifiedDate": "2026-02-18T11:46:24",
     "PrefixMeaning": "Senate Bill"
   },
   "sponsors": [
@@ -315,6 +315,19 @@
       "ActionText": "Recommendation: Do pass with amendments.  (Printed A-Eng.)",
       "VoteText": null,
       "CreatedDate": "2026-02-17T15:16:53",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 667332,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1561,
+      "Chamber": "S",
+      "ActionDate": "2026-02-18T11:30:02",
+      "ActionText": "Second reading.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-18T11:46:24",
       "ModifiedDate": null,
       "PublicNotification": true
     }

@@ -23,7 +23,7 @@
     "LCNumber": 94,
     "Vetoed": false,
     "CreatedDate": "2026-01-16T16:14:03",
-    "ModifiedDate": "2026-02-17T16:02:04",
+    "ModifiedDate": "2026-02-18T13:09:05",
     "PrefixMeaning": "House Bill"
   },
   "sponsors": [
@@ -133,6 +133,19 @@
       "CreatedDate": "2026-02-17T16:01:57",
       "ModifiedDate": "2026-02-17T16:02:04",
       "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 667345,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4082,
+      "Chamber": "H",
+      "ActionDate": "2026-02-17T16:02:56",
+      "ActionText": "Vote explanation(s) filed by Walters.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-18T13:09:05",
+      "ModifiedDate": "2026-02-18T13:09:06",
+      "PublicNotification": false
     }
   ],
   "documents": [
