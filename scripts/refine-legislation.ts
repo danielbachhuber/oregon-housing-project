@@ -405,7 +405,7 @@ function buildFrontMatter(
   // Documents array of tables
   for (const doc of documents) {
     fm += `\n[[documents]]\n`;
-    fm += `version = ${tomlString(doc.VersionDescription)}\n`;
+    fm += `version = ${tomlString(cleanText(doc.VersionDescription))}\n`;
     fm += `url = '${doc.DocumentUrl}'\n`;
   }
 
@@ -417,7 +417,7 @@ function buildFrontMatter(
     fm += `\n[[history]]\n`;
     fm += `date = '${action.ActionDate.split('T')[0]}'\n`;
     fm += `chamber = '${action.Chamber}'\n`;
-    fm += `action = ${tomlString(action.ActionText)}\n`;
+    fm += `action = ${tomlString(cleanText(action.ActionText))}\n`;
   }
 
   // Testimony array of tables (sorted by date)
