@@ -3,8 +3,6 @@ title = 'Hillsboro'
 date = '2026-02-20'
 +++
 
-# Hillsboro
-
 Hillsboro is the seat of Washington County and Oregon's fifth-largest city, located approximately 17 miles west of [Portland](/cities/portland) in the Tualatin Valley.[^1] Hillsboro added more than 1,000 residents to reach a population of 112,035 according to the most recent Portland State University estimates.[^2] Since 1950, it has grown from 5,000 to over 110,000 due to diverse industries and job growth that consistently outperforms the region and the U.S.[^3] Known as the heart of Oregon's "Silicon Forest," Intel Corporation leads as the largest employer, anchoring Hillsboro's technology sector alongside companies like Genentech and Salesforce.[^4] The city has a median household income of $106,409 and a poverty rate of 8.47%.[^5]
 
 ## Housing Statistics
