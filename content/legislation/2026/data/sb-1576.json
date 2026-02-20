@@ -11,7 +11,7 @@
     "RelatingTo": "Relating to accessibility standards for housing; prescribing an effective date.",
     "AtTheRequestOf": null,
     "ChapterNumber": null,
-    "CurrentLocation": "Senate Desk - Awaiting Third Reading",
+    "CurrentLocation": "Speakers Desk - Awaiting Referral",
     "CurrentCommitteeCode": null,
     "CurrentSubCommittee": null,
     "FiscalImpact": "Has minimal fiscal impact",
@@ -23,7 +23,7 @@
     "LCNumber": 72,
     "Vetoed": false,
     "CreatedDate": "2026-01-16T15:10:46",
-    "ModifiedDate": "2026-02-16T11:29:12",
+    "ModifiedDate": "2026-02-19T13:24:09",
     "PrefixMeaning": "Senate Bill"
   },
   "sponsors": [
@@ -398,6 +398,32 @@
       "CreatedDate": "2026-02-18T13:56:02",
       "ModifiedDate": null,
       "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 667473,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1576,
+      "Chamber": "S",
+      "ActionDate": "2026-02-19T11:47:35",
+      "ActionText": "Third reading.  Carried by Patterson.  Passed.",
+      "VoteText": "Ayes, 27; Nays, 1--Robinson; Excused, 2--Frederick, Linthicum.",
+      "CreatedDate": "2026-02-19T11:47:37",
+      "ModifiedDate": "2026-02-19T11:47:41",
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 667515,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1576,
+      "Chamber": "H",
+      "ActionDate": "2026-02-19T13:23:55",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-19T13:24:09",
+      "ModifiedDate": null,
+      "PublicNotification": true
     }
   ],
   "documents": [

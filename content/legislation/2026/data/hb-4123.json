@@ -11,8 +11,8 @@
     "RelatingTo": "Relating to landlord disclosure of confidential information; prescribing an effective date.",
     "AtTheRequestOf": null,
     "ChapterNumber": null,
-    "CurrentLocation": "Senate Desk - Awaiting First Reading",
-    "CurrentCommitteeCode": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SHDEV",
     "CurrentSubCommittee": null,
     "FiscalImpact": "Has minimal fiscal impact",
     "RevenueImpact": "No revenue impact",
@@ -23,7 +23,7 @@
     "LCNumber": 165,
     "Vetoed": false,
     "CreatedDate": "2026-01-18T10:48:38",
-    "ModifiedDate": "2026-02-17T16:43:05",
+    "ModifiedDate": "2026-02-19T15:17:38",
     "PrefixMeaning": "House Bill"
   },
   "sponsors": [
@@ -454,6 +454,45 @@
       "VoteText": "Ayes, 43; Nays, 6--Boshart Davis, Cate, Harbick, Reschke, Skarlatos, Yunker; Excused, 5--Andersen, Hartman, Lewis, Sosa, Valderrama; Excused for Business of the House, 6--Bunch, Diehl, Gomberg, Javadi, Nguyen D, Watanabe.",
       "CreatedDate": "2026-02-17T16:12:25",
       "ModifiedDate": "2026-02-17T16:43:05",
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 667555,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4123,
+      "Chamber": "S",
+      "ActionDate": "2026-02-19T14:10:27",
+      "ActionText": "First reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-19T14:16:53",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 667611,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4123,
+      "Chamber": "S",
+      "ActionDate": "2026-02-19T15:17:20",
+      "ActionText": "Referred to Housing and Development.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-19T15:17:38",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 667663,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4123,
+      "Chamber": "S",
+      "ActionDate": "2026-02-24T15:01:00",
+      "ActionText": "Public Hearing and Possible Work Session scheduled.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-19T16:49:42",
+      "ModifiedDate": null,
       "PublicNotification": true
     }
   ],

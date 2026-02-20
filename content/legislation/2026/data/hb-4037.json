@@ -11,8 +11,8 @@
     "RelatingTo": "Relating to housing; prescribing an effective date.",
     "AtTheRequestOf": "(at the request of House Interim Committee on Housing and Homelessness for Representative Pam Marsh)",
     "ChapterNumber": null,
-    "CurrentLocation": "Senate Desk - Awaiting First Reading",
-    "CurrentCommitteeCode": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SHDEV",
     "CurrentSubCommittee": null,
     "FiscalImpact": "Has minimal fiscal impact",
     "RevenueImpact": "No revenue impact",
@@ -23,7 +23,7 @@
     "LCNumber": 222,
     "Vetoed": false,
     "CreatedDate": "2026-01-15T09:47:17",
-    "ModifiedDate": "2026-02-18T17:53:39",
+    "ModifiedDate": "2026-02-19T15:17:38",
     "PrefixMeaning": "House Bill"
   },
   "sponsors": [
@@ -145,6 +145,45 @@
       "VoteText": "Ayes, 40; Excused, 13--Boice, Bunch, Diehl, Edwards, Hartman, Levy B, Lewis, Nosse, Osborne, Reschke, Smith G, Valderrama, Wright; Excused for Business of the House, 7--Boshart Davis, Harbick, McIntire, Owens, Scharf, Skarlatos, Wallan.",
       "CreatedDate": "2026-02-18T17:53:29",
       "ModifiedDate": "2026-02-18T17:53:39",
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 667535,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4037,
+      "Chamber": "S",
+      "ActionDate": "2026-02-19T14:10:27",
+      "ActionText": "First reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-19T14:16:53",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 667591,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4037,
+      "Chamber": "S",
+      "ActionDate": "2026-02-19T15:17:20",
+      "ActionText": "Referred to Housing and Development.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-19T15:17:38",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 667665,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4037,
+      "Chamber": "S",
+      "ActionDate": "2026-02-26T15:01:00",
+      "ActionText": "Public Hearing and Possible Work Session scheduled.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-19T16:56:22",
+      "ModifiedDate": null,
       "PublicNotification": true
     }
   ],

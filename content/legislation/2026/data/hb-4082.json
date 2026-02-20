@@ -11,8 +11,8 @@
     "RelatingTo": "Relating to housing for older persons; prescribing an effective date.",
     "AtTheRequestOf": "(at the request of Governor Tina Kotek for Office of the Governor)",
     "ChapterNumber": null,
-    "CurrentLocation": "Senate Desk - Awaiting First Reading",
-    "CurrentCommitteeCode": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SHDEV",
     "CurrentSubCommittee": null,
     "FiscalImpact": "Has minimal fiscal impact",
     "RevenueImpact": "No revenue impact",
@@ -23,7 +23,7 @@
     "LCNumber": 94,
     "Vetoed": false,
     "CreatedDate": "2026-01-16T16:14:03",
-    "ModifiedDate": "2026-02-18T13:09:05",
+    "ModifiedDate": "2026-02-19T15:17:38",
     "PrefixMeaning": "House Bill"
   },
   "sponsors": [
@@ -146,6 +146,45 @@
       "CreatedDate": "2026-02-18T13:09:05",
       "ModifiedDate": "2026-02-18T13:09:06",
       "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 667548,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4082,
+      "Chamber": "S",
+      "ActionDate": "2026-02-19T14:10:27",
+      "ActionText": "First reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-19T14:16:53",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 667604,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4082,
+      "Chamber": "S",
+      "ActionDate": "2026-02-19T15:17:20",
+      "ActionText": "Referred to Housing and Development.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-19T15:17:38",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 667662,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4082,
+      "Chamber": "S",
+      "ActionDate": "2026-02-24T15:01:00",
+      "ActionText": "Public Hearing and Possible Work Session scheduled.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-19T16:49:42",
+      "ModifiedDate": null,
+      "PublicNotification": true
     }
   ],
   "documents": [

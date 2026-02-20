@@ -11,7 +11,7 @@
     "RelatingTo": "Relating to smoking policies in residential tenancies.",
     "AtTheRequestOf": null,
     "ChapterNumber": null,
-    "CurrentLocation": "House Desk - Third Reading",
+    "CurrentLocation": "Senate Desk - Awaiting First Reading",
     "CurrentCommitteeCode": null,
     "CurrentSubCommittee": null,
     "FiscalImpact": "Has minimal fiscal impact",
@@ -23,7 +23,7 @@
     "LCNumber": 32,
     "Vetoed": false,
     "CreatedDate": "2026-01-17T15:12:12",
-    "ModifiedDate": "2026-02-17T14:09:45",
+    "ModifiedDate": "2026-02-19T15:08:09",
     "PrefixMeaning": "House Bill"
   },
   "sponsors": [
@@ -278,6 +278,62 @@
       "PresessionFiledMessage": null,
       "CreatedDate": "2026-01-23T16:21:08",
       "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "157857",
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4120,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Levy E",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2026-02-19T14:59:24",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "157858",
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4120,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Nelson",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2026-02-19T15:05:59",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "157859",
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4120,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Pham H",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2026-02-19T15:06:01",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "157860",
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4120,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Javadi",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2026-02-19T15:06:21",
+      "ModifiedDate": null
     }
   ],
   "historyActions": [
@@ -358,6 +414,45 @@
       "CreatedDate": "2026-02-18T18:22:54",
       "ModifiedDate": null,
       "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 667487,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4120,
+      "Chamber": "H",
+      "ActionDate": "2026-02-19T12:28:28",
+      "ActionText": "Rules suspended. Carried over to February 20, 2026 Calendar.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-19T12:30:02",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 667572,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4120,
+      "Chamber": "H",
+      "ActionDate": "2026-02-19T14:49:00",
+      "ActionText": "Rules suspended. Without objection, carry over to February 20, 2026 rescinded.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-19T14:50:44",
+      "ModifiedDate": "2026-02-19T15:22:20",
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 667583,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4120,
+      "Chamber": "H",
+      "ActionDate": "2026-02-19T15:08:01",
+      "ActionText": "Third reading. Carried by Edwards. Passed.",
+      "VoteText": "Ayes, 51; Nays, 2--Evans, Osborne; Excused, 7--Hartman, Levy B, Scharf, Valderrama, Wallan, Watanabe, Wright.",
+      "CreatedDate": "2026-02-19T15:08:02",
+      "ModifiedDate": "2026-02-19T15:08:09",
+      "PublicNotification": true
     }
   ],
   "documents": [

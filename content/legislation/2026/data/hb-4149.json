@@ -306,6 +306,20 @@
       "PresessionFiledMessage": null,
       "CreatedDate": "2026-02-12T11:29:32",
       "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "157840",
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4149,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep McLain",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2026-02-19T09:00:24",
+      "ModifiedDate": null
     }
   ],
   "historyActions": [
@@ -386,6 +400,19 @@
       "CreatedDate": "2026-02-18T17:33:51",
       "ModifiedDate": null,
       "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 667500,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4149,
+      "Chamber": "H",
+      "ActionDate": "2026-02-19T12:53:26",
+      "ActionText": "Rules suspended. Carried over to February 20, 2026 Calendar.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-19T12:53:44",
+      "ModifiedDate": null,
+      "PublicNotification": false
     }
   ],
   "documents": [
