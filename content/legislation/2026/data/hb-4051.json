@@ -112,15 +112,28 @@
       "PublicNotification": true
     },
     {
-      "MeasureHistoryId": 666518,
+      "MeasureHistoryId": 666637,
       "SessionKey": "2026R1",
       "MeasurePrefix": "HB",
       "MeasureNumber": 4051,
       "Chamber": "H",
       "ActionDate": "2026-02-17T15:01:00",
+      "ActionText": "Informational Meeting cancelled.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-16T08:36:00",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 667289,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4051,
+      "Chamber": "H",
+      "ActionDate": "2026-02-19T15:01:00",
       "ActionText": "Informational Meeting scheduled.",
       "VoteText": null,
-      "CreatedDate": "2026-02-13T15:18:18",
+      "CreatedDate": "2026-02-17T16:35:35",
       "ModifiedDate": null,
       "PublicNotification": true
     }

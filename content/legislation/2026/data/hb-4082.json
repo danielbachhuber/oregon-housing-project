@@ -11,7 +11,7 @@
     "RelatingTo": "Relating to housing for older persons; prescribing an effective date.",
     "AtTheRequestOf": "(at the request of Governor Tina Kotek for Office of the Governor)",
     "ChapterNumber": null,
-    "CurrentLocation": "House Desk - Second Reading",
+    "CurrentLocation": "Senate Desk - Awaiting First Reading",
     "CurrentCommitteeCode": null,
     "CurrentSubCommittee": null,
     "FiscalImpact": "Has minimal fiscal impact",
@@ -23,7 +23,7 @@
     "LCNumber": 94,
     "Vetoed": false,
     "CreatedDate": "2026-01-16T16:14:03",
-    "ModifiedDate": "2026-02-12T18:05:02",
+    "ModifiedDate": "2026-02-18T13:09:05",
     "PrefixMeaning": "House Bill"
   },
   "sponsors": [
@@ -107,6 +107,45 @@
       "CreatedDate": "2026-02-12T14:38:22",
       "ModifiedDate": null,
       "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 666790,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4082,
+      "Chamber": "H",
+      "ActionDate": "2026-02-16T11:37:59",
+      "ActionText": "Second reading.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-16T11:38:03",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 667270,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4082,
+      "Chamber": "H",
+      "ActionDate": "2026-02-17T16:01:56",
+      "ActionText": "Third reading. Carried by Andersen. Passed.",
+      "VoteText": "Ayes, 45; Nays, 4--Cate, Reschke, Scharf, Wallan; Excused, 4--Hartman, Lewis, Sosa, Valderrama; Excused for Business of the House, 7--Boshart Davis, Bunch, Diehl, Gomberg, Harbick, Nguyen D, Watanabe.",
+      "CreatedDate": "2026-02-17T16:01:57",
+      "ModifiedDate": "2026-02-17T16:02:04",
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 667345,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4082,
+      "Chamber": "H",
+      "ActionDate": "2026-02-17T16:02:56",
+      "ActionText": "Vote explanation(s) filed by Walters.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-18T13:09:05",
+      "ModifiedDate": "2026-02-18T13:09:06",
+      "PublicNotification": false
     }
   ],
   "documents": [

@@ -29,7 +29,7 @@ Browse the navigation menu to explore these areas in depth.
 
 ## Governance
 
-The project is maintained by [danielbachhuber](https://github.com/danielbachhuber).
+The project is maintained by [danielbachhuber](https://github.com/danielbachhuber), a resident of [Tualatin](/cities/tualatin/). It is unaffiliated with his employer.
 
 ## "LLM-Assisted"
 

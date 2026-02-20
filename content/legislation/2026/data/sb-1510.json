@@ -11,11 +11,11 @@
     "RelatingTo": "Relating to taxation; prescribing an effective date.",
     "AtTheRequestOf": "(at the request of Senate Interim Committee on Finance and Revenue)",
     "ChapterNumber": null,
-    "CurrentLocation": "In Senate Committee",
+    "CurrentLocation": "In Senate Committee Awaiting transfer to Desk",
     "CurrentCommitteeCode": "SFR",
     "CurrentSubCommittee": null,
-    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
-    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "FiscalImpact": "Fiscal impact issued",
+    "RevenueImpact": "Revenue impact issued",
     "EmergencyClause": false,
     "EffectiveDate": null,
     "FiscalAnalyst": "Twais Broadus",
@@ -23,7 +23,7 @@
     "LCNumber": 254,
     "Vetoed": false,
     "CreatedDate": "2026-01-14T09:36:13",
-    "ModifiedDate": "2026-02-13T17:07:05",
+    "ModifiedDate": "2026-02-18T11:50:50",
     "PrefixMeaning": "Senate Bill"
   },
   "sponsors": [
@@ -83,17 +83,17 @@
       "PublicNotification": false
     },
     {
-      "MeasureHistoryId": 666110,
+      "MeasureHistoryId": 666639,
       "SessionKey": "2026R1",
       "MeasurePrefix": "SB",
       "MeasureNumber": 1510,
       "Chamber": "S",
-      "ActionDate": "2026-02-16T08:01:00",
-      "ActionText": "Work Session scheduled.",
+      "ActionDate": "2026-02-16T08:02:00",
+      "ActionText": "Work Session held.",
       "VoteText": null,
-      "CreatedDate": "2026-02-11T14:43:12",
+      "CreatedDate": "2026-02-16T08:42:20",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     }
   ],
   "documents": [

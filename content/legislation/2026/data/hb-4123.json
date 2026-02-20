@@ -11,7 +11,7 @@
     "RelatingTo": "Relating to landlord disclosure of confidential information; prescribing an effective date.",
     "AtTheRequestOf": null,
     "ChapterNumber": null,
-    "CurrentLocation": "House Desk - Second Reading",
+    "CurrentLocation": "Senate Desk - Awaiting First Reading",
     "CurrentCommitteeCode": null,
     "CurrentSubCommittee": null,
     "FiscalImpact": "Has minimal fiscal impact",
@@ -23,7 +23,7 @@
     "LCNumber": 165,
     "Vetoed": false,
     "CreatedDate": "2026-01-18T10:48:38",
-    "ModifiedDate": "2026-02-12T18:05:02",
+    "ModifiedDate": "2026-02-17T16:43:05",
     "PrefixMeaning": "House Bill"
   },
   "sponsors": [
@@ -306,6 +306,62 @@
       "PresessionFiledMessage": null,
       "CreatedDate": "2026-02-12T13:13:56",
       "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "157795",
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4123,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep McLain",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2026-02-17T11:08:19",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "157796",
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4123,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Hudson",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2026-02-17T11:10:31",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "157803",
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4123,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Dobson",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2026-02-17T11:36:43",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "157807",
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4123,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Grayber",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2026-02-17T11:48:54",
+      "ModifiedDate": null
     }
   ],
   "historyActions": [
@@ -372,6 +428,32 @@
       "VoteText": null,
       "CreatedDate": "2026-02-12T14:38:22",
       "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 666792,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4123,
+      "Chamber": "H",
+      "ActionDate": "2026-02-16T11:37:59",
+      "ActionText": "Second reading.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-16T11:38:03",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 667277,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4123,
+      "Chamber": "H",
+      "ActionDate": "2026-02-17T16:12:17",
+      "ActionText": "Third reading. Carried by Marsh. Passed.",
+      "VoteText": "Ayes, 43; Nays, 6--Boshart Davis, Cate, Harbick, Reschke, Skarlatos, Yunker; Excused, 5--Andersen, Hartman, Lewis, Sosa, Valderrama; Excused for Business of the House, 6--Bunch, Diehl, Gomberg, Javadi, Nguyen D, Watanabe.",
+      "CreatedDate": "2026-02-17T16:12:25",
+      "ModifiedDate": "2026-02-17T16:43:05",
       "PublicNotification": true
     }
   ],

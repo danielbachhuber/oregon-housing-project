@@ -8,5 +8,10 @@ theme = 'hugo-book'
     [markup.goldmark.renderer]
       unsafe = true
 
+[[module.mounts]]
+  source = "content"
+  target = "content"
+  excludeFiles = ["legislation/**/files/**", "legislation/**/data/**"]
+
 [params]
   BookSection = '/'

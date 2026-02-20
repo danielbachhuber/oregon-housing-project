@@ -11,7 +11,7 @@
     "RelatingTo": "Relating to fire hardening of residential properties; prescribing an effective date.",
     "AtTheRequestOf": null,
     "ChapterNumber": null,
-    "CurrentLocation": "Senate Desk - Awaiting Second Reading",
+    "CurrentLocation": "Senate Desk - Awaiting Third Reading",
     "CurrentCommitteeCode": null,
     "CurrentSubCommittee": null,
     "FiscalImpact": "Has minimal fiscal impact",
@@ -23,7 +23,7 @@
     "LCNumber": 33,
     "Vetoed": false,
     "CreatedDate": "2026-01-15T15:56:17",
-    "ModifiedDate": "2026-02-13T18:05:02",
+    "ModifiedDate": "2026-02-16T11:29:12",
     "PrefixMeaning": "Senate Bill"
   },
   "sponsors": [
@@ -205,6 +205,45 @@
       "CreatedDate": "2026-02-13T10:03:54",
       "ModifiedDate": null,
       "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 666766,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1551,
+      "Chamber": "S",
+      "ActionDate": "2026-02-16T11:05:10",
+      "ActionText": "Second reading.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-16T11:29:12",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 667185,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1551,
+      "Chamber": "S",
+      "ActionDate": "2026-02-17T12:52:50",
+      "ActionText": "Carried over to 02-18 by unanimous consent.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-17T12:53:05",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 667358,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1551,
+      "Chamber": "S",
+      "ActionDate": "2026-02-18T13:55:42",
+      "ActionText": "Carried over to 02-19 by unanimous consent.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-18T13:56:02",
+      "ModifiedDate": null,
+      "PublicNotification": false
     }
   ],
   "documents": [

@@ -6,16 +6,16 @@
     "CatchLine": "Requires local governments to approve restoration or replacement of dwellings rendered uninhabitable under an alternative process that is not a land use decision.",
     "MinorityCatchLine": null,
     "MeasureSummary": "\tDigest: This Act allows an owner a separate path to restore a destroyed home. (Flesch Readability Score: 69.9). \n\tRequires local governments to approve restoration or replacement of dwellings rendered uninhabitable under an alternative process that is not a land use decision.",
-    "CurrentVersion": null,
+    "CurrentVersion": "A",
     "RelatingToFull": "Relating to restoration of dwellings damaged by involuntary causes; creating new provisions; and amending ORS 215.213, 215.283 and 215.755.\n\t",
     "RelatingTo": "Relating to restoration of dwellings damaged by involuntary causes.",
     "AtTheRequestOf": null,
     "ChapterNumber": null,
-    "CurrentLocation": "In Senate Committee Awaiting transfer to Desk",
-    "CurrentCommitteeCode": "SHDEV",
+    "CurrentLocation": "Senate Desk - Awaiting Third Reading",
+    "CurrentCommitteeCode": null,
     "CurrentSubCommittee": null,
-    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
-    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "FiscalImpact": "Has minimal fiscal impact",
+    "RevenueImpact": "No revenue impact",
     "EmergencyClause": false,
     "EffectiveDate": null,
     "FiscalAnalyst": "Michael Graham",
@@ -23,7 +23,7 @@
     "LCNumber": 96,
     "Vetoed": false,
     "CreatedDate": "2026-01-16T12:06:14",
-    "ModifiedDate": "2026-02-12T17:17:24",
+    "ModifiedDate": "2026-02-18T11:46:24",
     "PrefixMeaning": "Senate Bill"
   },
   "sponsors": [
@@ -304,6 +304,32 @@
       "CreatedDate": "2026-02-12T17:17:24",
       "ModifiedDate": null,
       "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 667254,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1561,
+      "Chamber": "S",
+      "ActionDate": "2026-02-17T15:13:22",
+      "ActionText": "Recommendation: Do pass with amendments.  (Printed A-Eng.)",
+      "VoteText": null,
+      "CreatedDate": "2026-02-17T15:16:53",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 667332,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1561,
+      "Chamber": "S",
+      "ActionDate": "2026-02-18T11:30:02",
+      "ActionText": "Second reading.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-18T11:46:24",
+      "ModifiedDate": null,
+      "PublicNotification": true
     }
   ],
   "documents": [
@@ -311,9 +337,27 @@
       "SessionKey": "2026R1",
       "MeasurePrefix": "SB",
       "MeasureNumber": 1561,
+      "VersionDescription": "A-Engrossed",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1561/A-Engrossed",
+      "CreatedDate": "2026-02-17T17:03:15.72",
+      "ModifiedDate": null
+    },
+    {
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1561,
       "VersionDescription": "Introduced",
       "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1561/Introduced",
       "CreatedDate": "2026-01-28T15:25:32.47",
+      "ModifiedDate": null
+    },
+    {
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1561,
+      "VersionDescription": "Senate Amendments to Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1561/Senate Amendments to Introduced",
+      "CreatedDate": "2026-02-17T17:03:15.833",
       "ModifiedDate": null
     }
   ],

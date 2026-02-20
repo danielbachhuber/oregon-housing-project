@@ -3,16 +3,16 @@
     "SessionKey": "2026R1",
     "MeasurePrefix": "HB",
     "MeasureNumber": 4108,
-    "CatchLine": "Requires a city to annex noncontiguous land upon receipt of a petition from all owners of the land that satisfies four eligibility criteria.",
+    "CatchLine": "Allows the City of Eugene to annex noncontiguous land upon receipt of a petition from all owners of the land that satisfies four eligibility criteria.",
     "MinorityCatchLine": null,
-    "MeasureSummary": "\tDigest: This Act requires a city to allow some property to join the city in some circumstances. (Flesch Readability Score: 63.6). \n\tRequires a city to annex noncontiguous land upon receipt of a petition from all owners of the land that satisfies four eligibility criteria.",
-    "CurrentVersion": null,
+    "MeasureSummary": "\t<b>Digest: This Act lets Eugene add some noncontiguous land to the city. (Flesch Readability Score: 72.6).</b> \n\t[<i>Digest: This Act requires a city to allow some property to join the city in some circumstances. (Flesch Readability Score: 63.6).</i>] \n\t[<i>Requires a city</i>] <b>Allows the City of Eugene</b> to annex noncontiguous land upon receipt of a petition from all owners of the land that satisfies four eligibility criteria.",
+    "CurrentVersion": "A",
     "RelatingToFull": "Relating to annexation of land noncontiguous to a city.\n\t",
     "RelatingTo": "Relating to annexation of land noncontiguous to a city.",
     "AtTheRequestOf": null,
     "ChapterNumber": null,
-    "CurrentLocation": "In House Committee Awaiting transfer to Desk",
-    "CurrentCommitteeCode": "HHOUSH",
+    "CurrentLocation": "Senate Desk - Awaiting First Reading",
+    "CurrentCommitteeCode": null,
     "CurrentSubCommittee": null,
     "FiscalImpact": "Has minimal fiscal impact",
     "RevenueImpact": "No revenue impact",
@@ -23,7 +23,7 @@
     "LCNumber": 34,
     "Vetoed": false,
     "CreatedDate": "2026-01-17T13:13:23",
-    "ModifiedDate": "2026-02-12T18:27:19",
+    "ModifiedDate": "2026-02-18T18:22:39",
     "PrefixMeaning": "House Bill"
   },
   "sponsors": [
@@ -290,9 +290,66 @@
       "CreatedDate": "2026-02-12T16:39:32",
       "ModifiedDate": null,
       "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 666975,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4108,
+      "Chamber": "H",
+      "ActionDate": "2026-02-16T15:15:53",
+      "ActionText": "Recommendation: Do pass with amendments and be printed A-Engrossed.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-16T15:28:05",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 667221,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4108,
+      "Chamber": "H",
+      "ActionDate": "2026-02-17T14:09:36",
+      "ActionText": "Second reading.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-17T14:09:45",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 667422,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4108,
+      "Chamber": "H",
+      "ActionDate": "2026-02-18T18:22:10",
+      "ActionText": "Third reading. Carried by Fragala. Passed.",
+      "VoteText": "Ayes, 39; Nays, 2--Cate, Evans; Excused, 12--Boice, Bunch, Diehl, Edwards, Hartman, Levy B, Lewis, Osborne, Reschke, Smith G, Valderrama, Wright; Excused for Business of the House, 7--Boshart Davis, Harbick, McIntire, Owens, Scharf, Skarlatos, Wallan.",
+      "CreatedDate": "2026-02-18T18:22:29",
+      "ModifiedDate": "2026-02-18T18:22:39",
+      "PublicNotification": true
     }
   ],
   "documents": [
+    {
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4108,
+      "VersionDescription": "A-Engrossed",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4108/A-Engrossed",
+      "CreatedDate": "2026-02-16T17:28:08.41",
+      "ModifiedDate": null
+    },
+    {
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4108,
+      "VersionDescription": "House Amendments to Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4108/House Amendments to Introduced",
+      "CreatedDate": "2026-02-16T17:28:08.537",
+      "ModifiedDate": null
+    },
     {
       "SessionKey": "2026R1",
       "MeasurePrefix": "HB",
