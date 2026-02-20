@@ -74,5 +74,7 @@ SOURCES:
 - ❌ Failed to use ClawdBot to work on the go
 - ❌ No clear audience for the website
 - ❌ Didn't figure out running agents in the background continously
+- ❌ Fact-checking?
+
 
 </div>
