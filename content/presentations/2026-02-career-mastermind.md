@@ -42,7 +42,9 @@ SOURCES:
 
 ---
 
-## Fortunately, I can build websites
+## Fortunately, I can build websites!
+
+🎉 oregonhousingproject.org 🎉
 
 <div style="display: flex; gap: 2em; align-items: flex-start;">
 <div style="flex: 2;">
