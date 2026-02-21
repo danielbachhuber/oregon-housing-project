@@ -29,4 +29,11 @@ This section includes:
 
 ## Failed Legislation by Year
 
-*This section is under development. Failed legislation will be documented as research progresses.*
+| Date | Bill/Measure | Summary | Outcome |
+|------|--------------|---------|---------|
+| 2024 | [Measure 118](/failed-legislation/2024/measure-118) | Corporate tax increase to fund $1,600 universal rebates for all residents. | Rejected by voters 79%-21% |
+| 2024 | [HB 4126](/failed-legislation/2024/hb-4126) | Would have repealed prohibition on local rent control. | Died in committee |
+| 2024 | [HB 4063](/failed-legislation/2024/hb-4063) | Would have required housing providers to cover missed rent due to medical hardship. | Died in committee |
+| 2024 | [SB 1586](/failed-legislation/2024/sb-1586) | Would have amended Fair Housing law to include owner-occupied units. | Died in committee |
+| 2023 | [HB 3414](/failed-legislation/2023/hb-3414) | Gov. Kotek's bill to expand urban growth boundaries and create Housing Accountability Office. | Failed in Senate 15-10 |
+| 2023 | [HB 3237](/failed-legislation/2023/hb-3237) | Would have allowed local governments to cap applicant screening fees. | Died in committee |
