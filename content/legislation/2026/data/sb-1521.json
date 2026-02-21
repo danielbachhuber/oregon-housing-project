@@ -11,7 +11,7 @@
     "RelatingTo": "Relating to local requirements to develop affordable housing.",
     "AtTheRequestOf": "(at the request of Senate Interim Committee on Housing and Development)",
     "ChapterNumber": null,
-    "CurrentLocation": "Senate Desk - Awaiting Second Reading",
+    "CurrentLocation": "House Desk - Awaiting First Reading",
     "CurrentCommitteeCode": null,
     "CurrentSubCommittee": null,
     "FiscalImpact": "Fiscal impact issued",
@@ -23,7 +23,7 @@
     "LCNumber": 5,
     "Vetoed": false,
     "CreatedDate": "2026-01-14T13:37:51",
-    "ModifiedDate": "2026-02-18T18:05:01",
+    "ModifiedDate": "2026-02-20T14:23:04",
     "PrefixMeaning": "Senate Bill"
   },
   "sponsors": [
@@ -106,6 +106,32 @@
       "VoteText": null,
       "CreatedDate": "2026-02-18T13:09:51",
       "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 667464,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1521,
+      "Chamber": "S",
+      "ActionDate": "2026-02-19T11:31:26",
+      "ActionText": "Second reading.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-19T11:31:33",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 667801,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1521,
+      "Chamber": "S",
+      "ActionDate": "2026-02-20T14:22:57",
+      "ActionText": "Third reading.  Carried by Pham.  Passed.",
+      "VoteText": "Ayes, 21; Nays, 6--Girod, Hayden, Robinson, Smith DB, Starr, Thatcher; Excused, 3--Drazan, Linthicum, Sollman.",
+      "CreatedDate": "2026-02-20T14:22:58",
+      "ModifiedDate": "2026-02-20T14:23:04",
       "PublicNotification": true
     }
   ],

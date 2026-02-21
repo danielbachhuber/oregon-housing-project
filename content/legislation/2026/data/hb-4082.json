@@ -11,8 +11,8 @@
     "RelatingTo": "Relating to housing for older persons; prescribing an effective date.",
     "AtTheRequestOf": "(at the request of Governor Tina Kotek for Office of the Governor)",
     "ChapterNumber": null,
-    "CurrentLocation": "Senate Desk - Awaiting First Reading",
-    "CurrentCommitteeCode": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SHDEV",
     "CurrentSubCommittee": null,
     "FiscalImpact": "Has minimal fiscal impact",
     "RevenueImpact": "No revenue impact",
@@ -23,7 +23,7 @@
     "LCNumber": 94,
     "Vetoed": false,
     "CreatedDate": "2026-01-16T16:14:03",
-    "ModifiedDate": "2026-02-18T13:09:05",
+    "ModifiedDate": "2026-02-19T15:17:38",
     "PrefixMeaning": "House Bill"
   },
   "sponsors": [
@@ -146,6 +146,45 @@
       "CreatedDate": "2026-02-18T13:09:05",
       "ModifiedDate": "2026-02-18T13:09:06",
       "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 667548,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4082,
+      "Chamber": "S",
+      "ActionDate": "2026-02-19T14:10:27",
+      "ActionText": "First reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-19T14:16:53",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 667604,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4082,
+      "Chamber": "S",
+      "ActionDate": "2026-02-19T15:17:20",
+      "ActionText": "Referred to Housing and Development.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-19T15:17:38",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 667662,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4082,
+      "Chamber": "S",
+      "ActionDate": "2026-02-24T15:01:00",
+      "ActionText": "Public Hearing and Possible Work Session scheduled.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-19T16:49:42",
+      "ModifiedDate": null,
+      "PublicNotification": true
     }
   ],
   "documents": [
@@ -749,6 +788,50 @@
       "LastName": null,
       "ExecApptId": null,
       "Topic": "Adds to a temporary UGB addition program an option for each city or Metro to also add to its urban growth boundary a site for manufactured dwelling parks, or for housing for older persons, that is affordable for households with incomes not more than 120 percent of area median income."
+    },
+    {
+      "CommTestId": 251865,
+      "SubmitterFirstName": "Denise ",
+      "SubmitterLastName": "Garrison ",
+      "BehalfOf": null,
+      "Organization": "Twin Cedars MHP ",
+      "DocumentDescription": "Testimony",
+      "CreatedDate": "2026-02-20T11:34:01.68",
+      "ModifiedDate": "2026-02-20T11:34:29.143",
+      "PdfCreatedFlag": "Y",
+      "PositionOnMeasureId": 3983,
+      "SessionKey": "2026R1",
+      "CommitteeCode": "SHDEV",
+      "MeetingDate": "2026-02-24T15:00:00",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4082,
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1",
+      "FirstName": null,
+      "LastName": null,
+      "ExecApptId": null,
+      "Topic": "Adds to a temporary UGB addition program an option for each city or Metro to also add to its urban growth boundary a site for manufactured dwellings, prefabricated structures or manufactured dwelling parks, or for housing that is predominantly for older persons and affordable for households with incomes not more than 120 percent of area median income."
+    },
+    {
+      "CommTestId": 251995,
+      "SubmitterFirstName": "Judy",
+      "SubmitterLastName": "Annin",
+      "BehalfOf": null,
+      "Organization": "Lebanon",
+      "DocumentDescription": "Testimony",
+      "CreatedDate": "2026-02-20T14:42:16.983",
+      "ModifiedDate": "2026-02-20T14:45:23.3",
+      "PdfCreatedFlag": "Y",
+      "PositionOnMeasureId": 3983,
+      "SessionKey": "2026R1",
+      "CommitteeCode": "SHDEV",
+      "MeetingDate": "2026-02-24T15:00:00",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4082,
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1",
+      "FirstName": null,
+      "LastName": null,
+      "ExecApptId": null,
+      "Topic": "Adds to a temporary UGB addition program an option for each city or Metro to also add to its urban growth boundary a site for manufactured dwellings, prefabricated structures or manufactured dwelling parks, or for housing that is predominantly for older persons and affordable for households with incomes not more than 120 percent of area median income."
     }
   ]
 }
