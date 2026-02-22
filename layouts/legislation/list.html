@@ -7,47 +7,17 @@
   {{ if .Sections }}
     {{/* Top-level legislation page - show year summaries */}}
     {{ range .Sections }}
-      {{ $bills := .Pages }}
-      {{ $billCount := len $bills }}
-      {{ $chambers := newScratch }}
-      {{ $sponsors := newScratch }}
-      {{ $sponsors.Set "keys" slice }}
-      {{ range $bills }}
-        {{ $ch := .Params.chamber | default "Unknown" }}
-        {{ $chambers.Add $ch 1 }}
-        {{ range .Params.sponsors }}
-          {{ $sponsors.Add .slug 1 }}
-          {{ if not ($sponsors.Get (printf "name_%s" .slug)) }}
-            {{ $sponsors.Set (printf "name_%s" .slug) .name }}
-          {{ end }}
-          {{ $keys := $sponsors.Get "keys" }}
-          {{ if not (in $keys .slug) }}
-            {{ $sponsors.Set "keys" ($keys | append .slug) }}
-          {{ end }}
-        {{ end }}
-      {{ end }}
-
       <h2><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></h2>
-      <blockquote class="book-hint info">
-        <p>{{ $billCount }} bill{{ if ne $billCount 1 }}s{{ end }} tracked.
-        {{ $first := true }}{{ range $ch, $count := $chambers.Values }}{{ if not $first }}, {{ end }}{{ $ch }} ({{ $count }}){{ $first = false }}{{ end }}.</p>
-        {{ with $sponsors.Get "keys" }}
-          {{ $sortable := slice }}
-          {{ range . }}
-            {{ $sortable = $sortable | append (dict "name" ($sponsors.Get (printf "name_%s" .)) "count" ($sponsors.Get .) "slug" .) }}
-          {{ end }}
-          {{ $sorted := sort $sortable "count" "desc" }}
-          <p><strong>Most active sponsors:</strong> {{ range $i, $s := first 5 $sorted }}{{ if $i }}, {{ end }}{{ with site.GetPage (printf "/people/%s" $s.slug) }}<a href="{{ .RelPermalink }}">{{ $s.name }}</a>{{ else }}{{ $s.name }}{{ end }} ({{ $s.count }}){{ end }}</p>
-        {{ end }}
-      </blockquote>
+      {{ partial "legislation-banner.html" (dict "bills" .Pages "baseURL" .Permalink) }}
     {{ end }}
   {{ else }}
     {{/* Year subsection page - show bill table */}}
     {{ if .Pages }}
     {{ $bills := .Pages }}
-    {{ $billCount := len $bills }}
 
-    {{/* Stage definitions - ordered from most to least advanced (for table grouping) */}}
+    {{ partial "legislation-banner.html" (dict "bills" $bills) }}
+
+    {{/* Stage definitions - ordered from most to least advanced */}}
     {{ $stageGroups := slice
       (dict "name" "Signed into Law" "statuses" (slice "Chapter Number Assigned"))
       (dict "name" "Near Passage" "statuses" (slice "At Presidents Desk Upon Adjournment" "In House Conference Committee" "At House Desk Upon Adjournment"))
@@ -57,51 +27,6 @@
       (dict "name" "Failed" "statuses" (slice "Senate Desk - Failed" "House Desk - Failed"))
     }}
 
-    {{/* Pipeline order for banner display (least to most advanced) */}}
-    {{ $pipelineOrder := slice "In House Committee" "In Senate Committee" "Awaiting Floor Vote" "Near Passage" "Signed into Law" }}
-
-    {{/* Count bills per stage */}}
-    {{ $stageCounts := newScratch }}
-    {{ range $bills }}
-      {{ $status := .Params.status | default "" }}
-      {{ $matched := false }}
-      {{ range $stageGroups }}
-        {{ if and (not $matched) (in .statuses $status) }}
-          {{ $stageCounts.Add .name 1 }}
-          {{ $matched = true }}
-        {{ end }}
-      {{ end }}
-    {{ end }}
-
-    {{ $chambers := newScratch }}
-    {{ $sponsors := newScratch }}
-    {{ $sponsors.Set "keys" slice }}
-    {{ range $bills }}
-      {{ $ch := .Params.chamber | default "Unknown" }}
-      {{ $chambers.Add $ch 1 }}
-      {{ range .Params.sponsors }}
-        {{ $sponsors.Add .slug 1 }}
-        {{ if not ($sponsors.Get (printf "name_%s" .slug)) }}
-          {{ $sponsors.Set (printf "name_%s" .slug) .name }}
-        {{ end }}
-        {{ $keys := $sponsors.Get "keys" }}
-        {{ if not (in $keys .slug) }}
-          {{ $sponsors.Set "keys" ($keys | append .slug) }}
-        {{ end }}
-      {{ end }}
-    {{ end }}
-    <blockquote class="book-hint info">
-      <p><strong>{{ $billCount }} housing bill{{ if ne $billCount 1 }}s{{ end }} tracked.</strong></p>
-      <p><strong>Bills by stage:</strong> {{ $firstStage := true }}{{ range $pipelineOrder }}{{ $count := $stageCounts.Get . }}{{ if $count }}{{ if not $firstStage }} &rarr; {{ end }}<a href="#{{ . | urlize }}">{{ . }}</a> ({{ $count }}){{ $firstStage = false }}{{ end }}{{ end }}{{ with $stageCounts.Get "Failed" }} &bull; <a href="#failed">Failed</a> ({{ . }}){{ end }}</p>
-      {{ with $sponsors.Get "keys" }}
-        {{ $sortable := slice }}
-        {{ range . }}
-          {{ $sortable = $sortable | append (dict "name" ($sponsors.Get (printf "name_%s" .)) "count" ($sponsors.Get .) "slug" .) }}
-        {{ end }}
-        {{ $sorted := sort $sortable "count" "desc" }}
-        <p><strong>Most active sponsors:</strong> {{ range $i, $s := first 5 $sorted }}{{ if $i }}, {{ end }}{{ with site.GetPage (printf "/people/%s" $s.slug) }}<a href="{{ .RelPermalink }}">{{ $s.name }}</a>{{ else }}{{ $s.name }}{{ end }} ({{ $s.count }}){{ end }}</p>
-      {{ end }}
-    </blockquote>
     {{ range $stageGroups }}
       {{ $stageName := .name }}
       {{ $stageStatuses := .statuses }}
