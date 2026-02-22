@@ -6,7 +6,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HCR201",
     "introduced": "2026-01-16T16:54:28",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting First Reading",
+    "status": "In Senate Committee",
     "sponsors": [
       {
         "name": "Rep Boice",
@@ -429,7 +429,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SCR201",
     "introduced": "2026-01-15T09:38:17",
     "chamber": "Senate",
-    "status": "In House Committee",
+    "status": "House Desk - Final Readings of Mem & Res.",
     "sponsors": []
   },
   {
@@ -485,7 +485,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HCR202",
     "introduced": "2026-02-05T08:28:43",
     "chamber": "House",
-    "status": "In House Committee",
+    "status": "In House Committee Awaiting transfer to Desk",
     "sponsors": [
       {
         "name": "HRULES",
@@ -577,6 +577,11 @@
       {
         "name": "Rep Wise",
         "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Sen Pham",
+        "level": "Chief",
         "type": "Member"
       }
     ]
@@ -770,7 +775,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SCR204",
     "introduced": "2026-01-20T10:03:46",
     "chamber": "Senate",
-    "status": "In House Committee",
+    "status": "House Desk - Final Readings of Mem & Res.",
     "sponsors": [
       {
         "name": "Sen President Wagner",
@@ -932,7 +937,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SCR206",
     "introduced": "2026-01-20T10:03:46",
     "chamber": "Senate",
-    "status": "In Senate Committee Awaiting transfer to Desk",
+    "status": "House Desk - Awaiting First Reading",
     "sponsors": [
       {
         "name": "Sen President Wagner",
@@ -1078,6 +1083,16 @@
         "name": "Sen Thatcher",
         "level": "Regular",
         "type": "Member"
+      },
+      {
+        "name": "Sen Hayden",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Sen Weber",
+        "level": "Regular",
+        "type": "Member"
       }
     ]
   },
@@ -1177,6 +1192,11 @@
         "name": "Sen Girod",
         "level": "Regular",
         "type": "Member"
+      },
+      {
+        "name": "Rep Nelson",
+        "level": "Regular",
+        "type": "Member"
       }
     ]
   },
@@ -1213,7 +1233,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1507",
     "introduced": "2026-01-14T09:36:13",
     "chamber": "Senate",
-    "status": "In House Committee",
+    "status": "House Desk - Second Reading",
     "sponsors": []
   },
   {
@@ -1233,27 +1253,27 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1509",
     "introduced": "2026-01-13T11:50:19",
     "chamber": "Senate",
-    "status": "Senate Desk - Awaiting Third Reading",
+    "status": "In House Committee",
     "sponsors": []
   },
   {
     "billNumber": "SB1510",
     "title": "Updates the terminology used to describe certain income earned by multinational corporations to reflect a change in the term used in federal law.",
-    "summary": "\tDigest: The Act makes technical fixes and slight policy updates to some tax statutes. (Flesch Readability Score: 63.4). \n\tUpdates the terminology used to describe certain income earned by multinational corporations to reflect a change in the term used in federal law. Aligns sunset dates for earned income tax credit provisions with the underlying sunset date for the credit. \n\tExpands the tax credit for certified film production development contributions to allow the use of contributions for the production of commercials. Applies to fiscal years beginning on or after July 1, 2026. \n\tProvides an exception from the annual filing requirement for the property tax exemption for property burdened by an affordable housing covenant used for owner-occupied housing. Applies to property tax years beginning on or after July 1, 2027. \n\tTakes effect on the 91st day following adjournment sine die.",
+    "summary": "\tDigest: The Act makes technical fixes and slight policy updates to some tax statutes. (Flesch Readability Score: 63.4). \n\tUpdates the terminology used to describe certain income earned by multinational corporations to reflect a change in the term used in federal law. Aligns sunset dates for earned income tax credit provisions with the underlying sunset date for the credit. \n\tExpands the tax credit for certified film production development contributions to allow the use of contributions for the production of commercials. Applies to fiscal years beginning on or after July 1, 2026. \n\t[<i>Provides an exception from the annual filing requirement for the property tax exemption for property burdened by an affordable housing covenant used for owner-occupied housing. Applies to property tax years beginning on or after July 1, 2027.</i>] \n\t<b>Extends the sunset for the property tax exemption for cargo containers. \n\t<b>Repeals the requirement that revenue from a tribal tax on the distribution of motor vehicle fuel that is exempt from the gas taxes under Oregon law is subject to the highway-use restrictions under the Oregon Constitution. \n\t<b>Extends the applicability of the pass-through business alternative income tax and tax credit through the 2027 tax year. Allows overpayments to be credited as estimated payments for the next tax year. \n\t<b>Requires the State Board of Tax Practitioners to register as enrolled agents individuals who are authorized by the Internal Revenue Service to represent taxpayers as enrolled agents.</b> \n\tTakes effect on the 91st day following adjournment sine die.",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1510",
     "introduced": "2026-01-14T09:36:13",
     "chamber": "Senate",
-    "status": "In Senate Committee Awaiting transfer to Desk",
+    "status": "Senate Desk - Awaiting Third Reading",
     "sponsors": []
   },
   {
     "billNumber": "SB1511",
-    "title": "Requires the Legislative Revenue Officer to study the estate tax.",
-    "summary": "\tDigest: The Act tells the LRO to study the estate tax. (Flesch Readability Score: 95.1). \n\tRequires the Legislative Revenue Officer to study the estate tax. Directs the Legislative Revenue Officer to submit findings to the interim committees of the Legislative Assembly related to revenue not later than December 1, 2027.",
+    "title": "Converts the $1 million exclusion for an estate subject to tax to a deduction of $2.5 million",
+    "summary": "\t<b>Digest: The Act increases the amount of an estate that is not taxed and changes estate tax rates. (Flesch Readability Score: 75.1).</b> \n\t[<i>Digest: The Act tells the LRO to study the estate tax. (Flesch Readability Score: 95.1).</i>] \n\t[<i>Requires the Legislative Revenue Officer to study the estate tax. Directs the Legislative Revenue Officer to submit findings to the interim committees of the Legislative Assembly related to revenue not later than December 1, 2027.</i>] \n\t<b>Converts the $1 million exclusion for an estate subject to tax to a deduction of $2.5 million. Phases in the tax above the deduction. Raises the filing threshold for an estate tax return. Adjusts the deduction and filing threshold for inflation. Adjusts estate tax rates. \n\t<b>Applies to the estates of decedents dying on or after January 1, 2027. \n\t<b>Takes effect on the 91st day following adjournment sine die.</b>",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1511",
     "introduced": "2026-01-14T09:36:13",
     "chamber": "Senate",
-    "status": "In Senate Committee Awaiting transfer to Desk",
+    "status": "Senate Desk - Awaiting Second Reading",
     "sponsors": []
   },
   {
@@ -1273,7 +1293,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1513",
     "introduced": "2026-01-14T09:40:02",
     "chamber": "Senate",
-    "status": "Senate Desk - Awaiting Third Reading",
+    "status": "In House Committee",
     "sponsors": []
   },
   {
@@ -1289,11 +1309,11 @@
   {
     "billNumber": "SB1515",
     "title": "Modifies provisions relating to petitions for compensation for wrongful conviction.",
-    "summary": "\tDigest: The Act changes the law about compensation for wrongful convictions and makes a new PCR process when a conviction is based on some discredited science. The Act goes into effect when the Governor signs it. (Flesch Readability Score: 60.9). \n\tModifies provisions relating to petitions for compensation for wrongful conviction. \n\tCreates a new post-conviction relief petition process when a person has a conviction that is based on expert testimony, expert evidence or expert opinion derived from specified discredited forensic science disciplines. \n\tDeclares an emergency, effective on passage.",
+    "summary": "\tDigest: The Act changes the law about compensation for wrongful convictions and makes a new PCR process when a conviction is based on some discredited science. The Act goes into effect when the Governor signs it. (Flesch Readability Score: 60.9). \n\tModifies provisions relating to petitions for compensation for wrongful conviction. \n\tCreates a new post-conviction relief petition process when a person has a conviction that is based on<b> scientific</b> expert testimony,<b> scientific</b> expert evidence or<b> scientific</b> expert opinion derived from specified discredited forensic science disciplines.<b> Sunsets the new petition process on January 2, 2031.</b> \n\tDeclares an emergency, effective on passage.",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1515",
     "introduced": "2026-01-14T10:07:08",
     "chamber": "Senate",
-    "status": "In Senate Committee Awaiting transfer to Desk",
+    "status": "Senate Desk - Awaiting Third Reading",
     "sponsors": []
   },
   {
@@ -1303,17 +1323,17 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1516",
     "introduced": "2026-01-14T10:07:08",
     "chamber": "Senate",
-    "status": "Senate Desk - Awaiting Second Reading",
+    "status": "House Desk - Awaiting First Reading",
     "sponsors": []
   },
   {
     "billNumber": "SB1517",
-    "title": "Modifies provisions relating to liability related to skiing.",
-    "summary": "\tDigest: The Act changes some laws about lawsuits that are about skiing. (Flesch Readability Score: 72.6). \n\tModifies provisions relating to liability related to skiing.",
+    "title": "Provides that an operator may require a participant in a sport, fitness or recreational activity to release the operator for claims for ordinary negligence under certain circumstances.",
+    "summary": "\t<b>Digest: The Act says that an operator can make a person doing sports, fitness or recreation waive some claims for negligence. The Act says that some types of claims may not be waived. (Flesch Readability Score: 82.2).</b> \n\t[<i>Digest: The Act changes some laws about lawsuits that are about skiing. (Flesch Readability Score: 72.6).</i>] \n\t[<i>Modifies provisions relating to liability related to skiing.</i>] \n\t<b>Provides that an operator may require a participant in a sport, fitness or recreational activity to release the operator for claims for ordinary negligence under certain circumstances. Specifies certain types of claims that may not be waived. \n\t<b>Declares an emergency, effective on passage.</b>",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1517",
     "introduced": "2026-01-14T10:07:08",
     "chamber": "Senate",
-    "status": "In Senate Committee Awaiting transfer to Desk",
+    "status": "Senate Desk - Awaiting Third Reading",
     "sponsors": []
   },
   {
@@ -1323,7 +1343,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1518",
     "introduced": "2026-01-14T10:09:44",
     "chamber": "Senate",
-    "status": "In House Committee Awaiting transfer to Desk",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": []
   },
   {
@@ -1343,7 +1363,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1520",
     "introduced": "2026-01-14T10:09:44",
     "chamber": "Senate",
-    "status": "In House Committee Awaiting transfer to Desk",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": []
   },
   {
@@ -1353,7 +1373,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1521",
     "introduced": "2026-01-14T13:37:51",
     "chamber": "Senate",
-    "status": "Senate Desk - Awaiting Second Reading",
+    "status": "House Desk - Awaiting First Reading",
     "sponsors": []
   },
   {
@@ -1429,17 +1449,17 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1527",
     "introduced": "2026-01-14T16:14:19",
     "chamber": "Senate",
-    "status": "In House Committee",
+    "status": "House Desk - Second Reading",
     "sponsors": []
   },
   {
     "billNumber": "SB1528",
-    "title": "Requires the Oregon Health Authority to study health care.",
-    "summary": "\tDigest: The Act tells OHA to study health care. (Flesch Readability Score: 92.9). \n\tRequires the Oregon Health Authority to study health care. Directs the authority to submit findings to the interim committees of the Legislative Assembly related to health care no later than September 15, 2027. \n\tSunsets on January 2, 2028.",
+    "title": "Expands drug manufacturer annual reporting requirements to include all patient assistance programs offered or funded by the manufacturer that provided assistance to consumers in this state in the previous calendar year.",
+    "summary": "\t<b>Digest: This Act expands what a drug manufacturer must report on each year. Starts on 1/1/2028. (Flesch Readability Score: 63.8).</b> \n\t[<i>Digest: The Act tells OHA to study health care. (Flesch Readability Score: 92.9).</i>] \n\t[<i>Requires the Oregon Health Authority to study health care. Directs the authority to submit findings to the interim committees of the Legislative Assembly related to health care no later than September 15, 2027.</i>] \n\t[<i>Sunsets on January 2, 2028.</i>] \n\t<b>Expands drug manufacturer annual reporting requirements to include all patient assistance programs offered or funded by the manufacturer that provided assistance to consumers in this state in the previous calendar year. Becomes operative on January 1, 2028.</b>",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1528",
     "introduced": "2026-01-14T16:14:19",
     "chamber": "Senate",
-    "status": "In Senate Committee Awaiting transfer to Desk",
+    "status": "Senate Desk - Awaiting Second Reading",
     "sponsors": []
   },
   {
@@ -1459,7 +1479,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1530",
     "introduced": "2026-01-15T09:36:02",
     "chamber": "Senate",
-    "status": "Senate Presidents Desk - Awaiting Disposition",
+    "status": "Senate Desk - Awaiting Third Reading",
     "sponsors": []
   },
   {
@@ -1479,7 +1499,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1532",
     "introduced": "2026-01-15T09:41:02",
     "chamber": "Senate",
-    "status": "Senate Desk - Awaiting Third Reading",
+    "status": "In House Committee",
     "sponsors": []
   },
   {
@@ -1489,7 +1509,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1533",
     "introduced": "2026-01-15T09:41:02",
     "chamber": "Senate",
-    "status": "Speakers Desk - Awaiting Referral",
+    "status": "In House Committee",
     "sponsors": []
   },
   {
@@ -1540,7 +1560,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1537",
     "introduced": "2026-01-15T09:47:23",
     "chamber": "Senate",
-    "status": "Speakers Desk - Awaiting Referral",
+    "status": "In House Committee",
     "sponsors": []
   },
   {
@@ -1560,7 +1580,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1539",
     "introduced": "2026-01-15T09:50:34",
     "chamber": "Senate",
-    "status": "Senate Desk - Awaiting Third Reading",
+    "status": "In House Committee",
     "sponsors": []
   },
   {
@@ -1605,12 +1625,12 @@
   },
   {
     "billNumber": "SB1544",
-    "title": "Requires the Department of Transportation to study the development of uniform standards for speed bump height and markings.",
-    "summary": "\tDigest: The Act says that ODOT must study speed bumps. (Flesch Readability Score: 94.3). \n\tRequires the Department of Transportation to study the development of uniform standards for speed bump height and markings. \n\tSunsets January 2, 2028.",
+    "title": "Directs the Department of Transportation to report on a required audit, progress in implementing design practices, establishing a transportation university and the creation of a database equivalent to one created by the State of Washington.",
+    "summary": "\t<b>Digest: The Act tells ODOT to report on its progress with current requirements. The Act tells ODOT to create a database like WDOT has and create a transportation university like other states have. The Act tells the director of ODOT to use the central office for project delivery work instead of the regional offices. The Act ends the JCT. The Act changes laws about dismantlers. The Act says certain entities may get funds to provide public transportation services. (Flesch Readability Score: 60.8).</b> \n\t[<i>Digest: The Act says that ODOT must study speed bumps. (Flesch Readability Score: 94.3).</i>] \n\t[<i>Requires the Department of Transportation to study the development of uniform standards for speed bump height and markings.</i>] \n\t[<i>Sunsets January 2, 2028.</i>] \n\t<b>Directs the Department of Transportation to report on a required audit, progress in implementing design practices, establishing a transportation university and the creation of a database equivalent to one created by the State of Washington. \n\t<b>Directs the Director of Transportation to centralize project delivery efforts. \n\t<b>Eliminates the Joint Committee on Transportation. \n\t<b>Makes changes to laws regulating dismantlers. \n\t<b>Expands the definition of \"qualified entity\" for purposes of public transportation funding. \n\t<b>Takes effect on the 91st day following adjournment sine die.</b>",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1544",
     "introduced": "2026-01-15T10:08:45",
     "chamber": "Senate",
-    "status": "In Senate Committee Awaiting transfer to Desk",
+    "status": "In Senate Committee",
     "sponsors": []
   },
   {
@@ -1711,7 +1731,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1546",
     "introduced": "2026-01-15T13:55:26",
     "chamber": "Senate",
-    "status": "Senate Desk - Awaiting Third Reading",
+    "status": "In House Committee",
     "sponsors": []
   },
   {
@@ -1721,7 +1741,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1547",
     "introduced": "2026-01-15T13:55:26",
     "chamber": "Senate",
-    "status": "In House Committee",
+    "status": "House Desk - Second Reading",
     "sponsors": []
   },
   {
@@ -1731,7 +1751,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1548",
     "introduced": "2026-01-15T13:55:26",
     "chamber": "Senate",
-    "status": "Senate Desk - Awaiting Third Reading",
+    "status": "In House Committee",
     "sponsors": []
   },
   {
@@ -1752,12 +1772,12 @@
   },
   {
     "billNumber": "SB1550",
-    "title": "Directs law enforcement, prior to making any findings as to the cause or manner of death where the decedent is suspected to have died from suicide, overdose or accident, to interview family members of the decedent if the decedent has a history as a victim of domestic violence or child abuse and certain conditions exist.",
-    "summary": "\tDigest: This Act changes laws related to what government must do after a person dies in some situations. (Flesch Readability Score: 60.1). \n\tDirects law enforcement, prior to making any findings as to the cause or manner of death where the decedent is suspected to have died from suicide, overdose or accident, to interview family members of the decedent if the decedent has a history as a victim of domestic violence or child abuse and certain conditions exist. \n\tRequires law enforcement to submit a written request to the district medical examiner for the performance of an autopsy if a reasonable basis exists that the death of the decedent may be the result of domestic violence or child abuse. \n\tDirects a medical examiner or district attorney to order the performance of an autopsy in certain circumstances. \n\tProvides that certain individuals may examine and obtain copies of evidence generated during an autopsy or investigation of death. \n\tRequires law enforcement to provide notice of rights to certain members of the decedent's family upon opening an investigation of death that is suspected to have been caused by suicide, overdose or accident.",
+    "title": "Directs specified investigators of deaths of decedents, prior to making any findings as to the cause or manner of death where the decedent is suspected to have died from suicide, accident or other undetermined cause, to review documented evidence of abuse and interview family members of the decedent if the decedent has a history as a victim of domestic violence or child abuse and certain conditions exist.",
+    "summary": "\tDigest: This Act changes laws related to what government must do after a person dies in some situations. (Flesch Readability Score: 60.1). \n\tDirects [<i>law enforcement</i>]<b> specified investigators of deaths of decedents</b>, prior to making any findings as to the cause or manner of death where the decedent is suspected to have died from suicide, [<i>overdose or</i>] accident<b> or other undetermined cause</b>, to<b> review documented evidence of abuse and</b> interview family members of the decedent if the decedent has a history as a victim of domestic violence or child abuse and certain conditions exist. \n\t[<i>Requires law enforcement to submit a written request to the district medical examiner for the performance of an autopsy if a reasonable basis exists that the death of the decedent may be the result of domestic violence or child abuse.</i>] \n\t[<i>Directs a medical examiner or district attorney to order the performance of an autopsy in certain circumstances.</i>] \n\t<b>Directs the law enforcement officer or district medical examiner to request further post-mortem examination of the decedent if a reasonable basis exists to suspect the death is a homicide due to domestic violence or child abuse. Directs the Chief Medical Examiner to engage in collaborative consultation regarding appropriate actions to take. Prohibits the release of the body of the decedent until the consultation has occurred and recommended actions have been completed. Authorizes appropriate post-mortem assessments.</b> \n\tProvides that certain individuals may examine and obtain copies of evidence generated during an autopsy or investigation of death. \n\tRequires law enforcement to provide notice of rights to certain members of the decedent's family upon opening an investigation of <b>a</b> death that is suspected to have been caused by suicide[<i>, overdose or accident</i>]<b> or occurred under suspicious circumstances</b>.",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1550",
     "introduced": "2026-01-15T15:56:17",
     "chamber": "Senate",
-    "status": "In Senate Committee Awaiting transfer to Desk",
+    "status": "In Senate Committee",
     "sponsors": [
       {
         "name": "Sen Gelser Blouin",
@@ -1818,7 +1838,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1551",
     "introduced": "2026-01-15T15:56:17",
     "chamber": "Senate",
-    "status": "Senate Desk - Awaiting Third Reading",
+    "status": "In House Committee",
     "sponsors": [
       {
         "name": "Sen Gelser Blouin",
@@ -1881,11 +1901,11 @@
   {
     "billNumber": "SB1553",
     "title": "Prohibits an electric company from recovering from retail electricity consumers certain litigation or settlement costs or expenses if a court or jury finds that a wildfire resulted from the negligence or a higher degree of fault on the part of the electric company.",
-    "summary": "\tDigest: Bans the recoupment of certain costs that a power company incurs from claims based on a wildfire. (Flesch Readability Score: 65.1). \n\tProhibits an electric company from recovering from retail electricity consumers certain litigation or settlement costs or expenses if a court or jury finds that a wildfire resulted from the negligence or a higher degree of fault on the part of the electric company. \n\tRequires an electric company that has been found to be liable for damages in a civil action arising out of allegations that the conduct of the electric company caused or substantially contributed to a wildfire to establish and maintain a qualified escrow fund for the benefit of those persons the electric company is found to be liable. \n\tProvides that an electric company that is found to be liable for damages in a civil action arising out of allegations that the conduct of the electric company caused or substantially contributed to a wildfire shall also be liable for any federal income tax liability that a plaintiff or class member owes or pays on amounts the plaintiff or class member receives in relation to the civil action. \n\tProvides jurisdiction to the Supreme Court to hear and determine all appeals from the circuit court in any civil action arising out of allegations that the conduct of the electric company caused or substantially contributed to a wildfire. \n\tEstablishes the Wildfire Recovery Fund. Directs that 60 percent of the punitive damages awarded in a civil action arising out of allegations that the conduct of the electric company caused or substantially contributed to a wildfire be deposited in the Wildfire Recovery Fund. Reserves the first $50 million deposited in the fund to be payable to the Criminal Injuries Compensation Account. \n\tApplies to wildfires ignited on or after January 1, 2020, and before January 1, 2025. \n\tDeclares an emergency, effective on passage.",
+    "summary": "\tDigest: Bans the recoupment of certain costs that a power company incurs from claims based on a wildfire. (Flesch Readability Score: 65.1). \n\tProhibits an electric company from recovering from retail electricity consumers certain litigation or settlement costs or expenses if a court or jury finds that a wildfire resulted from the negligence or a higher degree of fault on the part of the electric company. \n\tRequires an electric company that has been found to be liable for damages in a civil action arising out of allegations that the conduct of the electric company caused or substantially contributed to a wildfire to establish and maintain a qualified escrow fund for the benefit of those persons <b>to whom</b> the electric company is found to be liable. \n\tProvides that an electric company that is found to be liable for damages in a civil action arising out of allegations that the conduct of the electric company caused or substantially contributed to a wildfire shall also be liable for any federal income tax liability that a plaintiff or class member owes or pays on amounts the plaintiff or class member receives in relation to the civil action. \n\t[<i>Provides jurisdiction to the Supreme Court to hear and determine all appeals from the circuit court in any civil action arising out of allegations that the conduct of the electric company caused or substantially contributed to a wildfire.</i>] \n\tEstablishes the Wildfire Recovery Fund<b>, to become operative January 1, 2027</b>. Directs that 60 percent of the punitive damages awarded in a civil action arising out of allegations that the conduct of the electric company caused or substantially contributed to a wildfire be deposited in the Wildfire Recovery Fund. Reserves the first $50 million deposited in the fund to be payable to the Criminal Injuries Compensation Account. \n\tApplies to wildfires ignited on or after January 1, 2020, and before January 1, 2025. \n\tDeclares an emergency, effective on passage.",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1553",
     "introduced": "2026-01-15T16:02:19",
     "chamber": "Senate",
-    "status": "In Senate Committee Awaiting transfer to Desk",
+    "status": "In Senate Committee",
     "sponsors": [
       {
         "name": "Sen Girod",
@@ -1982,7 +2002,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1556",
     "introduced": "2026-01-16T09:01:20",
     "chamber": "Senate",
-    "status": "Senate Desk - Awaiting Third Reading",
+    "status": "In House Committee",
     "sponsors": []
   },
   {
@@ -1992,7 +2012,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1557",
     "introduced": "2026-01-16T09:01:20",
     "chamber": "Senate",
-    "status": "Senate Desk - Awaiting Third Reading",
+    "status": "In House Committee",
     "sponsors": []
   },
   {
@@ -2050,7 +2070,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1561",
     "introduced": "2026-01-16T12:06:14",
     "chamber": "Senate",
-    "status": "Senate Desk - Awaiting Third Reading",
+    "status": "In House Committee",
     "sponsors": [
       {
         "name": "Sen Weber",
@@ -2212,7 +2232,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1563",
     "introduced": "2026-01-16T12:20:42",
     "chamber": "Senate",
-    "status": "In Senate Committee Awaiting transfer to Desk",
+    "status": "Senate Presidents Desk - Awaiting Disposition",
     "sponsors": [
       {
         "name": "Sen Manning Jr",
@@ -2221,6 +2241,11 @@
       },
       {
         "name": "Sen Prozanski",
+        "level": "Chief",
+        "type": "Member"
+      },
+      {
+        "name": "Sen Pham",
         "level": "Chief",
         "type": "Member"
       }
@@ -2264,7 +2289,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1565",
     "introduced": "2026-01-16T13:17:59",
     "chamber": "Senate",
-    "status": "In Senate Committee Awaiting transfer to Desk",
+    "status": "House Desk - Awaiting First Reading",
     "sponsors": [
       {
         "name": "Sen Starr",
@@ -2447,7 +2472,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1568",
     "introduced": "2026-01-16T14:22:50",
     "chamber": "Senate",
-    "status": "Senate Desk - Awaiting Third Reading",
+    "status": "In House Committee",
     "sponsors": [
       {
         "name": "Sen Reynolds",
@@ -2584,12 +2609,12 @@
   },
   {
     "billNumber": "SB1570",
-    "title": "Requires the Oregon Health Authority to study protections in health care facilities.",
-    "summary": "\tDigest: The Act tells OHA to do a study about health care facilities. (Flesch Readability Score: 67.7). \n\tRequires the Oregon Health Authority to study protections in health care facilities. Directs the authority to submit findings to the interim committees of the Legislative Assembly related to health no later than September 15, 2027. \n\tSunsets on January 2, 2028.",
+    "title": "Prohibits a hospital from disclosing for purposes of law enforcement individually identifiable health information or information concerning a person's citizenship or immigration status unless disclosure is required by state or federal law or court order or for ensuring continuity of care.",
+    "summary": "\t<b>Digest: Limits when a hospital may share certain info. Tells a hospital to assign which areas of the hospital are not open to the public. (Flesch Readability Score: 64.2).</b> \n\t[<i>Digest: The Act tells OHA to do a study about health care facilities. (Flesch Readability Score: 67.7).</i>] \n\t[<i>Requires the Oregon Health Authority to study protections in health care facilities. Directs the authority to submit findings to the interim committees of the Legislative Assembly related to health no later than September 15, 2027.</i>] \n\t[<i>Sunsets on January 2, 2028.</i>] \n\t<b>Prohibits a hospital from disclosing for purposes of law enforcement individually identifiable health information or information concerning a person's citizenship or immigration status unless disclosure is required by state or federal law or court order or for ensuring continuity of care. Requires a hospital to designate which areas of the hospital are not open to the public. \n\t<b>Makes it an unlawful employment practice for a hospital or federally qualified health center to retaliate or take disciplinary action against an employee for distributing informational or educational materials concerning immigration rights and legal services. Allows an employee alleging a violation to file a complaint with the Bureau of Labor and Industries. \n\t<b>Requires hospitals and federally qualified health centers to treat information concerning a person's citizenship or immigration status or a person's country of birth in the same manner as protected health information. \n\t<b>Takes effect on the 91st day following adjournment sine die.</b>",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1570",
     "introduced": "2026-01-16T14:39:48",
     "chamber": "Senate",
-    "status": "In Senate Committee Awaiting transfer to Desk",
+    "status": "Senate Desk - Awaiting Second Reading",
     "sponsors": [
       {
         "name": "Sen Campos",
@@ -2700,7 +2725,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1571",
     "introduced": "2026-01-16T14:51:41",
     "chamber": "Senate",
-    "status": "Senate Desk - Awaiting Second Reading",
+    "status": "House Desk - Awaiting First Reading",
     "sponsors": [
       {
         "name": "Sen Reynolds",
@@ -3000,11 +3025,11 @@
   {
     "billNumber": "SB1575",
     "title": "Adds new requirements for obtaining an initial license to operate and maintain a hospice program.",
-    "summary": "\tDigest: The Act makes changes to licensing laws for hospice programs. (Flesch Readability Score: 69.7). \n\tAdds new requirements for obtaining an initial license to operate and maintain a hospice program. Requires a hospice program to apply for a new initial license after a change in ownership. Prohibits individuals who have been excluded from participation in Medicare or Medicaid or have been found liable for fraud or abuse from holding an ownership interest in a hospice program. \n\tRequires the Oregon Health Authority to complete rulemaking within 24 months. Subject to exceptions, prohibits the authority from issuing new hospice licenses until rulemaking is complete. \n\tDeclares an emergency, effective on passage.",
+    "summary": "\tDigest: The Act makes changes to licensing laws for hospice programs. (Flesch Readability Score: 69.7). \n\tAdds new requirements for obtaining an initial license to operate and maintain a hospice program. [<i>Requires a hospice program to apply for a new initial license after a change in ownership.</i>] Prohibits individuals who have been excluded from participation in Medicare or Medicaid or have been found liable for fraud or abuse from holding an ownership interest in a hospice program. \n\tRequires the Oregon Health Authority to complete rulemaking within 24 months. Subject to exceptions, prohibits the authority from issuing new hospice licenses until rulemaking is complete. \n\tDeclares an emergency, effective on passage.",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1575",
     "introduced": "2026-01-16T15:10:46",
     "chamber": "Senate",
-    "status": "In Senate Committee Awaiting transfer to Desk",
+    "status": "Senate Desk - Awaiting Third Reading",
     "sponsors": [
       {
         "name": "Sen Patterson",
@@ -3165,7 +3190,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1576",
     "introduced": "2026-01-16T15:10:46",
     "chamber": "Senate",
-    "status": "Senate Desk - Awaiting Third Reading",
+    "status": "In House Committee",
     "sponsors": [
       {
         "name": "Sen Patterson",
@@ -3418,7 +3443,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1579",
     "introduced": "2026-01-16T15:16:47",
     "chamber": "Senate",
-    "status": "In Senate Committee Awaiting transfer to Desk",
+    "status": "House Desk - Awaiting First Reading",
     "sponsors": [
       {
         "name": "Sen Thatcher",
@@ -3467,6 +3492,16 @@
       },
       {
         "name": "Rep Yunker",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Sen Smith DB",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Sen Hayden",
         "level": "Regular",
         "type": "Member"
       }
@@ -3994,7 +4029,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1585",
     "introduced": "2026-01-16T16:32:52",
     "chamber": "Senate",
-    "status": "Senate Desk - Awaiting Third Reading",
+    "status": "In House Committee",
     "sponsors": [
       {
         "name": "Sen Manning Jr",
@@ -4110,6 +4145,21 @@
         "name": "Sen Meek",
         "level": "Chief",
         "type": "Member"
+      },
+      {
+        "name": "Sen Patterson",
+        "level": "Chief",
+        "type": "Member"
+      },
+      {
+        "name": "Sen Drazan",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Owens",
+        "level": "Regular",
+        "type": "Member"
       }
     ]
   },
@@ -4144,11 +4194,6 @@
       },
       {
         "name": "Sen Jama",
-        "level": "Chief",
-        "type": "Member"
-      },
-      {
-        "name": "Sen Manning Jr",
         "level": "Chief",
         "type": "Member"
       },
@@ -4291,12 +4336,12 @@
   },
   {
     "billNumber": "SB1587",
-    "title": "Prohibits data brokers from providing data to others for purposes related to enforcement of civil law, except pursuant to a court order.",
-    "summary": "\tDigest: The Act says that data brokers may not give data to help enforce civil law, unless a court orders them. (Flesch Readability Score: 72.3). \n\tProhibits data brokers from providing data to others for purposes related to enforcement of civil law, except pursuant to a court order. Authorizes the imposition of civil penalties for violations. Authorizes civil actions for violations. \n\tDeclares an emergency, effective on passage.",
+    "title": "Prohibits public bodies from disclosing personally identifiable information to a data broker unless the data broker attests that the information will not be sold or transferred to any entity that will use it to enforce federal immigration law.",
+    "summary": "\t<b>Digest: The Act says that a public body may not give certain data to a data broker unless the data broker says that it will not be used to enforce immigration law. A public body can also give out data under public records law or a court order. (Flesch Readability Score: 60.5).</b> \n\t[<i>Digest: The Act says that data brokers may not give data to help enforce civil law, unless a court orders them. (Flesch Readability Score: 72.3).</i>] \n\t[<i>Prohibits data brokers from providing data to others for purposes related to enforcement of civil law, except pursuant to a court order. Authorizes the imposition of civil penalties for violations. Authorizes civil actions for violations.</i>] \n\t<b>Prohibits public bodies from disclosing personally identifiable information to a data broker unless the data broker attests that the information will not be sold or transferred to any entity that will use it to enforce federal immigration law. Does not apply if disclosure is required under public records law or by a court order.</b> \n\tDeclares an emergency, effective on passage.",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1587",
     "introduced": "2026-01-16T16:50:57",
     "chamber": "Senate",
-    "status": "In Senate Committee Awaiting transfer to Desk",
+    "status": "Senate Desk - Awaiting Third Reading",
     "sponsors": [
       {
         "name": "Sen Campos",
@@ -4644,7 +4689,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1590",
     "introduced": "2026-01-16T16:54:36",
     "chamber": "Senate",
-    "status": "Senate Desk - Awaiting Third Reading",
+    "status": "In House Committee",
     "sponsors": [
       {
         "name": "Sen Broadman",
@@ -4792,7 +4837,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1593",
     "introduced": "2026-01-20T09:39:59",
     "chamber": "Senate",
-    "status": "In Senate Committee Awaiting transfer to Desk",
+    "status": "Senate Presidents Desk - Awaiting Disposition",
     "sponsors": [
       {
         "name": "Sen Meek",
@@ -4898,12 +4943,12 @@
   },
   {
     "billNumber": "SB1594",
-    "title": "Directs the Office of Immigrant and Refugee Advancement to develop and maintain model policies, standards and procedures related to the enforcement of federal immigration laws.",
-    "summary": "\tDigest: Directs OIRA to make model policies that a public body may use. (Flesch Readability Score: 60.7). \n\tDirects the Office of Immigrant and Refugee Advancement to develop and maintain model policies, standards and procedures related to the enforcement of federal immigration laws. Encourages all public bodies to implement their own policies, standards and procedures based on the model policies, standards and procedures. \n\tDeclares an emergency, effective on passage.",
+    "title": "Requires the Department of Justice to consult with the Office of Immigrant and Refugee Advancement when the department develops, reviews or updates model policies intended to limit immigration enforcement at public facilities.",
+    "summary": "\t<b>Digest: Directs DOJ to consult with OIRA. (Flesch Readability Score: 73.8).</b> \n\t[<i>Digest: Directs OIRA to make model policies that a public body may use. (Flesch Readability Score: 60.7).</i>] \n\t[<i>Directs the Office of Immigrant and Refugee Advancement to develop and maintain model policies, standards and procedures related to the enforcement of federal immigration laws. Encourages all public bodies to implement their own policies, standards and procedures based on the model policies, standards and procedures.</i>] \n\t<b>Requires the Department of Justice to consult with the Office of Immigrant and Refugee Advancement when the department develops, reviews or updates model policies intended to limit immigration enforcement at public facilities.</b> \n\tDeclares an emergency, effective on passage.",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1594",
     "introduced": "2026-01-20T09:54:23",
     "chamber": "Senate",
-    "status": "In Senate Committee Awaiting transfer to Desk",
+    "status": "Senate Desk - Awaiting Second Reading",
     "sponsors": [
       {
         "name": "Sen Jama",
@@ -5160,7 +5205,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1596",
     "introduced": "2026-01-20T09:56:48",
     "chamber": "Senate",
-    "status": "Senate Desk - Awaiting Third Reading",
+    "status": "In House Committee",
     "sponsors": [
       {
         "name": "Sen Frederick",
@@ -5246,7 +5291,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1597",
     "introduced": "2026-01-20T09:56:48",
     "chamber": "Senate",
-    "status": "Senate Desk - Awaiting Second Reading",
+    "status": "Senate Desk - Awaiting Third Reading",
     "sponsors": [
       {
         "name": "Sen Frederick",
@@ -5327,7 +5372,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1598",
     "introduced": "2026-01-26T14:53:13",
     "chamber": "Senate",
-    "status": "Senate Desk - Awaiting Third Reading",
+    "status": "In House Committee",
     "sponsors": [
       {
         "name": "Sen Reynolds",
@@ -5575,11 +5620,11 @@
   {
     "billNumber": "HB4004",
     "title": "Provides that additional taxes otherwise imposed upon disqualification of land from certain forestland special assessment programs may not be collected if the disqualification is due to the suspension of reforestation requirements as a result of insects or disease.",
-    "summary": "\t<b>Digest: The Act says certain tax is not owed for land that does not qualify for forest special assessment due to pests or disease. The Act says the Water Resources Department may allow time extensions for certain water right holders. The Act changes who must be a registered engineer at the department. The Act says the department must help certain water users sign up for a water conservation program. (Flesch Readability Score: 60.5).</b> \n\t[<i>Digest: The Act would make it so that additional tax would not have to be paid on land that is disqualified from a forest special assessment due to pests or disease. (Flesch Readability Score: 60.7).</i>] \n\tProvides that additional taxes otherwise imposed upon disqualification of land from certain forestland special assessment programs may not be collected if the disqualification is due to the suspension of reforestation requirements as a result of insects or disease. <b>Authorizes the Water Resources Department to grant time extensions for specified water right permit holders to complete construction and apply water beneficially. Modifies requirement that the department's director or principal assistant be a registered engineer. Modifies provision specifying when a proposed order of the department becomes final. Directs the department to facilitate certain water users' enrollment in a federal conservation program.</b> \n\tTakes effect on the 91st day following adjournment sine die.",
+    "summary": "\tDigest: The Act says certain tax is not owed for land that does not qualify for forest special assessment due to pests or disease. The Act says the Water Resources Department may allow time extensions for certain water right holders. The Act changes who must be a registered engineer at the department. The Act says the department must help certain water users sign up for a water conservation program. (Flesch Readability Score: 60.5). \n\tProvides that additional taxes otherwise imposed upon disqualification of land from certain forestland special assessment programs may not be collected if the disqualification is due to the suspension of reforestation requirements as a result of insects or disease. Authorizes the Water Resources Department to grant time extensions for specified water right permit holders to complete construction and apply water beneficially. Modifies requirement that the department's director or principal assistant be a registered engineer. Modifies provision specifying when a proposed order of the department becomes final. Directs the department to facilitate certain water users' enrollment in a federal conservation program. \n\tTakes effect on the 91st day following adjournment sine die.",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4004",
     "introduced": "2026-01-13T14:20:28",
     "chamber": "House",
-    "status": "In House Committee Awaiting transfer to Desk",
+    "status": "House Desk - Third Reading",
     "sponsors": []
   },
   {
@@ -5589,7 +5634,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4005",
     "introduced": "2026-01-13T14:20:28",
     "chamber": "House",
-    "status": "In Senate Committee",
+    "status": "In Senate Committee Awaiting transfer to Desk",
     "sponsors": []
   },
   {
@@ -5665,7 +5710,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4012",
     "introduced": "2026-01-14T11:13:55",
     "chamber": "House",
-    "status": "In Senate Committee Awaiting transfer to Desk",
+    "status": "Senate Desk - Awaiting Third Reading",
     "sponsors": []
   },
   {
@@ -5675,7 +5720,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4013",
     "introduced": "2026-01-14T11:13:55",
     "chamber": "House",
-    "status": "In Senate Committee Awaiting transfer to Desk",
+    "status": "Senate Desk - Awaiting Third Reading",
     "sponsors": []
   },
   {
@@ -5685,7 +5730,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4014",
     "introduced": "2026-01-14T11:23:14",
     "chamber": "House",
-    "status": "In House Committee",
+    "status": "In House Committee Awaiting transfer to Desk",
     "sponsors": []
   },
   {
@@ -5715,7 +5760,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4017",
     "introduced": "2026-01-14T11:46:13",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting First Reading",
+    "status": "In Senate Committee",
     "sponsors": []
   },
   {
@@ -5755,7 +5800,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4021",
     "introduced": "2026-01-14T11:46:13",
     "chamber": "House",
-    "status": "House Desk - Second Reading",
+    "status": "In Senate Committee",
     "sponsors": []
   },
   {
@@ -5765,7 +5810,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4022",
     "introduced": "2026-01-14T11:46:13",
     "chamber": "House",
-    "status": "In Senate Committee",
+    "status": "In Senate Committee Awaiting transfer to Desk",
     "sponsors": []
   },
   {
@@ -5801,7 +5846,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4024",
     "introduced": "2026-01-14T13:18:32",
     "chamber": "House",
-    "status": "In Senate Committee Awaiting transfer to Desk",
+    "status": "Senate Desk - Awaiting Third Reading",
     "sponsors": []
   },
   {
@@ -5907,7 +5952,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4028",
     "introduced": "2026-01-14T13:34:06",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting First Reading",
+    "status": "In Senate Committee",
     "sponsors": [
       {
         "name": "Rep Harbick",
@@ -6023,7 +6068,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4034",
     "introduced": "2026-01-15T09:10:16",
     "chamber": "House",
-    "status": "In Senate Committee",
+    "status": "In Senate Committee Awaiting transfer to Desk",
     "sponsors": [
       {
         "name": "Rep Levy B",
@@ -6124,7 +6169,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4035",
     "introduced": "2026-01-15T09:47:17",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting First Reading",
+    "status": "In Senate Committee",
     "sponsors": []
   },
   {
@@ -6144,7 +6189,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4037",
     "introduced": "2026-01-15T09:47:17",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting First Reading",
+    "status": "In Senate Committee",
     "sponsors": []
   },
   {
@@ -6164,13 +6209,13 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4039",
     "introduced": "2026-01-15T10:40:14",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting First Reading",
+    "status": "In Senate Committee",
     "sponsors": []
   },
   {
     "billNumber": "HB4040",
     "title": "Modifies the requirements for screening a hospital patient for presumptive eligibility for financial assistance.",
-    "summary": "\tDigest: The Act changes the rules for how certain health care is given in this state. The Act alters how certain health care providers are licensed or regulated. The Act changes some insurance rules. The Act changes some pharmacy and drug rules. The Act takes effect when signed. (Flesch Readability Score: 79.7). \n\tModifies the requirements for screening a hospital patient for presumptive eligibility for financial assistance. \n\t[<i>Prohibits the Oregon Health Authority from requiring certain home health agencies to comply with Medicare conditions of participation.</i>] \n\t[<i>Modifies the requirements for how the Department of Human Services must publish Residential Care Quality Measurement Program data.</i>] \n\tRemoves the requirement that an applicant for a residential care facility administrator license hold a bachelor's degree in a health or social service related field. \n\tAllows a person residing in a correctional facility to receive prerelease medical assistance benefits under certain circumstances. \n\t[<i>Prohibits the authority or a coordinated care organization from requiring prior authorization for medical assistance coverage for repairing complex rehabilitation technology if the repair costs $1,500 or less.</i>] \n\tModifies the requirements for meetings held by the Health Evidence Review Commission. \n\tModifies the composition of the Medicaid Advisory Committee. \n\tModifies the eligibility requirements for parent providers who are paid to provide attendant care services to their children. \n\t[<i>Prohibits a coordinated care organization or dental subcontractor from preventing an oral health care provider from informing consumers about their choice of providers.</i>] \n\tAllows a full-time dentistry student enrolled in an out-of-state dental education program to practice dentistry without a license if the student is supervised by a faculty member of a dental education program accredited by the Commission on Dental Accreditation of the American Dental Association. \n\tRequires casualty or health insurance policies to provide coverage for medically necessary anesthesia services, regardless of duration, for any covered procedures. \n\tRequires dental insurers to follow certain rules for payment and denial of claims. \n\tRequires the Legislative Policy and Research Director to develop and propose to the [<i>Legislative Policy and Research Committee</i>] <b>committees with jurisdiction over health care</b> an insurance coverage mandate impact statement policy. Directs the [<i>committee</i>] <b>committees</b> to perform due diligence in considering the proposal and authorizes the [<i>committee</i>] <b>committees</b> to modify the proposal if the [<i>committee</i>] <b>committees</b> so [<i>determines</i>]<b> determine</b>, and then to adopt the policy. \n\tRepeals requirement that enrollees in individual or group policies or certificates of health insurance [<i>or members of coordinated care organizations</i>] be assigned by <b>their</b> insurer [<i>or organization</i>] to primary care providers under certain circumstances. \n\tSpecifies exemptions from the requirement that pharmacy services administrative organizations must register with the Department of Consumer and Business Services as third party administrators. \n\t[<i>Provides that the Governor shall select the chairperson of the Prescription Drug Affordability Board.</i>]<b> \n\t<b>Modifies requirements for the Prescription Drug Affordability Board's annual affordability determination for insulin products.</b> \n\tAllows licensees of the Occupational Therapy Licensing Board and the Oregon Board of Physical Therapy to provide psilocybin services as licensed psilocybin service facilitators while providing occupational therapy or physical therapy services. \n\t[<i>Authorizes a naturopathic physicia",
+    "summary": "Digest: The Act changes the rules for how certain health care is given in this state. The Act alters how certain health care providers are licensed or regulated. The Act changes some insurance rules. The Act changes some pharmacy and drug rules. The Act takes effect when signed. (Flesch Readability Score: 79.7). \n    Modifies the requirements for screening a hospital patient for presumptive eligibility for financial assistance. \n    [<i>Prohibits the Oregon Health Authority from requiring certain home health agencies to comply with Medicare conditions of participation.</i>] \n    [<i>Modifies the requirements for how the Department of Human Services must publish Residential Care Quality Measurement Program data.</i>] \n    Removes the requirement that an applicant for a residential care facility administrator license hold a bachelor's degree in a health or social service related field. \n    Allows a person residing in a correctional facility to receive prerelease medical assistance benefits under certain circumstances. \n    [<i>Prohibits the authority or a coordinated care organization from requiring prior authorization for medical assistance coverage for repairing complex rehabilitation technology if the repair costs $1,500 or less.</i>] \n    Modifies the requirements for meetings held by the Health Evidence Review Commission. \n    Modifies the composition of the Medicaid Advisory Committee. \n    Modifies the eligibility requirements for parent providers who are paid to provide attendant care services to their children. \n    [<i>Prohibits a coordinated care organization or dental subcontractor from preventing an oral health care provider from informing consumers about their choice of providers.</i>] \n    Allows a full-time dentistry student enrolled in an out-of-state dental education program to practice dentistry without a license if the student is supervised by a faculty member of a dental education program accredited by the Commission on Dental Accreditation of the American Dental Association. \n    Requires casualty or health insurance policies to provide coverage for medically necessary anesthesia services, regardless of duration, for any covered procedures. \n    Requires dental insurers to follow certain rules for payment and denial of claims. \n    Requires the Legislative Policy and Research Director to develop and propose to the [<i>Legislative Policy and Research Committee</i>] <b>committees with jurisdiction over health care</b> an insurance coverage mandate impact statement policy. Directs the [<i>committee</i>] <b>committees</b> to perform due diligence in considering the proposal and authorizes the [<i>committee</i>] <b>committees</b> to modify the proposal if the [<i>committee</i>] <b>committees</b> so [<i>determines</i>]<b> determine</b>, and then to adopt the policy. \n\tRepeals requirement that enrollees in individual or group policies or certificates of health insurance [<i>or members of coordinated care organizations</i>] be assigned by <b>their</b> insurer [<i>or organization</i>] to primary care providers under certain circumstances. \n\tSpecifies exemptions from the requirement that pharmacy services administrative organizations must register with the Department of Consumer and Business Services as third party administrators. \n\t[<i>Provides that the Governor shall select the chairperson of the Prescription Drug Affordability Board.</i>]<b> \n\t<b>Modifies requirements for the Prescription Drug Affordability Board's annual affordability determination for insulin products.</b> \n\tAllows licensees of the Occupational Therapy Licensing Board and the Oregon Board of Physical Therapy to provide psilocybin services as licensed psilocybin service facilitators while providing occupational therapy or physical therapy services. \n\t[Authorizes a <i>naturopathic physician to prescribe durable medical equipment and admit a patient\nto a hospital</i>.].\nDeclares an emergency, effective on passage. ",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4040",
     "introduced": "2026-01-15T10:40:14",
     "chamber": "House",
@@ -6184,7 +6229,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4041",
     "introduced": "2026-01-15T10:48:32",
     "chamber": "House",
-    "status": "House Desk - Second Reading",
+    "status": "In Senate Committee",
     "sponsors": []
   },
   {
@@ -6194,7 +6239,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4042",
     "introduced": "2026-01-15T10:48:32",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting First Reading",
+    "status": "In Senate Committee",
     "sponsors": []
   },
   {
@@ -6224,7 +6269,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4045",
     "introduced": "2026-01-15T15:11:10",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting First Reading",
+    "status": "In Senate Committee",
     "sponsors": [
       {
         "name": "Rep Mannix",
@@ -6751,6 +6796,11 @@
         "name": "Rep Scharf",
         "level": "Regular",
         "type": "Member"
+      },
+      {
+        "name": "Rep Boice",
+        "level": "Regular",
+        "type": "Member"
       }
     ]
   },
@@ -6761,7 +6811,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4052",
     "introduced": "2026-01-16T10:54:06",
     "chamber": "House",
-    "status": "In House Committee Awaiting transfer to Desk",
+    "status": "House Desk - Third Reading",
     "sponsors": [
       {
         "name": "Rep Reschke",
@@ -6812,6 +6862,16 @@
         "name": "Rep Hudson",
         "level": "Regular",
         "type": "Member"
+      },
+      {
+        "name": "Rep Lively",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Walters",
+        "level": "Regular",
+        "type": "Member"
       }
     ]
   },
@@ -6822,7 +6882,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4053",
     "introduced": "2026-01-16T10:58:29",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting First Reading",
+    "status": "In Senate Committee",
     "sponsors": [
       {
         "name": "Rep Grayber",
@@ -7029,7 +7089,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4057",
     "introduced": "2026-01-16T11:36:58",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting First Reading",
+    "status": "In Senate Committee",
     "sponsors": []
   },
   {
@@ -7059,7 +7119,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4060",
     "introduced": "2026-01-16T11:44:54",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting First Reading",
+    "status": "In Senate Committee",
     "sponsors": [
       {
         "name": "Rep Helfrich",
@@ -7277,7 +7337,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4065",
     "introduced": "2026-01-16T12:55:12",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting First Reading",
+    "status": "In Senate Committee",
     "sponsors": [
       {
         "name": "Rep Scharf",
@@ -7318,7 +7378,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4068",
     "introduced": "2026-01-16T13:08:07",
     "chamber": "House",
-    "status": "In Senate Committee",
+    "status": "In Senate Committee Awaiting transfer to Desk",
     "sponsors": []
   },
   {
@@ -7328,7 +7388,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4069",
     "introduced": "2026-01-16T13:08:07",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting First Reading",
+    "status": "In Senate Committee",
     "sponsors": []
   },
   {
@@ -7338,7 +7398,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4070",
     "introduced": "2026-01-16T13:08:07",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting First Reading",
+    "status": "In Senate Committee",
     "sponsors": []
   },
   {
@@ -7449,7 +7509,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4072",
     "introduced": "2026-01-16T13:20:45",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting First Reading",
+    "status": "In Senate Committee",
     "sponsors": []
   },
   {
@@ -7577,6 +7637,11 @@
         "name": "Rep Reschke",
         "level": "Regular",
         "type": "Member"
+      },
+      {
+        "name": "Rep Nosse",
+        "level": "Regular",
+        "type": "Member"
       }
     ]
   },
@@ -7587,7 +7652,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4076",
     "introduced": "2026-01-16T15:30:00",
     "chamber": "House",
-    "status": "House Desk - Third Reading",
+    "status": "In Senate Committee",
     "sponsors": [
       {
         "name": "Rep Lively",
@@ -7603,7 +7668,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4077",
     "introduced": "2026-01-16T15:36:15",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting First Reading",
+    "status": "In Senate Committee",
     "sponsors": [
       {
         "name": "Rep Lively",
@@ -7760,7 +7825,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4079",
     "introduced": "2026-01-16T15:51:11",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting First Reading",
+    "status": "In Senate Committee",
     "sponsors": [
       {
         "name": "Rep McDonald",
@@ -8098,6 +8163,11 @@
         "name": "Rep Andersen",
         "level": "Regular",
         "type": "Member"
+      },
+      {
+        "name": "Rep Tran",
+        "level": "Regular",
+        "type": "Member"
       }
     ]
   },
@@ -8108,7 +8178,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4082",
     "introduced": "2026-01-16T16:14:03",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting First Reading",
+    "status": "In Senate Committee",
     "sponsors": []
   },
   {
@@ -8118,7 +8188,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4083",
     "introduced": "2026-01-16T16:14:03",
     "chamber": "House",
-    "status": "In Senate Committee",
+    "status": "In Senate Committee Awaiting transfer to Desk",
     "sponsors": []
   },
   {
@@ -8128,7 +8198,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4084",
     "introduced": "2026-01-16T16:14:03",
     "chamber": "House",
-    "status": "In House Committee",
+    "status": "In House Committee Awaiting transfer to Desk",
     "sponsors": []
   },
   {
@@ -8653,7 +8723,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4091",
     "introduced": "2026-01-17T11:58:09",
     "chamber": "House",
-    "status": "House Desk - Third Reading",
+    "status": "In Senate Committee",
     "sponsors": [
       {
         "name": "Rep Isadore",
@@ -8784,6 +8854,16 @@
         "name": "Rep Dobson",
         "level": "Regular",
         "type": "Member"
+      },
+      {
+        "name": "Rep Wise",
+        "level": "Chief",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Kropf",
+        "level": "Regular",
+        "type": "Member"
       }
     ]
   },
@@ -8794,7 +8874,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4092",
     "introduced": "2026-01-17T12:01:36",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting First Reading",
+    "status": "In Senate Committee",
     "sponsors": [
       {
         "name": "Rep Pham H",
@@ -9164,7 +9244,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4097",
     "introduced": "2026-01-17T12:23:48",
     "chamber": "House",
-    "status": "In Senate Committee",
+    "status": "In Senate Committee Awaiting transfer to Desk",
     "sponsors": [
       {
         "name": "Rep Gomberg",
@@ -9462,6 +9542,11 @@
         "name": "Rep Watanabe",
         "level": "Regular",
         "type": "Member"
+      },
+      {
+        "name": "Sen Thatcher",
+        "level": "Regular",
+        "type": "Member"
       }
     ]
   },
@@ -9751,7 +9836,7 @@
   {
     "billNumber": "HB4103",
     "title": "Establishes the Senator Aaron Woods Commission on Artificial Intelligence within the office of Enterprise Information Services.",
-    "summary": "\tDigest: The Act makes a commission on AI to be a central resource on using AI in this state. The Act also tells DAS to hire a Chief Artificial Intelligence Officer. (Flesch Readability Score: 67.5). \n\tEstablishes the Senator Aaron Woods Commission on Artificial Intelligence within the office of Enterprise Information Services. Establishes the commission's purpose to serve as a central resource to monitor the use of artificial intelligence technologies and systems in this state and report on long-term policy implications. Directs the commission to provide an annual report to the Legislative Assembly. Allows the commission to make recommendations for legislation, regulations or policy to the Legislative Assembly. \n\tDirects the Oregon Department of Administrative Services to hire a Chief Artificial Intelligence Officer to assist the commission in carrying out the commission's duties. Allows the department to charge a state or local agency or public body for the commission's services.",
+    "summary": "\t<b>Digest: The Act makes a commission on AI to look at the state's use of AI. The Act also tells DAS to hire a person to make a privacy, data protection and AI plan for the state. (Flesch Readability Score: 80.4).</b> \n\t[<i>Digest: The Act makes a commission on AI to be a central resource on using AI in this state. The Act also tells DAS to hire a Chief Artificial Intelligence Officer. (Flesch Readability Score: 67.5).</i>] \n\tEstablishes the Senator Aaron Woods Commission on Artificial Intelligence within the office of Enterprise Information Services. [<i>Establishes the commission's purpose to serve as a central resource to monitor the use of artificial intelligence technologies and systems in this state and report on long-term policy implications.</i>] <b>Directs the commission to identify and report on long-term policy implications in the use of artificial intelligence technologies by the state.</b> Directs the commission to [<i>provide</i>] <b>submit</b> an annual report to the Legislative Assembly. Allows the commission to make recommendations for legislation, regulations or policy to the Legislative Assembly. \n\tDirects the Oregon Department of Administrative Services to hire [<i>a Chief Artificial Intelligence Officer to assist the commission in carrying out the commission's duties.</i>] <b>an individual responsible for developing the state's strategic vision related to privacy, data protection and artificial intelligence.</b> Allows the department to charge a state [<i>or local agency or public body</i>]<b> agency, officer, board or commission</b> for [<i>the commission's</i>] services <b>provided by the department or the Senator Aaron Woods Commission on Artificial Intelligence</b>.",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4103",
     "introduced": "2026-01-17T12:58:22",
     "chamber": "House",
@@ -9979,7 +10064,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4107",
     "introduced": "2026-01-17T13:09:14",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting First Reading",
+    "status": "In Senate Committee",
     "sponsors": [
       {
         "name": "Rep Nathanson",
@@ -10045,7 +10130,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4108",
     "introduced": "2026-01-17T13:13:23",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting First Reading",
+    "status": "In Senate Committee",
     "sponsors": [
       {
         "name": "Rep Fragala",
@@ -10238,7 +10323,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4111",
     "introduced": "2026-01-17T13:25:53",
     "chamber": "House",
-    "status": "House Desk - Second Reading",
+    "status": "In Senate Committee",
     "sponsors": [
       {
         "name": "Rep Chotzen",
@@ -10428,6 +10513,11 @@
       {
         "name": "Rep Andersen",
         "level": "Chief",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Kropf",
+        "level": "Regular",
         "type": "Member"
       }
     ]
@@ -10746,7 +10836,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4114",
     "introduced": "2026-01-17T14:44:02",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting First Reading",
+    "status": "In Senate Committee",
     "sponsors": [
       {
         "name": "Rep Munoz",
@@ -10903,7 +10993,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4116",
     "introduced": "2026-01-17T14:55:17",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting First Reading",
+    "status": "In Senate Committee",
     "sponsors": [
       {
         "name": "Rep Sosa",
@@ -11247,7 +11337,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4120",
     "introduced": "2026-01-17T15:12:12",
     "chamber": "House",
-    "status": "House Desk - Third Reading",
+    "status": "In Senate Committee",
     "sponsors": [
       {
         "name": "Rep Edwards",
@@ -11331,6 +11421,26 @@
       },
       {
         "name": "Sen Weber",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Levy E",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Nelson",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Pham H",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Javadi",
         "level": "Regular",
         "type": "Member"
       }
@@ -11440,7 +11550,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4123",
     "introduced": "2026-01-18T10:48:38",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting First Reading",
+    "status": "In Senate Committee",
     "sponsors": [
       {
         "name": "Rep Marsh",
@@ -12015,7 +12125,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4128",
     "introduced": "2026-01-18T11:34:03",
     "chamber": "House",
-    "status": "House Desk - Third Reading",
+    "status": "In Senate Committee",
     "sponsors": [
       {
         "name": "Rep Bowman",
@@ -12129,6 +12239,16 @@
       },
       {
         "name": "Rep Hudson",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Watanabe",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Tran",
         "level": "Regular",
         "type": "Member"
       }
@@ -12662,7 +12782,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4135",
     "introduced": "2026-01-18T13:20:07",
     "chamber": "House",
-    "status": "In House Committee",
+    "status": "House Desk - Second Reading",
     "sponsors": [
       {
         "name": "Rep Hartman",
@@ -12874,6 +12994,21 @@
         "name": "Rep Hudson",
         "level": "Regular",
         "type": "Member"
+      },
+      {
+        "name": "Rep McLain",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Munoz",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Chotzen",
+        "level": "Regular",
+        "type": "Member"
       }
     ]
   },
@@ -12884,7 +13019,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4137",
     "introduced": "2026-01-18T13:32:13",
     "chamber": "House",
-    "status": "House Desk - Second Reading",
+    "status": "In Senate Committee",
     "sponsors": [
       {
         "name": "Rep Cate",
@@ -13005,6 +13140,11 @@
         "name": "Sen Thatcher",
         "level": "Regular",
         "type": "Member"
+      },
+      {
+        "name": "Rep Grayber",
+        "level": "Regular",
+        "type": "Member"
       }
     ]
   },
@@ -13015,7 +13155,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4138",
     "introduced": "2026-01-18T13:49:05",
     "chamber": "House",
-    "status": "House Desk - Second Reading",
+    "status": "House Desk - Third Reading",
     "sponsors": [
       {
         "name": "Rep Chaichi",
@@ -13222,7 +13362,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4140",
     "introduced": "2026-01-18T14:01:59",
     "chamber": "House",
-    "status": "House Desk - Second Reading",
+    "status": "In Senate Committee",
     "sponsors": [
       {
         "name": "Rep Wallan",
@@ -13263,6 +13403,11 @@
         "name": "Rep Reschke",
         "level": "Regular",
         "type": "Member"
+      },
+      {
+        "name": "Rep Gamba",
+        "level": "Regular",
+        "type": "Member"
       }
     ]
   },
@@ -13299,7 +13444,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4142",
     "introduced": "2026-01-18T14:08:21",
     "chamber": "House",
-    "status": "House Desk - Third Reading",
+    "status": "In Senate Committee",
     "sponsors": [
       {
         "name": "Rep Chaichi",
@@ -13390,6 +13535,16 @@
         "name": "Rep Diehl",
         "level": "Regular",
         "type": "Member"
+      },
+      {
+        "name": "Rep Isadore",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Sen Prozanski",
+        "level": "Chief",
+        "type": "Member"
       }
     ]
   },
@@ -13400,7 +13555,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4143",
     "introduced": "2026-01-18T14:24:09",
     "chamber": "House",
-    "status": "House Desk - Third Reading",
+    "status": "In Senate Committee",
     "sponsors": [
       {
         "name": "Rep Chotzen",
@@ -13692,7 +13847,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4145",
     "introduced": "2026-01-18T14:36:34",
     "chamber": "House",
-    "status": "House Desk - Second Reading",
+    "status": "House Desk - Third Reading",
     "sponsors": [
       {
         "name": "Rep Kropf",
@@ -13870,7 +14025,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4148",
     "introduced": "2026-01-18T14:47:43",
     "chamber": "House",
-    "status": "In House Committee",
+    "status": "In House Committee Awaiting transfer to Desk",
     "sponsors": [
       {
         "name": "Rep Walters",
@@ -13926,7 +14081,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4149",
     "introduced": "2026-01-18T15:07:48",
     "chamber": "House",
-    "status": "House Desk - Third Reading",
+    "status": "In Senate Committee",
     "sponsors": [
       {
         "name": "Rep Levy E",
@@ -14020,6 +14175,26 @@
       },
       {
         "name": "Rep Hudson",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Rep McLain",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Rieke Smith",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Grayber",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Kropf",
         "level": "Regular",
         "type": "Member"
       }
@@ -14143,7 +14318,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4151",
     "introduced": "2026-01-19T11:03:07",
     "chamber": "House",
-    "status": "House Desk - Second Reading",
+    "status": "In Senate Committee",
     "sponsors": [
       {
         "name": "Rep Edwards",
@@ -14257,6 +14432,16 @@
       },
       {
         "name": "Rep Ruiz",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Diehl",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Levy E",
         "level": "Regular",
         "type": "Member"
       }
@@ -14446,7 +14631,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4154",
     "introduced": "2026-01-19T11:26:49",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting First Reading",
+    "status": "In Senate Committee",
     "sponsors": [
       {
         "name": "Rep Wise",
@@ -14663,7 +14848,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4156",
     "introduced": "2026-01-19T11:59:26",
     "chamber": "House",
-    "status": "House Desk - Third Reading",
+    "status": "In Senate Committee",
     "sponsors": [
       {
         "name": "Rep Smith G",
@@ -14719,7 +14904,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4157",
     "introduced": "2026-01-19T12:29:54",
     "chamber": "House",
-    "status": "House Desk - Third Reading",
+    "status": "In Senate Committee",
     "sponsors": [
       {
         "name": "Rep Tran",
@@ -14865,6 +15050,11 @@
         "name": "Rep Dobson",
         "level": "Regular",
         "type": "Member"
+      },
+      {
+        "name": "Rep Levy E",
+        "level": "Regular",
+        "type": "Member"
       }
     ]
   },
@@ -14891,7 +15081,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4159",
     "introduced": "2026-02-03T11:14:00",
     "chamber": "House",
-    "status": "In House Committee",
+    "status": "House Desk - Second Reading",
     "sponsors": [
       {
         "name": "HRULES",
@@ -14907,7 +15097,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4160",
     "introduced": "2026-02-03T11:14:00",
     "chamber": "House",
-    "status": "House Desk - Third Reading",
+    "status": "In Senate Committee",
     "sponsors": [
       {
         "name": "HRULES",
@@ -14923,7 +15113,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4161",
     "introduced": "2026-02-03T11:14:00",
     "chamber": "House",
-    "status": "In House Committee",
+    "status": "House Desk - Second Reading",
     "sponsors": [
       {
         "name": "HRULES",
@@ -14939,7 +15129,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4162",
     "introduced": "2026-02-03T11:14:00",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting First Reading",
+    "status": "In Senate Committee",
     "sponsors": [
       {
         "name": "HRULES",
@@ -15179,7 +15369,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4177",
     "introduced": "2026-02-05T08:31:55",
     "chamber": "House",
-    "status": "In House Committee",
+    "status": "In House Committee Awaiting transfer to Desk",
     "sponsors": [
       {
         "name": "HRULES",
@@ -15211,7 +15401,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4179",
     "introduced": "2026-02-16T09:35:15",
     "chamber": "House",
-    "status": "In House Committee",
+    "status": "House Desk - Second Reading",
     "sponsors": [
       {
         "name": "HRULES",

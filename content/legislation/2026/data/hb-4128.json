@@ -11,8 +11,8 @@
     "RelatingTo": "Relating to sale of single-family residences.",
     "AtTheRequestOf": null,
     "ChapterNumber": null,
-    "CurrentLocation": "House Desk - Third Reading",
-    "CurrentCommitteeCode": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SHDEV",
     "CurrentSubCommittee": null,
     "FiscalImpact": "Has minimal fiscal impact",
     "RevenueImpact": "No revenue impact",
@@ -23,7 +23,7 @@
     "LCNumber": 264,
     "Vetoed": false,
     "CreatedDate": "2026-01-18T11:34:03",
-    "ModifiedDate": "2026-02-17T14:09:45",
+    "ModifiedDate": "2026-02-19T15:17:38",
     "PrefixMeaning": "House Bill"
   },
   "sponsors": [
@@ -362,6 +362,34 @@
       "PresessionFiledMessage": null,
       "CreatedDate": "2026-02-18T10:25:48",
       "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "157847",
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4128,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Watanabe",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2026-02-19T12:31:43",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "157848",
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4128,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Tran",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2026-02-19T12:37:09",
+      "ModifiedDate": null
     }
   ],
   "historyActions": [
@@ -455,6 +483,58 @@
       "CreatedDate": "2026-02-18T18:22:54",
       "ModifiedDate": null,
       "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 667488,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4128,
+      "Chamber": "H",
+      "ActionDate": "2026-02-19T12:37:37",
+      "ActionText": "Third reading. Carried by Bowman. Passed.",
+      "VoteText": "Ayes, 38; Nays, 16--Boice, Boshart Davis, Breese-Iverson, Cate, Edwards, Elmer, Harbick, Helfrich, Lewis, Mannix, McIntire, Reschke, Skarlatos, Wallan, Wright, Yunker; Excused, 4--Diehl, Hartman, Levy B, Valderrama; Excused for Business of the House, 2--Osborne, Scharf.",
+      "CreatedDate": "2026-02-19T12:37:39",
+      "ModifiedDate": "2026-02-19T12:37:47",
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 667556,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4128,
+      "Chamber": "S",
+      "ActionDate": "2026-02-19T14:10:27",
+      "ActionText": "First reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-19T14:16:53",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 667612,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4128,
+      "Chamber": "S",
+      "ActionDate": "2026-02-19T15:17:20",
+      "ActionText": "Referred to Housing and Development.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-19T15:17:38",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 667664,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4128,
+      "Chamber": "S",
+      "ActionDate": "2026-02-24T15:01:00",
+      "ActionText": "Public Hearing and Possible Work Session scheduled.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-19T16:49:42",
+      "ModifiedDate": null,
+      "PublicNotification": true
     }
   ],
   "documents": [

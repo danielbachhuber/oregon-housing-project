@@ -250,6 +250,48 @@
       "PresessionFiledMessage": null,
       "CreatedDate": "2026-02-17T11:07:21",
       "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "157841",
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4136,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep McLain",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2026-02-19T09:02:01",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "157867",
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4136,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Munoz",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2026-02-19T17:00:23",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "157877",
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4136,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Chotzen",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2026-02-20T13:51:35",
+      "ModifiedDate": null
     }
   ],
   "historyActions": [

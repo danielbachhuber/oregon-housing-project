@@ -82,6 +82,20 @@
       "PresessionFiledMessage": null,
       "CreatedDate": "2026-01-23T16:21:08",
       "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "157863",
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4051,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Boice",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2026-02-19T16:05:36",
+      "ModifiedDate": null
     }
   ],
   "historyActions": [
@@ -125,17 +139,17 @@
       "PublicNotification": false
     },
     {
-      "MeasureHistoryId": 667289,
+      "MeasureHistoryId": 667646,
       "SessionKey": "2026R1",
       "MeasurePrefix": "HB",
       "MeasureNumber": 4051,
       "Chamber": "H",
-      "ActionDate": "2026-02-19T15:01:00",
-      "ActionText": "Informational Meeting scheduled.",
+      "ActionDate": "2026-02-19T15:31:00",
+      "ActionText": "Informational Meeting held.",
       "VoteText": null,
-      "CreatedDate": "2026-02-17T16:35:35",
+      "CreatedDate": "2026-02-19T16:37:25",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     }
   ],
   "documents": [

@@ -5,14 +5,14 @@
     "MeasureNumber": 1510,
     "CatchLine": "Updates the terminology used to describe certain income earned by multinational corporations to reflect a change in the term used in federal law.",
     "MinorityCatchLine": null,
-    "MeasureSummary": "\tDigest: The Act makes technical fixes and slight policy updates to some tax statutes. (Flesch Readability Score: 63.4). \n\tUpdates the terminology used to describe certain income earned by multinational corporations to reflect a change in the term used in federal law. Aligns sunset dates for earned income tax credit provisions with the underlying sunset date for the credit. \n\tExpands the tax credit for certified film production development contributions to allow the use of contributions for the production of commercials. Applies to fiscal years beginning on or after July 1, 2026. \n\tProvides an exception from the annual filing requirement for the property tax exemption for property burdened by an affordable housing covenant used for owner-occupied housing. Applies to property tax years beginning on or after July 1, 2027. \n\tTakes effect on the 91st day following adjournment sine die.",
-    "CurrentVersion": null,
-    "RelatingToFull": "Relating to taxation; creating new provisions; amending ORS 284.368, 307.162, 314.698 and 317.267 and section 32a, chapter 579, Oregon Laws 2019; and prescribing an effective date.\n\t",
+    "MeasureSummary": "\tDigest: The Act makes technical fixes and slight policy updates to some tax statutes. (Flesch Readability Score: 63.4). \n\tUpdates the terminology used to describe certain income earned by multinational corporations to reflect a change in the term used in federal law. Aligns sunset dates for earned income tax credit provisions with the underlying sunset date for the credit. \n\tExpands the tax credit for certified film production development contributions to allow the use of contributions for the production of commercials. Applies to fiscal years beginning on or after July 1, 2026. \n\t[<i>Provides an exception from the annual filing requirement for the property tax exemption for property burdened by an affordable housing covenant used for owner-occupied housing. Applies to property tax years beginning on or after July 1, 2027.</i>] \n\t<b>Extends the sunset for the property tax exemption for cargo containers. \n\t<b>Repeals the requirement that revenue from a tribal tax on the distribution of motor vehicle fuel that is exempt from the gas taxes under Oregon law is subject to the highway-use restrictions under the Oregon Constitution. \n\t<b>Extends the applicability of the pass-through business alternative income tax and tax credit through the 2027 tax year. Allows overpayments to be credited as estimated payments for the next tax year. \n\t<b>Requires the State Board of Tax Practitioners to register as enrolled agents individuals who are authorized by the Internal Revenue Service to represent taxpayers as enrolled agents.</b> \n\tTakes effect on the 91st day following adjournment sine die.",
+    "CurrentVersion": "A",
+    "RelatingToFull": "Relating to taxation; creating new provisions; amending ORS 284.368, 314.698, 317.267, 319.245, 673.605, 673.610, 673.615, 673.625, 673.637 and 673.685 and section 2, chapter 783, Oregon Laws 1979, section 32a, chapter 579, Oregon Laws 2019, section 50, chapter 525, Oregon Laws 2021, sections 3, 10 and 12, chapter 589, Oregon Laws 2021, and section 16, chapter 82, Oregon Laws 2022; and prescribing an effective date.\n\t",
     "RelatingTo": "Relating to taxation; prescribing an effective date.",
     "AtTheRequestOf": "(at the request of Senate Interim Committee on Finance and Revenue)",
     "ChapterNumber": null,
-    "CurrentLocation": "In Senate Committee Awaiting transfer to Desk",
-    "CurrentCommitteeCode": "SFR",
+    "CurrentLocation": "Senate Desk - Awaiting Third Reading",
+    "CurrentCommitteeCode": null,
     "CurrentSubCommittee": null,
     "FiscalImpact": "Fiscal impact issued",
     "RevenueImpact": "Revenue impact issued",
@@ -23,7 +23,7 @@
     "LCNumber": 254,
     "Vetoed": false,
     "CreatedDate": "2026-01-14T09:36:13",
-    "ModifiedDate": "2026-02-18T11:50:50",
+    "ModifiedDate": "2026-02-20T11:50:58",
     "PrefixMeaning": "Senate Bill"
   },
   "sponsors": [
@@ -94,6 +94,32 @@
       "CreatedDate": "2026-02-16T08:42:20",
       "ModifiedDate": null,
       "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 667619,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1510,
+      "Chamber": "S",
+      "ActionDate": "2026-02-19T15:19:42",
+      "ActionText": "Recommendation: Do pass with amendments.  (Printed A-Eng.)",
+      "VoteText": null,
+      "CreatedDate": "2026-02-19T15:28:41",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 667769,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1510,
+      "Chamber": "S",
+      "ActionDate": "2026-02-20T11:50:43",
+      "ActionText": "Second reading.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-20T11:50:58",
+      "ModifiedDate": null,
+      "PublicNotification": true
     }
   ],
   "documents": [
@@ -101,9 +127,27 @@
       "SessionKey": "2026R1",
       "MeasurePrefix": "SB",
       "MeasureNumber": 1510,
+      "VersionDescription": "A-Engrossed",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1510/A-Engrossed",
+      "CreatedDate": "2026-02-19T16:42:14.383",
+      "ModifiedDate": null
+    },
+    {
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1510,
       "VersionDescription": "Introduced",
       "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1510/Introduced",
       "CreatedDate": "2026-01-28T15:25:26.077",
+      "ModifiedDate": null
+    },
+    {
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1510,
+      "VersionDescription": "Senate Amendments to Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1510/Senate Amendments to Introduced",
+      "CreatedDate": "2026-02-19T16:42:14.503",
       "ModifiedDate": null
     }
   ],
