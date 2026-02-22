@@ -2,6 +2,8 @@
 <article class="markdown book-article">
   <h1>{{ .Title }}</h1>
 
+  {{ partial "incomplete-banner" . }}
+
   {{ .Content }}
 
   {{ if .Sections }}
