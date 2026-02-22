@@ -1,6 +1,5 @@
 +++
 title = '1990'
-weight = 6
 bookCollapseSection = true
 +++
 
