@@ -1,4 +1,5 @@
 .env
+.claude
 
 # Generated files and directories
 /public/
