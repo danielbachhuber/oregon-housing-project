@@ -158,7 +158,17 @@ This project uses **Hugo** as its static site generator. To run the development 
 hugo server
 ```
 
-This will start a local development server, typically at `http://localhost:1313/`.
+This will start a local development server at `http://localhost:1313/`. If port 1313 is already in use (e.g., another worktree's Hugo server is running), Hugo will automatically select the next available port.
+
+## Git Worktrees
+
+When creating a worktree (via the `EnterWorktree` tool or otherwise), always initialize submodules immediately after:
+
+```bash
+git submodule update --init
+```
+
+The site depends on the `themes/hugo-book` submodule and Hugo will fail to build without it.
 
 ## LLM-Assisted Research
 

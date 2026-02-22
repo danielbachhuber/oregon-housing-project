@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2021R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3027,
+    "CatchLine": "Prohibits certain products that use or contain hydrofluorocarbons from entering into commerce in Oregon if product was manufactured after specified date.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tProhibits certain products that use or contain hydrofluorocarbons from entering into commerce in Oregon if product was manufactured after specified date. \n\tRequires Department of Consumer and Business Services to adopt rules as necessary to align state building code with provisions of Act or rules adopted by Environmental Quality Commission pursuant to Act. \n\tPermits state contracting agencies to give preference to products that do not use or contain hydrofluorocarbons or that use or contain hydrofluorocarbons with low global warming potential. \n\tTakes effect on 91st day following adjournment sine die.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to hydrofluorocarbons; and prescribing an effective date.\n\t",
+    "RelatingTo": "Relating to hydrofluorocarbons; prescribing an effective date.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HEE",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Haylee Morse-Miller",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 1423,
+    "Vetoed": false,
+    "CreatedDate": "2021-01-18T16:40:40",
+    "ModifiedDate": "2021-02-16T13:18:50",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "116834",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3027,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Fahey",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2021-01-20T21:05:02",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 495718,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3027,
+      "Chamber": "H",
+      "ActionDate": "2021-01-21T09:03:02",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2021-01-21T09:03:23",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 496115,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3027,
+      "Chamber": "H",
+      "ActionDate": "2021-01-26T08:12:34",
+      "ActionText": "Referred to Energy and Environment.",
+      "VoteText": null,
+      "CreatedDate": "2021-01-26T08:12:58",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 537081,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3027,
+      "Chamber": "H",
+      "ActionDate": "2021-06-26T17:37:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2021-07-13T12:52:01",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3027,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/HB3027/Introduced",
+      "CreatedDate": "2021-01-20T12:18:40.33",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

@@ -3,6 +3,7 @@
   "configurations": [
     {
       "name": "Hugo",
+      "name": "Hugo Dev Server",
       "runtimeExecutable": "hugo",
       "runtimeArgs": ["server"],
       "port": 1313

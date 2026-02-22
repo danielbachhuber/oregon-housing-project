@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2021R1",
+    "MeasurePrefix": "SJR",
+    "MeasureNumber": 1,
+    "CatchLine": "Proposes amendment to Oregon Constitution repealing ad valorem property tax system created by House Joint Resolution 85 (1997) (Ballot Measure 50 (1997)) and requiring Legislative Assembly to enact such laws as may be necessary or appropriate to transfer repealed provisions to statute without substantive changes other than changes to address inequities of constitutional property tax system that can be made without affecting stability of system.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tProposes amendment to Oregon Constitution repealing ad valorem property tax system created by House Joint Resolution 85 (1997) (Ballot Measure 50 (1997)) and requiring Legislative Assembly to enact such laws as may be necessary or appropriate to transfer repealed provisions to statute without substantive changes other than changes to address inequities of constitutional property tax system that can be made without affecting stability of system. \n\tRefers proposed amendment to people for their approval or rejection at next regular general election.",
+    "CurrentVersion": null,
+    "RelatingToFull": "\n\t",
+    "RelatingTo": "Proposing amendment to Oregon Constitution relating to the transfer of certain constitutional provisions governing ad valorem property taxation to statute.",
+    "AtTheRequestOf": "(at the request of Senate Interim Committee on Finance and Revenue)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SFR",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Kim To",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 2359,
+    "Vetoed": false,
+    "CreatedDate": "2020-12-14T11:36:49",
+    "ModifiedDate": "2021-01-19T19:14:40",
+    "PrefixMeaning": "Senate Joint Resolution"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "116502",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SJR",
+      "MeasureNumber": 1,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "Printed pursuant to Senate Interim Rule 213.28 by order of the President of the Senate in conformance with presession filing rules, indicating neither advocacy nor opposition on the part of the President.",
+      "CreatedDate": "2021-01-09T19:32:48",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 493020,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SJR",
+      "MeasureNumber": 1,
+      "Chamber": "S",
+      "ActionDate": "2021-01-11T09:28:22",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2021-01-11T09:28:40",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 493898,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SJR",
+      "MeasureNumber": 1,
+      "Chamber": "S",
+      "ActionDate": "2021-01-19T11:35:42",
+      "ActionText": "Referred to Finance and Revenue.",
+      "VoteText": null,
+      "CreatedDate": "2021-01-19T11:36:34",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 536306,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SJR",
+      "MeasureNumber": 1,
+      "Chamber": "S",
+      "ActionDate": "2021-06-26T17:37:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2021-07-06T13:57:54",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SJR",
+      "MeasureNumber": 1,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/SJR1/Introduced",
+      "CreatedDate": "2021-01-10T08:33:42.833",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}
