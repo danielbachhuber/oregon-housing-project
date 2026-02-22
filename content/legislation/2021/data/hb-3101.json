@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2021R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3101,
+    "CatchLine": "Directs Water Resources Department to establish grant program for purposes of providing grants for abandonment, repair or replacement of certain water wells.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDirects Water Resources Department to establish grant program for purposes of providing grants for abandonment, repair or replacement of certain water wells. \n\tEstablishes Water Well Abandonment, Repair and Replacement Revolving Fund. Continuously appropriates moneys in fund to department for specified purposes. \n\tAppropriates moneys from General Fund to department for funding positions related to water wells and establishing grant program for purpose of providing grants for abandonment, repair or replacement of certain water wells. \n\tDeclares emergency, effective on passage.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to water wells; and declaring an emergency.\n\t",
+    "RelatingTo": "Relating to water wells; declaring an emergency.",
+    "AtTheRequestOf": "(at the request of Representative Ken Helm)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HWTR",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": true,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Tim Walker",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 1491,
+    "Vetoed": false,
+    "CreatedDate": "2021-01-29T10:14:05",
+    "ModifiedDate": "2021-02-16T13:27:44",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "117492",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3101,
+      "SponsorType": "Committee",
+      "LegislatoreCode": null,
+      "CommitteeCode": "HWTR",
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2021-02-01T21:05:02",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 497018,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3101,
+      "Chamber": "H",
+      "ActionDate": "2021-02-02T10:36:48",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2021-02-02T10:37:40",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 497162,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3101,
+      "Chamber": "H",
+      "ActionDate": "2021-02-03T09:10:53",
+      "ActionText": "Referred to Water with subsequent referral to Ways and Means.",
+      "VoteText": null,
+      "CreatedDate": "2021-02-03T09:11:11",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 537220,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3101,
+      "Chamber": "H",
+      "ActionDate": "2021-06-26T17:37:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2021-07-13T12:52:01",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3101,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/HB3101/Introduced",
+      "CreatedDate": "2021-02-01T16:18:45.01",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

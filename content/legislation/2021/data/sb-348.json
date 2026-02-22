@@ -1,0 +1,125 @@
+{
+  "measure": {
+    "SessionKey": "2021R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 348,
+    "CatchLine": "Grants higher property tax exemption for property of veterans with disabilities.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tGrants higher property tax exemption for property of veterans with disabilities. Grants exemption for veteran's surviving spouse who remains unmarried. \n\tTakes effect on 91st day following adjournment sine die.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to property tax exemption for disabled veterans; creating new provisions; amending ORS 307.250, 307.260 and 307.270; and prescribing an effective date.\n\t",
+    "RelatingTo": "Relating to property tax exemption for disabled veterans; prescribing an effective date.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SFR",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Jaime McGovern",
+    "LCNumber": 3188,
+    "Vetoed": false,
+    "CreatedDate": "2020-12-18T14:57:38",
+    "ModifiedDate": "2021-05-25T10:54:07",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "114102",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 348,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "(Presession filed.)",
+      "CreatedDate": "2021-01-09T19:31:24",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "114103",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 348,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Olsen",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2021-01-09T19:31:24",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 493441,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 348,
+      "Chamber": "S",
+      "ActionDate": "2021-01-11T09:28:22",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2021-01-11T09:28:41",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 494264,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 348,
+      "Chamber": "S",
+      "ActionDate": "2021-01-19T11:35:42",
+      "ActionText": "Referred to Finance and Revenue.",
+      "VoteText": null,
+      "CreatedDate": "2021-01-19T11:36:35",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 524839,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 348,
+      "Chamber": "S",
+      "ActionDate": "2021-05-25T11:36:00",
+      "ActionText": "Motion to withdraw from committee on Finance and Revenue failed.",
+      "VoteText": "Ayes, 11; Nays, 18--Beyer, Burdick, Dembrow, Frederick, Gelser, Golden, Gorsek, Heard, Jama, Johnson, Lieber, Patterson, President Courtney, Prozanski, Riley, Steiner Hayward, Taylor, Wagner; Excused, 1--Manning Jr.",
+      "CreatedDate": "2021-05-25T10:53:58",
+      "ModifiedDate": "2021-05-25T10:54:07",
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 535765,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 348,
+      "Chamber": "S",
+      "ActionDate": "2021-06-26T17:37:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2021-07-06T13:57:54",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 348,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/SB348/Introduced",
+      "CreatedDate": "2021-01-10T08:21:40.477",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

@@ -1,0 +1,161 @@
+{
+  "measure": {
+    "SessionKey": "2021R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 2878,
+    "CatchLine": "Directs Department of Veterans' Affairs to develop program under which providers contracting with department provide credit guarantees for qualified borrowers for purpose of refinancing home mortgages.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDirects Department of Veterans' Affairs to develop program under which providers contracting with department provide credit guarantees for qualified borrowers for purpose of refinancing home mortgages. \n\tProhibits department from paying amounts due under loan or credit guarantee agreement from any source other than available moneys in Veterans Refinancing and Reintegration Services Fund. Authorizes financial institution to exercise rights against security if there are insufficient available moneys to pay amounts due under loan or credit guarantee agreement. \n\tEstablishes Veterans Refinancing and Reintegration Services Fund. Continuously appropriates moneys in fund to department for purposes of program. \n\tDirects Oregon Department of Administrative Services to include in Governor's budget for each fiscal period amounts sufficient to permit payment of amounts due on unpaid loan and credit guarantees for that fiscal period.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to refinancing options for veterans.\n\t",
+    "RelatingTo": "Relating to refinancing options for veterans.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HVEM",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Kim To",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 2554,
+    "Vetoed": false,
+    "CreatedDate": "2020-12-29T10:13:06",
+    "ModifiedDate": "2021-02-16T11:07:10",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "115779",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2878,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "(Presession filed.)",
+      "CreatedDate": "2021-01-09T19:32:47",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "115780",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2878,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Evans",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2021-01-09T19:32:47",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 492931,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2878,
+      "Chamber": "H",
+      "ActionDate": "2021-01-11T07:57:04",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2021-01-11T07:59:32",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 495471,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2878,
+      "Chamber": "H",
+      "ActionDate": "2021-01-19T20:40:25",
+      "ActionText": "Referred to Veterans and Emergency Management.",
+      "VoteText": null,
+      "CreatedDate": "2021-01-19T20:40:49",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 498782,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2878,
+      "Chamber": "H",
+      "ActionDate": "2021-02-16T15:16:00",
+      "ActionText": "Public Hearing cancelled.",
+      "VoteText": null,
+      "CreatedDate": "2021-02-14T14:31:20",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 499981,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2878,
+      "Chamber": "H",
+      "ActionDate": "2021-02-23T15:16:00",
+      "ActionText": "Public Hearing held.",
+      "VoteText": null,
+      "CreatedDate": "2021-02-23T16:04:44",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 537336,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2878,
+      "Chamber": "H",
+      "ActionDate": "2021-06-26T17:37:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2021-07-13T12:52:01",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2878,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/HB2878/Introduced",
+      "CreatedDate": "2021-01-10T08:12:33.58",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": [
+    {
+      "CommTestId": 7202,
+      "SubmitterFirstName": "Jennifer",
+      "SubmitterLastName": "Donovan",
+      "BehalfOf": null,
+      "Organization": "Oregon Department of Veterans Affairs",
+      "DocumentDescription": "Testimony",
+      "CreatedDate": "2021-02-23T15:16:09.947",
+      "ModifiedDate": "2021-02-23T15:28:15.147",
+      "PdfCreatedFlag": "Y",
+      "PositionOnMeasureId": 3981,
+      "SessionKey": "2021R1",
+      "CommitteeCode": "HVEM",
+      "MeetingDate": "2021-02-23T15:15:00",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2878,
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2021R1",
+      "FirstName": null,
+      "LastName": null,
+      "ExecApptId": null,
+      "Topic": "(4:35pm) Directs Department of Veterans' Affairs to develop program under which providers contracting with department provide credit guarantees for qualified borrowers for purpose of refinancing home mortgages."
+    }
+  ]
+}

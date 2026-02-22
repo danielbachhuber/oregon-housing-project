@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2021R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 769,
+    "CatchLine": "Provides, for purposes of ad valorem property taxation, frozen assessed value for homestead of individual at least 68 years of age, or person with disability, if homestead and individual would be eligible for homestead property tax deferral program but for fact that homestead is pledged as security for reverse mortgage.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tProvides, for purposes of ad valorem property taxation, frozen assessed value for homestead of individual at least 68 years of age, or person with disability, if homestead and individual would be eligible for homestead property tax deferral program but for fact that homestead is pledged as security for reverse mortgage. Provides that frozen assessed value equals assessed value of homestead for property tax year immediately preceding first property tax year to which valid claim relates. Provides that, after occurrence of certain circumstances, homestead shall be assessed and taxed as other property similarly situated is assessed and taxed. \n\tSunsets program after six years. Maintains frozen assessed value for homesteads granted frozen assessed value before sunset. \n\tTakes effect on 91st day following adjournment sine die.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to a frozen assessed value for the homesteads of certain individuals; and prescribing an effective date.\n\t",
+    "RelatingTo": "Relating to a frozen assessed value for the homesteads of certain individuals; prescribing an effective date.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SFR",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Jaime McGovern",
+    "LCNumber": 703,
+    "Vetoed": false,
+    "CreatedDate": "2021-02-12T09:29:34",
+    "ModifiedDate": "2021-03-17T11:38:08",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "118202",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 769,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Knopp",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2021-02-17T21:05:02",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 499266,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 769,
+      "Chamber": "S",
+      "ActionDate": "2021-02-18T09:42:43",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2021-02-18T09:42:54",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 499597,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 769,
+      "Chamber": "S",
+      "ActionDate": "2021-02-22T12:55:42",
+      "ActionText": "Referred to Finance and Revenue.",
+      "VoteText": null,
+      "CreatedDate": "2021-02-22T12:56:02",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 535963,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 769,
+      "Chamber": "S",
+      "ActionDate": "2021-06-26T17:37:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2021-07-06T13:57:54",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 769,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/SB769/Introduced",
+      "CreatedDate": "2021-02-17T16:18:16.007",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}
