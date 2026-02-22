@@ -3,8 +3,6 @@ title = 'Milwaukie'
 date = '2026-02-17'
 +++
 
-# Milwaukie
-
 Milwaukie is a city mostly in Clackamas County, Oregon, United States; a very small portion of the city extends into Multnomah County.[^1] The population in 2024 was 21,620, making it the 31st most populated city in the state of Oregon.[^2] Founded in 1847 on the banks of the Willamette River, the city, known as the Dogwood City of the West, was incorporated in 1903 and is the birthplace of the Bing cherry.[^1] The city is now a suburb of [Portland](/cities/portland) and also adjoins the unincorporated areas of Clackamas and Oak Grove.[^1] Milwaukie has an area of 4.8 square miles.[^3]
 
 The city experienced a significant boost in its housing market following the opening of the MAX Orange Line light rail in 2015. In 2015–2016, Milwaukie saw a boom in real estate and was named the ninth hottest real estate market in 2016 by realtor.com.[^1] A year after the opening of the Orange Line, housing prices had risen 12.2% and city officials said there were no vacancies for retail storefronts in Milwaukie's downtown area.[^1]
