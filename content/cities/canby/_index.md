@@ -3,8 +3,6 @@ title = 'Canby'
 date = '2026-02-05'
 +++
 
-# Canby
-
 Canby is a city in Clackamas County, Oregon, located approximately 25 miles south of [Portland](/cities/portland) in the Willamette Valley.
 
 ## Overview

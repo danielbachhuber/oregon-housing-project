@@ -3,8 +3,6 @@ title = 'Woodburn'
 date = '2026-02-10'
 +++
 
-# Woodburn
-
 Woodburn is a city in Marion County, Oregon, located in the northern Willamette Valley approximately 30 miles south-southwest of [Portland](/cities/portland) along Interstate 5.[^1] The population was 26,013 at the 2020 census and was estimated to be 30,449 in 2024, making Woodburn the 21st most populated city in Oregon and the third-most populous in the Salem metropolitan area after Salem and Keizer.[^1] According to the United States Census Bureau, the city has a total area of 6.197 square miles.[^1]
 
 Woodburn is notable for its cultural diversity. The largest racial/ethnic groups are Hispanic (62.6%) followed by White (32.8%) and Two or More (3.0%).[^2] The city is home for a sizable community of Russian Orthodox Old Believers, a Christian traditionalist church that had escaped religious prosecution from post-revolution Russia and moved to the United States from Turkey in the 1950s.[^1] Also present in the city are communities of Russian Molokans, Doukhobors and recent refugees from the former USSR: Ukrainian and Russian Pentecostals and Baptists.[^1] Among Woodburn residents aged 5 and older, 54.5% speak a non-English language at home, with 50.0% speaking Spanish and 4.0% speaking an Indo-European language.[^20] With a median household income of $67,469 and a poverty rate of 15.2%, the city faces significant housing affordability pressures.[^2][^5]

@@ -116,7 +116,7 @@ ${exemplarProfiles}`;
   if (isExisting) {
     userPrompt = `Refine and improve this existing city profile for ${cityName}, Oregon. Keep any accurate information and citations, but improve the structure, add missing context, ensure proper internal linking, and fill in any gaps using the template instructions.
 
-IMPORTANT: Respond with ONLY the markdown file content starting with +++. No preamble, no explanation, no code fences.
+IMPORTANT: Respond with ONLY the markdown file content starting with +++. No preamble, no explanation, no code fences. Do NOT include an h1 heading (e.g. # ${cityName}) — the page title is rendered by the template.
 
 Here is the existing profile:
 
@@ -124,7 +124,7 @@ ${existingContent}`;
   } else {
     userPrompt = `Create a new city profile for ${cityName}, Oregon. Research the city's housing situation and write a complete profile following the template instructions.
 
-IMPORTANT: Respond with ONLY the markdown file content starting with +++. No preamble, no explanation, no code fences.`;
+IMPORTANT: Respond with ONLY the markdown file content starting with +++. No preamble, no explanation, no code fences. Do NOT include an h1 heading (e.g. # ${cityName}) — the page title is rendered by the template.`;
   }
 
   // Call Anthropic API with web search enabled
