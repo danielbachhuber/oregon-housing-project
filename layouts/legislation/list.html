@@ -46,6 +46,33 @@
     {{ if .Pages }}
     {{ $bills := .Pages }}
     {{ $billCount := len $bills }}
+
+    {{/* Stage definitions - ordered from most to least advanced (for table grouping) */}}
+    {{ $stageGroups := slice
+      (dict "name" "Signed into Law" "statuses" (slice "Chapter Number Assigned"))
+      (dict "name" "Near Passage" "statuses" (slice "At Presidents Desk Upon Adjournment" "In House Conference Committee" "At House Desk Upon Adjournment"))
+      (dict "name" "Awaiting Floor Vote" "statuses" (slice "Senate Desk - Awaiting Third Reading" "House Desk - Awaiting First Reading"))
+      (dict "name" "In Senate Committee" "statuses" (slice "In Senate Committee"))
+      (dict "name" "In House Committee" "statuses" (slice "In House Committee"))
+      (dict "name" "Failed" "statuses" (slice "Senate Desk - Failed" "House Desk - Failed"))
+    }}
+
+    {{/* Pipeline order for banner display (least to most advanced) */}}
+    {{ $pipelineOrder := slice "In House Committee" "In Senate Committee" "Awaiting Floor Vote" "Near Passage" "Signed into Law" }}
+
+    {{/* Count bills per stage */}}
+    {{ $stageCounts := newScratch }}
+    {{ range $bills }}
+      {{ $status := .Params.status | default "" }}
+      {{ $matched := false }}
+      {{ range $stageGroups }}
+        {{ if and (not $matched) (in .statuses $status) }}
+          {{ $stageCounts.Add .name 1 }}
+          {{ $matched = true }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+
     {{ $chambers := newScratch }}
     {{ $sponsors := newScratch }}
     {{ $sponsors.Set "keys" slice }}
@@ -64,8 +91,8 @@
       {{ end }}
     {{ end }}
     <blockquote class="book-hint info">
-      <p>{{ $billCount }} bill{{ if ne $billCount 1 }}s{{ end }} tracked.
-      {{ $first := true }}{{ range $ch, $count := $chambers.Values }}{{ if not $first }}, {{ end }}{{ $ch }} ({{ $count }}){{ $first = false }}{{ end }}.</p>
+      <p><strong>{{ $billCount }} housing bill{{ if ne $billCount 1 }}s{{ end }} tracked.</strong></p>
+      <p><strong>Bills by stage:</strong> {{ $firstStage := true }}{{ range $pipelineOrder }}{{ $count := $stageCounts.Get . }}{{ if $count }}{{ if not $firstStage }} &rarr; {{ end }}<a href="#{{ . | urlize }}">{{ . }}</a> ({{ $count }}){{ $firstStage = false }}{{ end }}{{ end }}{{ with $stageCounts.Get "Failed" }} &bull; <a href="#failed">Failed</a> ({{ . }}){{ end }}</p>
       {{ with $sponsors.Get "keys" }}
         {{ $sortable := slice }}
         {{ range . }}
@@ -75,25 +102,39 @@
         <p><strong>Most active sponsors:</strong> {{ range $i, $s := first 5 $sorted }}{{ if $i }}, {{ end }}{{ with site.GetPage (printf "/people/%s" $s.slug) }}<a href="{{ .RelPermalink }}">{{ $s.name }}</a>{{ else }}{{ $s.name }}{{ end }} ({{ $s.count }}){{ end }}</p>
       {{ end }}
     </blockquote>
-    <table>
-      <thead>
-        <tr>
-          <th>Bill</th>
-          <th>Status</th>
-          <th>Sponsors</th>
-        </tr>
-      </thead>
-      <tbody>
-        {{ range sort .Pages "Title" }}
-        <tr>
-          {{ $billPath := .RelPermalink | replaceRE "/$" "" }}{{ $newsCount := 0 }}{{ range where site.RegularPages "Section" "news-coverage" }}{{ if findRE (printf `\]\(%s\)` $billPath) .RawContent }}{{ $newsCount = add $newsCount 1 }}{{ end }}{{ end }}
-          <td><a href="{{ .Permalink }}" style="font-size:1.1em;font-weight:bold">{{ .Title }}</a><br>{{ with .Params.catch_line }}{{ . }}{{ else }}{{ .Plain | replaceRE (printf "^%s\\s*" .Title) "" | truncate 120 }}{{ end }}{{ with .Params.testimony }} <em style="white-space:nowrap">{{ len . }} testimon{{ if eq (len .) 1 }}y{{ else }}ies{{ end }}</em>{{ end }} · <em style="white-space:nowrap">{{ $newsCount }} article{{ if ne $newsCount 1 }}s{{ end }}</em></td>
-          <td>{{ .Params.status }}</td>
-          <td>{{ with .Params.sponsors }}{{ range $i, $s := first 3 . }}{{ if $i }}, {{ end }}{{ with site.GetPage (printf "/people/%s" $s.slug) }}<a href="{{ .RelPermalink }}">{{ $s.name }}</a>{{ else }}{{ $s.name }}{{ end }}{{ end }}{{ if gt (len .) 3 }} +{{ sub (len .) 3 }} more{{ end }}{{ end }}</td>
-        </tr>
+    {{ range $stageGroups }}
+      {{ $stageName := .name }}
+      {{ $stageStatuses := .statuses }}
+      {{ $stageBills := slice }}
+      {{ range $bills }}
+        {{ if in $stageStatuses (.Params.status | default "") }}
+          {{ $stageBills = $stageBills | append . }}
         {{ end }}
-      </tbody>
-    </table>
+      {{ end }}
+      {{ if $stageBills }}
+      <h2 id="{{ $stageName | urlize }}">{{ $stageName }}</h2>
+      <p><em>{{ len $stageBills }} bill{{ if ne (len $stageBills) 1 }}s{{ end }}</em></p>
+      <table>
+        <thead>
+          <tr>
+            <th>Bill</th>
+            <th>Status</th>
+            <th>Sponsors</th>
+          </tr>
+        </thead>
+        <tbody>
+          {{ range sort $stageBills "Title" }}
+          <tr>
+            {{ $billPath := .RelPermalink | replaceRE "/$" "" }}{{ $newsCount := 0 }}{{ range where site.RegularPages "Section" "news-coverage" }}{{ if findRE (printf `\]\(%s\)` $billPath) .RawContent }}{{ $newsCount = add $newsCount 1 }}{{ end }}{{ end }}
+            <td><a href="{{ .Permalink }}" style="font-size:1.1em;font-weight:bold">{{ .Title }}</a><br>{{ with .Params.catch_line }}{{ . }}{{ else }}{{ .Plain | replaceRE (printf "^%s\\s*" .Title) "" | truncate 120 }}{{ end }}{{ with .Params.testimony }} <em style="white-space:nowrap">{{ len . }} testimon{{ if eq (len .) 1 }}y{{ else }}ies{{ end }}</em>{{ end }} · <em style="white-space:nowrap">{{ $newsCount }} article{{ if ne $newsCount 1 }}s{{ end }}</em></td>
+            <td>{{ .Params.status }}</td>
+            <td>{{ with .Params.sponsors }}{{ range $i, $s := first 3 . }}{{ if $i }}, {{ end }}{{ with site.GetPage (printf "/people/%s" $s.slug) }}<a href="{{ .RelPermalink }}">{{ $s.name }}</a>{{ else }}{{ $s.name }}{{ end }}{{ end }}{{ if gt (len .) 3 }} +{{ sub (len .) 3 }} more{{ end }}{{ end }}</td>
+          </tr>
+          {{ end }}
+        </tbody>
+      </table>
+      {{ end }}
+    {{ end }}
     {{ end }}
   {{ end }}
 </article>
