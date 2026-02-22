@@ -10,8 +10,11 @@
 {{ define "book-section-children" }}{{/* (dict "Section" .Section "CurrentPage" .CurrentPage) */}}
   <ul>
     {{ $sortByTitle := or (eq .Section.Section "people") (eq .Section.Section "cities") (and (eq .Section.Section "legislation") (.Section.Parent) (ne .Section.Parent.Kind "home")) }}
+    {{ $sortByTitleDesc := eq .Section.RelPermalink "/legislation/" }}
     {{ $pages := where .Section.Pages "Params.bookHidden" "ne" true }}
-    {{ range (cond $sortByTitle (sort $pages "Title") $pages) }}
+    {{ $sortedPages := cond $sortByTitle (sort $pages "Title") $pages }}
+    {{ $sortedPages = cond $sortByTitleDesc (sort $pages "RelPermalink" "desc") $sortedPages }}
+    {{ range $sortedPages }}
       {{ if .IsSection }}
         <li {{- if .Params.BookFlatSection }} class="book-section-flat" {{ end -}}>
           {{ template "book-page-link" (dict "Page" . "CurrentPage" $.CurrentPage) }}
