@@ -46,8 +46,7 @@
 {{ end }}
 
 <blockquote class="book-hint info">
-  <p><strong>{{ $billCount }} housing bill{{ if ne $billCount 1 }}s{{ end }} tracked.</strong></p>
-  <p><strong>Bills by stage:</strong> {{ $firstStage := true }}{{ range $pipelineOrder }}{{ $count := $stageCounts.Get . }}{{ if $count }}{{ if not $firstStage }} &rarr; {{ end }}<a href="{{ $baseURL }}#{{ . | urlize }}">{{ . }}</a> ({{ $count }}){{ $firstStage = false }}{{ end }}{{ end }}{{ with $stageCounts.Get "Failed" }} &bull; <a href="{{ $baseURL }}#failed">Failed</a> ({{ . }}){{ end }}</p>
+  <p><strong>{{ $billCount }} housing bill{{ if ne $billCount 1 }}s{{ end }} tracked:</strong> {{ $firstStage := true }}{{ range $pipelineOrder }}{{ $count := $stageCounts.Get . }}{{ if $count }}{{ if not $firstStage }} &rarr; {{ end }}<a href="{{ $baseURL }}#{{ . | urlize }}">{{ . }}</a> ({{ $count }}){{ $firstStage = false }}{{ end }}{{ end }}{{ with $stageCounts.Get "Failed" }} &bull; <a href="{{ $baseURL }}#failed">Failed</a> ({{ . }}){{ end }}</p>
   {{ with $sponsors.Get "keys" }}
     {{ $sortable := slice }}
     {{ range . }}
