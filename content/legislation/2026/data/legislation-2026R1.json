@@ -2543,6 +2543,11 @@
         "name": "Rep Wise",
         "level": "Regular",
         "type": "Member"
+      },
+      {
+        "name": "Rep Fragala",
+        "level": "Regular",
+        "type": "Member"
       }
     ]
   },
@@ -6365,6 +6370,11 @@
         "name": "Rep Javadi",
         "level": "Regular",
         "type": "Member"
+      },
+      {
+        "name": "Sen Smith DB",
+        "level": "Regular",
+        "type": "Member"
       }
     ]
   },
@@ -7974,6 +7984,11 @@
       },
       {
         "name": "Rep Kropf",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Sen Patterson",
         "level": "Regular",
         "type": "Member"
       }
@@ -13014,6 +13029,11 @@
         "name": "Rep Chotzen",
         "level": "Regular",
         "type": "Member"
+      },
+      {
+        "name": "Rep Chaichi",
+        "level": "Regular",
+        "type": "Member"
       }
     ]
   },
@@ -14448,6 +14468,11 @@
       {
         "name": "Rep Levy E",
         "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Sen Weber",
+        "level": "Chief",
         "type": "Member"
       }
     ]
