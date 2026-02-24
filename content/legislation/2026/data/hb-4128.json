@@ -23,7 +23,7 @@
     "LCNumber": 264,
     "Vetoed": false,
     "CreatedDate": "2026-01-18T11:34:03",
-    "ModifiedDate": "2026-02-19T15:17:38",
+    "ModifiedDate": "2026-02-23T18:00:27",
     "PrefixMeaning": "House Bill"
   },
   "sponsors": [
@@ -524,7 +524,7 @@
       "PublicNotification": true
     },
     {
-      "MeasureHistoryId": 667664,
+      "MeasureHistoryId": 667972,
       "SessionKey": "2026R1",
       "MeasurePrefix": "HB",
       "MeasureNumber": 4128,
@@ -532,7 +532,7 @@
       "ActionDate": "2026-02-24T15:01:00",
       "ActionText": "Public Hearing and Possible Work Session scheduled.",
       "VoteText": null,
-      "CreatedDate": "2026-02-19T16:49:42",
+      "CreatedDate": "2026-02-23T12:17:58",
       "ModifiedDate": null,
       "PublicNotification": true
     }
@@ -845,6 +845,28 @@
       "SessionKey": "2026R1",
       "CommitteeCode": "HHOUSH",
       "MeetingDate": "2026-02-10T15:00:00",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4128,
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1",
+      "FirstName": null,
+      "LastName": null,
+      "ExecApptId": null,
+      "Topic": "Prohibits covered entities from purchasing, acquiring or offering to purchase or acquire a single-family residence unless the residence has been listed for sale to the general public for at least 90 days."
+    },
+    {
+      "CommTestId": 252949,
+      "SubmitterFirstName": "Jim",
+      "SubmitterLastName": "Herman",
+      "BehalfOf": "myself ",
+      "Organization": "Portland",
+      "DocumentDescription": "Testimony",
+      "CreatedDate": "2026-02-23T22:13:36.99",
+      "ModifiedDate": "2026-02-23T22:20:03.677",
+      "PdfCreatedFlag": "Y",
+      "PositionOnMeasureId": 3982,
+      "SessionKey": "2026R1",
+      "CommitteeCode": "SHDEV",
+      "MeetingDate": "2026-02-24T15:00:00",
       "MeasurePrefix": "HB",
       "MeasureNumber": 4128,
       "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1",
