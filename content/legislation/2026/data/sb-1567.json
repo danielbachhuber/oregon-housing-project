@@ -13,7 +13,7 @@
     "ChapterNumber": null,
     "CurrentLocation": "In Senate Committee",
     "CurrentCommitteeCode": "JWM",
-    "CurrentSubCommittee": null,
+    "CurrentSubCommittee": "JWMTR",
     "FiscalImpact": "Fiscal impact issued",
     "RevenueImpact": "Revenue impact issued",
     "EmergencyClause": false,
@@ -23,7 +23,7 @@
     "LCNumber": 156,
     "Vetoed": false,
     "CreatedDate": "2026-01-16T14:00:23",
-    "ModifiedDate": "2026-02-09T18:05:02",
+    "ModifiedDate": "2026-02-23T11:09:37",
     "PrefixMeaning": "Senate Bill"
   },
   "sponsors": [
@@ -414,6 +414,32 @@
       "CreatedDate": "2026-02-09T09:53:36",
       "ModifiedDate": null,
       "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 667935,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1567,
+      "Chamber": "S",
+      "ActionDate": "2026-02-23T11:09:00",
+      "ActionText": "Assigned to Subcommittee On Transportation and Economic Development.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-23T11:09:37",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 667962,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1567,
+      "Chamber": "S",
+      "ActionDate": "2026-02-24T15:01:00",
+      "ActionText": "Work Session scheduled.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-23T12:02:42",
+      "ModifiedDate": null,
+      "PublicNotification": true
     }
   ],
   "documents": [

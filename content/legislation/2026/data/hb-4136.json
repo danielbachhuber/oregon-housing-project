@@ -292,6 +292,34 @@
       "PresessionFiledMessage": null,
       "CreatedDate": "2026-02-20T13:51:35",
       "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "157885",
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4136,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Chaichi",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2026-02-23T06:50:04",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "157890",
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4136,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Nosse",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2026-02-23T12:53:28",
+      "ModifiedDate": null
     }
   ],
   "historyActions": [

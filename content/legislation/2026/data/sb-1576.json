@@ -496,6 +496,28 @@
   ],
   "testimony": [
     {
+      "CommTestId": 252274,
+      "SubmitterFirstName": "B",
+      "SubmitterLastName": "Tobias",
+      "BehalfOf": null,
+      "Organization": "Freedom for Oregonians",
+      "DocumentDescription": "Testimony",
+      "CreatedDate": "2026-02-22T16:35:00.293",
+      "ModifiedDate": "2026-02-22T16:35:42.963",
+      "PdfCreatedFlag": "Y",
+      "PositionOnMeasureId": 3983,
+      "SessionKey": "2026R1",
+      "CommitteeCode": "HHOUSH",
+      "MeetingDate": "2026-02-24T15:00:00",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1576,
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1",
+      "FirstName": null,
+      "LastName": null,
+      "ExecApptId": null,
+      "Topic": "Requires the Director of the Department of Consumer and Business Services to adopt rules to conform the state building code to accessibility requirements under the Fair Housing Act."
+    },
+    {
       "CommTestId": 228831,
       "SubmitterFirstName": "Deb",
       "SubmitterLastName": "Patterson",

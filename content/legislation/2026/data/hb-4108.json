@@ -817,6 +817,28 @@
       "LastName": null,
       "ExecApptId": null,
       "Topic": "Requires a city to annex noncontiguous land upon receipt of a petition from all owners of the land that satisfies four eligibility criteria."
+    },
+    {
+      "CommTestId": 252622,
+      "SubmitterFirstName": "Betsy",
+      "SubmitterLastName": "Schultz",
+      "BehalfOf": "Better Housing Together",
+      "Organization": "Eugene",
+      "DocumentDescription": "Testimony",
+      "CreatedDate": "2026-02-23T11:35:03.82",
+      "ModifiedDate": "2026-02-23T11:39:57.307",
+      "PdfCreatedFlag": "Y",
+      "PositionOnMeasureId": 3983,
+      "SessionKey": "2026R1",
+      "CommitteeCode": "SHDEV",
+      "MeetingDate": "2026-02-26T15:00:00",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4108,
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1",
+      "FirstName": null,
+      "LastName": null,
+      "ExecApptId": null,
+      "Topic": "Allows the City of Eugene to annex noncontiguous land upon receipt of a petition from all owners of the land that satisfies four eligibility criteria."
     }
   ]
 }

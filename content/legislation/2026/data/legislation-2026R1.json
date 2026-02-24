@@ -485,7 +485,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HCR202",
     "introduced": "2026-02-05T08:28:43",
     "chamber": "House",
-    "status": "In House Committee Awaiting transfer to Desk",
+    "status": "House Desk - Final Readings of Mem & Res.",
     "sponsors": [
       {
         "name": "HRULES",
@@ -942,7 +942,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SCR206",
     "introduced": "2026-01-20T10:03:46",
     "chamber": "Senate",
-    "status": "House Desk - Awaiting First Reading",
+    "status": "Speakers Desk - Awaiting Referral",
     "sponsors": [
       {
         "name": "Sen President Wagner",
@@ -1278,7 +1278,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1511",
     "introduced": "2026-01-14T09:36:13",
     "chamber": "Senate",
-    "status": "Senate Desk - Awaiting Second Reading",
+    "status": "Senate Desk - Awaiting Third Reading",
     "sponsors": []
   },
   {
@@ -1288,7 +1288,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1512",
     "introduced": "2026-01-14T09:40:02",
     "chamber": "Senate",
-    "status": "In House Committee",
+    "status": "In House Committee Awaiting transfer to Desk",
     "sponsors": []
   },
   {
@@ -1348,7 +1348,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1518",
     "introduced": "2026-01-14T10:09:44",
     "chamber": "Senate",
-    "status": "Legislative Counsel - Enrollment",
+    "status": "Senate Desk – Awaiting Transfer to Governor",
     "sponsors": []
   },
   {
@@ -1368,7 +1368,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1520",
     "introduced": "2026-01-14T10:09:44",
     "chamber": "Senate",
-    "status": "Legislative Counsel - Enrollment",
+    "status": "Senate Desk – Awaiting Transfer to Governor",
     "sponsors": []
   },
   {
@@ -1464,7 +1464,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1528",
     "introduced": "2026-01-14T16:14:19",
     "chamber": "Senate",
-    "status": "Senate Desk - Awaiting Second Reading",
+    "status": "Senate Desk - Awaiting Third Reading",
     "sponsors": []
   },
   {
@@ -2108,11 +2108,6 @@
         "type": "Member"
       },
       {
-        "name": "Rep Edwards",
-        "level": "Regular",
-        "type": "Member"
-      },
-      {
         "name": "Rep Hartman",
         "level": "Regular",
         "type": "Member"
@@ -2150,6 +2145,11 @@
       {
         "name": "Sen Patterson",
         "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Edwards",
+        "level": "Chief",
         "type": "Member"
       }
     ]
@@ -2543,6 +2543,11 @@
         "name": "Rep Wise",
         "level": "Regular",
         "type": "Member"
+      },
+      {
+        "name": "Rep Fragala",
+        "level": "Regular",
+        "type": "Member"
       }
     ]
   },
@@ -2619,7 +2624,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1570",
     "introduced": "2026-01-16T14:39:48",
     "chamber": "Senate",
-    "status": "Senate Desk - Awaiting Second Reading",
+    "status": "Senate Desk - Awaiting Third Reading",
     "sponsors": [
       {
         "name": "Sen Campos",
@@ -4755,6 +4760,11 @@
         "name": "Rep Nguyen D",
         "level": "Regular",
         "type": "Member"
+      },
+      {
+        "name": "Rep Fragala",
+        "level": "Regular",
+        "type": "Member"
       }
     ]
   },
@@ -4837,12 +4847,12 @@
   },
   {
     "billNumber": "SB1593",
-    "title": "Provides that an operator may require an adult person who engages in a sport, fitness or recreational activity in various ways to release the operator from claims for ordinary negligence.",
-    "summary": "\tDigest: The Act says that an operator may require a person who does recreation to release the operator from some types of claims. Tells OBDD to study issues for the recreation industry and make a report. (Flesch Readability Score: 60.9). \n\tProvides that an operator may require an adult person who engages in a sport, fitness or recreational activity in various ways to release the operator from claims for ordinary negligence. \n\tDirects the Oregon Business Development Department to study recreation commerce and report to an appropriate committee or interim committee of the Legislative Assembly no later than December 15, 2026. \n\tDeclares an emergency, effective on passage.",
+    "title": "Provides that an operator may require a person who engages in a sport, fitness or recreational activity in various ways to release the operator from claims for ordinary negligence.",
+    "summary": "\t<b>Digest: The Act says that an operator may require a person who does recreation to waive some kinds of claims. (Flesch Readability Score: 71.7).</b> \n\t[<i>Digest: The Act says that an operator may require a person who does recreation to release the operator from some types of claims. Tells OBDD to study issues for the recreation industry and make a report. (Flesch Readability Score: 60.9).</i>] \n\tProvides that an operator may require [<i>an adult</i>] <b>a </b>person who engages in a sport, fitness or recreational activity in various ways to release the operator from claims for ordinary negligence. \n\t[<i>Directs the Oregon Business Development Department to study recreation commerce and report to an appropriate committee or interim committee of the Legislative Assembly no later than December 15, 2026.</i>] \n\tDeclares an emergency, effective on passage.",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1593",
     "introduced": "2026-01-20T09:39:59",
     "chamber": "Senate",
-    "status": "Senate Presidents Desk - Awaiting Disposition",
+    "status": "In Senate Committee",
     "sponsors": [
       {
         "name": "Sen Meek",
@@ -4953,7 +4963,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1594",
     "introduced": "2026-01-20T09:54:23",
     "chamber": "Senate",
-    "status": "Senate Desk - Awaiting Second Reading",
+    "status": "Senate Desk - Awaiting Third Reading",
     "sponsors": [
       {
         "name": "Sen Jama",
@@ -5094,7 +5104,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1595",
     "introduced": "2026-01-20T09:54:23",
     "chamber": "Senate",
-    "status": "In Senate Committee",
+    "status": "In Senate Committee Awaiting transfer to Desk",
     "sponsors": [
       {
         "name": "Sen Jama",
@@ -5268,11 +5278,6 @@
         "type": "Member"
       },
       {
-        "name": "Rep McIntire",
-        "level": "Regular",
-        "type": "Member"
-      },
-      {
         "name": "Rep Nelson",
         "level": "Regular",
         "type": "Member"
@@ -5284,6 +5289,11 @@
       },
       {
         "name": "Rep Wise",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Rep McIntire",
         "level": "Regular",
         "type": "Member"
       }
@@ -5433,7 +5443,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1599",
     "introduced": "2026-02-04T17:27:33",
     "chamber": "Senate",
-    "status": "Senate Desk - Awaiting Third Reading",
+    "status": "House Desk - Awaiting First Reading",
     "sponsors": [
       {
         "name": "Sen President Wagner",
@@ -5639,7 +5649,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4005",
     "introduced": "2026-01-13T14:20:28",
     "chamber": "House",
-    "status": "In Senate Committee Awaiting transfer to Desk",
+    "status": "Senate Desk - Awaiting Third Reading",
     "sponsors": []
   },
   {
@@ -5730,12 +5740,12 @@
   },
   {
     "billNumber": "HB4014",
-    "title": "Requires the Legislative Revenue Officer to study the state financial system.",
-    "summary": "\tDigest: The Act directs the LRO to study the state financial system. (Flesch Readability Score: 72.6). \n\tRequires the Legislative Revenue Officer to study the state financial system. Directs the Legislative Revenue Officer to submit findings to the interim committees of the Legislative Assembly related to revenue not later than December 1, 2027.",
+    "title": "Establishes the Task Force on Taxation of International Income.",
+    "summary": "\t<b>Digest: The Act creates a task force to study how Oregon taxes income earned by companies doing business in more than one country. (Flesch Readability Score: 60.6).</b> \n\t[<i>Digest: The Act directs the LRO to study the state financial system. (Flesch Readability Score: 72.6).</i>] \n\t[<i>Requires the Legislative Revenue Officer to study the state financial system. Directs the Legislative Revenue Officer to submit findings to the interim committees of the Legislative Assembly related to revenue not later than December 1, 2027.</i>] \n\t<b>Establishes the Task Force on Taxation of International Income. Directs the task force to investigate whether changes to Oregon's tax code could improve or simplify the state's tax treatment of international income and to submit a report to the interim committees of the Legislative Assembly related to revenue no later than December 1, 2026. \n\t<b>Sunsets the task force on December 31, 2027. \n\t<b>Declares an emergency, effective on passage.</b>",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4014",
     "introduced": "2026-01-14T11:23:14",
     "chamber": "House",
-    "status": "In House Committee Awaiting transfer to Desk",
+    "status": "In House Committee",
     "sponsors": []
   },
   {
@@ -5861,7 +5871,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4025",
     "introduced": "2026-01-14T13:18:32",
     "chamber": "House",
-    "status": "In Senate Committee",
+    "status": "In Senate Committee Awaiting transfer to Desk",
     "sponsors": []
   },
   {
@@ -5947,6 +5957,11 @@
         "name": "Rep Tran",
         "level": "Regular",
         "type": "Member"
+      },
+      {
+        "name": "Rep Andersen",
+        "level": "Regular",
+        "type": "Member"
       }
     ]
   },
@@ -6023,7 +6038,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4029",
     "introduced": "2026-01-14T13:41:53",
     "chamber": "House",
-    "status": "In Senate Committee",
+    "status": "In Senate Committee Awaiting transfer to Desk",
     "sponsors": []
   },
   {
@@ -6043,7 +6058,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4031",
     "introduced": "2026-01-14T13:41:53",
     "chamber": "House",
-    "status": "In Senate Committee",
+    "status": "In Senate Committee Awaiting transfer to Desk",
     "sponsors": []
   },
   {
@@ -6073,7 +6088,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4034",
     "introduced": "2026-01-15T09:10:16",
     "chamber": "House",
-    "status": "In Senate Committee Awaiting transfer to Desk",
+    "status": "Senate Desk - Awaiting Third Reading",
     "sponsors": [
       {
         "name": "Rep Levy B",
@@ -6363,6 +6378,16 @@
       },
       {
         "name": "Rep Javadi",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Sen Smith DB",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Sen Thatcher",
         "level": "Regular",
         "type": "Member"
       }
@@ -7976,6 +8001,11 @@
         "name": "Rep Kropf",
         "level": "Regular",
         "type": "Member"
+      },
+      {
+        "name": "Sen Patterson",
+        "level": "Regular",
+        "type": "Member"
       }
     ]
   },
@@ -8203,7 +8233,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4084",
     "introduced": "2026-01-16T16:14:03",
     "chamber": "House",
-    "status": "In House Committee Awaiting transfer to Desk",
+    "status": "In House Committee",
     "sponsors": []
   },
   {
@@ -8518,11 +8548,6 @@
         "type": "Member"
       },
       {
-        "name": "Sen Neron Misslin",
-        "level": "Regular",
-        "type": "Member"
-      },
-      {
         "name": "Rep Andersen",
         "level": "Regular",
         "type": "Member"
@@ -8550,6 +8575,11 @@
       {
         "name": "Rep Javadi",
         "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Sen Neron Misslin",
+        "level": "Chief",
         "type": "Member"
       }
     ]
@@ -8879,7 +8909,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4092",
     "introduced": "2026-01-17T12:01:36",
     "chamber": "House",
-    "status": "In Senate Committee",
+    "status": "In Senate Committee Awaiting transfer to Desk",
     "sponsors": [
       {
         "name": "Rep Pham H",
@@ -8952,11 +8982,6 @@
         "type": "Member"
       },
       {
-        "name": "Sen Neron Misslin",
-        "level": "Regular",
-        "type": "Member"
-      },
-      {
         "name": "Sen Patterson",
         "level": "Regular",
         "type": "Member"
@@ -8969,6 +8994,11 @@
       {
         "name": "Rep Chotzen",
         "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Sen Neron Misslin",
+        "level": "Chief",
         "type": "Member"
       }
     ]
@@ -9249,7 +9279,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4097",
     "introduced": "2026-01-17T12:23:48",
     "chamber": "House",
-    "status": "In Senate Committee Awaiting transfer to Desk",
+    "status": "Senate Desk - Awaiting Third Reading",
     "sponsors": [
       {
         "name": "Rep Gomberg",
@@ -10921,6 +10951,11 @@
       {
         "name": "Rep Javadi",
         "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Sen Manning Jr",
+        "level": "Chief",
         "type": "Member"
       }
     ]
@@ -12787,7 +12822,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4135",
     "introduced": "2026-01-18T13:20:07",
     "chamber": "House",
-    "status": "House Desk - Second Reading",
+    "status": "House Desk - Third Reading",
     "sponsors": [
       {
         "name": "Rep Hartman",
@@ -12913,6 +12948,11 @@
         "name": "Rep Levy E",
         "level": "Chief",
         "type": "Member"
+      },
+      {
+        "name": "Rep Fragala",
+        "level": "Regular",
+        "type": "Member"
       }
     ]
   },
@@ -13012,6 +13052,16 @@
       },
       {
         "name": "Rep Chotzen",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Chaichi",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Nosse",
         "level": "Regular",
         "type": "Member"
       }
@@ -13148,6 +13198,11 @@
       },
       {
         "name": "Rep Grayber",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Sen Manning Jr",
         "level": "Regular",
         "type": "Member"
       }
@@ -13855,11 +13910,6 @@
     "status": "House Desk - Third Reading",
     "sponsors": [
       {
-        "name": "Rep Kropf",
-        "level": "Chief",
-        "type": "Member"
-      },
-      {
         "name": "Rep Grayber",
         "level": "Chief",
         "type": "Member"
@@ -13881,6 +13931,11 @@
       },
       {
         "name": "Rep McDonald",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Kropf",
         "level": "Regular",
         "type": "Member"
       }
@@ -14025,12 +14080,12 @@
   },
   {
     "billNumber": "HB4148",
-    "title": "Allows city and county services for which net local transient lodging tax revenue may be used to be provided either directly by the city or county or indirectly by a special district.",
-    "summary": "\tDigest: The Act would let local transient lodging tax money be used for city or county services provided by a special district in lieu of the city or county. The Act would change the split of tax uses from at least 70 percent for tourism and no more than 30 percent for local services to at least 40 percent and no more than 60 percent. The Act would let local governments with grandfathered tax laws use the new provisions of the Act. The Act would make local governments file a tax revenue report every other year. (Flesch Readability Score: 60.7). \n\tAllows city and county services for which net local transient lodging tax revenue may be used to be provided either directly by the city or county or indirectly by a special district. Changes the division of allowable uses of net local transient lodging tax revenue from at least 70 percent for tourism-related expenses and no more than 30 percent for city or county services, to at least 40 percent and no more than 60 percent, respectively. Allows units of local government with restricted grandfathered local transient lodging tax regimes to take advantage of the new provisions of the Act. Establishes biennial reporting by local governments of amounts and uses of local transient lodging tax revenue. \n\tTakes effect on the 91st day following adjournment sine die.",
+    "title": "Allows net local transient lodging tax revenue to be used for resiliency grants for small businesses in the restaurant and lodging industry.",
+    "summary": "\t<b>Digest: The Act would let local transient lodging tax money be used for grants to small dining and lodging businesses. The Act would also let the tax money be used for services provided by a special district in lieu of a city or county. The Act would change the split of tax uses from at least 70 percent for tourism and no more than 30 percent for local services to at least 50 percent and no more than 50 percent. The Act would let local governments with grandfathered tax laws use the tax money in the new split ratios. The Act would make local governments file a tax revenue report every other year for LRO to combine and submit to the legislature. The Act would have LRO study the uses of the net revenue as allowed under the Act and turn its findings in to the legislature. (Flesch Readability Score: 61.6).</b> \n\t[<i>Digest: The Act would let local transient lodging tax money be used for city or county services provided by a special district in lieu of the city or county. The Act would change the split of tax uses from at least 70 percent for tourism and no more than 30 percent for local services to at least 40 percent and no more than 60 percent. The Act would let local governments with grandfathered tax laws use the new provisions of the Act. The Act would make local governments file a tax revenue report every other year. (Flesch Readability Score: 60.7).</i>] \n\t<b>Allows net local transient lodging tax revenue to be used for resiliency grants for small businesses in the restaurant and lodging industry.</b> Allows city and county services for which net local transient lodging tax revenue may be used to be provided either directly by the city or county or indirectly by a special district. Changes the division of allowable uses of net local transient lodging tax revenue from at least 70 percent for tourism-related expenses and no more than 30 percent for city or county services, to at least [<i>40</i>] <b>50</b> percent and no more than [<i>60</i>]<b> 50</b> percent, respectively. Allows units of local government with restricted grandfathered local transient lodging tax regimes to take advantage of the new provisions of the Act. Establishes biennial reporting by local governments of amounts and uses of local transient lodging tax revenue<b>, the reported information to be aggregated by the Legislative Revenue Officer and submitted to the Legislative Assembly</b>.<b> Directs the Legislative Revenue Officer to conduct a study of the percentage requirements for allowable uses of local transient lodging tax revenue as amended by the Act and to submit the findings to the Legislative Assembly.</b> \n\tTakes effect on the 91st day following adjournment sine die.",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4148",
     "introduced": "2026-01-18T14:47:43",
     "chamber": "House",
-    "status": "In House Committee Awaiting transfer to Desk",
+    "status": "House Desk - Second Reading",
     "sponsors": [
       {
         "name": "Rep Walters",
@@ -14448,6 +14503,11 @@
       {
         "name": "Rep Levy E",
         "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Sen Weber",
+        "level": "Chief",
         "type": "Member"
       }
     ]
@@ -15086,7 +15146,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4159",
     "introduced": "2026-02-03T11:14:00",
     "chamber": "House",
-    "status": "House Desk - Second Reading",
+    "status": "House Desk - Third Reading",
     "sponsors": [
       {
         "name": "HRULES",
@@ -15118,7 +15178,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4161",
     "introduced": "2026-02-03T11:14:00",
     "chamber": "House",
-    "status": "House Desk - Second Reading",
+    "status": "House Desk - Third Reading",
     "sponsors": [
       {
         "name": "HRULES",
@@ -15370,11 +15430,11 @@
   {
     "billNumber": "HB4177",
     "title": "Restates the serial communications prohibitions for public meetings law purposes.",
-    "summary": "\tDigest: The Act changes how officials may talk outside of public meetings. The Act changes how OGEC oversees and trains on the public meetings law. The Act changes how governing bodies and public bodies may cure public meetings law violations. The Act takes effect 91 days after session ends. (Flesch Readability Score: 62.4). \n\tRestates the serial communications prohibitions for public meetings law purposes. Identifies the types of communications between governing body members that are excluded from public meetings requirements. \n\tClarifies that public meetings may be held in person, through use of electronic means or in a hybrid format of in-person and electronic means. \n\tRequires public meetings law complainants to provide specified documentation to the Oregon Government Ethics Commission before complaints are considered filed. Requires complainants to proceed in court if the complaint alleges a public meetings law violation by one or more members of the commission. \n\tModifies requirements concerning which public officials must attend public meetings law training and when those officials must attend the training. \n\tDirects the commission to proceed against a public body, in lieu of a public official associated with a public body, if a complaint or a commission motion alleges that the violation constitutes administrative error. \n\tEstablishes methods by which governing bodies and public bodies may cure public meetings law violations under certain circumstances. \n\tTakes effect on the 91st day following adjournment sine die.",
+    "summary": "\t<b>Digest: The Act changes how officials may talk outside of public meetings. The Act changes how OGEC oversees and trains on the public meetings law. The Act changes some duties from a governing body to the public body. The Act changes how governing bodies and public bodies may cure public meetings law violations. The Act takes effect 91 days after session ends. (Flesch Readability Score: 62.6).</b> \n\t[<i>Digest: The Act changes how officials may talk outside of public meetings. The Act changes how OGEC oversees and trains on the public meetings law. The Act changes how governing bodies and public bodies may cure public meetings law violations. The Act takes effect 91 days after session ends. (Flesch Readability Score: 62.4).</i>] \n\tRestates the serial communications prohibitions for public meetings law purposes. Identifies the types of communications between governing body members that are excluded from public meetings requirements. \n\t<b>Changes the obligation to provide notice for meetings from a governing body to the public body for each of its governing bodies. \n\t<b>Changes the obligation to provide for the sound, video or digital recording or the taking of written minutes from a governing body to the public body for each of its governing bodies.</b> \n\tClarifies that public meetings may be held in person, through use of electronic means or in a hybrid format of in-person and electronic means. \n\tRequires public meetings law complainants to provide specified documentation to the Oregon Government Ethics Commission before complaints are considered filed. Requires complainants to proceed in court if the complaint alleges a public meetings law violation by one or more members of the commission. \n\tModifies requirements concerning which public officials must attend public meetings law training and when those officials must attend the training. \n\t[<i>Directs</i>]<b> Allows</b> the commission to proceed against a public body[<i>, in lieu of</i>]<b> or</b> a public official associated with a public body[<i>, if a complaint or a commission motion alleges that the violation constitutes administrative error</i>]<b> for violations of public meetings laws</b>. \n\tEstablishes methods by which governing bodies and public bodies may cure public meetings law violations under certain circumstances. \n\t<b>Clarifies the imposition of penalties by the Oregon Government Ethics Commission against public bodies and public officials.</b> \n\tTakes effect on the 91st day following adjournment sine die.",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4177",
     "introduced": "2026-02-05T08:31:55",
     "chamber": "House",
-    "status": "In House Committee Awaiting transfer to Desk",
+    "status": "In House Committee",
     "sponsors": [
       {
         "name": "HRULES",
@@ -15406,7 +15466,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4179",
     "introduced": "2026-02-16T09:35:15",
     "chamber": "House",
-    "status": "House Desk - Second Reading",
+    "status": "House Desk - Third Reading",
     "sponsors": [
       {
         "name": "HRULES",
