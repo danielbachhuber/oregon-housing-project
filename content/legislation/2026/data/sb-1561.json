@@ -250,6 +250,20 @@
       "PresessionFiledMessage": null,
       "CreatedDate": "2026-02-23T14:56:45",
       "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "157900",
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1561,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Gomberg",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2026-02-24T08:22:30",
+      "ModifiedDate": null
     }
   ],
   "historyActions": [
@@ -371,20 +385,20 @@
       "PublicNotification": true
     },
     {
-      "MeasureHistoryId": 667781,
+      "MeasureHistoryId": 668251,
       "SessionKey": "2026R1",
       "MeasurePrefix": "SB",
       "MeasureNumber": 1561,
       "Chamber": "H",
       "ActionDate": "2026-02-24T15:01:00",
-      "ActionText": "Public Hearing scheduled.",
+      "ActionText": "Public Hearing held.",
       "VoteText": null,
-      "CreatedDate": "2026-02-20T12:46:48",
+      "CreatedDate": "2026-02-24T16:18:17",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
-      "MeasureHistoryId": 667787,
+      "MeasureHistoryId": 668278,
       "SessionKey": "2026R1",
       "MeasurePrefix": "SB",
       "MeasureNumber": 1561,
@@ -392,7 +406,7 @@
       "ActionDate": "2026-02-26T15:01:00",
       "ActionText": "Possible Work Session scheduled.",
       "VoteText": null,
-      "CreatedDate": "2026-02-20T12:51:37",
+      "CreatedDate": "2026-02-24T16:49:00",
       "ModifiedDate": null,
       "PublicNotification": true
     }

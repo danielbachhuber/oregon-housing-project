@@ -285,28 +285,15 @@
       "PublicNotification": true
     },
     {
-      "MeasureHistoryId": 667782,
-      "SessionKey": "2026R1",
-      "MeasurePrefix": "SB",
-      "MeasureNumber": 1551,
-      "Chamber": "H",
-      "ActionDate": "2026-02-24T15:01:00",
-      "ActionText": "Public Hearing scheduled.",
-      "VoteText": null,
-      "CreatedDate": "2026-02-20T12:46:48",
-      "ModifiedDate": null,
-      "PublicNotification": true
-    },
-    {
-      "MeasureHistoryId": 667785,
+      "MeasureHistoryId": 668276,
       "SessionKey": "2026R1",
       "MeasurePrefix": "SB",
       "MeasureNumber": 1551,
       "Chamber": "H",
       "ActionDate": "2026-02-26T15:01:00",
-      "ActionText": "Possible Work Session scheduled.",
+      "ActionText": "Public Hearing and Possible Work Session scheduled.",
       "VoteText": null,
-      "CreatedDate": "2026-02-20T12:51:37",
+      "CreatedDate": "2026-02-24T16:49:00",
       "ModifiedDate": null,
       "PublicNotification": true
     }

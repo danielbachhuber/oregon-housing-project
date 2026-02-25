@@ -11,7 +11,7 @@
     "RelatingTo": "Relating to electronic access to residential tenancies; prescribing an effective date.",
     "AtTheRequestOf": "(at the request of Senate Interim Committee on Housing and Development)",
     "ChapterNumber": null,
-    "CurrentLocation": "In House Committee",
+    "CurrentLocation": "In House Committee Awaiting transfer to Desk",
     "CurrentCommitteeCode": "HHOUSH",
     "CurrentSubCommittee": null,
     "FiscalImpact": "Has minimal fiscal impact",
@@ -23,7 +23,7 @@
     "LCNumber": 287,
     "Vetoed": false,
     "CreatedDate": "2026-01-14T13:37:51",
-    "ModifiedDate": "2026-02-17T16:20:21",
+    "ModifiedDate": "2026-02-24T16:18:17",
     "PrefixMeaning": "Senate Bill"
   },
   "sponsors": [
@@ -187,17 +187,17 @@
       "PublicNotification": false
     },
     {
-      "MeasureHistoryId": 667783,
+      "MeasureHistoryId": 668252,
       "SessionKey": "2026R1",
       "MeasurePrefix": "SB",
       "MeasureNumber": 1523,
       "Chamber": "H",
-      "ActionDate": "2026-02-24T15:01:00",
-      "ActionText": "Possible Work Session scheduled.",
+      "ActionDate": "2026-02-24T15:02:00",
+      "ActionText": "Work Session held.",
       "VoteText": null,
-      "CreatedDate": "2026-02-20T12:46:48",
+      "CreatedDate": "2026-02-24T16:18:17",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     }
   ],
   "documents": [

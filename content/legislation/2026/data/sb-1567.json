@@ -13,7 +13,7 @@
     "ChapterNumber": null,
     "CurrentLocation": "In Senate Committee",
     "CurrentCommitteeCode": "JWM",
-    "CurrentSubCommittee": "JWMTR",
+    "CurrentSubCommittee": null,
     "FiscalImpact": "Fiscal impact issued",
     "RevenueImpact": "Revenue impact issued",
     "EmergencyClause": false,
@@ -23,7 +23,7 @@
     "LCNumber": 156,
     "Vetoed": false,
     "CreatedDate": "2026-01-16T14:00:23",
-    "ModifiedDate": "2026-02-23T11:09:37",
+    "ModifiedDate": "2026-02-24T16:30:04",
     "PrefixMeaning": "Senate Bill"
   },
   "sponsors": [
@@ -416,7 +416,20 @@
       "PublicNotification": false
     },
     {
-      "MeasureHistoryId": 667935,
+      "MeasureHistoryId": 668240,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1567,
+      "Chamber": "S",
+      "ActionDate": "2026-02-25T09:01:00",
+      "ActionText": "Work Session scheduled.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-24T16:16:48",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 668256,
       "SessionKey": "2026R1",
       "MeasurePrefix": "SB",
       "MeasureNumber": 1567,
@@ -424,22 +437,35 @@
       "ActionDate": "2026-02-23T11:09:00",
       "ActionText": "Assigned to Subcommittee On Transportation and Economic Development.",
       "VoteText": null,
-      "CreatedDate": "2026-02-23T11:09:37",
+      "CreatedDate": "2026-02-24T16:30:04",
       "ModifiedDate": null,
       "PublicNotification": false
     },
     {
-      "MeasureHistoryId": 667962,
+      "MeasureHistoryId": 668257,
       "SessionKey": "2026R1",
       "MeasurePrefix": "SB",
       "MeasureNumber": 1567,
       "Chamber": "S",
-      "ActionDate": "2026-02-24T15:01:00",
-      "ActionText": "Work Session scheduled.",
+      "ActionDate": "2026-02-24T15:03:00",
+      "ActionText": "Returned to Full Committee.",
       "VoteText": null,
-      "CreatedDate": "2026-02-23T12:02:42",
+      "CreatedDate": "2026-02-24T16:30:04",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 668258,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1567,
+      "Chamber": "S",
+      "ActionDate": "2026-02-24T15:02:00",
+      "ActionText": "Work Session held.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-24T16:30:04",
+      "ModifiedDate": null,
+      "PublicNotification": false
     }
   ],
   "documents": [

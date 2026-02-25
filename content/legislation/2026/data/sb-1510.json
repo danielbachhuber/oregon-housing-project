@@ -11,8 +11,8 @@
     "RelatingTo": "Relating to taxation; prescribing an effective date.",
     "AtTheRequestOf": "(at the request of Senate Interim Committee on Finance and Revenue)",
     "ChapterNumber": null,
-    "CurrentLocation": "Senate Desk - Awaiting Third Reading",
-    "CurrentCommitteeCode": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HREV",
     "CurrentSubCommittee": null,
     "FiscalImpact": "Fiscal impact issued",
     "RevenueImpact": "Revenue impact issued",
@@ -23,7 +23,7 @@
     "LCNumber": 254,
     "Vetoed": false,
     "CreatedDate": "2026-01-14T09:36:13",
-    "ModifiedDate": "2026-02-20T11:50:58",
+    "ModifiedDate": "2026-02-24T18:11:52",
     "PrefixMeaning": "Senate Bill"
   },
   "sponsors": [
@@ -133,6 +133,45 @@
       "CreatedDate": "2026-02-23T14:24:01",
       "ModifiedDate": null,
       "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 668203,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1510,
+      "Chamber": "S",
+      "ActionDate": "2026-02-24T13:31:21",
+      "ActionText": "Third reading.  Carried by Broadman, McLane.  Passed.",
+      "VoteText": "Ayes, 28; Nays, 1--Robinson; Excused, 1--Smith DB.",
+      "CreatedDate": "2026-02-24T13:31:22",
+      "ModifiedDate": "2026-02-24T13:31:27",
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 668209,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1510,
+      "Chamber": "H",
+      "ActionDate": "2026-02-24T14:29:21",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-24T14:29:39",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 668317,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1510,
+      "Chamber": "H",
+      "ActionDate": "2026-02-24T18:11:33",
+      "ActionText": "Referred to Revenue.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-24T18:11:52",
+      "ModifiedDate": null,
+      "PublicNotification": true
     }
   ],
   "documents": [
