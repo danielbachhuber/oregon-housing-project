@@ -11,8 +11,8 @@
     "RelatingTo": "Relating to local requirements to develop affordable housing.",
     "AtTheRequestOf": "(at the request of Senate Interim Committee on Housing and Development)",
     "ChapterNumber": null,
-    "CurrentLocation": "House Desk - Awaiting First Reading",
-    "CurrentCommitteeCode": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HRULES",
     "CurrentSubCommittee": null,
     "FiscalImpact": "Fiscal impact issued",
     "RevenueImpact": "No revenue impact",
@@ -23,7 +23,7 @@
     "LCNumber": 5,
     "Vetoed": false,
     "CreatedDate": "2026-01-14T13:37:51",
-    "ModifiedDate": "2026-02-23T17:07:43",
+    "ModifiedDate": "2026-02-24T18:11:52",
     "PrefixMeaning": "Senate Bill"
   },
   "sponsors": [
@@ -132,6 +132,32 @@
       "VoteText": "Ayes, 21; Nays, 6--Girod, Hayden, Robinson, Smith DB, Starr, Thatcher; Excused, 3--Drazan, Linthicum, Sollman.",
       "CreatedDate": "2026-02-20T14:22:58",
       "ModifiedDate": "2026-02-20T14:23:04",
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 668136,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1521,
+      "Chamber": "H",
+      "ActionDate": "2026-02-24T09:13:00",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-24T09:13:30",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 668322,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1521,
+      "Chamber": "H",
+      "ActionDate": "2026-02-24T18:11:33",
+      "ActionText": "Referred to Rules.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-24T18:11:52",
+      "ModifiedDate": null,
       "PublicNotification": true
     }
   ],

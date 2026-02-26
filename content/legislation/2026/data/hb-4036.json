@@ -13,7 +13,7 @@
     "ChapterNumber": null,
     "CurrentLocation": "In House Committee",
     "CurrentCommitteeCode": "JWM",
-    "CurrentSubCommittee": null,
+    "CurrentSubCommittee": "JWMCC",
     "FiscalImpact": "Fiscal impact issued",
     "RevenueImpact": "Revenue impact issued",
     "EmergencyClause": true,
@@ -23,7 +23,7 @@
     "LCNumber": 209,
     "Vetoed": false,
     "CreatedDate": "2026-01-15T09:47:17",
-    "ModifiedDate": "2026-02-12T18:05:01",
+    "ModifiedDate": "2026-02-25T10:51:43",
     "PrefixMeaning": "House Bill"
   },
   "sponsors": [
@@ -118,6 +118,19 @@
       "ActionText": "Referred to Ways and Means by prior reference.",
       "VoteText": null,
       "CreatedDate": "2026-02-12T14:38:22",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 668398,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4036,
+      "Chamber": "H",
+      "ActionDate": "2026-02-25T10:51:00",
+      "ActionText": "Assigned to Subcommittee On Capital Construction.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-25T10:51:43",
       "ModifiedDate": null,
       "PublicNotification": false
     }

@@ -357,7 +357,7 @@
       "PublicNotification": true
     },
     {
-      "MeasureHistoryId": 667877,
+      "MeasureHistoryId": 668347,
       "SessionKey": "2026R1",
       "MeasurePrefix": "HB",
       "MeasureNumber": 4108,
@@ -365,7 +365,7 @@
       "ActionDate": "2026-02-26T15:01:00",
       "ActionText": "Public Hearing and Possible Work Session scheduled.",
       "VoteText": null,
-      "CreatedDate": "2026-02-20T15:49:21",
+      "CreatedDate": "2026-02-25T08:41:10",
       "ModifiedDate": null,
       "PublicNotification": true
     }
@@ -827,6 +827,28 @@
       "DocumentDescription": "Testimony",
       "CreatedDate": "2026-02-23T11:35:03.82",
       "ModifiedDate": "2026-02-23T11:39:57.307",
+      "PdfCreatedFlag": "Y",
+      "PositionOnMeasureId": 3983,
+      "SessionKey": "2026R1",
+      "CommitteeCode": "SHDEV",
+      "MeetingDate": "2026-02-26T15:00:00",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4108,
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1",
+      "FirstName": null,
+      "LastName": null,
+      "ExecApptId": null,
+      "Topic": "Allows the City of Eugene to annex noncontiguous land upon receipt of a petition from all owners of the land that satisfies four eligibility criteria."
+    },
+    {
+      "CommTestId": 253634,
+      "SubmitterFirstName": "Al",
+      "SubmitterLastName": "Johnson",
+      "BehalfOf": null,
+      "Organization": "Eugene",
+      "DocumentDescription": "Testimony",
+      "CreatedDate": "2026-02-25T11:37:56.927",
+      "ModifiedDate": "2026-02-25T11:38:32.983",
       "PdfCreatedFlag": "Y",
       "PositionOnMeasureId": 3983,
       "SessionKey": "2026R1",
