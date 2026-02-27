@@ -159,6 +159,19 @@
       "CreatedDate": "2026-02-24T18:11:52",
       "ModifiedDate": null,
       "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 668779,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1521,
+      "Chamber": "H",
+      "ActionDate": "2026-02-27T15:01:00",
+      "ActionText": "Public Hearing scheduled.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-26T17:49:25",
+      "ModifiedDate": null,
+      "PublicNotification": true
     }
   ],
   "documents": [
@@ -191,6 +204,50 @@
     }
   ],
   "testimony": [
+    {
+      "CommTestId": 255043,
+      "SubmitterFirstName": "Zach",
+      "SubmitterLastName": "Lindahl",
+      "BehalfOf": null,
+      "Organization": "Multifamily NW",
+      "DocumentDescription": "Testimony",
+      "CreatedDate": "2026-02-26T15:36:07.397",
+      "ModifiedDate": "2026-02-26T15:40:12.757",
+      "PdfCreatedFlag": "Y",
+      "PositionOnMeasureId": 3981,
+      "SessionKey": "2026R1",
+      "CommitteeCode": "HRULES",
+      "MeetingDate": "2026-02-27T15:00:00",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1521,
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1",
+      "FirstName": null,
+      "LastName": null,
+      "ExecApptId": null,
+      "Topic": "Prohibits cities and counties within the Portland MSA from enforcing requirements that developers provide affordable units in multiunit dwellings unless the city or county first calculates the developers' average expected losses due to providing affordable housing and the city or county offsets those losses."
+    },
+    {
+      "CommTestId": 256054,
+      "SubmitterFirstName": "Philip",
+      "SubmitterLastName": "Higgins",
+      "BehalfOf": null,
+      "Organization": "Newberg",
+      "DocumentDescription": "Testimony",
+      "CreatedDate": "2026-02-27T07:06:04.4",
+      "ModifiedDate": "2026-02-27T07:10:14.047",
+      "PdfCreatedFlag": "Y",
+      "PositionOnMeasureId": 3983,
+      "SessionKey": "2026R1",
+      "CommitteeCode": "HRULES",
+      "MeetingDate": "2026-02-27T15:00:00",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1521,
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1",
+      "FirstName": null,
+      "LastName": null,
+      "ExecApptId": null,
+      "Topic": "Prohibits cities and counties within the Portland MSA from enforcing requirements that developers provide affordable units in multiunit dwellings unless the city or county first calculates the developers' average expected losses due to providing affordable housing and the city or county offsets those losses."
+    },
     {
       "CommTestId": 226590,
       "SubmitterFirstName": "Michael",

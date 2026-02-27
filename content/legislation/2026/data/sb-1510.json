@@ -172,6 +172,19 @@
       "CreatedDate": "2026-02-24T18:11:52",
       "ModifiedDate": null,
       "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 668753,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1510,
+      "Chamber": "H",
+      "ActionDate": "2026-03-02T15:01:00",
+      "ActionText": "Public Hearing scheduled.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-26T16:37:09",
+      "ModifiedDate": null,
+      "PublicNotification": true
     }
   ],
   "documents": [
