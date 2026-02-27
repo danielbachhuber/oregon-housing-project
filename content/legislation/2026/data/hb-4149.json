@@ -11,7 +11,7 @@
     "RelatingTo": "Relating to homeless students.",
     "AtTheRequestOf": null,
     "ChapterNumber": null,
-    "CurrentLocation": "In Senate Committee",
+    "CurrentLocation": "In Senate Committee Awaiting transfer to Desk",
     "CurrentCommitteeCode": "SED",
     "CurrentSubCommittee": null,
     "FiscalImpact": "No fiscal impact",
@@ -23,7 +23,7 @@
     "LCNumber": 29,
     "Vetoed": false,
     "CreatedDate": "2026-01-18T15:07:48",
-    "ModifiedDate": "2026-02-20T14:59:53",
+    "ModifiedDate": "2026-02-26T16:26:24",
     "PrefixMeaning": "House Bill"
   },
   "sponsors": [
@@ -509,17 +509,17 @@
       "PublicNotification": false
     },
     {
-      "MeasureHistoryId": 668152,
+      "MeasureHistoryId": 668545,
       "SessionKey": "2026R1",
       "MeasurePrefix": "HB",
       "MeasureNumber": 4149,
       "Chamber": "S",
-      "ActionDate": "2026-02-26T08:01:00",
-      "ActionText": "Work Session scheduled.",
+      "ActionDate": "2026-02-26T08:02:00",
+      "ActionText": "Work Session held.",
       "VoteText": null,
-      "CreatedDate": "2026-02-24T09:42:44",
+      "CreatedDate": "2026-02-26T08:58:00",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     }
   ],
   "documents": [

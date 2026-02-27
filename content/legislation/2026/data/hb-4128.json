@@ -11,7 +11,7 @@
     "RelatingTo": "Relating to sale of single-family residences.",
     "AtTheRequestOf": null,
     "ChapterNumber": null,
-    "CurrentLocation": "Senate Desk - Awaiting Second Reading",
+    "CurrentLocation": "Senate Desk - Awaiting Third Reading",
     "CurrentCommitteeCode": null,
     "CurrentSubCommittee": null,
     "FiscalImpact": "Has minimal fiscal impact",
@@ -23,7 +23,7 @@
     "LCNumber": 264,
     "Vetoed": false,
     "CreatedDate": "2026-01-18T11:34:03",
-    "ModifiedDate": "2026-02-25T18:05:01",
+    "ModifiedDate": "2026-02-26T10:32:36",
     "PrefixMeaning": "House Bill"
   },
   "sponsors": [
@@ -546,6 +546,19 @@
       "ActionText": "Recommendation: Do pass with amendments to the A-Eng. bill. (Printed B-Eng.)",
       "VoteText": null,
       "CreatedDate": "2026-02-25T15:20:33",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 668577,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4128,
+      "Chamber": "S",
+      "ActionDate": "2026-02-26T10:28:49",
+      "ActionText": "Second reading.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-26T10:32:36",
       "ModifiedDate": null,
       "PublicNotification": true
     }

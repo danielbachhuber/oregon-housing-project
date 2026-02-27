@@ -11,7 +11,7 @@
     "RelatingTo": "Relating to mixed income housing; prescribing an effective date.",
     "AtTheRequestOf": null,
     "ChapterNumber": null,
-    "CurrentLocation": "Senate Desk - Awaiting Second Reading",
+    "CurrentLocation": "Senate Desk - Awaiting Third Reading",
     "CurrentCommitteeCode": null,
     "CurrentSubCommittee": null,
     "FiscalImpact": "Fiscal impact issued",
@@ -23,7 +23,7 @@
     "LCNumber": 156,
     "Vetoed": false,
     "CreatedDate": "2026-01-16T14:00:23",
-    "ModifiedDate": "2026-02-25T18:05:01",
+    "ModifiedDate": "2026-02-26T10:32:04",
     "PrefixMeaning": "Senate Bill"
   },
   "sponsors": [
@@ -477,6 +477,19 @@
       "ActionText": "Recommendation: Do pass with amendments to the A-Eng. bill.  (Printed B-Eng.)",
       "VoteText": null,
       "CreatedDate": "2026-02-25T15:20:33",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 668572,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1567,
+      "Chamber": "S",
+      "ActionDate": "2026-02-26T10:28:49",
+      "ActionText": "Second reading.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-26T10:32:04",
       "ModifiedDate": null,
       "PublicNotification": true
     }
