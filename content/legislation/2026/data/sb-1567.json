@@ -11,7 +11,7 @@
     "RelatingTo": "Relating to mixed income housing; prescribing an effective date.",
     "AtTheRequestOf": null,
     "ChapterNumber": null,
-    "CurrentLocation": "Senate Desk - Awaiting Third Reading",
+    "CurrentLocation": "House Desk - Second Reading",
     "CurrentCommitteeCode": null,
     "CurrentSubCommittee": null,
     "FiscalImpact": "Fiscal impact issued",
@@ -23,7 +23,7 @@
     "LCNumber": 156,
     "Vetoed": false,
     "CreatedDate": "2026-01-16T14:00:23",
-    "ModifiedDate": "2026-02-26T10:32:04",
+    "ModifiedDate": "2026-02-27T16:24:13",
     "PrefixMeaning": "Senate Bill"
   },
   "sponsors": [
@@ -334,6 +334,20 @@
       "PresessionFiledMessage": null,
       "CreatedDate": "2026-01-23T16:21:09",
       "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "157958",
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1567,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Sollman",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2026-02-27T12:47:46",
+      "ModifiedDate": null
     }
   ],
   "historyActions": [
@@ -490,6 +504,58 @@
       "ActionText": "Second reading.",
       "VoteText": null,
       "CreatedDate": "2026-02-26T10:32:04",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 668888,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1567,
+      "Chamber": "S",
+      "ActionDate": "2026-02-27T12:51:04",
+      "ActionText": "Third reading.  Carried by Pham.  Passed.",
+      "VoteText": "Ayes, 22; Nays, 3--Drazan, Girod, Robinson; Excused, 5--Hayden, Linthicum, Taylor, Thatcher, Weber.",
+      "CreatedDate": "2026-02-27T12:51:05",
+      "ModifiedDate": "2026-02-27T12:51:10",
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 668913,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1567,
+      "Chamber": "H",
+      "ActionDate": "2026-02-27T12:57:16",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-27T12:57:22",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 668966,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1567,
+      "Chamber": "H",
+      "ActionDate": "2026-02-27T14:35:43",
+      "ActionText": "Referred to Ways and Means.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-27T14:35:46",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 669000,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1567,
+      "Chamber": "H",
+      "ActionDate": "2026-02-27T16:09:50",
+      "ActionText": "Recommendation: Do pass.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-27T16:24:13",
       "ModifiedDate": null,
       "PublicNotification": true
     }

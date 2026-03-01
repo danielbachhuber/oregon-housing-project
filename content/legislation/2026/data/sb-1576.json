@@ -11,8 +11,8 @@
     "RelatingTo": "Relating to accessibility standards for housing; prescribing an effective date.",
     "AtTheRequestOf": null,
     "ChapterNumber": null,
-    "CurrentLocation": "In House Committee Awaiting transfer to Desk",
-    "CurrentCommitteeCode": "HHOUSH",
+    "CurrentLocation": "House Desk - Third Reading",
+    "CurrentCommitteeCode": null,
     "CurrentSubCommittee": null,
     "FiscalImpact": "Has minimal fiscal impact",
     "RevenueImpact": "No revenue impact",
@@ -23,7 +23,7 @@
     "LCNumber": 72,
     "Vetoed": false,
     "CreatedDate": "2026-01-16T15:10:46",
-    "ModifiedDate": "2026-02-26T15:37:07",
+    "ModifiedDate": "2026-02-27T13:45:26",
     "PrefixMeaning": "Senate Bill"
   },
   "sponsors": [
@@ -463,6 +463,32 @@
       "CreatedDate": "2026-02-26T15:37:07",
       "ModifiedDate": null,
       "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 668882,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1576,
+      "Chamber": "H",
+      "ActionDate": "2026-02-27T12:25:53",
+      "ActionText": "Recommendation: Do pass.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-27T12:30:10",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 668947,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1576,
+      "Chamber": "H",
+      "ActionDate": "2026-02-27T13:36:28",
+      "ActionText": "Second reading.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-27T13:45:26",
+      "ModifiedDate": null,
+      "PublicNotification": true
     }
   ],
   "documents": [

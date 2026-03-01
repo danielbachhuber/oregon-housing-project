@@ -390,6 +390,20 @@
       "PresessionFiledMessage": null,
       "CreatedDate": "2026-02-19T12:37:09",
       "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "157953",
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4128,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Campos",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2026-02-27T12:07:23",
+      "ModifiedDate": null
     }
   ],
   "historyActions": [
@@ -561,6 +575,19 @@
       "CreatedDate": "2026-02-26T10:32:36",
       "ModifiedDate": null,
       "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 668910,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4128,
+      "Chamber": "S",
+      "ActionDate": "2026-02-27T12:49:42",
+      "ActionText": "Carried over to 03-02 by unanimous consent.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-27T12:53:56",
+      "ModifiedDate": null,
+      "PublicNotification": false
     }
   ],
   "documents": [

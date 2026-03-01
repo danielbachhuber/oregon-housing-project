@@ -11,8 +11,8 @@
     "RelatingTo": "Relating to restoration of dwellings damaged by involuntary causes.",
     "AtTheRequestOf": null,
     "ChapterNumber": null,
-    "CurrentLocation": "In House Committee Awaiting transfer to Desk",
-    "CurrentCommitteeCode": "HHOUSH",
+    "CurrentLocation": "House Desk - Third Reading",
+    "CurrentCommitteeCode": null,
     "CurrentSubCommittee": null,
     "FiscalImpact": "Has minimal fiscal impact",
     "RevenueImpact": "No revenue impact",
@@ -23,7 +23,7 @@
     "LCNumber": 96,
     "Vetoed": false,
     "CreatedDate": "2026-01-16T12:06:14",
-    "ModifiedDate": "2026-02-26T15:37:07",
+    "ModifiedDate": "2026-02-27T13:45:26",
     "PrefixMeaning": "Senate Bill"
   },
   "sponsors": [
@@ -423,6 +423,32 @@
       "CreatedDate": "2026-02-26T15:37:07",
       "ModifiedDate": null,
       "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 668830,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1561,
+      "Chamber": "H",
+      "ActionDate": "2026-02-27T09:56:32",
+      "ActionText": "Recommendation: Do pass.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-27T10:05:31",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 668944,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1561,
+      "Chamber": "H",
+      "ActionDate": "2026-02-27T13:36:28",
+      "ActionText": "Second reading.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-27T13:45:26",
+      "ModifiedDate": null,
+      "PublicNotification": true
     }
   ],
   "documents": [

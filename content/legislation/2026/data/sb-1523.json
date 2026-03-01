@@ -11,7 +11,7 @@
     "RelatingTo": "Relating to electronic access to residential tenancies; and prescribing an effective date.",
     "AtTheRequestOf": "(at the request of Senate Interim Committee on Housing and Development)",
     "ChapterNumber": null,
-    "CurrentLocation": "Legislative Counsel - Enrollment",
+    "CurrentLocation": "Senate Desk – Awaiting Transfer to Governor",
     "CurrentCommitteeCode": null,
     "CurrentSubCommittee": null,
     "FiscalImpact": "Has minimal fiscal impact",
@@ -23,7 +23,7 @@
     "LCNumber": 287,
     "Vetoed": false,
     "CreatedDate": "2026-01-14T13:37:51",
-    "ModifiedDate": "2026-02-26T17:50:02",
+    "ModifiedDate": "2026-02-27T15:38:23",
     "PrefixMeaning": "Senate Bill"
   },
   "sponsors": [
@@ -236,6 +236,32 @@
       "VoteText": "Ayes, 51; Nays, 6--Boice, Cate, Harbick, Reschke, Skarlatos, Yunker; Excused, 3--Boshart Davis, Hartman, Valderrama.",
       "CreatedDate": "2026-02-26T11:42:11",
       "ModifiedDate": "2026-02-26T11:42:19",
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 668918,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1523,
+      "Chamber": "S",
+      "ActionDate": "2026-02-27T13:03:14",
+      "ActionText": "President signed.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-27T13:04:23",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 668980,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1523,
+      "Chamber": "H",
+      "ActionDate": "2026-02-27T15:33:35",
+      "ActionText": "Speaker signed.",
+      "VoteText": null,
+      "CreatedDate": "2026-02-27T15:38:24",
+      "ModifiedDate": null,
       "PublicNotification": true
     }
   ],
