@@ -722,6 +722,28 @@
       "LastName": null,
       "ExecApptId": null,
       "Topic": "Adjusts certain terms of the revolving loan program for cities and counties to fund affordable housing projects."
+    },
+    {
+      "CommTestId": 256973,
+      "SubmitterFirstName": "David",
+      "SubmitterLastName": "Wall",
+      "BehalfOf": "Mr Oregon Openly Mocks HB 4037",
+      "Organization": "Newberg",
+      "DocumentDescription": "Testimony",
+      "CreatedDate": "2026-02-28T13:36:25.59",
+      "ModifiedDate": "2026-02-28T13:37:03.187",
+      "PdfCreatedFlag": "Y",
+      "PositionOnMeasureId": 3982,
+      "SessionKey": "2026R1",
+      "CommitteeCode": "SHDEV",
+      "MeetingDate": "2026-02-26T15:00:00",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4037,
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1",
+      "FirstName": null,
+      "LastName": null,
+      "ExecApptId": null,
+      "Topic": "Adjusts certain terms of the revolving loan program for cities and counties to fund affordable housing projects."
     }
   ]
 }

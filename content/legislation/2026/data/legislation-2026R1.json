@@ -1133,6 +1133,11 @@
         "name": "Rep Rieke Smith",
         "level": "Chief",
         "type": "Member"
+      },
+      {
+        "name": "Rep Lewis",
+        "level": "Regular",
+        "type": "Member"
       }
     ]
   },
@@ -2846,6 +2851,11 @@
         "name": "Rep Pham H",
         "level": "Regular",
         "type": "Member"
+      },
+      {
+        "name": "Rep Andersen",
+        "level": "Regular",
+        "type": "Member"
       }
     ]
   },
@@ -4268,6 +4278,21 @@
       },
       {
         "name": "Rep Harbick",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Bunch",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Wright",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Lewis",
         "level": "Regular",
         "type": "Member"
       }
