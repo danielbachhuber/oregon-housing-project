@@ -136,6 +136,19 @@ To add support for a new jurisdiction:
 3. Create content directory structure
 4. Update this documentation
 
+## Screenshots
+
+**Puppeteer** is available as a project dependency for taking screenshots of web pages. Use it via Node.js:
+
+```js
+const puppeteer = require('puppeteer');
+const browser = await puppeteer.launch({ headless: true });
+const page = await browser.newPage();
+await page.goto('https://example.com', { waitUntil: 'networkidle2' });
+await page.screenshot({ path: 'output.png' });
+await browser.close();
+```
+
 ## Scripting Language
 
 When writing new scripts or rewriting existing ones, **prefer JavaScript (Node.js)** over Python. The existing meeting transcription scripts are in Python but new tooling should use JavaScript.

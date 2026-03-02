@@ -1,0 +1,8356 @@
+Oregon Housing Needs Analysis
+2026 Production Targets and
+Adopted Methodology
+
+December 2025
+
+1
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+This report is produced by the Office of Economic Analysis within the Department of
+Administrative Services. The Oregon Department of Housing and Community Services (OHCS)
+and the Oregon Department of Land Conservation and Development (DLCD) provided key
+contributions. Specific staff include:
+Office of Economic Analysis
+•
+•
+•
+
+Carl Riccadonna, Chief Economist
+Jordan Macias, Economist
+Mitchell D’Sa, Economist
+
+Consultants:
+ECOnorthwest
+• Michael Wilkerson, Director of
+Economic Research
+• Lorelei Juntunen, Project Director
+• Justin Sherrill, Senior Technical
+Manager
+• Madeline Miller, Senior Project
+Manager
+• Becky Hewitt, Senior Policy Advisor
+Portland State University Homelessness
+Research and Action Collaborative
+• Marisa A. Zapata, Director, Portland
+State University
+• Franklin Spurbeck, Senior Research
+Assistant, Portland State University
+
+Housing and Community Services
+Department
+• Megan Bolton, Assistant Director of
+Research
+• Love Jonson, Affordable Housing
+Operations and Policy Analyst
+• Brandon Schrader, Housing
+Economist
+• Elise Cordle Kennedy, (former) Senior
+Research Analyst
+Department of Land Conservation and
+Development
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Ethan Stuckmayer, Housing Division
+Manager
+Jena Hughes, Housing and Growth
+Management Analyst
+Sean Edging, Senior Housing Planner
+Mari Valencia-Aguilar, Senior
+Housing Planner
+Celestina Teva, Housing Planner
+Thea Chroman, Housing Planner
+Karen Guillen-Chapman, Urban
+Growth Boundary Specialist
+Kelly Reid, Portland Metro Area
+Regional Representative
+Laura Kelly, Portland Metro Area
+Regional Representative
+
+http://oregon.gov/DAS/OEA
+http://oregoneconomicanalysis.com
+http://twitter.com/OR_EconAnalysis
+
+ii
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+Table of Contents
+REPORT OVERVIEW ............................................................................................................................................................. 1
+OREGON HOUSING NEEDS ANALYSIS METHODOLOGY ........................................................................................................ 2
+STEP 1: DETERMINE REGIONS......................................................................................................................................................... 2
+Regions ............................................................................................................................................................................... 2
+STEP 2: DETERMINE INCOME CATEGORIES ........................................................................................................................................ 3
+STEP 3: DETERMINE COMPONENTS OF NEED..................................................................................................................................... 4
+Current Need ...................................................................................................................................................................... 5
+Future Need ........................................................................................................................................................................ 8
+STEP 4: ALLOCATE NEEDED HOUSING TO INCOME CATEGORIES .......................................................................................................... 11
+Current Need: Housing Underproduction ......................................................................................................................... 11
+Current Need: Housing Units Needed for People Experiencing Homelessness ................................................................. 11
+Future Need: Housing Units for Population Growth ......................................................................................................... 12
+Future Need: Housing Units Lost to Second and Vacation Home Demand ...................................................................... 13
+Future Need: Housing Units Needed for Demographic Change ....................................................................................... 13
+STEP 5: ALLOCATE NEEDED HOUSING TO CITIES AND UGBS ............................................................................................................... 13
+Step A. Determine Regional Need Inside vs. Outside UGBs .............................................................................................. 13
+Step B. Allocating Regional Need to Urban Growth Boundaries ...................................................................................... 14
+Step C. Distribute from Urban Growth Boundaries to Cities ............................................................................................ 15
+STEP 6: SET HOUSING PRODUCTION TARGETS ................................................................................................................................. 15
+PEER CITIES .............................................................................................................................................................................. 16
+UPDATING THE METHODOLOGY .................................................................................................................................................... 19
+PORTLAND METRO REGION ............................................................................................................................................... 20
+OHNA METRO UGB SUBALLOCATION METHODOLOGY STEPS ........................................................................................................... 20
+Step A: Determining Need for Metro UGB........................................................................................................................ 21
+Step B: Allocation of Need from UGBs to Cities and Urban Unincorporated Lands (UULs) .............................................. 22
+STATEWIDE AND REGIONAL RESULTS ................................................................................................................................ 28
+REGIONAL RESULTS .................................................................................................................................................................... 31
+APPENDIX A. LOCAL RESULTS ............................................................................................................................................ 34
+APPENDIX B. ALTERNATIVE COUNTERFACTUAL METRO REGION MODELING ..................................................................... 49
+Differences Between Standard Methodology and Counterfactual applied to Metro region ........................................ 49
+APPENDIX C. COMMON TERMS & ACRONYMS .................................................................................................................. 51
+APPENDIX D. DATA SOURCES AND UPDATES ..................................................................................................................... 54
+
+iii
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+Report Overview
+This report contains the 2026 statewide and local housing production targets along with a
+description of the OHNA Methodology. Due to the federal government shutdown in October
+and November of 2025, many of the foundational data sources used in the methodology were
+delayed from their typical release schedule. Additionally, some of the sources (primarily used
+in the local allocation methodology) have infrequent and unannounced release dates, making it
+not always possible to update the data sources from the last annual report. These data
+limitations will be documented in detail. Other than data update limitations, the only planned
+update to the methodology involved a change from a two year to a three year moving average
+of the annual need to create the 2026 20-year total need and the annual production target.
+Figure 1. OHNA Statewide Annual Targets by Component
+
+Figure 2. OHNA Statewide 2025 vs 2026 Production Target
+
+1
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+Oregon Housing Needs Analysis Methodology
+The OHNA Methodology focuses on the affordability and geographic distribution of newly
+produced housing, not the characteristics of the existing housing stock across the state. This
+is a methodological choice that has implications for policymaking and tracking the overall
+affordability of the entire housing stock. The Final Methodology incorporates multiple
+considerations to reflect different types of demand on current and future housing need. The
+OHNA Methodology has six steps:
+1. Determine Regions
+2. Determine Income Categories
+3. Determine Components of Housing Need
+4. Allocate Needed Housing to Income Categories
+5. Allocate Needed Housing to Cities and UGBs
+6. Set Housing Production Targets
+Step 1: Determine Regions
+The first step in completing the OHNA is to define the regions for the analysis. The regions
+affect the entire analysis, from the ability to develop the analysis based on available data to
+the interpretation of the findings about regional housing needs for individual cities. Since each
+possible dataset that could be used to define regions has its own level of geographic
+specificity, choices about regions are integrally tied to choices about data.
+Defining regions for this analysis required identifying the source of data that would be used
+throughout the analysis. The source of data needs to be consistently available statewide,
+available at an appropriate geographic level, updated annually, have acceptable margins of
+error for the variables of interest for the methodology, and be flexible enough to allow for
+comparisons necessary to deliver the analysis required by the statute. While the methodology
+is structured to account for limitations in available data, future iterations of the methodology
+could benefit from improvements in state access to data sources, such as a statewide parcel
+database of standardized assessor’s data or a statewide rental registry that included
+information on costs and accessibility.
+Regions
+Figure 1 shows the regions in the OHNA Final Methodology. The OHNA regions are built from
+Census Public Use Microdata Areas (PUMA) regions using data from the 2022 vintage of data.
+PUMA regions shown in white outline, are aggregated up to the OHNA regions, shown in color.
+The U.S. Census Bureau updates PUMAs every 10 years following the Decennial Census; future
+changes to PUMA boundaries may affect the OHNA regions in the future.
+
+2
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+Figure 3. OHNA Regions (PUMA boundaries denoted in white)
+
+Step 2: Determine Income Categories
+The second step is to define the income categories that are used to distribute needed housing
+across the income spectrum. The OHNA Methodology uses Area Median Income (AMI) limits
+that were stated in ORS 184.453(4):
+(a) Less than 30%
+(b) 30% or more and less than 60%
+(c) 60% or more and less than 80%
+(d) 80% or more and less than 120%
+(e) 120% or more
+These income categories align with common funding sources, including OHCS’s programs, for
+subsidized affordable housing. It's important to note that the distribution of households in
+each income category is not equal.
+The methodology uses regional incomes to allocate housing need to individual jurisdictions.
+This is an important change from prior Goal 10 planning requirements in which jurisdictions
+used their own city-level incomes to estimate housing need by income level. The effect of this
+change is that local governments will be required to plan for a share of the region's estimated
+housing needs by income, rather than locally estimating and planning for housing needs by
+income only within the boundaries of the local government.
+
+3
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+Income categories translate into housing affordability. Income categories are expressed as a
+percent of AMI, which is determined by the U.S. Department of Housing and Urban
+Development (HUD) and takes into account household size and the number of bedrooms. A
+housing unit is determined to be affordable to a household if it accounts for less than 30% of
+that household’s gross income.
+Across the Final Methodology, all income categories are adjusted to account for household
+size. HUD provides regional AMIs based on a four-person household and provides guidance to
+allow practitioners to adjust for household size and number of bedrooms in a unit,1 which is as
+follows:
+Household Size Income Adjustment
+• 1-person household: 70% of AMI
+• 2-person household: 80% of AMI
+• 3-person household: 90% of AMI
+• 4-person household: 100% of AMI
+• 5-person household: 108% of AMI
+Apartment Unit Size Income Adjustment
+• Studio unit: 70% of AMI
+• 1-bedroom unit: 75% of AMI
+• 2-bedroom unit: 90% of AMI
+• 3-bedroom unit: 104% of AMI
+Step 3: Determine Components of Need
+The third step of the OHNA is to determine the different components of housing need. The
+OHNA is an estimate of total housing needed statewide over a 20-year horizon and includes
+housing units that are needed now to house the existing population (Current Need) as well as
+units needed in the future to accommodate household growth (Future Need).
+•
+•
+
+Current Need includes housing underproduction and housing units for people
+experiencing homelessness.
+Future Need includes units for expected population growth, expected housing units that
+will be lost to second and vacation homes, and units to accommodate expected
+demographic change.
+
+By including an estimate of current housing need in planning requirements, the OHNA departs
+from historic Goal 10 planning requirements which only required jurisdictions to look forward
+at the 20-year population forecast. The Final Methodology recognizes that Oregon has been
+underbuilding housing for several decades and that a narrow focus solely on future population
+
+1
+
+Portland Housing Bureau Median Income Percentages 2024. https://www.portland.gov/phb/documents/2024income-and-rent-limits-phb/download
+
+4
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+growth will not help communities relieve the pressures created in housing markets by low
+vacancy rates and high prices.
+Current Need
+The OHNA is an estimate of total housing needed statewide over a 20-year planning horizon,
+including an estimate of how many units the state, regions, and cities need currently to
+adequately house their existing populations. Current need takes into account housing
+underproduction and units needed for people experiencing homelessness.
+Housing Underproduction
+The Final Methodology adopts with some minor modifications of an approach used by Up for
+Growth, a housing policy research nonprofit in Washington, D.C., that has been vetted by
+housing industry experts.2 This approach calculates the target number of housing units a
+region’s market should have (demand) and compares that against the actual number of units
+that market has available for year-round occupancy (supply). These steps are broken down
+below. Regions where the demand exceeds supply are experiencing housing underproduction.
+Figure 4. Up for Growth Housing Underproduction Methodology
+
+Target Number of Housing Units
+The estimate of the target number of housing units starts with the Census Bureau’s estimate
+of total households and then estimates the number of “missing households” that have not
+formed in a market compared to historical formation rates in 2000.
+Household formation is influenced by the housing stock available—when a market does not
+build sufficient housing, prices rise and vacancy falls, affecting the likelihood of households to
+form (e.g., roommates splitting up, children moving out, etc.). This measure estimates the
+number of households that are expected to form in less constrained housing market
+conditions, and as such are a component of current demand.
+The Final Methodology calculates “missing households” based on changes in the headship
+rate (the percentage of people who are heads of households, or householders) for different
+2
+
+Up for Growth, Housing Underproduction in the U.S. 2024. https://upforgrowth.org/apply-the-vision/housingunderproduction-reports/
+
+5
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+age cohorts between 18 and 64. The lack of housing availability and affordability is not the
+only reason that explains reduced household formation rates, therefore including all age
+cohorts would be an overcount of household formation primarily caused by housing market
+constraints. Age cohorts are therefore limited to head of households between 18 and 64 as the
+most likely ages where this occurs—effectively excluding head of households over 65 is one
+way to limit the impact of the overcount. Limiting the age cohorts helps compensate for the
+nature of the overcount–essentially that housing isn’t the only factor contributing to decreased
+household formation rates. The standard UFG approach limits age cohorts over the age of 44,
+the expansion of head of households to the age of 64 acknowledges circumstances unique to
+Oregon’s housing market, and the fact that working households of all ages are experiencing
+the impacts of a constrained, underproduced housing market.
+The OHNA Methodology uses a baseline headship rate in the year 2000 for all cohorts. This
+year was chosen because 2000 Decennial Census data offers the most recent statistically
+reliable estimate of a housing market that was more in balance. Headship rates were also
+generally stable between 1980 and 2000, so going back further would not have a large impact
+on the baseline headship rate. The Final Methodology compares the most recent headship rate
+(based on 2024 PUMS data) against the 2000 baseline for each age cohort. If a cohort has a
+lower headship rate in the most recent year compared to the baseline, it indicates that fewer
+households formed. The total estimate of “missing households” is the sum of reduced
+household formation from cohorts aged 64 years and younger. Should there be negative
+missing households (more households formed compared to the baseline rate) in any age
+cohort, they are netted out to zero because they are not contributing to excess demand beyond
+what is already captured in the households formed data observation.
+The estimate of missing households is added to the current total number of households to
+approximate the total number of households that would be seeking housing in unconstrained
+market conditions. The model then applies a 5% target vacancy rate to estimate the total
+number of housing units a region should have to accommodate current need and have a
+healthy level of vacancy. Five percent vacancy is the 75th percentile of the national vacancy
+rate between 1980 and 2000 and is meant to represent unconstrained market conditions. It is
+backed by industry stakeholder outreach and research and is used in other methodologies of
+estimating housing need and underproduction.
+Actual Units Available for Year-Round Occupancy
+The estimate of the actual number of units available for year-round occupancy starts with the
+Census Bureau’s estimate of total housing units and removes uninhabitable units and second
+and vacation homes that are not available for year-round occupancy from the stock.
+Uninhabitable units are identified in the Census PUMS data as those that lack indoor plumbing
+and complete kitchens, and that have been vacant for at least a year. Second and vacation
+homes are identified in the Census Bureau as those that are vacant and used for “seasonal or
+recreational purposes.”
+By removing uninhabitable units and second and vacation homes from the estimate of the
+current housing stock, the Final Methodology attempts to calculate each region’s total housing
+6
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+stock available for year-round occupancy as a more accurate reflection of housing supply.
+When compared to the total number of households each region would have in unconstrained
+market conditions, the Final Methodology can capture current housing underproduction and
+incorporate current housing need into future planning purposes. This change pushes Oregon’s
+statewide housing planning system toward one that more accurately measures total housing
+need; planning for future housing need without accounting for current need will continue to
+yield insufficient housing production relative to demand across the state.
+Housing Units Needed for People Experiencing Homelessness
+DAS and OHCS engaged the Portland State University (PSU) Homeless Research and Action
+Collaborative (HRAC) to develop the methodology to estimate housing units needed for people
+experiencing homelessness. The HRAC methodology uses an annualized point in time count
+of unsheltered households, the number of households served in shelter over a year, and
+households doubled-up based on K-12 student data and U.S. Census data.
+Determining the number of units a region needs to house people experiencing homelessness
+requires careful attention, because available datasets have many known limitations including
+undercounting populations. Populations experiencing homelessness are generally not
+captured in foundational datasets derived from the Census, so they are not included in the
+projections of current (or future) need. This methodological choice was made under the
+assumption that if jurisdictions can plan for current need as the sum of underproduction and
+housing for people experiencing homelessness, while planning for enough housing units to
+meet future need, then homelessness would become “functionally zero,” and would be rare
+and brief.3
+The Final Methodology relies heavily on the limited research available on this topic, as well as
+discussion and feedback from stakeholders with expertise in research and service provision
+for those experiencing homelessness in Oregon. The state continues to explore new research
+and better data to continually improve this portion of the OHNA methodology. 4
+The HRAC methodology combines portions of four data sets to better estimate the number of
+people experiencing homelessness in an OHNA region. The approach uses Continuum of Care
+(CoC) Point-In-Time Count (PITC) data and McKinney-Vento Student Data (MVSD) for children
+enrolled in K-12 public schools. It also utilizes CoC Homeless Management Information
+System (HMIS) data, By-Name Lists (BNL), and American Community Survey (ACS) data.
+To calculate the number of households who need housing, the HRAC methodology combines:
+• Unsheltered data: PITC unsheltered data that is annualized and converted to household
+numbers; or the household count from BNL across one year;
+3
+
+Functional Zero Homelessness occurs “when the number of people experiencing homelessness at any time
+does not exceed the community’s proven record of housing at least that many people in a month.”
+https://community.solutions/built-for-zero/functional-zero
+4
+Recommendations for improving data are included in Chapter 7 of the OHCS RHNA Technical Report and
+Appendix B describes the key analytical issues in estimating the amount of housing need to accommodate the
+population of people experiencing homelessness in Oregon
+
+7
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+•
+•
+
+Sheltered data: Households served in shelter over one calendar year, as recorded in
+HMIS; and,
+Doubled-up data: MVSD for doubled-up student households plus ACS doubled-up
+households without children enrolled in K-12 schools.
+
+All data are converted to households (HH), and annualized when the data set is not an annual
+count. Each household is assumed to occupy one housing unit, thereby producing the estimate
+of the number of housing units needed. See Appendix C for a copy of the complete memo
+detailing the HRAC methodology.
+Future Need
+The OHNA is an estimate of total housing needed statewide over a 20-year planning horizon.
+Future need takes into account the housing units needed for population growth, housing units
+lost to second and vacation home demand, and housing units needed to accommodate
+demographic change.
+Housing Units for Population Growth
+To estimate 20-year future housing needs, forecasted population growth must be translated
+into future households and then translated into future needed housing units.
+PSU’s Population Research Center (PRC) produces the official population estimates for the
+State of Oregon with the exception of the Portland Metro Region.5 The Final Methodology
+converts the PRC population forecast to households using the most recent regional average
+household size estimated with the most recent PUMS data.
+As with past Goal 10 housing planning requirements, the OHNA Methodology excludes the
+estimate of people living in group quarters because they are not considered part of the
+household population, and their needs are planned for separately. Each region’s base-year
+population estimates are reduced by the 2023 PUMS-derived share of population in group
+quarters, before converting population to households. For the horizon year forecasts, the
+model uses 2024 PUMS to calculate a group quarters rate by age cohort and apply it to
+regions’ 2045 age cohort forecasts to arrive at an overall regional group quarters rate. Since
+most regions’ forecast a greater share of older cohorts in 2045, the OHNA currently models
+slight increases in overall group quarter rates for all regions in the horizon year.
+The loss of units to second and vacation homes in the future is calculated as a separate
+component of need (see next section), therefore the Final Methodology assumes that each
+future household will occupy one housing unit, while also planning for the target vacancy rate.
+Once total future needed housing units are determined, the Final Methodology applies the
+
+5
+
+Metro is responsible for issuing population forecasts within the Metro urban growth boundary, which serve as
+the basis for comprehensive and land use plans (see ORS 195.036). The Metro allocation methodology, outlined
+later in this document, is based on housing needs estimates for the Metro UGB in Metro's Urban Growth Report.
+
+8
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+same 5% vacancy factor to estimate the future housing stock that cities and regions should
+plan for (see page 6).
+Housing Units Lost to Second and Vacation Home Demand
+Estimating second and vacation homes as its own component allows cities to better account
+for demand for these housing units in the future and improves the State’s understanding of the
+role that second and vacation homes play in each region’s housing market. In many outdoor
+recreation- and tourist-heavy communities, particularly along the coast, in the Gorge, and in
+central Oregon, the presence of second and vacation homes removes units of the existing
+housing stock from year-round occupants at a different rate than in other parts of the state.
+This contributes to underproduction of needed housing by reducing the number of units
+available to full-time renters and owners, thereby decreasing vacancy rates and putting upward
+pressure on housing costs. As the stock of second and vacation homes grows in the future, it
+effectively takes away from housing production, as fewer units are available for year-round
+occupancy.
+Summary of Process to Identify Second and Vacation Homes
+1. Calculate change in the number of second and vacation homes per region
+2. Determine how much housing is needed to offset this expected future loss in units
+3. Apply the ratio to forecasted housing unit growth
+The current share of second and vacation homes varies by region, as does the pace at which
+these shares are changing over time. First, the model calculates the change in the number of
+second and vacation homes for each region between the years 2000 and 2020. The growth in
+second and vacation homes is then contextualized by the number of all housing units added
+for each region between 2000 and 2020. The ratio of second and vacation homes added
+compared to the total housing production is calculated for each region. This ratio is effectively
+an approximation of how much additional production would be required to offset the loss in
+units to second and vacation home demand over the 20-year planning period. In practice, a
+jurisdiction could implement policies to reduce the growth of second and vacation homes or
+target the production of additional units to offset the loss of units available for year-round
+occupancy.
+Example Calculation for Second and Vacation Home Demand
+If a city produced 1,000 housing units between 2000 and 2020 but saw the number of
+second and vacation homes in the same time period grow from 100 to 200 units (either
+through new construction or conversion of an existing home), then it would have a ratio of
+0.1 ((200-100)/1000). If this city was expected to grow by 2,500 households over twenty
+years, the additional production to account for units lost to second and vacation home need
+would be 0.1 * 2,500 or 250 units.
+
+9
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+The Final Methodology only calculates second and vacation homes as part of determining
+future housing need. These units are no longer available for year-round occupancy, and as
+units are purpose-built or converted into second and vacation homes, the progress toward the
+desired number of units per household or target vacancy rate is lessened. Units identified as
+being currently occupied as second and vacation homes are captured as part of the
+underproduction calculation (current need).
+
+Housing Units for Demographic Change
+The number of housing units needed to account for demographic change helps to account for
+changing household demographic composition as the population of Oregon changes.
+Like many states, Oregon is aging, and seniors typically have smaller household sizes;
+according to Census data, the average household size (persons per household, PPH) headed
+by a person aged 60 to 69 is only 1.9 people, compared to 2.9 people for households headed
+by a person aged 30-39. As population forecasts expect a larger share of the population to be
+65 and older, and as the fertility rate continues to remain below replacement rate, more
+housing units will be needed to house Oregon’s older total future population. An example
+below depicts how demographic change is handled in the model.
+First, the Final Methodology uses PUMS data to calculate the current PPH for each major age
+cohort by region. It then joins the age cohort-based PPH figures to the 2025 and 2045
+population forecasts by age cohort and then calculates a total PPH for each region for 2025
+and 2045. Average household sizes for each region are forecast to be smaller due to changing
+demographics.
+The PRC-forecasted populations in each region in 2025 and 2045 are then converted into
+households by dividing by the average household size in each region. This differs from the
+population change component, where the PPH is held constant between the baseline and
+horizon years (using 2025 PPH).
+The final step in the process is to convert the added number of households in each region into
+needed housing units. Following the methodology for the other components, the Final
+Methodology also applies the target 5% vacancy factor to the estimated number of needed
+housing units in the future (see page 6).
+Example Regional Demographic Change
+1. (Population2045 ÷ PPH2025) – (Population2025 ÷ PPH2025) = Households added by
+Population Change
+2. (Population2045 ÷ PPH2045) – (Population2025 ÷ PPH2025) – Households added by
+Population Change = Households added by Demographic Change
+10
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+3. Households added by Demographic Change x 1.05 = Housing Units Needed to
+Account for Demographic Change
+
+The demographic change component is effectively capturing the change in household size for
+existing households (starting in 2025) as well as the marginal new households added between
+2025 and 2045. This is a deviation from other components in that it considers housing need
+for existing and future households. It is included in the future need category because it
+captures future demand for housing from existing households (rather than underproduction
+and homelessness, which are current demand).
+Step 4: Allocate Needed Housing to Income Categories
+Once total housing units needed are estimated for each component and each region, the next
+step is to distribute housing need to income categories. Allocation processes differ by
+component.
+Current Need: Housing Underproduction
+Underproduced units are allocated to income categories based on the rate of cost burdened
+renter households in each region. Cost burdening is a good proxy to estimate the income
+levels where current housing is in most need. Underproduction in a market leads to increased
+cost burdening by limiting choice and reducing overall affordability, and these impacts are
+most acutely experienced by lower-income renter households who have the highest rates of
+cost burdening. Underproduced units are therefore distributed proportionate to rates of
+regional cost burdening to approximate the income levels with the most acute need. For
+example, if 50% of all renter households who are cost burdened earn 0-30% of AMI, then 50%
+of the underproduction units should be targeted for households earning 0-30% of AMI. The
+model uses 2024 PUMS to first isolate cost-burdened renter households in each region, and
+from there, calculate the proportion of these cost-burdened households in each AMI household
+income bracket.
+Current Need: Housing Units Needed for People Experiencing Homelessness
+Housing units needed for people experiencing homelessness are distributed by income
+based on information provided from OHCS. There is no existing, high-quality dataset
+with information about the incomes of people who are experiencing homelessness, but
+many households that are experiencing homelessness have incomes and still cannot
+find a home that is affordable to them.
+The Final Methodology uses data on the incomes of people experiencing homelessness from
+HMIS information managed by Continuums of Care. The data are from 2024 and are regional.
+Statewide, of households whose incomes are captured in the data, a large portion (77%) are in
+the lowest income category of 0-30% AMI. The regional distributions by income are shown in
+Figure 5.
+11
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+Figure 5. Income Distributions for Each OHNA Region for People Experiencing
+Homelessness, 2025 (unchanged from 2024)
+
+Future Need: Housing Units for Population Growth
+Units needed to accommodate population growth are allocated based on each region’s current
+income distribution. The state’s income distribution and that of each region are shown in
+Figure 6 below.
+Figure 6. Income Distributions for Oregon and Each OHNA Region, 2025
+
+12
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+
+Future Need: Housing Units Lost to Second and Vacation Home Demand
+PUMS data does not provide rent or valuation data for units identified as second and vacation
+homes, but data on the year built are available and are used as a proxy for valuation with the
+assumption that newer units are more expensive and should be allocated to the highest
+income categories. The OHNA methodology allocates units identified as second and vacation
+homes that were built prior to 1990 to the 80-120% AMI income category while those built after
+1990 are allocated to the 120%+ AMI income category. This distribution was determined
+based on a PUMS analysis of regional patterns of affordability of occupied homes by year
+built.
+Future Need: Housing Units Needed for Demographic Change
+Given the similarities between units needed for population growth and units needed for
+demographic change, units needed for demographic changes are also allocated to income
+categories based on each region’s income distribution.
+Step 5: Allocate Needed Housing to Cities and UGBs
+After the total housing units needed over 20 years is calculated, the fifth step in the
+methodology is to determine what needed housing should be allocated to areas inside or
+outside of Urban Growth Boundaries. The Portland Metro region has a different allocation
+methodology (see page 20). While the Salem-Keizer area has two cities within one UGB, PRC
+provides city-level population projections for both Salem and Keizer, preventing the need to
+create a separate allocation process for this UGB.
+Step A. Determine Regional Need Inside vs. Outside UGBs
+13
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+First, the 20-year future population growth outside of UGBs is determined for each region. This
+is based on PRC forecasts which report outside-UGB subtotals for every county. This step
+recognizes that not all Oregonians live inside UGBs, and not all Oregonians will live inside
+UGBs in the future. Lands outside a UGB receive a future housing estimate to reflect projected
+demand, but do not receive any current need allocations. Current need is a symptom of a lack
+of enough housing units within the planned areas of growth. Areas outside of UGBs are rural
+and resource lands and generally do not plan for housing growth under the statewide land use
+system; therefore, the responsibility for providing additional housing units to meet current
+need is accommodated inside of UGBs.
+Second, units that accommodate population growth, demographic change, and demand for
+second and vacation homes outside UGBs are removed from the regional total. The remaining
+units are then allocated to UGBs inside the region.
+Step B. Allocating Regional Need to Urban Growth Boundaries
+Next, each component of need is allocated from the adjusted regional total (excluding areas
+outside of UGBs) to each of the UGBs in the region using a set of policy variables and weights
+in the following combinations. ORS 184.453 requires the methodology to allocate housing
+need to each city in consideration of forecasted population growth, regional job distribution,
+and an equitable statewide distribution of housing. The allocation weights below
+operationalize this direction to align with the policy priorities set forth by the legislature,
+balancing where people currently live, where the PSU population forecasts expect people to
+live, and where the region’s jobs are located. Second and vacation home allocations focus
+those housing units where the housing markets are most directly impacted today. Including an
+area’s share of jobs as a weight in the allocation is a policy choice driven by Oregon’s desire to
+create compact livable communities with access to jobs and amenities. Locating housing
+closer to jobs also helps support Oregon's climate and emissions reductions goals.
+•
+
+•
+
+•
+
+•
+
+•
+
+Housing Underproduction
+o 50% from UGB’s share of its region’s current population
+o 50% from UGB’s share of its region’s current employment (derived from current
+Census Longitudinal Employer-Household Dynamics (LEHD) block-level counts
+of jobs within all geographies)
+Housing Units for People Experiencing Homelessness
+o 50% from UGB’s share of its region’s current population
+o 50% from UGB’s share of its region’s current employment
+Housing Units for Population Growth
+o 50% from UGB’s share of its region’s population growth
+o 50% from UGB’s share of its region’s current employment
+Housing Units for Demographic Change
+o 50% from UGB’s share of its region’s current population
+o 50% from UGB’s share of its region’s current employment
+Housing Units Lost to Second and Vacation Home Demand
+14
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+o 100% from UGB’s share of its regions current second and vacation home stock
+(as determined by 2020 Decennial Census block-level counts of second and
+vacation homes spatially joined to UGB boundaries)
+Step C. Distribute from Urban Growth Boundaries to Cities
+This is only applicable in the Portland Metro UGB, which contains multiple jurisdictions (see
+page 20).
+Step 6: Set Housing Production Targets
+Once the total housing need is determined, the final (sixth) step of the methodology is to set
+targets for housing production. In early 2023, Governor Tina Kotek issued Executive Order 2304 to establish an annual statewide housing production goal. Based on this policy objective
+and using the same formula as the Governor’s housing production goal, the OHNA Final
+Methodology prioritizes and front-loads the current need over 10 years and spreads the future
+need over the 20-year OHNA planning horizon to calculate the annual production target. An
+example calculation of an annual production target is shown below using statewide total
+housing need. The same calculations apply for calculating the production targets for each city
+and each income level.
+Example Annual Housing Production Target Calculation Using Statewide Results
+See page 24 more detail on the statewide results by component.
+Total Need: 491,347 units
+Current Need: 95,828 units
+Future Need: 395,519 units
+Annual Production Target:
+[Current Need / 10 years] + [Future Need / 20 years]
+[95,828 units / 10 years] + [395,519 units / 20 years]
+= 9,583 units + 19,776 units
+= 29,359units per year
+
+In order to produce annual targets for each jurisdiction that are more stable from year to year,
+DAS runs the OHNA Methodology each year and averages the current year’s results with the
+prior two year’s results. In the 2025 production targets, this wasn’t possible due to the lack of 3
+years of annual targets, therefore the 2026 annual production target is the first vintage where
+the 3 year moving average has been implemented. The intention with smoothing the data is to
+prevent OHNA targets from jumping around significantly from year to year due to data
+volatility, allowing local jurisdictions to have more consistent information for planning
+purposes. In this case the 2026 production target is the average of 2023, 2024, and 2025
+15
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+annual targets. The smoothing process will be challenging when PUMA boundaries change
+again in 2032, and a technical update may be required at that point in time.
+Peer Cities
+OHCS must produce a Housing Production Dashboard, which must include, for each city with a
+population of 10,000 or greater, “a comparative analysis of progress in comparison to the
+region and other local governments with similar market types” which are referred to as “peer
+cities.”6 DLCD must base referral decisions to the Housing Acceleration Program on a city's
+relative progress and performance towards housing production targets.7 The following
+housing market attributes that indicate market similarity were used to group cities into peers:
+1. Current population size (static)
+2. Share of households with incomes >$200,000 (static)
+3. Share of housing used as second and vacation homes (static)
+4. Share of housing that is single unit detached (static)
+5. Share of housing that is owner-occupied (static)
+6. Population growth between 2010 and 2020 (percent change)
+The methodology uses a statistical analysis called a K-Nearest Neighbor (KNN) to group each
+city with seven other peers based on their shared conditions across the seven variables listed
+above (see Figure 7 for the list of peers). The KNN algorithm uses place‐level ACS and
+Decennial Census population estimates data as inputs, and each input is equally weighted.
+This approach allows for each city to be compared to its seven “closest” peers. This approach
+offers several advantages including a consistent number of peer cities, and for each city to be
+grouped with its best fitting peers.
+KNN calculates a matrix of Euclidean distances between each pair of cities (the square root of
+the sum of squared differences for every variable). Some city pairs are socioeconomically and
+demographically “closer,” or more similar to each other than others. As Euclidean distance
+increases, the potential fit as a peer decreases. A common rule of thumb for KNN is to limit
+neighbor groupings to the square root of the total number of samples in the set. In this case,
+the KNN model contains 58 cities (and Tillamook County) that have a population over 10,000
+in Oregon, indicating that 7 nearest neighbors is the optimal number for the OHNA application.
+Not every local government defined as a "city with a population of 10,000 or greater" can be
+readily paired with market peers utilizing this methodology. This includes:
+● Urban unincorporated lands within Metro counties: The peer methodology omits these
+local governments because they are non-standard and not reflected in any Census
+
+6
+
+“City” is used as shorthand for the jurisdictions that will receive peers. See ORS 456.601(3)b:
+https://www.oregonlegislature.gov/bills_laws/ors/ors456.html
+7
+See ORS 197A.130: https://www.oregonlegislature.gov/bills_laws/ors/ors197A.html
+
+16
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+geographic unit. The closes approximation would be to use aggregation of census
+tracts, but these cross into other incorporated cities.
+● Cities and specified unincorporated communities within the Tillamook County: While SB
+406 (2023) defines these communities as "cities with a population of 10,000 or greater"
+for the purpose of housing planning, they are not large enough to have suitable Census
+data to be included in the peer methodology and are therefore grouped together.
+Figure 7. Peer Cities List
+City
+
+Peer 1
+
+Peer 2
+
+Peer 3
+
+Peer 4
+
+Peer 5
+
+Peer 6
+
+Peer 7
+
+Albany
+
+Keizer
+
+McMinnville
+
+Medford
+
+Grants Pass
+
+Hermiston
+
+Forest Grove
+
+Woodburn
+
+Ashland
+
+Astoria
+
+Pendleton
+
+Klamath Falls
+
+Newberg
+
+North Bend
+
+Newport
+
+Tualatin
+
+Astoria
+
+Ashland
+
+Pendleton
+
+Klamath Falls
+
+Roseburg
+
+North Bend
+
+The Dalles
+
+Newport
+
+Baker City
+
+Sweet Home
+
+North Bend
+
+Central Point
+
+Pendleton
+
+Milwaukie
+
+St. Helens
+
+The Dalles
+
+Beaverton
+
+Hillsboro
+
+Gresham
+
+Eugene
+
+Corvallis
+
+Tualatin
+
+Salem
+
+Tigard
+
+Bend
+
+Oregon City
+
+Newberg
+
+Tigard
+
+Redmond
+
+Medford
+
+Grants Pass
+
+Forest Grove
+
+Canby
+
+Dallas
+
+Oregon City
+
+Gladstone
+
+Central Point
+
+Silverton
+
+Newberg
+
+Woodburn
+
+Central Point
+
+Dallas
+
+Silverton
+
+St. Helens
+
+Woodburn
+
+Oregon City
+
+Keizer
+
+Cornelius
+
+Coos Bay
+
+Pendleton
+
+La Grande
+
+Ontario
+
+Springfield
+
+Newport
+
+McMinnville
+
+Klamath Falls
+
+Cornelius
+
+Central Point
+
+Troutdale
+
+St. Helens
+
+Dallas
+
+Gladstone
+
+Canby
+
+Sandy
+
+Corvallis
+
+Beaverton
+
+Eugene
+
+Hillsboro
+
+Monmouth
+
+Gresham
+
+Fairview
+
+Tualatin
+
+Cottage Grove
+
+St. Helens
+
+Woodburn
+
+Prineville
+
+Hermiston
+
+Sweet Home
+
+Dallas
+
+Independence
+
+Dallas
+
+Woodburn
+
+Central Point
+
+Canby
+
+St. Helens
+
+Hermiston
+
+Silverton
+
+Oregon City
+
+Eugene
+
+Salem
+
+Gresham
+
+Hillsboro
+
+Beaverton
+
+Corvallis
+
+Medford
+
+Springfield
+
+Fairview
+
+Wilsonville
+
+Lebanon
+
+Independence
+
+Tualatin
+
+Monmouth
+
+Hermiston
+
+Corvallis
+
+Forest Grove
+
+Newberg
+
+Molalla
+
+The Dalles
+
+Albany
+
+Silverton
+
+Hermiston
+
+Keizer
+
+Gladstone
+
+Troutdale
+
+Canby
+
+Milwaukie
+
+Central Point
+
+Cornelius
+
+Silverton
+
+Oregon City
+
+Grants Pass
+
+Roseburg
+
+The Dalles
+
+Medford
+
+Albany
+
+Keizer
+
+Silverton
+
+McMinnville
+
+Gresham
+
+Salem
+
+Eugene
+
+Beaverton
+
+Medford
+
+Hillsboro
+
+Springfield
+
+Albany
+
+Happy Valley
+
+Sandy
+
+Sherwood
+
+West Linn
+
+Oregon City
+
+Lake Oswego
+
+Canby
+
+Bend
+
+Hermiston
+
+Independence
+
+Lebanon
+
+Woodburn
+
+Albany
+
+Dallas
+
+Prineville
+
+Forest Grove
+
+Hillsboro
+
+Beaverton
+
+Eugene
+
+Gresham
+
+Salem
+
+Tualatin
+
+Corvallis
+
+Tigard
+
+Independence
+
+Hermiston
+
+Lebanon
+
+Dallas
+
+Silverton
+
+Woodburn
+
+Forest Grove
+
+Prineville
+
+Keizer
+
+McMinnville
+
+Albany
+
+Woodburn
+
+Newberg
+
+Central Point
+
+Milwaukie
+
+Grants Pass
+
+17
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+City
+
+Peer 1
+
+Peer 2
+
+Peer 3
+
+Peer 4
+
+Peer 5
+
+Peer 6
+
+Peer 7
+
+Klamath Falls
+
+Pendleton
+
+Astoria
+
+Roseburg
+
+Grants Pass
+
+Ashland
+
+Monmouth
+
+Springfield
+
+La Grande
+
+Coos Bay
+
+Pendleton
+
+Ontario
+
+Klamath Falls
+
+Springfield
+
+Milwaukie
+
+Newport
+
+Lake Oswego
+
+Tigard
+
+Sherwood
+
+Newberg
+
+Oregon City
+
+Tualatin
+
+West Linn
+
+Canby
+
+Lebanon
+
+Independence
+
+Hermiston
+
+Albany
+
+Roseburg
+
+Forest Grove
+
+Prineville
+
+Fairview
+
+Lincoln City
+
+Tillamook
+County
+
+Astoria
+
+Molalla
+
+The Dalles
+
+Newport
+
+Ashland
+
+North Bend
+
+McMinnville
+
+Keizer
+
+Albany
+
+Milwaukie
+
+Newberg
+
+Woodburn
+
+Silverton
+
+Grants Pass
+
+Medford
+
+Albany
+
+Grants Pass
+
+Salem
+
+Gresham
+
+Keizer
+
+McMinnville
+
+Springfield
+
+Milwaukie
+
+North Bend
+
+McMinnville
+
+Keizer
+
+Silverton
+
+Pendleton
+
+Gladstone
+
+Central Point
+
+Molalla
+
+The Dalles
+
+Prineville
+
+Forest Grove
+
+Silverton
+
+Redmond
+
+Newberg
+
+Roseburg
+
+Monmouth
+
+Klamath Falls
+
+Astoria
+
+Lebanon
+
+Corvallis
+
+Ashland
+
+Roseburg
+
+Fairview
+
+Newberg
+
+Forest Grove
+
+Silverton
+
+The Dalles
+
+Keizer
+
+Oregon City
+
+McMinnville
+
+Central Point
+
+Newport
+
+Astoria
+
+Ashland
+
+Pendleton
+
+Coos Bay
+
+McMinnville
+
+North Bend
+
+Newberg
+
+North Bend
+
+Milwaukie
+
+Silverton
+
+Newberg
+
+The Dalles
+
+Central Point
+
+Pendleton
+
+Grants Pass
+
+Ontario
+
+Springfield
+
+Independence
+
+Lebanon
+
+Pendleton
+
+McMinnville
+
+Hermiston
+
+Klamath Falls
+
+Oregon City
+
+Canby
+
+Central Point
+
+Newberg
+
+Silverton
+
+Dallas
+
+Keizer
+
+Forest Grove
+
+Pendleton
+
+Klamath Falls
+
+Astoria
+
+Roseburg
+
+Milwaukie
+
+McMinnville
+
+Ashland
+
+North Bend
+
+Portland
+
+Eugene
+
+Salem
+
+Gresham
+
+Hillsboro
+
+Beaverton
+
+Medford
+
+Bend
+
+Prineville
+
+The Dalles
+
+Roseburg
+
+Molalla
+
+Sweet Home
+
+Silverton
+
+Cottage Grove
+
+Hermiston
+
+Redmond
+
+The Dalles
+
+Molalla
+
+Grants Pass
+
+Central Point
+
+Prineville
+
+Oregon City
+
+Silverton
+
+Roseburg
+
+Grants Pass
+
+Prineville
+
+The Dalles
+
+Pendleton
+
+Albany
+
+McMinnville
+
+Klamath Falls
+
+St. Helens
+
+Woodburn
+
+Cottage Grove
+
+Dallas
+
+Central Point
+
+Troutdale
+
+Silverton
+
+Keizer
+
+Salem
+
+Eugene
+
+Gresham
+
+Medford
+
+Hillsboro
+
+Albany
+
+Beaverton
+
+Springfield
+
+Sandy
+
+Cornelius
+
+Dallas
+
+Oregon City
+
+Central Point
+
+Canby
+
+Sherwood
+
+Redmond
+
+Sherwood
+
+West Linn
+
+Oregon City
+
+Lake Oswego
+
+Cornelius
+
+Central Point
+
+Canby
+
+Sandy
+
+Silverton
+
+The Dalles
+
+Newberg
+
+North Bend
+
+Central Point
+
+Molalla
+
+Milwaukie
+
+Keizer
+
+Springfield
+
+McMinnville
+
+Albany
+
+Medford
+
+Roseburg
+
+Gresham
+
+Pendleton
+
+Keizer
+
+Sweet Home
+
+Prineville
+
+Cottage Grove
+
+Roseburg
+
+The Dalles
+
+Baker City
+
+St. Helens
+
+Redmond
+
+The Dalles
+
+Molalla
+
+Silverton
+
+Prineville
+
+Grants Pass
+
+Newberg
+
+Roseburg
+
+Forest Grove
+
+Tigard
+
+Tualatin
+
+Newberg
+
+Oregon City
+
+Canby
+
+Forest Grove
+
+Lake Oswego
+
+Keizer
+
+18
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+City
+
+Peer 1
+
+Peer 2
+
+Peer 3
+
+Peer 4
+
+Peer 5
+
+Peer 6
+
+Peer 7
+
+Troutdale
+
+Gladstone
+
+St. Helens
+
+Woodburn
+
+Cornelius
+
+Central Point
+
+Milwaukie
+
+Keizer
+
+Tualatin
+
+Tigard
+
+Beaverton
+
+Hillsboro
+
+Ashland
+
+Gresham
+
+Newberg
+
+Fairview
+
+West Linn
+
+Sherwood
+
+Lake Oswego
+
+Cornelius
+
+Happy Valley
+
+Oregon City
+
+Sandy
+
+Central Point
+
+Wilsonville
+
+Fairview
+
+Hillsboro
+
+Tualatin
+
+Beaverton
+
+Corvallis
+
+Forest Grove
+
+Monmouth
+
+Woodburn
+
+St. Helens
+
+Dallas
+
+Keizer
+
+Central Point
+
+Hermiston
+
+McMinnville
+
+Cottage Grove
+
+Tillamook
+County
+
+Lincoln City
+
+Baker City
+
+Newport
+
+North Bend
+
+Redmond
+
+Sweet Home
+
+Astoria
+
+Updating the Methodology
+Since producing the first official needs estimates and production targets in 2025, DAS plans to
+revisit the methodology at least every five years. The law also allows OHCS and DLCD to
+recommend changes to the OHNA Methodology, provided that the agencies provide an
+opportunity for written and oral testimony on proposed recommendations.
+
+19
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+Portland Metro Region
+The law codifying the OHNA into the statewide land use planning system treats the Portland
+Metro UGB differently from the rest of the state. Under HB2889 (2023) Metro maintains its
+statutory responsibility to estimate the region’s housing need within the Metro UGB, while DAS
+is made responsible for allocating that need to Metro cities and urban, unincorporated lands
+(UULs).8
+OHNA Metro UGB Suballocation Methodology Steps
+In the OHNA methodology, every region, except for the Portland Metro Region uses a top-down
+estimation of need, followed by a local jurisdiction allocation process for all UGB’s and nonUGB areas within the region. The Portland Metro Region is composed of Multnomah,
+Washington, and Clackamas counties. The Metro UGB is the growth boundary sitting inside the
+three counties, determined by Metro to separate urban and urbanizable land from rural land.
+Figure 8. Map of OHNA Metro Region (Three Counties), Metro Region Outside UGB, and
+Metro UGB Areas
+
+The OHNA methodology estimates the Portland Metro Region’s total housing need (areas in
+red outline in Figure 8) in the same manner as all other regions in the state, but then swaps in
+
+8
+
+See ORS 184.453(3)(e) which requires DAS to consider Metro’s projected housing needs and ORS 197A.348(2)
+which requires Metro to project housing need for the components of need that are included in the OHNA.
+
+20
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+Metro’s own estimate of current and future housing need from its Urban Growth Report (UGR)9
+for the units needed inside the Metro UGB (areas in orange in Figure 8). The estimates of
+housing units needed in the Metro Region Outside UGB area (the blue remainder in Figure 8)
+are held constant so any changes related to a control total inside the Metro UGB do not impact
+the need in the rest of the region.
+Step A: Determining Need for Metro UGB
+The OHNA uses Metro’s estimate of current and future housing need from its 2024 adopted
+UGR for the units needed inside the Metro UGB.
+Planning for housing need inside the Metro UGB is determined separately from the rest of the
+OHNA Metro Region. The OHNA Metro Region’s current and future need is calculated in the
+same manner as all other regions. However, within the OHNA Metro Region future and current
+need is allocated to UGBs using an amended methodology different from all other regions.
+Current and future need is first determined for the Metro Region Outside UGB Areas (including
+the cities of Sandy, Estacada, Canby, Molalla, Barlow, Gaston, Banks, and North Plains), and the
+county areas outside of all UGBs separately. Then the estimate of current and future need
+within the Metro UGB is determined using Metro’s adopted UGR, which includes an estimate of
+total future need from “household growth” (population growth and demographic change
+combined) along with estimates of need for underproduction, second and vacation homes, and
+units to address homelessness.
+To align the Metro UGB need with the rest of OHNA, the UGR-calculated “household growth”
+need is split into population growth and demographic change components, and across
+household income brackets using the pre-existing distributions from the rest of the OHNA
+Metro Region. The rest of the Metro UGR-calculated components are swapped into the model
+for the Metro UGB as-is and allocated along the same regional income distributions.
+Oregon statute requires that Metro must coordinate its regional forecasts with governments
+within the UGB. These growth forecast distributions are used to update land use and
+transportation plans, regulations and related policies. Metro typically completes its distributed
+forecast within one to two years after adopting the regional forecast in the UGR. Once
+available, the distributed forecast will be substituted in place of housing capacity when
+determining subsequent housing need allocations within the Metro UGB.
+
+9
+
+See Metro’s Urban Growth Report here: https://www.oregonmetro.gov/public-projects/2024-growthmanagement-decision/
+
+21
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+Figure 9. Distribution by Component of Need for OHNA Metro Region, 2025
+
+Step B: Allocation of Need from UGBs to Cities and Urban Unincorporated Lands (UULs)
+As noted on page 20, House Bill 2889 (2023) maintains Metro’s statutory responsibility to
+estimate the region’s housing need within the Metro UGB, while giving DAS the responsibility to
+allocate that need to Metro cities and urban, unincorporated lands (UULs).
+The allocation of future and current housing need to the cities and UULs within the OHNA
+Metro Region but outside the Metro UGB (the blue areas in Figure 8 on page 20) mirrors the
+methodology used in all other OHNA regions of the state.
+The allocation of future and current housing need to cities and UULs within the Metro UGB
+uses a different allocation methodology that is unique to the Metro UGB. This approach
+reflects the fact that the area inside the Metro UGB functions as a single housing market with
+many different jurisdictions; the Metro UGB also has access to more robust data that allows
+for more nuanced indicators. Unique elements of the allocation methodology for the Metro
+UGB include a more refined approach to capturing access to jobs, and an approach that takes
+existing housing affordability and recent housing production into consideration when
+allocating existing, unmet housing needs. Each component of the methodology is allocated
+using the following indicators and weights:
+Units Needed for Underproduction and for People Experiencing Homelessness:
+• Production: 50% from the city’s rate of housing unit production relative to the UGB-wide
+average as calculated from the Regional Land Information System (RLIS) parcel-based
+housing layer, which provides unit counts and year built for parcels. Units built within
+the last five years of the model “run-year” (the year corresponding to the model’s PUMS
+22
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+
+•
+
+data inputs) are calculated as a share of total units within each jurisdiction and UUL
+(Inverse weight – see comments on Inverse Weighting on page 27).
+Affordability: 50% from the percentage of a city’s housing units that are rental 0-50%
+AMI units, relative to the UGB-wide average, using the most recent vintage of the CHAS
+5-year data (Inverse weight). Urban unincorporated lands within the UGB have their
+affordability level calculated using tract-level CHAS data for tracts with at least 30% of
+their area in the UUL. CHAS is more out-of-date compared to the ACS/PUMS products,
+so the model corrects for this by applying the affordability rate from CHAS to the more
+recent unit counts calculated with RLIS’s Housing Layer.
+
+Future need is allocated to cities (including the unincorporated urbanizable areas for which
+they have planning authority based on intergovernmental agreements) and UULs using the
+following indicators and weights:
+Units Needed to Accommodate Population Growth:
+• Residential capacity: 33% from the city’s share of jurisdictional residential capacity, as
+calculated with Metro’s UGR process, wherein capacity in Metro’s unincorporated
+urbanizable areas has been assigned to their future responsible jurisdictions as shown
+in Figure 10.10
+• Jobs access: 33% from the city's share of UGB employed residents who live within
+areas with adequate transit or walking access to jobs, as calculated with TriMet and
+SMART's most recent transit schedule data and OpenStreetMap street grid data (see
+comments on Measuring Jobs Access on page 25)
+• Forecasted job growth: 33% from the city's share of all forecasted jobs to be added
+between 2020 and 2050, based on Metro's UGR modeling. This metric uses Metro's
+TAZ-level job forecasts, which are then assigned to cities using a Metro-provided map
+of expected future jurisdictional responsibilities (see Figure 11 on page 26).
+
+10
+
+The allocation is required to incorporate population forecasts under ORS 195.033 and 195.036. Under these
+statutes, only Metro is authorized to create population projections for cities within the Metro UGB for use in
+comprehensive planning. Because Metro's distributed forecast won't be published until 2025 and given the
+relatively close statistical relationship between modeled residential capacity and expected population growth,
+residential capacity is used as a proxy for the forecast in the initial run of the methodology. In the future, once
+Metro's distributed forecast is adopted, it will be substituted in as the source for this component of the allocation.
+
+23
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+Figure 10. Future Metro UGB Jurisdictional Responsibility
+
+Units needed to accommodate demographic change:
+• Current population: 33% from the city's share of current (baseline) population, as
+calculated with 2020 block-level Decennial Census data. The choice to use Decennial
+Census is driven by the need to allocate population to the complex UUL boundaries as
+well as cities, which can only be done with granular geographies like census blocks
+• Jobs access: 33% from the city's share of UGB employed residents who live within
+areas with adequate transit or walking access to jobs, as calculated with TriMet and
+SMART's most recent transit schedule data and OpenStreetMap street grid data (see
+below).
+• Residential capacity: 33% from the city's share of jurisdictional residential capacity, as
+calculated with Metro's UGR process, wherein capacity in Metro's unincorporated
+urbanizable areas has been assigned to their future responsible jurisdictions.
+Units lost to second and vacation homes:
+• Second and vacation homes: 100% from the city's share of all current UGB second and
+vacation homes as calculated with 2020 Decennial Census place-level counts
+24
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+Measuring Jobs Access
+One of the weights used to allocate units for population growth to Metro cities is a
+measurement of transit access to jobs. The approach uses current TriMet and SMART’s
+schedule data, OpenStreetMap street grid data, and open-source trip-routing software to plot
+transit and walking trips from every Transit Analysis Zone (TAZ) in the Metro UGB to every
+other TAZ in the Metro UGB.
+Walk and transit access was chosen specifically to be most applicable to all households,
+regardless of income and access to private vehicles as a mode of transportation. Joining this
+with Longitudinal Employer-Household Dynamics (LEHD) job location data spatially allocated
+to the TAZs, the model calculates the number of jobs reachable by transit within a 60-minute
+journey, mid-week, at 8:00 AM. The UGBs’ TAZs are rank ordered by job access, and a
+threshold is set at the 10th percentile to denote “transit access” zones. Each TAZ is assigned to
+a city based on Metro’s TAZ planning jurisdiction shapefile, and where this information is
+missing, it is assigned based on which city has the largest overlap with any given TAZ. The
+number of employed residents living in these “transit access TAZs” is calculated for each
+jurisdiction, and the jurisdiction’s share of the UGB’s total is used as the final weight.
+In the interest of maintaining accurate assessments of transit access, future iterations of the
+OHNA model will incorporate the most up-to-date TAZ-level jobs totals, transit schedules, and
+OpenStreetMap data.
+Measuring Job Growth
+Similar to the transit allocation component, the methodology incorporates forecasted job
+growth to operationalize the statutory direction to incorporate access/proximity to jobs as part
+of the allocation. This component has the effect of allocating more housing where future job
+growth is projected to occur. This data set is provided by Metro from their housing and
+transportation modeling processes, based on TAZ geographies, with job total forecasts for
+2020 and 2050 included in separate columns for each TAZ. TAZs are joined spatially to
+jurisdictional boundaries (including planning agreements), based on spatial data provided by
+Metro and the change in jobs between 2020 and 2050 is totaled for all Metro jurisdictions. The
+weight is calculated as a jurisdiction’s share of all UGB added jobs.
+
+25
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+Figure 11. TAZ Transit Access Zones Used to Calculate the Jobs Access Weights
+
+26
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+Inverse Weighting
+Several weights used in the Metro UGB Suballocation Methodology are termed “inverse
+weights.” The selected inverse weights operationalize statutory direction for the allocation to
+incorporate an "equitable distribution of housing" under ORS 184.453 (3)(c), ensuring cities
+that have historically underproduced market-rate or affordable housing are responsible for a
+greater proportionate share of housing underproduction. The selected inverse weights have
+the effect of allocating more housing, particularly housing affordable at lower incomes, to
+cities that have historically produced less market-rate and affordable housing units. The
+inverse weighting system works in the following manner, using the “Production” weight as an
+example:
+•
+
+•
+•
+•
+
+Each city’s rate of housing unit production is calculated by taking the previous five years
+of total permits from RLIS housing unit data and converting them to a percentage of
+current total units.
+The UGB average is calculated from among all cities.
+The “delta,” or nominal units needed for each city to match the UGB’s average rate, is
+calculated. Cities above the UGB average receive a weight of 0.
+All the nominal deltas are converted to percent of the total delta. This percentage
+becomes half the weight used to allocate underproduction and units needed to
+accommodate homelessness.
+
+Example Delta Calculation for Inverse Weights
+UGB average rate of housing unit production: 7% of current units (average of all cities)
+City X
+City Y
+City X’s current units: 12,000
+City X’s actual production: 600
+City X’s production rate: 5% of current units
+
+City Y’s current units: 15,000
+City Y’s actual production: 1,500
+City Y’s production rate: 10% of current units
+
+To match the UGB rate of housing
+production, City X should have built 840 units
+(7% * 12,000)
+
+To match the UGB rate of housing
+production, City Y only needed to build 1,050
+units (7% * 15,000)
+
+Its delta is 240 units (840 – 600)
+
+Since it produced more than the average, it
+has no delta, and its weight would be zero.
+
+If the sum of all cities’ deltas was 500, City X
+would have 240/500 or 48%. Because recent
+production is only half of the weight for the
+current need allocation, this 48% would be
+averaged with the weight calculated for
+affordability to arrive at a blended weight.
+
+27
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+Statewide and Regional Results
+This section provides statewide and regional results of the total 20-year housing need by
+income and need component along with the annual 2026 production target. Local city-level
+results are provided by income level in Appendix A. The federal government shutdown in
+October and November delayed the release of many of the foundational data sources used in
+the methodology. Ultimately all of the sources of federal data that have regular annual data
+updates were released in time for use in this year’s update.
+The delay of the data release did however impact some components of the estimate of
+housing need. The homelessness methodology and source data used in the methodology are
+produced by Portland State University’s Homelessness Research and Action Collaborative
+(HRAC). Data sources used by HRAC were not available in time to allow for an annual update
+to the homelessness data. Therefore there is not an update for this component of need, and
+the 2025 vintage was used for the 2026 production targets and 20-year estimate of need.
+Other data used in the methodology are updated infrequently and are therefore either lagged
+until a more recent vintage is available, or operate with predictable and known data update
+cycles.
+The population forecasts used in the methodology to inform the population growth and
+demographic change components are produced by Portland State University’s Population
+Research Center (PRC). PRC produces an annual update to their statewide population forecast,
+but the update only covers a portion of the state. PRC divides the state into four regions, and
+then annually produces an update for only one of the four regions (note that PRC regions do
+not align with the OHNA regions). Each of the PRC regions is then updated on a four-year cycle,
+in 2024 the Metro region was updated, and in 2025 the Willamette Valley was updated.
+The Metro region was only partially updated in this year’s methodology, as the Metro UGB
+calculation of need is statutorily conducted by Metro. Metro currently updates their growth
+estimates every 6 years as part of the Urban Growth Report process. That process was most
+recently completed in 2024 and used as part of the 2025 calculation of 20 years of need and
+annual production target. All other parts of the Metro region were updated except for the
+Metro UGB which is unchanged in the calculation of the total units of need. Local allocation is
+updated for the entirety of the state on an annual basis. See the following section of the report
+for a more complete description of all of the data sources and their update schedules.
+The 2026 20-year calculation of total need is the average of the 2023, 2024, and 2025 annual
+calculations of need, which rely primarily on census data that are lagged by a year. For
+example, the 2025 annual calculation of need uses 2024 census data as the basis for its
+calculation. The annual production target is the combination of a 20-year time horizon for
+future need, and a 10-year time horizon for current need. The following charts and tables show
+the state components of need for each of the 3 years used to create the 2026 20-year total
+need, along with the statewide and regional annual regional targets by income level.
+
+28
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+The 2026 statewide calculation of 20-years of need is 491,347 units, down from 494,502 units
+in 2025. This translates to a 2026 statewide annual production target of 29,359 units, down
+from 29,522 units in 2025.
+Figure 12. Statewide components of 20 years of total need for 2026
+
+Figure 13. Statewide 2025 vs. 2026 Annual Production Target
+
+Figure 14. Statewide and Regional 20-Year Total Housing Need by Income Level
+Region
+Central
+Metro
+Northeast
+Northern Coast
+Southeast
+
+0-30%
+7,807
+31,606
+3,527
+4,441
+2,816
+
+Income Level
+31-60%
+61-80%
+8,977
+6,900
+31,422
+20,714
+3,354
+1,962
+3,328
+1,252
+2,031
+1,183
+
+81-120%
+12,809
+36,180
+4,527
+3,366
+2,001
+
+>120%
+22,455
+68,241
+6,406
+3,550
+3,678
+
+Total
+Need
+58,949
+188,164
+19,775
+15,938
+11,708
+
+29
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+Southwest
+Willamette Valley
+Oregon
+
+13,239
+32,923
+96,359
+
+11,055
+25,151
+85,319
+
+6,630
+13,966
+52,607
+
+10,682
+23,958
+93,523
+
+20,713
+38,496
+163,540
+
+62,319
+134,494
+491,347
+
+Figure 15. Statewide 20-Year Total Housing Need by Income Level and Component
+Current Need
+Income
+Level
+
+Underproduction
+
+0-30%
+31-60%
+61-80%
+81-120%
+>120%
+Total
+
+14,770
+16,515
+7,921
+7,406
+3,579
+50,191
+
+Future Need
+
+Units for
+Homelessness
+35,287
+8,223
+2,127
+45,637
+
+Second &
+Demographic
+Pop.
+Total
+Vacation
+Change
+Growth
+Needs
+Homes
+16,774
+29,529
+96,359
+21,967
+38,613
+85,319
+15,226
+27,333
+52,607
+11,250
+26,724
+48,142
+93,523
+5,876
+55,027
+99,058 163,540
+17,126
+135,718 242,675 491,347
+
+30
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+Regional Results
+Figure 16. OHNA Regions (from page 3)
+
+Figure 17. Central Region 20-Year Total Housing Need by Income Level and Component
+Current Need
+Income
+Level
+
+Underproduction
+
+0-30%
+31-60%
+61-80%
+81-120%
+>120%
+Total
+
+1,535
+1,991
+1,374
+1,347
+696
+6,943
+
+Future Need
+
+Units for
+Homelessness
+2,113
+398
+105
+2,616
+
+Second &
+Demographic
+Vacation
+Change
+Homes
+997
+1,579
+1,298
+1,809
+2,314
+1,688
+4,815
+3,497
+11,003
+
+Pop.
+Growth
+
+Total
+Needs
+
+3,163
+5,010
+4,123
+7,339
+15,256
+34,890
+
+7,807
+8,977
+6,900
+12,809
+22,455
+58,949
+
+Figure 18. Northern Coast Region 20-Year Total Housing Need by Income Level and
+Component
+Current Need
+Income
+Level
+
+Underproduction
+
+0-30%
+31-60%
+61-80%
+81-120%
+>120%
+
+1,030
+1,244
+392
+446
+175
+
+Future Need
+
+Units for
+Homelessness
+2,374
+410
+76
+-
+
+Second &
+Demographic
+Vacation
+Change
+Homes
+537
+870
+406
+1,260
+865
+624
+1,433
+
+Pop.
+Growth
+
+Total
+Needs
+
+500
+805
+378
+796
+1,319
+
+4,441
+3,328
+1,252
+3,366
+3,550
+
+31
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+Total
+
+3,286
+
+2,859
+
+1,883
+
+4,111
+
+3,798
+
+15,938
+
+Figure 19. Southwest Region 20-Year Total Housing Need by Income Level and Component
+Current Need
+Income
+Level
+
+Underproduction
+
+0-30%
+31-60%
+61-80%
+81-120%
+>120%
+Total
+
+1,554
+2,004
+963
+830
+556
+5,907
+
+Future Need
+
+Units for
+Homelessness
+6,613
+1,191
+366
+8,170
+
+Second &
+Demographic
+Vacation
+Change
+Homes
+2,200
+3,418
+2,302
+1,578
+3,592
+615
+8,498
+2,193
+20,010
+
+Pop.
+Growth
+
+Total
+Needs
+
+2,870
+4,443
+2,998
+4,682
+11,045
+26,038
+
+13,239
+11,055
+6,630
+10,682
+20,713
+62,319
+
+Figure 20. Willamette Valley Region 20-Year Total Housing Need by Income Level and
+Component
+Current Need
+Income
+Level
+
+Underproduction
+
+0-30%
+31-60%
+61-80%
+81-120%
+>120%
+Total
+
+4,959
+5,211
+2,181
+2,083
+1,020
+15,453
+
+Future Need
+
+Units for
+Homelessness
+14,794
+3,819
+992
+19,605
+
+Second &
+Demographic
+Vacation
+Change
+Homes
+4,721
+5,772
+3,858
+2,718
+6,850
+932
+13,016
+3,650
+34,216
+
+Pop.
+Growth
+
+Total
+Needs
+
+8,450
+32,923
+10,348
+25,151
+6,935
+13,966
+12,308
+23,958
+23,529
+38,496
+61,570 134,494
+
+Figure 21. Northeast Region 20-Year Total Housing Need by Income Level and Component
+Current Need
+Income
+Level
+
+Underproduction
+
+0-30%
+31-60%
+61-80%
+81-120%
+>120%
+Total
+
+709
+637
+264
+263
+134
+2,007
+
+Units for
+Homelessness
+1,128
+288
+106
+1,522
+
+Future Need
+Second &
+Demographic
+Vacation
+Change
+Homes
+858
+1,229
+809
+1,302
+1,507
+729
+2,820
+2,031
+7,224
+
+Pop.
+Growth
+
+Total
+Needs
+
+831
+1,200
+783
+1,454
+2,723
+6,991
+
+3,527
+3,354
+1,962
+4,527
+6,406
+19,775
+
+32
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+Figure 22. Southeast Region 20-Year Total Housing Need by Income Level and Component
+Current Need
+Income
+Level
+
+Underproduction
+
+0-30%
+31-60%
+61-80%
+81-120%
+>120%
+Total
+
+410
+334
+148
+188
+100
+1,180
+
+Future Need
+
+Units for
+Homelessness
+1,238
+423
+114
+1,775
+
+Second &
+Demographic
+Vacation
+Change
+Homes
+774
+843
+610
+290
+1,009
+183
+2,237
+473
+5,474
+
+Pop.
+Growth
+
+Total
+Needs
+
+393
+430
+311
+514
+1,158
+2,807
+
+2,816
+2,031
+1,183
+2,001
+3,678
+11,708
+
+Figure 23. Metro Region 20-Year Total Housing Need by Income Level and Component
+Current Need
+Income
+Level
+
+Underproduction
+
+0-30%
+31-60%
+61-80%
+81-120%
+>120%
+Total
+
+4,572
+5,095
+2,599
+2,250
+898
+15,415
+
+Future Need
+
+Units for
+Homelessness
+7,026
+1,703
+368
+9,090
+
+Second &
+Demographic
+Pop.
+Total
+Vacation
+Change
+Growth
+Needs
+Homes
+6,686
+13,322
+31,606
+8,255
+16,376
+31,422
+5,942
+11,804
+20,714
+2,294
+10,586
+21,050
+36,180
+1,105
+22,210
+44,028
+68,241
+3,400
+53,679 106,580 188,164
+
+33
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+Appendix A. Local Results
+Each figure contains the UGBs in an OHNA Region and displays the UGB’s 1-year annual
+housing production target in total and by income level, as well as the 20-year housing need
+allocation in total and by income level. See page 15 for the calculation of annual housing
+production targets.
+Figure 24. Central Region Results
+Central
+UGBs
+Bend
+UGB
+Culver
+UGB
+La Pine
+UGB
+Madras
+UGB
+Metolius
+UGB
+Prineville
+UGB
+Redmond
+UGB
+Sisters
+UGB
+
+Results
+
+Total
+
+1-year
+20-year
+1-year
+20-year
+1-year
+20-year
+1-year
+20-year
+1-year
+20-year
+1-year
+20-year
+1-year
+20-year
+1-year
+20-year
+
+2,010
+34,116
+15
+244
+58
+1,016
+135
+2,236
+10
+159
+188
+3,091
+606
+10,251
+101
+1,802
+
+0-30%
+AMI
+348
+4,640
+3
+37
+9
+127
+26
+334
+2
+24
+36
+469
+109
+1,463
+14
+205
+
+31-60%
+AMI
+336
+5,192
+3
+39
+9
+148
+24
+365
+2
+26
+34
+503
+106
+1,652
+15
+247
+
+61-80%
+AMI
+245
+3,962
+2
+29
+7
+114
+17
+277
+1
+20
+24
+380
+78
+1,264
+11
+193
+
+81-120%
+AMI
+418
+7,509
+3
+52
+13
+232
+26
+450
+2
+31
+36
+630
+117
+2,067
+23
+437
+
+>120%
+AMI
+663
+12,814
+5
+87
+20
+394
+42
+811
+3
+57
+58
+1,109
+197
+3,804
+37
+720
+
+*On January 12, 2026, OEA revised this table to correct spreadsheet error
+
+34
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+Figure 25. Metro Region Results
+0-30%
+AMI
+
+31-60%
+AMI
+
+61-80%
+AMI
+
+81-120%
+AMI
+
+2
+31
+
+2
+28
+
+1
+18
+
+2
+29
+
+3
+56
+
+0
+6
+
+0
+1
+
+0
+1
+
+0
+1
+
+0
+1
+
+0
+2
+
+1 year
+20 year
+
+766
+13,810
+
+147
+2,230
+
+136
+2,301
+
+86
+1,538
+
+138
+2,611
+
+259
+5,130
+
+Canby UGB
+
+1 year
+20 year
+
+125
+2,173
+
+28
+394
+
+22
+365
+
+14
+237
+
+21
+401
+
+39
+774
+
+Clackamas
+UA
+
+1 year
+20 year
+
+625
+9,994
+
+165
+2,107
+
+127
+1,838
+
+72
+1,125
+
+99
+1,748
+
+163
+3,175
+
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+
+63
+1,250
+14
+188
+41
+732
+45
+821
+
+8
+159
+5
+58
+9
+125
+8
+130
+
+10
+193
+3
+41
+7
+121
+8
+134
+
+7
+138
+2
+22
+4
+80
+5
+91
+
+12
+246
+2
+28
+7
+137
+8
+158
+
+26
+513
+2
+40
+14
+269
+16
+309
+
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+
+158
+3,169
+4
+64
+78
+1,048
+497
+9,428
+
+20
+394
+1
+16
+27
+307
+79
+1,339
+
+24
+485
+1
+12
+18
+222
+83
+1,506
+
+17
+349
+0
+7
+9
+120
+55
+1,043
+
+32
+633
+1
+10
+10
+159
+94
+1,841
+
+65
+1,308
+1
+19
+13
+240
+186
+3,700
+
+Happy
+Valley
+
+1 year
+20 year
+
+459
+8,382
+
+85
+1,316
+
+80
+1,381
+
+51
+933
+
+83
+1,588
+
+160
+3,164
+
+Hillsboro
+
+1 year
+20 year
+
+741
+13,425
+
+140
+2,149
+
+131
+2,222
+
+83
+1,491
+
+134
+2,550
+
+253
+5,013
+
+Johnson
+City
+
+1 year
+20 year
+
+5
+49
+
+2
+21
+
+1
+13
+
+1
+6
+
+0
+5
+
+0
+4
+
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+
+128
+2,122
+322
+4,850
+8
+122
+
+31
+416
+95
+1,139
+3
+31
+
+25
+377
+68
+913
+2
+24
+
+15
+237
+36
+535
+1
+14
+
+21
+384
+51
+873
+1
+20
+
+36
+708
+73
+1,391
+2
+34
+
+Metro UGBs
+
+Results
+
+Banks UGB
+
+1 year
+20 year
+
+9
+162
+
+Barlow UGB
+
+1 year
+20 year
+
+Beaverton
+
+Cornelius
+Durham
+Estacada
+UGB
+Fairview
+Forest
+Grove
+Gaston UGB
+Gladstone
+Gresham
+
+King City
+Lake
+Oswego
+Maywood
+Park
+
+Total
+
+>120%
+AMI
+
+35
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+Metro UGBs
+Milwaukie
+Molalla UGB
+Multnomah
+UA
+North Plains
+UGB
+Oregon City
+Portland
+Rivergrove
+Sandy UGB
+Sherwood
+Tigard
+Troutdale
+Tualatin
+Washington
+UA
+West Linn
+Wilsonville
+Wood
+Village
+
+Results
+
+Total
+
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+
+108
+2,157
+64
+1,145
+55
+983
+39
+721
+275
+5,355
+2,856
+56,913
+3
+44
+85
+1,513
+200
+3,402
+461
+8,376
+75
+1,371
+222
+3,051
+1,467
+20,887
+238
+3,205
+195
+3,262
+19
+389
+
+0-30%
+AMI
+14
+270
+14
+200
+11
+158
+7
+110
+40
+719
+350
+6,907
+1
+13
+18
+262
+46
+639
+86
+1,330
+14
+213
+76
+861
+476
+5,522
+83
+932
+46
+621
+2
+48
+
+31-60%
+AMI
+17
+329
+11
+191
+10
+162
+6
+116
+44
+837
+424
+8,434
+1
+8
+15
+251
+38
+593
+81
+1,383
+13
+224
+51
+638
+329
+4,233
+55
+675
+37
+568
+3
+59
+
+61-80%
+AMI
+12
+236
+7
+126
+6
+108
+4
+80
+30
+592
+304
+6,062
+0
+4
+9
+166
+23
+383
+52
+931
+8
+151
+26
+350
+171
+2,385
+28
+364
+22
+360
+2
+42
+
+81-120%
+AMI
+22
+437
+11
+211
+10
+192
+7
+137
+53
+1,052
+614
+12,259
+1
+10
+15
+281
+33
+614
+83
+1,591
+14
+268
+30
+465
+205
+3,313
+32
+501
+33
+609
+4
+79
+
+>120%
+AMI
+44
+885
+21
+417
+18
+363
+14
+278
+108
+2,155
+1,163
+23,252
+0
+9
+28
+552
+60
+1,173
+159
+3,142
+26
+515
+39
+736
+287
+5,434
+40
+733
+56
+1,105
+8
+160
+
+*On January 12, 2026, OEA revised this table to correct spreadsheet error
+
+36
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+Figure 26. Northeast Region Results
+Northeast
+UGBs
+Adams UGB
+Antelope
+UGB
+Arlington
+UGB
+Athena UGB
+Baker City
+UGB
+Boardman
+UGB
+Canyon City
+UGB
+Cascade
+Locks UGB
+Condon UGB
+Cove UGB
+Dayville UGB
+Dufur UGB
+Echo UGB
+Elgin UGB
+Enterprise
+UGB
+Fossil UGB
+Granite UGB
+Grass Valley
+UGB
+
+Results
+
+Total
+
+0-30%
+AMI
+
+31-60%
+AMI
+
+61-80%
+AMI
+
+1 year
+
+2
+
+0
+
+0
+
+0
+
+81-120%
+AMI
+0
+
+>120%
+AMI
+
+20 year
+1 year
+
+25
+0
+
+5
+0
+
+5
+0
+
+3
+0
+
+5
+0
+
+8
+0
+
+20 year
+1 year
+
+8
+4
+
+0
+1
+
+0
+1
+
+0
+0
+
+4
+1
+
+3
+1
+
+20 year
+1 year
+
+63
+6
+
+12
+2
+
+11
+1
+
+6
+1
+
+14
+1
+
+20
+2
+
+20 year
+1 year
+
+10
+68
+
+21
+18
+
+19
+13
+
+11
+7
+
+19
+13
+
+32
+17
+
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+
+1,103
+44
+728
+4
+62
+11
+198
+5
+86
+2
+33
+1
+12
+4
+59
+3
+
+225
+11
+145
+1
+13
+2
+31
+1
+11
+1
+8
+0
+1
+1
+12
+1
+
+198
+9
+136
+1
+11
+2
+33
+1
+9
+0
+6
+0
+1
+1
+11
+1
+
+112
+5
+79
+0
+6
+1
+20
+0
+5
+0
+4
+0
+1
+0
+6
+0
+
+232
+7
+136
+1
+14
+2
+46
+2
+33
+0
+6
+0
+6
+1
+12
+1
+
+337
+12
+232
+1
+18
+3
+67
+1
+28
+1
+10
+0
+4
+1
+18
+1
+
+20 year
+1 year
+
+56
+9
+
+11
+2
+
+10
+2
+
+6
+1
+
+12
+2
+
+18
+2
+
+20 year
+1 year
+
+138
+22
+
+30
+6
+
+25
+4
+
+14
+2
+
+28
+4
+
+40
+6
+
+20 year
+1 year
+
+358
+3
+
+70
+1
+
+63
+0
+
+36
+0
+
+79
+1
+
+111
+1
+
+20 year
+1 year
+
+49
+3
+
+8
+0
+
+7
+0
+
+4
+0
+
+16
+2
+
+15
+1
+
+20 year
+1 year
+20 year
+
+58
+1
+13
+
+0
+0
+3
+
+0
+0
+3
+
+0
+0
+1
+
+36
+0
+2
+
+21
+0
+4
+
+0
+
+37
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+Northeast
+UGBs
+Haines UGB
+Halfway UGB
+Helix UGB
+Heppner
+UGB
+Hermiston
+UGB
+Hood River
+UGB
+Huntington
+UGB
+Imbler UGB
+Ione UGB
+Irrigon UGB
+Island City
+UGB
+John Day
+UGB
+Joseph UGB
+La Grande
+UGB
+Lexington
+UGB
+Lonerock
+UGB
+Long Creek
+UGB
+Lostine UGB
+Maupin UGB
+
+Results
+
+Total
+
+0-30%
+AMI
+
+31-60%
+AMI
+
+61-80%
+AMI
+
+1 year
+
+2
+
+0
+
+0
+
+0
+
+81-120%
+AMI
+0
+
+>120%
+AMI
+
+20 year
+1 year
+
+27
+4
+
+5
+1
+
+4
+0
+
+2
+0
+
+8
+1
+
+8
+1
+
+20 year
+1 year
+
+62
+1
+
+7
+0
+
+6
+0
+
+4
+0
+
+24
+0
+
+20
+0
+
+20 year
+1 year
+
+17
+10
+
+4
+2
+
+3
+2
+
+2
+1
+
+3
+2
+
+5
+2
+
+20 year
+1 year
+
+156
+166
+
+29
+40
+
+25
+33
+
+14
+18
+
+40
+29
+
+48
+47
+
+20 year
+1 year
+20 year
+1 year
+
+2,805
+110
+1,876
+3
+
+535
+24
+311
+0
+
+519
+19
+289
+0
+
+306
+10
+168
+0
+
+535
+26
+501
+1
+
+911
+31
+606
+1
+
+20 year
+1 year
+
+48
+2
+
+6
+0
+
+5
+0
+
+3
+0
+
+20
+0
+
+15
+0
+
+20 year
+1 year
+
+30
+2
+
+6
+0
+
+5
+0
+
+3
+0
+
+8
+0
+
+9
+0
+
+20 year
+1 year
+
+28
+9
+
+5
+2
+
+4
+2
+
+3
+1
+
+7
+1
+
+9
+2
+
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+
+148
+9
+155
+15
+244
+9
+150
+95
+1,528
+1
+
+31
+2
+31
+4
+50
+2
+21
+26
+323
+0
+
+28
+2
+29
+3
+43
+1
+19
+19
+288
+0
+
+16
+1
+17
+2
+24
+1
+11
+10
+165
+0
+
+27
+2
+29
+3
+52
+3
+50
+16
+285
+0
+
+45
+2
+49
+4
+74
+2
+48
+24
+467
+0
+
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+
+17
+1
+20
+3
+49
+2
+36
+6
+
+3
+0
+2
+1
+8
+0
+4
+1
+
+3
+0
+2
+0
+7
+0
+3
+1
+
+2
+0
+1
+0
+4
+0
+2
+0
+
+4
+0
+8
+0
+14
+1
+15
+3
+
+5
+0
+7
+0
+16
+1
+12
+2
+
+20 year
+
+119
+
+9
+
+9
+
+5
+
+54
+
+41
+
+0
+
+38
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+Northeast
+UGBs
+MiltonFreewater
+UGB
+
+1 year
+
+34
+
+9
+
+7
+
+4
+
+81-120%
+AMI
+6
+
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+
+536
+1
+22
+1
+9
+4
+61
+
+117
+0
+2
+0
+2
+1
+12
+
+101
+0
+2
+0
+2
+1
+12
+
+57
+0
+1
+0
+1
+0
+7
+
+100
+0
+9
+0
+1
+1
+11
+
+160
+0
+7
+0
+3
+1
+19
+
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+
+5
+101
+2
+28
+2
+41
+120
+1,949
+5
+86
+
+1
+9
+1
+7
+1
+8
+32
+403
+1
+17
+
+1
+9
+0
+5
+1
+8
+24
+360
+1
+13
+
+0
+5
+0
+3
+0
+5
+13
+206
+0
+7
+
+2
+43
+0
+5
+0
+7
+21
+381
+1
+23
+
+2
+35
+0
+8
+1
+13
+31
+599
+1
+25
+
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+
+4
+59
+2
+39
+2
+30
+2
+40
+0
+6
+
+1
+10
+0
+3
+0
+5
+0
+3
+0
+0
+
+1
+8
+0
+3
+0
+4
+0
+2
+0
+0
+
+0
+5
+0
+2
+0
+3
+0
+1
+0
+0
+
+1
+18
+1
+18
+0
+9
+1
+21
+0
+3
+
+1
+18
+1
+13
+0
+10
+1
+14
+0
+2
+
+Summerville
+UGB
+
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+
+1
+26
+16
+288
+0
+8
+
+0
+2
+3
+49
+0
+2
+
+0
+2
+3
+53
+0
+1
+
+0
+1
+2
+32
+0
+1
+
+1
+12
+3
+55
+0
+2
+
+0
+9
+5
+99
+0
+2
+
+Sumpter
+UGB
+
+1 year
+20 year
+
+13
+257
+
+0
+4
+
+0
+4
+
+0
+2
+
+8
+156
+
+5
+92
+
+The Dalles
+UGB
+
+1 year
+20 year
+
+111
+1,785
+
+30
+378
+
+22
+334
+
+12
+190
+
+19
+342
+
+28
+542
+
+Mitchell UGB
+Monument
+UGB
+Moro UGB
+Mosier UGB
+Mt. Vernon
+UGB
+North
+Powder UGB
+Pendleton
+UGB
+Pilot Rock
+UGB
+Prairie City
+UGB
+Richland
+UGB
+Rufus UGB
+Seneca UGB
+Shaniko UGB
+Spray UGB
+Stanfield
+UGB
+
+Results
+
+Total
+
+0-30%
+AMI
+
+31-60%
+AMI
+
+61-80%
+AMI
+
+>120%
+AMI
+8
+
+39
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+Northeast
+UGBs
+Ukiah UGB
+Umatilla
+UGB
+Union UGB
+Unity UGB
+Wallowa
+UGB
+Wasco UGB
+Weston UGB
+
+Results
+
+Total
+
+0-30%
+AMI
+
+31-60%
+AMI
+
+61-80%
+AMI
+
+1 year
+
+2
+
+0
+
+0
+
+0
+
+81-120%
+AMI
+1
+
+>120%
+AMI
+
+20 year
+1 year
+
+30
+49
+
+2
+13
+
+2
+10
+
+1
+5
+
+16
+8
+
+10
+13
+
+20 year
+1 year
+
+812
+9
+
+164
+2
+
+150
+2
+
+87
+1
+
+156
+2
+
+92
+2
+
+20 year
+1 year
+
+148
+1
+
+28
+0
+
+25
+0
+
+15
+0
+
+34
+0
+
+46
+0
+
+20 year
+1 year
+
+11
+4
+
+0
+1
+
+0
+1
+
+0
+0
+
+6
+1
+
+4
+1
+
+20 year
+1 year
+20 year
+1 year
+
+68
+1
+23
+8
+
+12
+0
+4
+2
+
+10
+0
+3
+2
+
+5
+0
+2
+1
+
+20
+0
+7
+1
+
+20
+0
+7
+2
+
+20 year
+
+137
+
+25
+
+25
+
+15
+
+27
+
+45
+
+1
+
+*On January 12, 2026, OEA revised this table to correct spreadsheet error
+
+40
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+Figure 27. Northern Coast Region Results
+Northern
+Coast UGB
+
+Results
+
+Total
+
+0-30%
+AMI
+
+31-60%
+AMI
+
+61-80%
+AMI
+
+81-120%
+AMI
+
+>120%
+AMI
+
+Astoria UGB
+
+1 year
+20 year
+
+140
+1,802
+
+60
+654
+
+35
+431
+
+11
+152
+
+17
+259
+
+17
+307
+
+Bay City
+UGB
+
+1 year
+20 year
+
+14
+183
+
+6
+68
+
+4
+43
+
+1
+15
+
+2
+29
+
+2
+29
+
+Cannon
+Beach UGB
+
+1 year
+20 year
+
+44
+645
+
+14
+150
+
+8
+100
+
+3
+36
+
+11
+211
+
+8
+148
+
+Clatskanie
+UGB
+
+1 year
+20 year
+
+23
+294
+
+10
+107
+
+6
+71
+
+2
+25
+
+3
+41
+
+3
+50
+
+Columbia
+City UGB
+
+1 year
+20 year
+
+13
+161
+
+6
+62
+
+3
+40
+
+1
+14
+
+1
+21
+
+1
+25
+
+Garibaldi
+UGB
+
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+
+12
+158
+25
+373
+22
+364
+15
+222
+
+5
+50
+7
+81
+4
+50
+5
+61
+
+3
+34
+4
+54
+3
+36
+3
+45
+
+1
+12
+1
+19
+1
+13
+1
+17
+
+2
+31
+7
+131
+8
+164
+3
+50
+
+2
+30
+5
+88
+5
+100
+3
+49
+
+Scappoose
+UGB
+
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+
+1
+7
+28
+352
+32
+538
+93
+1,268
+
+0
+2
+12
+130
+7
+78
+37
+417
+
+0
+2
+7
+86
+4
+57
+23
+302
+
+0
+1
+2
+30
+1
+21
+8
+112
+
+0
+1
+3
+48
+12
+235
+11
+186
+
+0
+1
+3
+59
+8
+147
+13
+252
+
+Seaside
+UGB
+
+1 year
+20 year
+
+112
+1,570
+
+42
+457
+
+25
+316
+
+8
+114
+
+20
+356
+
+17
+326
+
+St. Helens
+UGB
+
+1 year
+20 year
+
+170
+2,241
+
+71
+782
+
+43
+539
+
+14
+195
+
+20
+315
+
+22
+410
+
+Tillamook
+Outside
+UGB Area
+
+1 year
+
+60
+
+6
+
+10
+
+5
+
+18
+
+21
+
+20 year
+
+1,194
+
+127
+
+204
+
+96
+
+356
+
+412
+
+Tillamook
+UGB
+
+1 year
+20 year
+
+95
+1,226
+
+41
+447
+
+24
+298
+
+8
+106
+
+11
+166
+
+11
+210
+
+Vernonia
+UGB
+
+1 year
+20 year
+
+20
+264
+
+9
+96
+
+5
+63
+
+2
+22
+
+2
+37
+
+2
+45
+
+Gearhart
+UGB
+Manzanita
+UGB
+Nehalem
+UGB
+Prescott
+UGB
+Rainier UGB
+Rockaway
+Beach UGB
+
+41
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+Northern
+Coast UGB
+
+Results
+
+Warrenton
+UGB
+
+1 year
+20 year
+1 year
+20 year
+
+Wheeler
+UGB
+
+Total
+93
+1,252
+5
+60
+
+0-30%
+AMI
+38
+417
+2
+19
+
+31-60%
+AMI
+23
+295
+1
+12
+
+61-80%
+AMI
+8
+108
+0
+4
+
+81-120%
+AMI
+12
+190
+1
+14
+
+>120%
+AMI
+13
+241
+1
+11
+
+81-120%
+AMI
+
+>120%
+AMI
+
+*On January 12, 2026, OEA revised this table to correct spreadsheet error
+
+Figure 28. Southeast Region Results
+Southeast
+UGBs
+
+Results
+
+Adrian UGB
+
+1 year
+20 year
+
+2
+34
+
+1
+8
+
+0
+5
+
+0
+3
+
+0
+8
+
+1
+11
+
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+
+3
+47
+23
+349
+6
+90
+13
+211
+
+1
+10
+8
+96
+2
+22
+4
+51
+
+0
+7
+5
+63
+1
+14
+3
+35
+
+0
+4
+2
+34
+1
+8
+1
+20
+
+1
+12
+3
+58
+1
+19
+2
+40
+
+1
+15
+5
+98
+1
+26
+3
+64
+
+Jordan
+Valley UGB
+
+1 year
+20 year
+
+3
+51
+
+0
+4
+
+0
+3
+
+0
+1
+
+1
+25
+
+1
+18
+
+Klamath
+Falls UGB
+
+1 year
+20 year
+
+347
+5,240
+
+119
+1,429
+
+70
+960
+
+34
+530
+
+46
+814
+
+78
+1,507
+
+Lakeview
+UGB
+
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+
+31
+482
+5
+69
+6
+88
+23
+356
+146
+2,284
+2
+37
+22
+349
+
+10
+118
+2
+19
+2
+23
+7
+91
+47
+583
+1
+7
+7
+86
+
+6
+82
+1
+12
+1
+16
+4
+63
+29
+411
+0
+5
+4
+62
+
+3
+46
+0
+6
+1
+9
+2
+35
+15
+235
+0
+3
+2
+36
+
+5
+90
+1
+13
+1
+15
+3
+61
+20
+359
+1
+11
+3
+57
+
+8
+146
+1
+19
+1
+26
+6
+107
+36
+697
+1
+12
+6
+109
+
+Bonanza
+UGB
+Burns UGB
+Chiloquin
+UGB
+Hines UGB
+
+Malin UGB
+Merrill UGB
+Nyssa UGB
+Ontario UGB
+Paisley UGB
+Vale UGB
+
+0-30%
+AMI
+
+Total
+
+31-60%
+AMI
+
+61-80%
+AMI
+
+42
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+Figure 29. Southwest Region Results
+Southwest
+UGBs
+Ashland UGB
+Bandon UGB
+Brookings
+UGB
+Butte Falls
+UGB
+Canyonville
+UGB
+Cave Junction
+UGB
+Central Point
+UGB
+Coos Bay
+UGB
+Coquille UGB
+Drain UGB
+Eagle Point
+UGB
+Elkton UGB
+Glendale UGB
+Gold Beach
+UGB
+Gold Hill UGB
+Grants Pass
+UGB
+Jacksonville
+UGB
+Lakeside UGB
+
+Results
+
+Total
+
+0-30%
+AMI
+
+31-60%
+AMI
+
+61-80%
+AMI
+
+1 year
+
+221
+
+65
+
+40
+
+81-120%
+>120%
+AMI
+AMI
+22
+37
+57
+
+20 year
+1 year
+
+3,525
+50
+
+779
+12
+
+604
+8
+
+354
+4
+
+678
+13
+
+1,109
+14
+
+20 year
+1 year
+
+853
+118
+
+142
+32
+
+117
+20
+
+70
+11
+
+252
+25
+
+272
+31
+
+20 year
+1 year
+
+1,915
+3
+
+381
+1
+
+296
+0
+
+174
+0
+
+467
+0
+
+597
+1
+
+20 year
+1 year
+
+41
+19
+
+10
+6
+
+7
+4
+
+4
+2
+
+8
+3
+
+12
+5
+
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+
+297
+22
+354
+164
+2,595
+178
+2,775
+37
+563
+9
+129
+70
+1,131
+2
+37
+5
+
+74
+7
+82
+50
+608
+56
+663
+12
+141
+3
+34
+21
+254
+1
+7
+2
+
+55
+4
+64
+32
+481
+34
+498
+7
+102
+2
+24
+13
+207
+0
+5
+1
+
+32
+2
+38
+17
+284
+18
+289
+4
+58
+1
+14
+7
+123
+0
+3
+0
+
+46
+3
+57
+21
+385
+26
+468
+5
+94
+1
+20
+10
+175
+1
+12
+1
+
+91
+6
+113
+43
+836
+44
+857
+9
+169
+2
+38
+19
+372
+1
+11
+1
+
+20 year
+1 year
+
+66
+37
+
+19
+9
+
+13
+5
+
+7
+3
+
+9
+10
+
+19
+10
+
+20 year
+1 year
+
+614
+9
+
+105
+3
+
+80
+2
+
+47
+1
+
+197
+1
+
+186
+2
+
+20 year
+1 year
+
+140
+551
+
+35
+153
+
+25
+104
+
+14
+59
+
+24
+77
+
+42
+157
+
+20 year
+1 year
+
+9,031
+26
+
+1,917
+8
+
+1,638
+5
+
+989
+2
+
+1,430
+4
+
+3,057
+6
+
+20 year
+1 year
+20 year
+
+406
+16
+266
+
+91
+3
+39
+
+68
+2
+29
+
+40
+1
+16
+
+82
+5
+104
+
+125
+4
+78
+
+43
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+Southwest
+UGBs
+Medford UGB
+Myrtle Creek
+UGB
+Myrtle Point
+UGB
+North Bend
+UGB
+Oakland UGB
+Phoenix UGB
+Port Orford
+UGB
+Powers UGB
+Reedsport
+UGB
+Riddle UGB
+Rogue River
+UGB
+Roseburg
+UGB
+Shady Cove
+UGB
+Sutherlin UGB
+Talent UGB
+Winston UGB
+Yoncalla UGB
+
+Results
+
+Total
+
+0-30%
+AMI
+
+31-60%
+61-80%
+81-120%
+>120%
+AMI
+AMI
+AMI
+AMI
+347
+240
+136
+178
+366
+
+1 year
+
+1,267
+
+20 year
+1 year
+
+20,910
+40
+
+4,372
+14
+
+3,795
+8
+
+2,300
+4
+
+3,297
+5
+
+7,147
+9
+
+20 year
+1 year
+
+595
+18
+
+161
+7
+
+110
+4
+
+62
+2
+
+92
+2
+
+170
+4
+
+20 year
+1 year
+
+270
+91
+
+75
+29
+
+50
+18
+
+28
+9
+
+40
+12
+
+76
+23
+
+20 year
+1 year
+
+1,412
+6
+
+345
+2
+
+258
+1
+
+150
+1
+
+223
+1
+
+436
+1
+
+20 year
+1 year
+20 year
+1 year
+
+96
+42
+660
+16
+
+26
+13
+159
+4
+
+18
+8
+122
+2
+
+10
+4
+71
+1
+
+14
+6
+100
+5
+
+28
+11
+208
+4
+
+20 year
+1 year
+
+258
+4
+
+40
+1
+
+28
+1
+
+16
+0
+
+101
+1
+
+73
+1
+
+20 year
+1 year
+
+54
+32
+
+13
+10
+
+9
+6
+
+5
+3
+
+12
+6
+
+15
+7
+
+20 year
+1 year
+
+496
+8
+
+116
+3
+
+81
+2
+
+46
+1
+
+110
+1
+
+144
+2
+
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+
+125
+27
+426
+373
+5,907
+21
+341
+63
+964
+46
+
+32
+8
+97
+114
+1,372
+6
+69
+20
+241
+14
+
+24
+5
+77
+72
+1,083
+4
+52
+12
+178
+9
+
+14
+3
+45
+39
+640
+2
+30
+7
+103
+5
+
+18
+4
+71
+50
+913
+5
+85
+8
+146
+6
+
+38
+7
+137
+98
+1,899
+5
+104
+15
+295
+12
+
+20 year
+1 year
+20 year
+1 year
+20 year
+
+73
+58
+933
+5
+74
+
+166
+17
+206
+2
+20
+
+133
+11
+171
+1
+13
+
+79
+6
+102
+0
+7
+
+119
+8
+143
+1
+13
+
+237
+16
+311
+1
+20
+
+*On January 12, 2026, OEA revised this table to correct spreadsheet error
+
+44
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+Figure 30. Willamette Valley Region Results
+Willamette
+Valley UGBs
+
+Results
+
+Adair Village
+UGB
+
+1 year
+
+8
+
+2
+
+2
+
+1
+
+1
+
+2
+
+20 year
+1 year
+
+122
+488
+
+29
+154
+
+23
+100
+
+13
+50
+
+21
+70
+
+36
+114
+
+20 year
+1 year
+
+7,708
+11
+
+1,925
+4
+
+1,474
+2
+
+820
+1
+
+1,271
+2
+
+2,218
+3
+
+20 year
+1 year
+
+183
+36
+
+45
+9
+
+35
+7
+
+20
+4
+
+30
+6
+
+53
+10
+
+20 year
+1 year
+
+617
+12
+
+127
+3
+
+112
+2
+
+67
+1
+
+110
+2
+
+200
+3
+
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+
+208
+9
+137
+17
+274
+27
+438
+515
+7,895
+61
+882
+33
+488
+155
+2,565
+13
+
+44
+3
+38
+5
+61
+8
+101
+173
+2,102
+23
+267
+11
+136
+44
+580
+5
+
+38
+2
+27
+3
+50
+5
+82
+108
+1,530
+13
+178
+7
+96
+31
+477
+3
+
+23
+1
+14
+2
+29
+3
+47
+52
+826
+6
+91
+3
+51
+16
+275
+1
+
+37
+1
+22
+3
+50
+4
+75
+72
+1,287
+8
+131
+4
+77
+24
+445
+2
+
+67
+2
+37
+4
+83
+7
+133
+111
+2,150
+11
+215
+7
+128
+40
+787
+3
+
+20 year
+1 year
+
+198
+15
+
+5
+3
+
+39
+2
+
+21
+1
+
+30
+6
+
+52
+4
+
+20 year
+1 year
+
+268
+8
+
+35
+0
+
+27
+0
+
+15
+0
+
+117
+5
+
+74
+2
+
+20 year
+1 year
+
+158
+9
+
+4
+3
+
+3
+2
+
+2
+1
+
+108
+1
+
+41
+2
+
+20 year
+1 year
+
+144
+18
+
+39
+6
+
+28
+4
+
+15
+2
+
+22
+3
+
+39
+4
+
+20 year
+1 year
+20 year
+
+283
+7
+118
+
+74
+2
+19
+
+54
+1
+12
+
+29
+0
+6
+
+49
+3
+55
+
+77
+1
+28
+
+Albany UGB
+Amity UGB
+Aumsville
+UGB
+Aurora UGB
+Brownsville
+UGB
+Carlton UGB
+Coburg UGB
+Corvallis
+UGB
+Cottage
+Grove UGB
+Creswell
+UGB
+Dallas UGB
+Dayton UGB
+Depoe Bay
+UGB
+Detroit UGB
+Donald UGB
+Dundee UGB
+Dunes City
+UGB
+
+Total
+
+0-30%
+AMI
+
+31-60%
+AMI
+
+61-80%
+AMI
+
+81-120%
+AMI
+
+>120%
+AMI
+
+45
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+Willamette
+Valley UGBs
+Eugene UGB
+Falls City
+UGB
+Florence
+UGB
+Gates UGB
+Gervais UGB
+Halsey UGB
+Harrisburg
+UGB
+Hubbard
+UGB
+Idanha UGB
+Independenc
+e UGB
+Jefferson
+UGB
+Junction City
+UGB
+Keizer UGB
+Lafayette
+UGB
+Lebanon
+UGB
+Lincoln City
+UGB
+Lowell UGB
+Lyons UGB
+McMinnville
+UGB
+
+Results
+
+Total
+
+0-30%
+AMI
+
+31-60%
+61-80%
+81-120%
+>120%
+AMI
+AMI
+AMI
+AMI
+552
+348
+171
+235
+371
+
+1 year
+
+1,676
+
+20 year
+1 year
+
+25,944
+5
+
+6,764
+2
+
+5,003
+1
+
+2,729
+1
+
+4,251
+1
+
+7,196
+1
+
+20 year
+1 year
+
+87
+86
+
+21
+25
+
+17
+15
+
+9
+7
+
+15
+22
+
+25
+18
+
+20 year
+1 year
+
+1,350
+3
+
+292
+1
+
+198
+1
+
+103
+0
+
+418
+0
+
+339
+1
+
+20 year
+1 year
+
+44
+16
+
+10
+5
+
+8
+3
+
+4
+2
+
+9
+2
+
+13
+4
+
+20 year
+1 year
+20 year
+1 year
+
+246
+6
+85
+20
+
+63
+2
+23
+7
+
+47
+1
+17
+4
+
+26
+1
+9
+2
+
+40
+1
+13
+3
+
+70
+1
+23
+4
+
+20 year
+1 year
+
+296
+29
+
+82
+9
+
+58
+6
+
+31
+3
+
+46
+4
+
+78
+7
+
+20 year
+1 year
+
+461
+1
+
+115
+0
+
+88
+0
+
+49
+0
+
+77
+0
+
+132
+0
+
+20 year
+1 year
+
+17
+78
+
+3
+23
+
+2
+16
+
+1
+8
+
+6
+12
+
+5
+20
+
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+
+1,282
+18
+276
+64
+1,039
+251
+3,963
+28
+475
+140
+
+297
+6
+7
+19
+248
+79
+990
+8
+104
+49
+
+240
+4
+54
+13
+196
+51
+758
+6
+88
+30
+
+137
+2
+29
+7
+111
+26
+422
+3
+51
+14
+
+221
+2
+44
+10
+177
+36
+653
+4
+83
+19
+
+387
+4
+77
+16
+308
+59
+1,140
+8
+149
+28
+
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+
+2,092
+145
+2,511
+6
+97
+10
+164
+295
+
+585
+29
+352
+2
+25
+3
+38
+95
+
+412
+18
+261
+1
+18
+2
+30
+61
+
+218
+9
+143
+1
+9
+1
+17
+30
+
+331
+55
+1,083
+1
+19
+2
+32
+42
+
+547
+34
+672
+1
+25
+2
+48
+67
+
+20 year
+
+4,603
+
+1,177
+
+882
+
+484
+
+766
+
+1,294
+
+46
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+Willamette
+Valley UGBs
+Mill City UGB
+Millersburg
+UGB
+Monmouth
+UGB
+Monroe UGB
+Mt. Angel
+UGB
+Newberg
+UGB
+Newport
+UGB
+Oakridge
+UGB
+Philomath
+UGB
+Salem UGB
+Scio UGB
+Scotts Mills
+UGB
+Sheridan
+UGB
+Siletz UGB
+Silverton
+UGB
+Sodaville
+UGB
+Springfield
+UGB
+St. Paul UGB
+Stayton UGB
+
+Results
+
+Total
+
+0-30%
+AMI
+
+31-60%
+AMI
+
+61-80%
+AMI
+
+81-120%
+AMI
+
+>120%
+AMI
+
+1 year
+
+13
+
+5
+
+3
+
+1
+
+2
+
+3
+
+20 year
+1 year
+
+202
+73
+
+55
+16
+
+39
+14
+
+20
+8
+
+35
+13
+
+52
+23
+
+20 year
+1 year
+
+1,330
+96
+
+240
+27
+
+236
+19
+
+147
+10
+
+247
+15
+
+460
+26
+
+20 year
+1 year
+
+1,609
+4
+
+355
+2
+
+298
+1
+
+174
+0
+
+280
+1
+
+502
+1
+
+20 year
+1 year
+
+59
+27
+
+18
+9
+
+12
+6
+
+6
+3
+
+9
+4
+
+14
+6
+
+20 year
+1 year
+20 year
+1 year
+
+412
+256
+4,207
+115
+
+107
+73
+960
+34
+
+80
+51
+785
+21
+
+44
+27
+451
+10
+
+66
+39
+727
+26
+
+116
+66
+1,285
+24
+
+20 year
+1 year
+
+1,812
+17
+
+407
+6
+
+285
+3
+
+150
+2
+
+500
+3
+
+469
+3
+
+20 year
+1 year
+
+251
+48
+
+67
+14
+
+47
+10
+
+25
+5
+
+47
+7
+
+65
+12
+
+20 year
+1 year
+
+783
+2,002
+
+182
+650
+
+146
+415
+
+83
+205
+
+136
+280
+
+236
+453
+
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+
+31,236
+10
+158
+2
+39
+30
+451
+7
+111
+84
+
+8,030
+3
+36
+1
+9
+10
+123
+3
+30
+26
+
+6,023
+2
+30
+0
+7
+6
+88
+2
+22
+17
+
+3,311
+1
+17
+0
+4
+3
+47
+1
+12
+9
+
+5,075
+1
+27
+0
+7
+4
+71
+1
+18
+12
+
+8,798
+2
+49
+1
+11
+6
+121
+2
+29
+20
+
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+
+1,330
+3
+40
+466
+6,832
+3
+44
+68
+
+329
+1
+10
+170
+1,993
+1
+11
+22
+
+253
+1
+8
+100
+1,365
+1
+9
+14
+
+141
+0
+4
+47
+710
+0
+5
+7
+
+224
+0
+7
+59
+1,041
+0
+7
+9
+
+384
+1
+12
+90
+1,724
+1
+13
+15
+
+20 year
+
+1,058
+
+271
+
+204
+
+113
+
+171
+
+300
+
+47
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+Willamette
+Valley UGBs
+
+Results
+
+Sublimity
+UGB
+
+1 year
+
+14
+
+5
+
+3
+
+1
+
+2
+
+3
+
+20 year
+1 year
+
+204
+60
+
+59
+19
+
+41
+12
+
+21
+6
+
+31
+9
+
+52
+14
+
+20 year
+1 year
+
+935
+16
+
+237
+5
+
+178
+3
+
+98
+2
+
+159
+2
+
+264
+4
+
+20 year
+1 year
+
+251
+23
+
+64
+8
+
+48
+5
+
+27
+2
+
+41
+3
+
+71
+4
+
+20 year
+1 year
+
+336
+23
+
+94
+6
+
+65
+4
+
+34
+2
+
+59
+4
+
+85
+6
+
+20 year
+1 year
+20 year
+1 year
+
+383
+26
+397
+18
+
+83
+9
+106
+4
+
+70
+5
+77
+3
+
+41
+3
+41
+1
+
+68
+4
+66
+5
+
+120
+6
+108
+4
+
+20 year
+1 year
+
+300
+1
+
+55
+0
+
+41
+0
+
+23
+0
+
+99
+0
+
+82
+0
+
+20 year
+1 year
+
+9
+1
+
+3
+0
+
+2
+0
+
+1
+0
+
+1
+0
+
+2
+0
+
+20 year
+1 year
+
+15
+14
+
+4
+4
+
+3
+3
+
+1
+1
+
+3
+2
+
+4
+3
+
+20 year
+1 year
+20 year
+1 year
+20 year
+1 year
+20 year
+
+222
+211
+3,253
+18
+328
+7
+107
+
+53
+70
+856
+3
+35
+2
+28
+
+42
+44
+630
+2
+28
+1
+21
+
+24
+22
+343
+1
+16
+1
+11
+
+37
+29
+526
+8
+159
+1
+17
+
+66
+46
+898
+5
+90
+2
+29
+
+Sweet Home
+UGB
+Tangent
+UGB
+Toledo UGB
+Turner UGB
+Veneta UGB
+Waldport
+UGB
+Waterloo
+UGB
+Westfir UGB
+Willamina
+UGB
+Woodburn
+UGB
+Yachats UGB
+Yamhill UGB
+
+Total
+
+0-30%
+AMI
+
+31-60%
+AMI
+
+61-80%
+AMI
+
+81-120%
+AMI
+
+>120%
+AMI
+
+*On January 12, 2026, OEA revised this table to correct spreadsheet error
+
+48
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+Appendix B. Alternative Counterfactual Metro Region Modeling
+Alternative Scenario of Metro UGB Housing Needs with Counterfactual Standard OHNA
+methodology applied to the Metro Region
+As noted on page 20, House Bill 2889 (2023) retains Metro’s statutory responsibility to
+estimate housing need within the Metro UGB. Metro has discretion on the data sources and
+specific methods used in the UGR to estimate housing need, but the policy intent is for the
+UGR methodology to align with OHNA methodology.
+Metro updates its UGR every 6-years, with 2024 being the most recent update year. Metro
+began the update process in early 2024 and adopted the UGR on December 5, 2024. Due to
+timeline discontinuity between the OHNA methodology development process and Metro’s
+process, the underlying methods and data sources used to estimate housing need within the
+Metro UGB differ from OHNA. This discontinuity primarily affects the estimate of regional
+housing need but also has some feedback loops into local allocation process. This
+discontinuity could be reconciled if Metro were to update its UGR methodology to align with
+the OHNA and/or produce an updated calculation of need on or before the 6-year update
+schedule.
+Differences Between Standard Methodology and Counterfactual applied to Metro region
+A comparison is shown below demonstrating the difference in the estimate of total OHNA
+Metro Region housing need had Metro’s UGR incorporated the OHNA methodology and
+sources is provided below for reference use only. The standard OHNA approach is not part of
+the statutory methodology, and included only to provide some guidance to assist in future
+planning. A summary discussion of the major differences between methods is also included
+below.
+Had Metro’s UGR estimate of regional housing need incorporated the OHNA Methodology for
+the calculation of total need, the estimate for the Metro UGB (a subset of the Metro Region)
+would have been 198,300 compared to the statutory estimate of 178,100, a difference of
+20,200 units.
+The two largest differences between the OHNA Methodology and the Metro UGR methodology
+are in how to estimate Underproduction, and how to estimate Units Needed for People
+Experiencing Homelessness. Given the income distributions of these two components, the
+majority of the difference between the two methods is contained within the 0-80% AMI
+household income range.
+
+49
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+Figure 31. Comparison of official Metro UGB allocation vs. non-binding OHNA standard
+approach by component
+
+Figure 32. Comparison of official Metro UGB allocation vs. non-binding OHNA standard
+approach by income level
+
+50
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+
+Appendix C. Common Terms & Acronyms
+AMI: Area Median Income: Every year the U.S. Department of Housing and Urban Development
+(HUD) produces a median family income calculation/assessment to determine affordability
+thresholds for a given area (some geographies are HUD-specific). Affordable housing projects’
+income limits, rent limits, and other characteristics will be based on this income limit. This
+term is synonymous with Median Family Income or MFI.11
+City: This report uses the terms “City” and “city with a population of 10,000 or greater” as
+DLCD does, which includes, regardless of size: (a) Any city within Tillamook County and the
+communities of Barview/Twin Rocks/Watseco, Cloverdale, Hebo, Neahkahnie, Neskowin,
+Netarts, Oceanside and Pacific City/Woods; and (b) A county with respect to its jurisdiction
+over Metro urban unincorporated lands.
+Cost Burdening / Severe Cost Burdening: The term “cost burdening” refers to households who
+pay more than 30% of their income on housing costs. The term “severe cost burdening” is used
+for households paying more than 50% of their income on housing. These terms come from
+HUD, and include mortgage payments and interest, or rent, utilities, and insurance.
+DAS: Department of Administrative Services
+DLCD: Department of Land Conservation and Development
+Goal 10 (Housing): One of Oregon’s 19 statewide land use planning requirements relating to
+planning for housing need. All local governments are required to plan for housing needs within
+an urban growth boundary (see term below) under Goal 10. Cities with populations larger than
+10,000 people (as well as all cities and certain urban, unincorporated communities in
+Tillamook County, and counties with urban unincorporated lands in the Metro area) must
+regularly update local planning documents to comply with Goal 10.
+Goal 14 (Urbanization): One of Oregon’s 19 statewide land use planning requirements relating
+to planning for the orderly and efficient urbanization of land within an urban growth boundary
+(UGB - see term below). All cities and Metro are required to establish and amend urban growth
+boundaries to accommodate identified land needs in compliance with Goal 14.
+
+11
+
+A note on AMI vs MFI from HUD: “HUD estimates Median Family Income (MFI) annually for each metropolitan
+area and non-metropolitan county. The metropolitan area definitions are the same ones HUD uses for Fair Market
+Rents (except where statute requires a different configuration). HUD calculates Income Limits as a function of the
+area's Median Family Income (MFI). The basis for HUD’s median family incomes is data from the American
+Community Survey, table B19113 - MEDIAN FAMILY INCOME IN THE PAST 12 MONTHS. The term Area Median
+Income is the term used more generally in the industry. If the term Area Median Income (AMI) is used in an
+unqualified manor, this reference is synonymous with HUD's MFI. However, if the term AMI is qualified in some
+way - generally percentages of AMI, or AMI adjusted for family size, then this is a reference to HUD's income
+limits, which are calculated as percentages of median incomes and include adjustments for families of different
+sizes.” Source: HUD. 2018. “FY 2018 Income Limits Frequently Asked Questions.”
+https://www.huduser.gov/portal/datasets/il/il18/FAQs-18r.pdf
+
+51
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+HB: House Bill (year)
+Housing Affordability: Housing is considered “affordable” to a household if it spends less than
+30% of its gross (pre-tax) income on housing costs (see Cost Burdening).
+HSC: Housing Stability Council: The advisory body overseeing Oregon Housing and
+Community Services.
+HUD: U.S. Department of Housing and Urban Development
+LCDC: Land Conservation and Development Commission: The governing body with policy and
+administrative oversight of the state land-use planning program. LCDC is supported by the
+Oregon Department of Land Conservation and Development.
+Metro UGB: Metro Urban Growth Boundary: The Portland metropolitan area’s urban growth
+boundary (UGB), managed by Metro. Within the Metro UGB, cities and counties do not have
+individual UGBs. Since 1997, Oregon law also requires Metro to maintain a 20-year supply of
+land for future residential development inside the Metro UGB. See also: UGB.
+OEA: Oregon Office of Economic Analysis
+OHNA: Oregon Housing Needs Analysis
+OHCS: Oregon Housing and Community Services
+PRC: Population Research Center
+PUMA: Public Use Microdata Area: A geographic area defined by the U.S. Census Bureau to
+have roughly 100,000 people and to (typically) align with County boundaries. PUMA sizes vary
+depending on the population density. Oregon has 31 PUMAs, with most PUMAs located in the
+more densely populated western part of the state.
+PUMS: Public Use Microdata Sample: Data files produced by the U.S. Census Bureau that
+allow users to create custom analyses that are not available through pre-tabulated data tables.
+These data are produced for PUMA geographies.
+Regulated Affordable Housing: Housing that is rent- or income-restricted to be affordable to
+households earning certain incomes. These units typically have public support (funding) in
+exchange for affordability requirements. Housing is considered “affordable” to a household if it
+spends less than 30% of its gross (pre-tax) income on housing costs (see Cost Burdening
+above). Regulations are set according to the types of funding used to develop the housing,
+such as the Low-Income Housing Tax Credit, or U.S. Housing and Urban Development (HUD)
+funding. Most regulated affordable housing is affordable for households earning under 60%
+AMI, but restrictions vary.
+SB: Senate Bill (year)
+52
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+UUL: Urban Unincorporated Lands: follows the definition in HB4063 (2024), which are lands
+within the Metro urban growth boundary that are identified by the county as: (a) Not within a
+city; (b) Zoned for urban development; (c) Within the boundaries of a sanitary district or
+sanitary authority or a district formed for the purposes of sewage works; (d) Within the service
+boundaries of a water provider with a water system; and (e) Not zoned with a designation that
+maintains the land’s potential for future urbanization.
+UGB: Urban Growth Boundary: A boundary delineating urban and urbanizable land from rural
+land. This boundary contains urban development, is used to plan for orderly growth, and can be
+amended to accommodate an identified land need. Cities in Oregon are surrounded by urban
+growth boundaries (UGBs) which designate where they expect to grow over a 20-year period.
+The Portland metropolitan region has a single regional UGB, established and maintained by
+Metro. See also: Metro UGB.
+
+53
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+
+Appendix D. Data Sources and Updates
+The OHNA Final Methodology relies on publicly available data, which are updated and released
+throughout the calendar year. Figure 33 below lists the variables used throughout the OHNA
+Final Methodology, their sources, and when they are typically updated.
+Figure 33. Publicly Available Data Sources and Release Schedules
+Category
+
+Component
+
+Data Input
+
+Source
+
+Area
+
+Annual
+Release
+Schedule
+
+Many
+
+Regional Income
+Limits as a
+Percent of Area
+Median
+
+AMI levels to
+allocate units to
+incomes
+
+HUD
+
+Region
+
+April
+
+Current
+Need
+
+Underproduction
+
+Total households
+
+Region
+
+October
+
+Continuums of
+Care
+
+Continuums
+of Care
+
+Varies
+(annual)
+
+McKinney-Vento
+student data
+
+Oregon Dept. of
+Education
+
+Region
+
+Varies
+(annual)
+
+Doubled-up
+population
+
+Census PUMS
+
+Region
+
+October
+
+Census PUMS
+for American
+Missing households Community
+Service (ACS)
+Total housing units
+1-year
+estimates
+Second and
+vacation homes
+Uninhabitable units
+Rate of cost
+burdening
+(to allocate units to
+income levels)
+
+Units Needed for
+Homelessness
+
+Point-In-Time count
+Homelessness
+Management
+Information
+Systems
+
+54
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+Category
+
+Component
+
+Data Input
+
+Source
+
+Area
+
+Annual
+Release
+Schedule
+
+Future
+Need
+
+Units Needed for
+Population Growth
+
+Population
+forecasts
+
+PSU
+
+Region
+
+Rotating 4year cycle
+for a set of
+counties
+and their
+UGBs
+
+Number of people
+living in group
+quarters
+
+Census PUMS
+
+Region
+
+October
+
+Census PUMS
+
+Region
+
+October
+
+PSU
+
+Region
+
+Rotating 4year cycle
+for a set of
+counties
+and their
+UGBs
+
+Average household
+size
+Regional income
+distribution
+(to allocate units to
+income levels)
+Units Lost to
+Second and
+Vacation Home
+Demand
+
+Total housing units
+Units identified as
+used for “seasonal
+or recreational
+purposes”
+Year built for units
+identified as used
+for “seasonal or
+recreational
+purposes”
+(to allocate units to
+income levels)
+
+Units Needed for
+Demographic
+Change
+
+Population
+forecasts by age
+cohort, by region
+
+55
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+Category
+
+Component
+
+Data Input
+
+Source
+
+Area
+
+Annual
+Release
+Schedule
+
+Number of people
+living in group
+quarters
+
+Census PUMS
+
+Region
+
+October
+
+UGB
+
+Rotating 4year cycle for
+a set of
+counties and
+their UGBs
+
+UGB’s current share Census LEHDof regional jobs
+LODES
+
+UGB
+
+December
+
+UGB’s current share
+of regional units
+identified as used
+2020 Census
+for “seasonal or
+recreational
+purposes”
+
+UGB
+
+December
+
+Metro UGB
+
+Metro’s UGR
+Current and Future
+Need Totals
+
+Metro UGR
+
+UGB
+
+At least every
+six years
+
+Local allocation
+factor
+
+City’s share of
+UGB’s jobs and
+residents in transit
+accessible areas
+
+Census LEHDLODES
+
+City (Metro
+only)
+
+Variable
+
+Local allocation
+factor
+
+City’s share of
+UGB’s jobs and
+residents in transit
+accessible areas
+
+TriMet GTFS
+
+City (Metro
+only)
+
+Quarterly
+
+Average household
+size
+Regional income
+distribution
+(to allocate units to
+income levels)
+Allocating Local Allocation
+Needed
+Factor
+Housing
+
+Metro
+
+UGB’s current share
+of regional
+population
+PSU
+
+56
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+Category
+
+Component
+
+Data Input
+
+Source
+
+Area
+
+Local allocation
+factor
+
+City’s share of
+UGB’s affordable
+units
+
+HUD CHAS
+
+City (Metro
+only)
+
+September
+
+Local allocation
+factor
+
+City’s share of
+UGB’s recent
+Metro RLIS
+housing production
+
+City (Metro
+only)
+
+Monthly
+
+Local allocation
+factor
+
+City’s share of
+Metro UGR
+residential capacity
+
+City (Metro
+only)
+
+At least every
+six years
+
+Local allocation
+factor
+
+City’s share of
+Metro Distributed City (Metro
+forecast added jobs
+Forecast
+only)
+
+At least every
+six years
+
+Local allocation
+factor
+
+City’s share of
+current population
+
+City (Metro
+only)
+
+Annual
+
+Local allocation
+factor
+
+City’s share of 2020 Census
+vacation units
+
+City
+
+Decennial
+
+ACS
+
+Annual
+Release
+Schedule
+
+Notes: All references to Census PUMS are for 1-year ACS data.
+PSU forecasts come from the Population Research Center: https://www.pdx.edu/populationresearch/population-forecasts
+
+LEHD-LODES is the Longitudinal Employer Household Data Origin-Destination Employment
+Statistics: https://lehd.ces.census.gov/data/
+TriMet GTFS is the General Transit Feed Specification: https://developer.trimet.org/GTFS.shtml
+HUD CHAS is the Comprehensive Housing Affordability Survey:
+https://www.huduser.gov/portal/datasets/cp.html
+
+HUD SOCDS is the State of the Cities Data Systems which is calculated from Census Data:
+https://www.huduser.gov/portal/datasets/socds.ht
+
+57
+
+Oregon Housing Needs Analysis 2026 Production Targets and Adopted Methodology
+
+58
+
+
