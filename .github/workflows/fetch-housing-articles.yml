@@ -92,13 +92,86 @@ jobs:
              git checkout main
           done
 
-      - name: Update Processed URLs State
-        if: success()
+      - name: Check State File Changes
+        id: state-check
+        run: |
+          # Check if this source's state file has changed
+          if [[ -n $(git status --porcelain content/news-coverage/data/processed-${{ matrix.source }}-urls.txt) ]]; then
+            echo "has-changes=true" >> "$GITHUB_OUTPUT"
+            echo "State file for ${{ matrix.source }} has changes."
+          else
+            echo "has-changes=false" >> "$GITHUB_OUTPUT"
+            echo "No changes to state file for ${{ matrix.source }}."
+          fi
+
+      - name: Upload State File Artifact
+        if: steps.state-check.outputs.has-changes == 'true'
+        uses: actions/upload-artifact@v4.5.0
+        with:
+          name: processed-${{ matrix.source }}-urls
+          path: content/news-coverage/data/processed-${{ matrix.source }}-urls.txt
+          retention-days: 1
+
+  commit-state-changes:
+    needs: search-and-process
+    runs-on: ubuntu-latest
+    if: success()
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Download all state file artifacts
+        id: download-artifacts
+        uses: actions/download-artifact@v4.1.3
+        continue-on-error: true
+        with:
+          path: artifacts
+
+      - name: Check Download Status
+        run: |
+          if [ "${{ steps.download-artifacts.outcome }}" == "failure" ]; then
+            echo "⚠️ Artifact download failed or no artifacts found"
+            echo "This is expected if no state files changed"
+          else
+            echo "✅ Artifacts downloaded successfully"
+          fi
+
+      - name: Update State Files
         run: |
           git config user.name 'oregonhousingproject[bot]'
           git config user.email 'info@oregonhousingproject.org'
 
-          # Check if state files have changed
+          # Copy downloaded artifacts back to their proper locations
+          # Enable nullglob to handle case when no artifacts match
+          shopt -s nullglob
+          
+          if [ -d "artifacts" ]; then
+            found_artifacts=false
+            for artifact_dir in artifacts/processed-*-urls/; do
+              if [ -d "$artifact_dir" ]; then
+                found_artifacts=true
+                # List what's in the artifact directory for debugging
+                echo "Processing artifact: $artifact_dir"
+                ls -la "$artifact_dir"
+                
+                # Copy all .txt files from this artifact directory
+                for txt_file in "${artifact_dir}"*.txt; do
+                  if [ -f "$txt_file" ]; then
+                    filename=$(basename "$txt_file")
+                    cp "$txt_file" content/news-coverage/data/
+                    echo "Updated $filename from $(basename "$artifact_dir")"
+                  fi
+                done
+              fi
+            done
+            if [ "$found_artifacts" = false ]; then
+              echo "No artifact directories found - no state files changed."
+            fi
+          else
+            echo "No artifacts directory found - no state files changed."
+          fi
+
+          # Check if any state files have changed
           if [[ -n $(git status --porcelain content/news-coverage/data/processed-*-urls.txt) ]]; then
             echo "State files changed. Committing updates."
             git add content/news-coverage/data/processed-*-urls.txt
