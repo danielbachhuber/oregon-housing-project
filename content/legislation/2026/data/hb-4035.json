@@ -11,7 +11,7 @@
     "RelatingTo": "Relating to land use; declaring an emergency.",
     "AtTheRequestOf": "(at the request of House Interim Committee on Housing and Homelessness for Representative Pam Marsh)",
     "ChapterNumber": null,
-    "CurrentLocation": "Senate Desk - Awaiting Third Reading",
+    "CurrentLocation": "House Desk - PM Possible Consideration of Senate Amendments",
     "CurrentCommitteeCode": null,
     "CurrentSubCommittee": null,
     "FiscalImpact": "Has minimal fiscal impact",
@@ -23,7 +23,7 @@
     "LCNumber": 205,
     "Vetoed": false,
     "CreatedDate": "2026-01-15T09:47:17",
-    "ModifiedDate": "2026-02-26T10:32:36",
+    "ModifiedDate": "2026-03-02T12:48:18",
     "PrefixMeaning": "House Bill"
   },
   "sponsors": [
@@ -210,6 +210,32 @@
       "VoteText": null,
       "CreatedDate": "2026-02-27T12:53:56",
       "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 669159,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4035,
+      "Chamber": "S",
+      "ActionDate": "2026-03-02T12:14:17",
+      "ActionText": "Third reading.  Carried by Pham.  Passed.",
+      "VoteText": "Ayes, 26; Nays, 3--Neron Misslin, Prozanski, Sollman; Excused, 1--Girod.",
+      "CreatedDate": "2026-03-02T12:14:19",
+      "ModifiedDate": "2026-03-02T12:14:24",
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 669180,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4035,
+      "Chamber": "S",
+      "ActionDate": "2026-03-02T12:15:17",
+      "ActionText": "Vote explanation(s) filed by Sollman.",
+      "VoteText": null,
+      "CreatedDate": "2026-03-02T12:48:18",
+      "ModifiedDate": "2026-03-02T12:48:20",
       "PublicNotification": false
     }
   ],

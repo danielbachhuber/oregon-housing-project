@@ -11,7 +11,7 @@
     "RelatingTo": "Relating to accessibility standards for housing; prescribing an effective date.",
     "AtTheRequestOf": null,
     "ChapterNumber": null,
-    "CurrentLocation": "House Desk - Third Reading",
+    "CurrentLocation": "Senate Desk - Awaiting Enrollment",
     "CurrentCommitteeCode": null,
     "CurrentSubCommittee": null,
     "FiscalImpact": "Has minimal fiscal impact",
@@ -23,7 +23,7 @@
     "LCNumber": 72,
     "Vetoed": false,
     "CreatedDate": "2026-01-16T15:10:46",
-    "ModifiedDate": "2026-02-27T13:45:26",
+    "ModifiedDate": "2026-03-02T17:14:49",
     "PrefixMeaning": "Senate Bill"
   },
   "sponsors": [
@@ -488,6 +488,19 @@
       "VoteText": null,
       "CreatedDate": "2026-02-27T13:45:26",
       "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 669270,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1576,
+      "Chamber": "H",
+      "ActionDate": "2026-03-02T17:14:23",
+      "ActionText": "Third reading. Carried by Andersen. Passed.",
+      "VoteText": "Ayes, 34; Nays, 10--Boice, Bunch, Cate, Evans, Levy B, Lewis, McIntire, Reschke, Wallan, Wright; Absent, 6--Boshart Davis, Harbick, Osborne, Scharf, Skarlatos, Yunker; Excused, 4--Diehl, Hartman, Levy E, Mannix; Excused for Business of the House, 6--Bowman, Elmer, Javadi, Sosa, Walters, Speaker Fahey.",
+      "CreatedDate": "2026-03-02T17:14:42",
+      "ModifiedDate": "2026-03-02T17:14:49",
       "PublicNotification": true
     }
   ],

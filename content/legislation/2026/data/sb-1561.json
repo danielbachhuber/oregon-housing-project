@@ -11,7 +11,7 @@
     "RelatingTo": "Relating to restoration of dwellings damaged by involuntary causes.",
     "AtTheRequestOf": null,
     "ChapterNumber": null,
-    "CurrentLocation": "House Desk - Third Reading",
+    "CurrentLocation": "Senate Desk - Awaiting Enrollment",
     "CurrentCommitteeCode": null,
     "CurrentSubCommittee": null,
     "FiscalImpact": "Has minimal fiscal impact",
@@ -23,7 +23,7 @@
     "LCNumber": 96,
     "Vetoed": false,
     "CreatedDate": "2026-01-16T12:06:14",
-    "ModifiedDate": "2026-02-27T13:45:26",
+    "ModifiedDate": "2026-03-02T17:05:03",
     "PrefixMeaning": "Senate Bill"
   },
   "sponsors": [
@@ -278,6 +278,20 @@
       "PresessionFiledMessage": null,
       "CreatedDate": "2026-02-26T15:19:26",
       "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "157987",
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1561,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Reschke",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2026-03-02T13:52:37",
+      "ModifiedDate": null
     }
   ],
   "historyActions": [
@@ -448,6 +462,19 @@
       "VoteText": null,
       "CreatedDate": "2026-02-27T13:45:26",
       "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 669267,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1561,
+      "Chamber": "H",
+      "ActionDate": "2026-03-02T17:04:26",
+      "ActionText": "Third reading. Carried by Wright. Passed.",
+      "VoteText": "Ayes, 45; Absent, 6--Boshart Davis, Harbick, Osborne, Scharf, Skarlatos, Yunker; Excused, 5--Diehl, Hartman, Levy E, Mannix, Valderrama; Excused for Business of the House, 4--Bowman, Elmer, Sosa, Speaker Fahey.",
+      "CreatedDate": "2026-03-02T17:04:55",
+      "ModifiedDate": "2026-03-02T17:05:03",
       "PublicNotification": true
     }
   ],

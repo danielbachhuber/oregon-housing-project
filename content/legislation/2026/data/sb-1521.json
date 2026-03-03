@@ -172,6 +172,19 @@
       "CreatedDate": "2026-02-27T16:27:49",
       "ModifiedDate": null,
       "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 669291,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1521,
+      "Chamber": "H",
+      "ActionDate": "2026-03-03T08:01:00",
+      "ActionText": "Work Session scheduled.",
+      "VoteText": null,
+      "CreatedDate": "2026-03-02T19:39:05",
+      "ModifiedDate": null,
+      "PublicNotification": true
     }
   ],
   "documents": [

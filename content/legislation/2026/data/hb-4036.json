@@ -11,11 +11,11 @@
     "RelatingTo": "Relating to affordable housing; declaring an emergency.",
     "AtTheRequestOf": "(at the request of House Interim Committee on Housing and Homelessness for Representative Pam Marsh)",
     "ChapterNumber": null,
-    "CurrentLocation": "In House Committee",
+    "CurrentLocation": "In House Committee Awaiting transfer to Desk",
     "CurrentCommitteeCode": "JWM",
-    "CurrentSubCommittee": "JWMCC",
-    "FiscalImpact": "Fiscal impact issued",
-    "RevenueImpact": "Revenue impact issued",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "Budget report issued",
+    "RevenueImpact": "No revenue impact",
     "EmergencyClause": true,
     "EffectiveDate": null,
     "FiscalAnalyst": "Michael Graham",
@@ -23,7 +23,7 @@
     "LCNumber": 209,
     "Vetoed": false,
     "CreatedDate": "2026-01-15T09:47:17",
-    "ModifiedDate": "2026-02-25T10:51:43",
+    "ModifiedDate": "2026-03-02T18:20:45",
     "PrefixMeaning": "House Bill"
   },
   "sponsors": [
@@ -122,7 +122,7 @@
       "PublicNotification": false
     },
     {
-      "MeasureHistoryId": 668398,
+      "MeasureHistoryId": 669124,
       "SessionKey": "2026R1",
       "MeasurePrefix": "HB",
       "MeasureNumber": 4036,
@@ -130,7 +130,46 @@
       "ActionDate": "2026-02-25T10:51:00",
       "ActionText": "Assigned to Subcommittee On Capital Construction.",
       "VoteText": null,
-      "CreatedDate": "2026-02-25T10:51:43",
+      "CreatedDate": "2026-03-02T11:24:23",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 669125,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4036,
+      "Chamber": "H",
+      "ActionDate": "2026-03-02T15:03:00",
+      "ActionText": "Returned to Full Committee.",
+      "VoteText": null,
+      "CreatedDate": "2026-03-02T11:24:23",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 669126,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4036,
+      "Chamber": "H",
+      "ActionDate": "2026-03-02T09:02:00",
+      "ActionText": "Work Session held.",
+      "VoteText": null,
+      "CreatedDate": "2026-03-02T11:24:23",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 669272,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4036,
+      "Chamber": "H",
+      "ActionDate": "2026-03-02T15:02:00",
+      "ActionText": "Work Session held.",
+      "VoteText": null,
+      "CreatedDate": "2026-03-02T17:19:49",
       "ModifiedDate": null,
       "PublicNotification": false
     }

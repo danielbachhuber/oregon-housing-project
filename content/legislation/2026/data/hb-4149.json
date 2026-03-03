@@ -546,6 +546,19 @@
       "CreatedDate": "2026-02-27T12:51:36",
       "ModifiedDate": null,
       "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 669232,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4149,
+      "Chamber": "S",
+      "ActionDate": "2026-03-02T14:05:10",
+      "ActionText": "Carried over to 03-03 by unanimous consent.",
+      "VoteText": null,
+      "CreatedDate": "2026-03-02T14:59:14",
+      "ModifiedDate": null,
+      "PublicNotification": false
     }
   ],
   "documents": [

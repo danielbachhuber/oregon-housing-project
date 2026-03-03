@@ -505,7 +505,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HCR202",
     "introduced": "2026-02-05T08:28:43",
     "chamber": "House",
-    "status": "In Senate Committee",
+    "status": "In Senate Committee Awaiting transfer to Desk",
     "sponsors": [
       {
         "name": "HRULES",
@@ -613,7 +613,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SCR203",
     "introduced": "2026-01-20T10:03:46",
     "chamber": "Senate",
-    "status": "Secretary of States Office - Chapter Number Assignment",
+    "status": "Filed with Secretary of State",
     "sponsors": [
       {
         "name": "Sen President Wagner",
@@ -967,7 +967,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SCR206",
     "introduced": "2026-01-20T10:03:46",
     "chamber": "Senate",
-    "status": "In House Committee",
+    "status": "House Desk - Final Readings of Mem & Res.",
     "sponsors": [
       {
         "name": "Sen President Wagner",
@@ -1133,6 +1133,11 @@
         "name": "Rep Rieke Smith",
         "level": "Chief",
         "type": "Member"
+      },
+      {
+        "name": "Rep Lewis",
+        "level": "Regular",
+        "type": "Member"
       }
     ]
   },
@@ -1175,7 +1180,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1501",
     "introduced": "2026-02-09T08:49:35",
     "chamber": "Senate",
-    "status": "In Senate Committee",
+    "status": "In Senate Committee Awaiting transfer to Desk",
     "sponsors": [
       {
         "name": "Sen President Wagner",
@@ -1185,6 +1190,16 @@
       {
         "name": "Sen Manning Jr",
         "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Sen Frederick",
+        "level": "Chief",
+        "type": "Member"
+      },
+      {
+        "name": "Sen Lieber",
+        "level": "Chief",
         "type": "Member"
       }
     ]
@@ -1196,7 +1211,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1504",
     "introduced": "2026-01-20T10:24:46",
     "chamber": "Senate",
-    "status": "Senate Desk – Awaiting Transfer to Governor",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": [
       {
         "name": "Sen President Wagner",
@@ -1308,7 +1323,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1510",
     "introduced": "2026-01-14T09:36:13",
     "chamber": "Senate",
-    "status": "In House Committee",
+    "status": "In House Committee Awaiting transfer to Desk",
     "sponsors": []
   },
   {
@@ -1318,7 +1333,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1511",
     "introduced": "2026-01-14T09:36:13",
     "chamber": "Senate",
-    "status": "In House Committee",
+    "status": "In House Committee Awaiting transfer to Desk",
     "sponsors": []
   },
   {
@@ -1328,7 +1343,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1512",
     "introduced": "2026-01-14T09:40:02",
     "chamber": "Senate",
-    "status": "Senate Desk – Awaiting Transfer to Governor",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": []
   },
   {
@@ -1338,7 +1353,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1513",
     "introduced": "2026-01-14T09:40:02",
     "chamber": "Senate",
-    "status": "House Desk - Third Reading",
+    "status": "Senate Desk - Awaiting Enrollment",
     "sponsors": []
   },
   {
@@ -1398,7 +1413,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1519",
     "introduced": "2026-01-14T10:09:44",
     "chamber": "Senate",
-    "status": "House Desk - Second Reading",
+    "status": "House Desk - Third Reading",
     "sponsors": []
   },
   {
@@ -1438,7 +1453,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1523",
     "introduced": "2026-01-14T13:37:51",
     "chamber": "Senate",
-    "status": "Senate Desk – Awaiting Transfer to Governor",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": []
   },
   {
@@ -1474,7 +1489,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1525",
     "introduced": "2026-01-14T14:01:01",
     "chamber": "Senate",
-    "status": "In Senate Committee",
+    "status": "In Senate Committee Awaiting transfer to Desk",
     "sponsors": []
   },
   {
@@ -1494,7 +1509,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1527",
     "introduced": "2026-01-14T16:14:19",
     "chamber": "Senate",
-    "status": "Senate Desk – Awaiting Transfer to Governor",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": []
   },
   {
@@ -1544,7 +1559,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1532",
     "introduced": "2026-01-15T09:41:02",
     "chamber": "Senate",
-    "status": "House Desk - Third Reading",
+    "status": "Senate Desk - Awaiting Enrollment",
     "sponsors": []
   },
   {
@@ -1554,7 +1569,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1533",
     "introduced": "2026-01-15T09:41:02",
     "chamber": "Senate",
-    "status": "House Desk - Third Reading",
+    "status": "Senate Desk - Awaiting Enrollment",
     "sponsors": []
   },
   {
@@ -1574,7 +1589,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1535",
     "introduced": "2026-01-15T09:43:52",
     "chamber": "Senate",
-    "status": "House Desk - Second Reading",
+    "status": "House Desk - Third Reading",
     "sponsors": [
       {
         "name": "Sen Anderson",
@@ -1615,7 +1630,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1538",
     "introduced": "2026-01-15T09:47:23",
     "chamber": "Senate",
-    "status": "Senate Desk – Awaiting Transfer to Governor",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": []
   },
   {
@@ -1675,7 +1690,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1544",
     "introduced": "2026-01-15T10:08:45",
     "chamber": "Senate",
-    "status": "Senate Desk - Awaiting Second Reading",
+    "status": "Senate Desk - Awaiting Third Reading",
     "sponsors": []
   },
   {
@@ -1776,7 +1791,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1546",
     "introduced": "2026-01-15T13:55:26",
     "chamber": "Senate",
-    "status": "House Desk - Second Reading",
+    "status": "House Desk - Third Reading",
     "sponsors": []
   },
   {
@@ -1786,7 +1801,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1547",
     "introduced": "2026-01-15T13:55:26",
     "chamber": "Senate",
-    "status": "Senate Desk – Awaiting Transfer to Governor",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": []
   },
   {
@@ -1888,7 +1903,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1551",
     "introduced": "2026-01-15T15:56:17",
     "chamber": "Senate",
-    "status": "House Desk - Third Reading",
+    "status": "Senate Desk - Awaiting Enrollment",
     "sponsors": [
       {
         "name": "Sen Gelser Blouin",
@@ -2052,7 +2067,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1556",
     "introduced": "2026-01-16T09:01:20",
     "chamber": "Senate",
-    "status": "House Desk - Third Reading",
+    "status": "Senate Desk - PM Possible Consideration of House Amendments",
     "sponsors": []
   },
   {
@@ -2120,7 +2135,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1561",
     "introduced": "2026-01-16T12:06:14",
     "chamber": "Senate",
-    "status": "House Desk - Third Reading",
+    "status": "Senate Desk - Awaiting Enrollment",
     "sponsors": [
       {
         "name": "Sen Weber",
@@ -2204,6 +2219,11 @@
       },
       {
         "name": "Rep Wise",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Reschke",
         "level": "Regular",
         "type": "Member"
       }
@@ -2416,7 +2436,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1567",
     "introduced": "2026-01-16T14:00:23",
     "chamber": "Senate",
-    "status": "House Desk - Second Reading",
+    "status": "House Desk - Third Reading",
     "sponsors": [
       {
         "name": "Sen Pham",
@@ -2527,6 +2547,11 @@
         "name": "Sen Sollman",
         "level": "Regular",
         "type": "Member"
+      },
+      {
+        "name": "Rep Hudson",
+        "level": "Regular",
+        "type": "Member"
       }
     ]
   },
@@ -2537,7 +2562,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1568",
     "introduced": "2026-01-16T14:22:50",
     "chamber": "Senate",
-    "status": "House Desk - Second Reading",
+    "status": "House Desk - Third Reading",
     "sponsors": [
       {
         "name": "Sen Reynolds",
@@ -2684,7 +2709,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1570",
     "introduced": "2026-01-16T14:39:48",
     "chamber": "Senate",
-    "status": "House Desk - Third Reading",
+    "status": "Senate Desk - PM Possible Consideration of House Amendments",
     "sponsors": [
       {
         "name": "Sen Campos",
@@ -2795,6 +2820,36 @@
         "name": "Rep Fragala",
         "level": "Regular",
         "type": "Member"
+      },
+      {
+        "name": "Rep Andersen",
+        "level": "Chief",
+        "type": "Member"
+      },
+      {
+        "name": "Rep McDonald",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Kropf",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Watanabe",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Chotzen",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Valderrama",
+        "level": "Chief",
+        "type": "Member"
       }
     ]
   },
@@ -2805,7 +2860,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1571",
     "introduced": "2026-01-16T14:51:41",
     "chamber": "Senate",
-    "status": "House Desk - Third Reading",
+    "status": "Senate Desk - Awaiting Enrollment",
     "sponsors": [
       {
         "name": "Sen Reynolds",
@@ -2844,6 +2899,16 @@
       },
       {
         "name": "Rep Pham H",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Andersen",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Watanabe",
         "level": "Regular",
         "type": "Member"
       }
@@ -3275,7 +3340,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1576",
     "introduced": "2026-01-16T15:10:46",
     "chamber": "Senate",
-    "status": "House Desk - Third Reading",
+    "status": "Senate Desk - Awaiting Enrollment",
     "sponsors": [
       {
         "name": "Sen Patterson",
@@ -4270,6 +4335,31 @@
         "name": "Rep Harbick",
         "level": "Regular",
         "type": "Member"
+      },
+      {
+        "name": "Rep Bunch",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Wright",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Lewis",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Edwards",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Gomberg",
+        "level": "Regular",
+        "type": "Member"
       }
     ]
   },
@@ -4441,7 +4531,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1587",
     "introduced": "2026-01-16T16:50:57",
     "chamber": "Senate",
-    "status": "House Desk - Third Reading",
+    "status": "Senate Desk - PM Possible Consideration of House Amendments",
     "sponsors": [
       {
         "name": "Sen Campos",
@@ -4789,7 +4879,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1590",
     "introduced": "2026-01-16T16:54:36",
     "chamber": "Senate",
-    "status": "House Desk - Third Reading",
+    "status": "Senate Desk - PM Possible Consideration of House Amendments",
     "sponsors": [
       {
         "name": "Sen Broadman",
@@ -4863,6 +4953,36 @@
       },
       {
         "name": "Rep Helm",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Hudson",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Rep McDonald",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Dobson",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Gamba",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Watanabe",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Kropf",
         "level": "Regular",
         "type": "Member"
       }
@@ -5068,7 +5188,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1594",
     "introduced": "2026-01-20T09:54:23",
     "chamber": "Senate",
-    "status": "House Desk - Third Reading",
+    "status": "Senate Desk - PM Possible Consideration of House Amendments",
     "sponsors": [
       {
         "name": "Sen Jama",
@@ -5209,6 +5329,11 @@
         "name": "Sen Campos",
         "level": "Regular",
         "type": "Member"
+      },
+      {
+        "name": "Rep McLain",
+        "level": "Regular",
+        "type": "Member"
       }
     ]
   },
@@ -5335,7 +5460,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1596",
     "introduced": "2026-01-20T09:56:48",
     "chamber": "Senate",
-    "status": "Senate Desk – Awaiting Transfer to Governor",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": [
       {
         "name": "Sen Frederick",
@@ -5507,7 +5632,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1598",
     "introduced": "2026-01-26T14:53:13",
     "chamber": "Senate",
-    "status": "House Desk - PM Consideration of Committee and Minority Reports",
+    "status": "House Desk - Third Reading",
     "sponsors": [
       {
         "name": "Sen Reynolds",
@@ -5553,6 +5678,16 @@
         "name": "Sen Manning Jr",
         "level": "Regular",
         "type": "Member"
+      },
+      {
+        "name": "Rep Andersen",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Grayber",
+        "level": "Regular",
+        "type": "Member"
       }
     ]
   },
@@ -5563,7 +5698,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1599",
     "introduced": "2026-02-04T17:27:33",
     "chamber": "Senate",
-    "status": "House Desk - Third Reading",
+    "status": "Secretary of States Office - Chapter Number Assignment",
     "sponsors": [
       {
         "name": "Sen President Wagner",
@@ -5759,7 +5894,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4004",
     "introduced": "2026-01-13T14:20:28",
     "chamber": "House",
-    "status": "In Senate Committee",
+    "status": "In Senate Committee Awaiting transfer to Desk",
     "sponsors": []
   },
   {
@@ -5789,7 +5924,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4007",
     "introduced": "2026-01-13T14:33:40",
     "chamber": "House",
-    "status": "House Desk - Second Reading",
+    "status": "House Desk - Third Reading",
     "sponsors": []
   },
   {
@@ -5865,7 +6000,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4014",
     "introduced": "2026-01-14T11:23:14",
     "chamber": "House",
-    "status": "House Desk - Second Reading",
+    "status": "House Desk - Third Reading",
     "sponsors": []
   },
   {
@@ -5885,7 +6020,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4016",
     "introduced": "2026-01-14T11:23:14",
     "chamber": "House",
-    "status": "In House Committee",
+    "status": "In House Committee Awaiting transfer to Desk",
     "sponsors": []
   },
   {
@@ -5895,7 +6030,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4017",
     "introduced": "2026-01-14T11:46:13",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting Third Reading",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": []
   },
   {
@@ -5925,17 +6060,17 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4020",
     "introduced": "2026-01-14T11:46:13",
     "chamber": "House",
-    "status": "House Desk - Second Reading",
+    "status": "House Desk - Third Reading",
     "sponsors": []
   },
   {
     "billNumber": "HB4021",
     "title": "Modifies effective date and notice requirements for certain permanent rules adopted, amended or repealed by certain agencies.",
-    "summary": "\t<b>Digest: The Act changes the effective date and notice given for some agencies' rules. The Act tells some agencies to let people know where to ask questions about the agencies' rules. (Flesch Readability Score: 67.5).</b> \n\t[<i>Digest: The Act tells some agencies to use only some effective dates for rules. The Act changes the notice requirements for some agencies' rules. The Act tells some agencies to give the name of a person at the agency who knows about the agencies' rules on the website. (Flesch Readability Score: 65.5).</i>] \n\t[<i>Requires certain agencies to make adoption, amendment or repeal of administrative rules effective only on January 1, April 1, July 1 or October 1.</i>] Modifies <b>effective date and</b> notice requirements for<b> certain permanent</b> rules adopted, amended or repealed by certain agencies. \n\tRequires certain agencies to make available on the agency's website contact information for [<i>a person at the agency who is knowledgeable</i>] <b>questions</b> about each rule adopted, amended or repealed. \n\tTakes effect on the 91st day following adjournment sine die.",
+    "summary": "\tDigest: The Act changes the effective date and notice given for some agencies' rules. The Act tells some agencies to let people know where to ask questions about the agencies' rules. (Flesch Readability Score: 67.5). \n\tModifies effective date and notice requirements for certain permanent rules adopted, amended or repealed by certain agencies. \n\tRequires certain agencies to make available on the agency's website contact information for questions about each rule adopted, amended or repealed. \n\tTakes effect on the 91st day following adjournment sine die.",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4021",
     "introduced": "2026-01-14T11:46:13",
     "chamber": "House",
-    "status": "In Senate Committee Awaiting transfer to Desk",
+    "status": "Senate Desk - Awaiting Second Reading",
     "sponsors": []
   },
   {
@@ -6011,7 +6146,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4027",
     "introduced": "2026-01-14T13:25:19",
     "chamber": "House",
-    "status": "Senate Presidents Desk - Awaiting Referral",
+    "status": "In Senate Committee Awaiting transfer to Desk",
     "sponsors": [
       {
         "name": "Rep Watanabe",
@@ -6203,7 +6338,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4033",
     "introduced": "2026-01-15T08:30:02",
     "chamber": "House",
-    "status": "House Desk - Second Reading",
+    "status": "House Desk - Third Reading",
     "sponsors": []
   },
   {
@@ -6319,7 +6454,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4035",
     "introduced": "2026-01-15T09:47:17",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting Third Reading",
+    "status": "House Desk - PM Possible Consideration of Senate Amendments",
     "sponsors": []
   },
   {
@@ -6329,17 +6464,17 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4036",
     "introduced": "2026-01-15T09:47:17",
     "chamber": "House",
-    "status": "In House Committee",
+    "status": "In House Committee Awaiting transfer to Desk",
     "sponsors": []
   },
   {
     "billNumber": "HB4037",
     "title": "Adjusts certain terms of the revolving loan program for cities and counties to fund affordable housing projects.",
-    "summary": "\tDigest: This Act changes some housing programs, agencies and laws and rules about home building. (Flesch Readability Score: 65.7). \n\tAdjusts certain terms of the revolving loan program for cities and counties to fund affordable housing projects. \n\tAllows state agencies to adjust terms of a grant made to the Network for Oregon Affordable Housing in the last biennium. \n\t[<i>Authorizes the Housing Accountability and Production Office to enter an interim administrative order against local governments.</i>] \n\tLimits the building permit plan review for housing with two or fewer dwelling units. \n\tEstablishes a local government process for land use approvals for housing subject only to clear and objective standards, conditions and procedures.<b> Becomes operative on July 1, 2026.</b> \n\t[<i>Shortens the period under which local governments may review similar housing development applications by the same applicant.</i>] \n\tEstablishes responsibilities for landlords and tenants for residential tenancies destroyed by natural disasters. \n\tRequires state agencies to give priority to housing providers when transferring surplus real property. \n\tTakes effect on the 91st day following adjournment sine die.",
+    "summary": "\tDigest: This Act changes some housing programs, agencies and laws and rules about home building. (Flesch Readability Score: 65.7). \n\tAdjusts certain terms of the revolving loan program for cities and counties to fund affordable housing projects. \n\tAllows state agencies to adjust terms of a grant made to the Network for Oregon Affordable Housing in the last biennium. \n\tLimits the building permit plan review for housing with two or fewer dwelling units. \n\tEstablishes a local government process for land use approvals for housing subject only to clear and objective standards, conditions and procedures. Becomes operative on July 1, 2026. \n\tEstablishes responsibilities for landlords and tenants for residential tenancies destroyed by natural disasters. \n\tRequires state agencies to give priority to housing providers when transferring surplus real property. \n\t<b>Requires the Land Conservation and Development Commission to adopt rules regarding prioritization of lands added to urban reserves. \n\t<b>Limits the amount of commercial lands within certain planned areas that may be used for affordable housing.</b> \n\tTakes effect on the 91st day following adjournment sine die.",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4037",
     "introduced": "2026-01-15T09:47:17",
     "chamber": "House",
-    "status": "In Senate Committee Awaiting transfer to Desk",
+    "status": "Senate Desk - Awaiting Second Reading",
     "sponsors": []
   },
   {
@@ -6359,7 +6494,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4039",
     "introduced": "2026-01-15T10:40:14",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting Third Reading",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": []
   },
   {
@@ -6369,7 +6504,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4040",
     "introduced": "2026-01-15T10:40:14",
     "chamber": "House",
-    "status": "House Desk - Second Reading",
+    "status": "House Desk - Third Reading",
     "sponsors": []
   },
   {
@@ -6379,7 +6514,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4041",
     "introduced": "2026-01-15T10:48:32",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting Second Reading",
+    "status": "Senate Desk - Awaiting Third Reading",
     "sponsors": []
   },
   {
@@ -6399,7 +6534,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4043",
     "introduced": "2026-01-15T10:48:32",
     "chamber": "House",
-    "status": "House Desk - Second Reading",
+    "status": "House Desk - Third Reading",
     "sponsors": []
   },
   {
@@ -6419,7 +6554,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4045",
     "introduced": "2026-01-15T15:11:10",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting Third Reading",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": [
       {
         "name": "Rep Mannix",
@@ -6523,6 +6658,11 @@
       },
       {
         "name": "Sen Neron Misslin",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Sen Manning Jr",
         "level": "Regular",
         "type": "Member"
       }
@@ -6641,7 +6781,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4047",
     "introduced": "2026-01-15T15:19:01",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting First Reading",
+    "status": "In Senate Committee Awaiting transfer to Desk",
     "sponsors": [
       {
         "name": "Rep Diehl",
@@ -6981,7 +7121,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4052",
     "introduced": "2026-01-16T10:54:06",
     "chamber": "House",
-    "status": "In Senate Committee",
+    "status": "In Senate Committee Awaiting transfer to Desk",
     "sponsors": [
       {
         "name": "Rep Reschke",
@@ -7052,7 +7192,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4053",
     "introduced": "2026-01-16T10:58:29",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting Third Reading",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": [
       {
         "name": "Rep Grayber",
@@ -7259,7 +7399,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4057",
     "introduced": "2026-01-16T11:36:58",
     "chamber": "House",
-    "status": "In Senate Committee Awaiting transfer to Desk",
+    "status": "Senate Desk - Awaiting Third Reading",
     "sponsors": []
   },
   {
@@ -7289,7 +7429,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4060",
     "introduced": "2026-01-16T11:44:54",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting Second Reading",
+    "status": "Senate Desk - Awaiting Third Reading",
     "sponsors": [
       {
         "name": "Rep Helfrich",
@@ -7330,7 +7470,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4061",
     "introduced": "2026-01-16T12:03:23",
     "chamber": "House",
-    "status": "House Desk - Second Reading",
+    "status": "House Desk - Third Reading",
     "sponsors": []
   },
   {
@@ -7340,7 +7480,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4062",
     "introduced": "2026-01-16T12:03:23",
     "chamber": "House",
-    "status": "House Desk - Second Reading",
+    "status": "House Desk - Third Reading",
     "sponsors": []
   },
   {
@@ -7507,7 +7647,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4065",
     "introduced": "2026-01-16T12:55:12",
     "chamber": "House",
-    "status": "In Senate Committee Awaiting transfer to Desk",
+    "status": "Senate Desk - Awaiting Third Reading",
     "sponsors": [
       {
         "name": "Rep Scharf",
@@ -7524,11 +7664,11 @@
   {
     "billNumber": "HB4066",
     "title": "Prohibits the student member of the Oregon Health and Science University Board of Directors from participating in any discussions or action by the board or attending any executive session of the board involving collective bargaining issues that affect students.",
-    "summary": "\t<b>Digest: Changes laws related to the OHSU board, school board stipends, the ICEOMC, rules of ODE, school district budgets, a study by PSU and lamps used by ESDs. (Flesch Readability Score: 63.4).</b> \n\t[<i>Digest: Changes laws related to the OHSU board, stipends for ESDs and school districts, terms in the ICEOMC and rules of ODE. (Flesch Readability Score: 68.6).</i>] \n\tProhibits the student member of the Oregon Health and Science University Board of Directors from participating in any discussions or action by the board or attending any executive session of the board involving collective bargaining issues that affect students. Requires the board to meet at least four times per year. \n\tAllows directors of education service district boards to receive stipends. Specifies when adjustments for inflation can be made for stipends of school districts. \n\tChanges the definition for the term \"active duty\" in the Interstate Compact on Educational Opportunity for Military Children. \n\tClarifies that the rulemaking authority for the Department of Education is by the State Board of Education. \n\t<b>Allows a school district to not include a member of the educational equity advisory committee on the budget committee if no member of the educational equity advisory committee is willing or able to serve on the budget committee. \n\t<b>Directs Portland State University instead of the Higher Education Coordinating Commission to report to the Legislative Assembly on a study examining the labor standards and working experiences of farmworkers in this state and evaluating the adequacy and availability of existing workplace protections for farmworkers. \n\t<b>Allows education service districts to be temporarily exempt from certain requirements applicable to lamps in buildings used to provide educational services to students. \n\t<b>Declares an emergency, effective on passage.</b>",
+    "summary": "\t<b>Digest: Changes laws related to the OHSU board, school board stipends, the ICEOMC, rules of ODE, school district budgets, a study by PSU and lamps used by ESDs. (Flesch Readability Score: 63.4).</b> \n\t[<i>Digest: Changes laws related to the OHSU board, stipends for ESDs and school districts, terms in the ICEOMC and rules of ODE. (Flesch Readability Score: 68.6).</i>] \n\tProhibits the student member of the Oregon Health and Science University Board of Directors from participating in any discussions or action by the board or attending any executive session of the board involving collective bargaining issues that affect students. Requires the board to meet at least four times per year. \n\tAllows directors of education service district boards to receive stipends. Specifies when adjustments for inflation can be made for stipends of school districts. \n\tChanges the definition for the term \"active duty\" in the Interstate Compact on Educational Opportunity for Military Children. \n\tClarifies that the rulemaking authority for the Department of Education is by the State Board of Education. \n\t<b>Allows a school district to not include a member of the educational equity advisory committee on the budget committee if no member of the educational equity advisory committee is willing or able to serve on the budget committee. \n\tDirects Portland State University instead of the Higher Education Coordinating Commission to report to the Legislative Assembly on a study examining the labor standards and working experiences of farmworkers in this state and evaluating the adequacy and availability of existing workplace protections for farmworkers. \n\tAllows education service districts to be temporarily exempt from certain requirements applicable to lamps in buildings used to provide educational services to students. \n\tDeclares an emergency, effective on passage.</b>",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4066",
     "introduced": "2026-01-16T13:01:12",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting Third Reading",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": []
   },
   {
@@ -7558,7 +7698,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4069",
     "introduced": "2026-01-16T13:08:07",
     "chamber": "House",
-    "status": "In Senate Committee Awaiting transfer to Desk",
+    "status": "Senate Desk - Awaiting Third Reading",
     "sponsors": []
   },
   {
@@ -7568,7 +7708,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4070",
     "introduced": "2026-01-16T13:08:07",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting Second Reading",
+    "status": "Senate Desk - Awaiting Third Reading",
     "sponsors": []
   },
   {
@@ -7679,7 +7819,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4072",
     "introduced": "2026-01-16T13:20:45",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting Third Reading",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": []
   },
   {
@@ -7820,6 +7960,11 @@
       },
       {
         "name": "Rep Boice",
+        "level": "Chief",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Levy B",
         "level": "Regular",
         "type": "Member"
       }
@@ -7832,7 +7977,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4076",
     "introduced": "2026-01-16T15:30:00",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting Second Reading",
+    "status": "Senate Desk - Awaiting Third Reading",
     "sponsors": [
       {
         "name": "Rep Lively",
@@ -7848,7 +7993,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4077",
     "introduced": "2026-01-16T15:36:15",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting Third Reading",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": [
       {
         "name": "Rep Lively",
@@ -8006,11 +8151,11 @@
   {
     "billNumber": "HB4079",
     "title": "Directs school district boards and governing bodies of institutions of higher education to adopt policies that address how the school district or the institution of higher education will respond when a federal immigration authority enters school property or a campus.",
-    "summary": "\tDigest: Tells public schools to have a policy for how to respond to immigration issues at the school. (Flesch Readability Score: 65.1). \n\tDirects school district boards and governing bodies of institutions of higher education to adopt policies that address how the school district or the institution of higher education will respond when a federal immigration authority enters school property or a campus. Prescribes the requirements of the policies. \n\tDeclares an emergency, effective on passage.",
+    "summary": "\tDigest: Tells public schools to have a policy for how to respond to immigration issues at the school. (Flesch Readability Score: 65.1). \n\tDirects school district boards and governing bodies of institutions of higher education to adopt policies that address how the school district or the institution of higher education will respond when a federal immigration authority enters school property or a campus. Prescribes the requirements of the policies. \n\t[<i>Declares an emergency, effective on passage.</i>] \n\t<b>Takes effect on September 30, 2026.</b>",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4079",
     "introduced": "2026-01-16T15:51:11",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting Third Reading",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": [
       {
         "name": "Rep McDonald",
@@ -8159,6 +8304,11 @@
       },
       {
         "name": "Sen Patterson",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Sen Campos",
         "level": "Regular",
         "type": "Member"
       }
@@ -8364,11 +8514,11 @@
   {
     "billNumber": "HB4082",
     "title": "Adds to a temporary UGB addition program an option for each city or Metro to also add to its urban growth boundary a site for manufactured dwellings, prefabricated structures or manufactured dwelling parks, or for housing that is predominantly for older persons and affordable for households with incomes not more than 120 percent of area median income.",
-    "summary": "\tDigest: This Act allows cities to add sites to their UGB for manufactured dwelling parks or housing for older persons. (Flesch Readability Score: 62.8). \n\tAdds to a temporary UGB addition program an option for each city or Metro to also add to its urban growth boundary a site for<b> manufactured dwellings, prefabricated structures or</b> manufactured dwelling parks, or for housing <b>that is predominantly</b> for older persons[<i>, that is</i>] <b>and</b> affordable for households with incomes not more than 120 percent of area median income. \n\tSunsets January 2, 2033. \n\tTakes effect on the 91st day following adjournment sine die.",
+    "summary": "\tDigest: This Act allows cities to add sites to their UGB for manufactured dwelling parks or housing for older persons. (Flesch Readability Score: 62.8). \n\tAdds to a temporary UGB addition program an option for each city or Metro to also add to its urban growth boundary a site for manufactured dwellings, prefabricated structures or manufactured dwelling parks, or for housing that is predominantly for older persons and affordable for households with incomes not more than 120 percent of area median income. \n\tSunsets January 2, 2033. \n\tTakes effect on the 91st day following adjournment sine die.",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4082",
     "introduced": "2026-01-16T16:14:03",
     "chamber": "House",
-    "status": "In Senate Committee Awaiting transfer to Desk",
+    "status": "Senate Desk - Awaiting Second Reading",
     "sponsors": []
   },
   {
@@ -8388,7 +8538,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4084",
     "introduced": "2026-01-16T16:14:03",
     "chamber": "House",
-    "status": "In House Committee",
+    "status": "In House Committee Awaiting transfer to Desk",
     "sponsors": []
   },
   {
@@ -8449,7 +8599,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4086",
     "introduced": "2026-01-16T16:30:50",
     "chamber": "House",
-    "status": "In House Committee",
+    "status": "In House Committee Awaiting transfer to Desk",
     "sponsors": []
   },
   {
@@ -8746,7 +8896,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4089",
     "introduced": "2026-01-17T11:41:52",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting First Reading",
+    "status": "In Senate Committee",
     "sponsors": [
       {
         "name": "Rep Tran",
@@ -9949,7 +10099,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4102",
     "introduced": "2026-01-17T12:55:51",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting Third Reading",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": [
       {
         "name": "Rep Dobson",
@@ -10053,6 +10203,11 @@
       },
       {
         "name": "Sen Lieber",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Sen Reynolds",
         "level": "Regular",
         "type": "Member"
       }
@@ -10345,17 +10500,22 @@
         "name": "Rep Gamba",
         "level": "Regular",
         "type": "Member"
+      },
+      {
+        "name": "Sen Manning Jr",
+        "level": "Chief",
+        "type": "Member"
       }
     ]
   },
   {
     "billNumber": "HB4108",
     "title": "Allows the City of Eugene to annex noncontiguous land upon receipt of a petition from all owners of the land that satisfies four eligibility criteria.",
-    "summary": "\t<b>Digest: This Act lets Eugene add some noncontiguous land to the city. (Flesch Readability Score: 72.6).</b> \n\t[<i>Digest: This Act requires a city to allow some property to join the city in some circumstances. (Flesch Readability Score: 63.6).</i>] \n\t[<i>Requires a city</i>] <b>Allows the City of Eugene</b> to annex noncontiguous land upon receipt of a petition from all owners of the land that satisfies four eligibility criteria.",
+    "summary": "\tDigest: This Act lets Eugene add some noncontiguous land to the city. (Flesch Readability Score: 72.6). \n\tAllows the City of Eugene to annex noncontiguous land upon receipt of a petition from all owners of the land that satisfies four eligibility criteria.",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4108",
     "introduced": "2026-01-17T13:13:23",
     "chamber": "House",
-    "status": "In Senate Committee Awaiting transfer to Desk",
+    "status": "Senate Desk - Awaiting Second Reading",
     "sponsors": [
       {
         "name": "Rep Fragala",
@@ -11157,6 +11317,11 @@
         "name": "Sen Meek",
         "level": "Regular",
         "type": "Member"
+      },
+      {
+        "name": "Sen Neron Misslin",
+        "level": "Chief",
+        "type": "Member"
       }
     ]
   },
@@ -11167,7 +11332,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4115",
     "introduced": "2026-01-17T14:51:40",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting First Reading",
+    "status": "In Senate Committee Awaiting transfer to Desk",
     "sponsors": [
       {
         "name": "Rep Nathanson",
@@ -11233,7 +11398,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4116",
     "introduced": "2026-01-17T14:55:17",
     "chamber": "House",
-    "status": "In Senate Committee Awaiting transfer to Desk",
+    "status": "Senate Presidents Desk - Awaiting Disposition",
     "sponsors": [
       {
         "name": "Rep Sosa",
@@ -11577,7 +11742,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4120",
     "introduced": "2026-01-17T15:12:12",
     "chamber": "House",
-    "status": "In Senate Committee Awaiting transfer to Desk",
+    "status": "Senate Desk - Awaiting Third Reading",
     "sponsors": [
       {
         "name": "Rep Edwards",
@@ -11790,7 +11955,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4123",
     "introduced": "2026-01-18T10:48:38",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting Third Reading",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": [
       {
         "name": "Rep Marsh",
@@ -11906,6 +12071,11 @@
         "name": "Rep Grayber",
         "level": "Regular",
         "type": "Member"
+      },
+      {
+        "name": "Sen Sollman",
+        "level": "Regular",
+        "type": "Member"
       }
     ]
   },
@@ -11916,7 +12086,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4124",
     "introduced": "2026-01-18T10:54:09",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting First Reading",
+    "status": "In Senate Committee Awaiting transfer to Desk",
     "sponsors": [
       {
         "name": "Rep Marsh",
@@ -12214,7 +12384,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4127",
     "introduced": "2026-01-18T11:30:02",
     "chamber": "House",
-    "status": "In House Committee",
+    "status": "In House Committee Awaiting transfer to Desk",
     "sponsors": [
       {
         "name": "Rep Bowman",
@@ -12360,6 +12530,11 @@
         "name": "Rep Walters",
         "level": "Regular",
         "type": "Member"
+      },
+      {
+        "name": "Rep McLain",
+        "level": "Regular",
+        "type": "Member"
       }
     ]
   },
@@ -12370,7 +12545,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4128",
     "introduced": "2026-01-18T11:34:03",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting Third Reading",
+    "status": "House Desk - PM Possible Consideration of Senate Amendments",
     "sponsors": [
       {
         "name": "Rep Bowman",
@@ -12501,6 +12676,11 @@
         "name": "Sen Campos",
         "level": "Regular",
         "type": "Member"
+      },
+      {
+        "name": "Sen Manning Jr",
+        "level": "Regular",
+        "type": "Member"
       }
     ]
   },
@@ -12537,7 +12717,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4130",
     "introduced": "2026-01-18T11:50:55",
     "chamber": "House",
-    "status": "In House Committee",
+    "status": "In House Committee Awaiting transfer to Desk",
     "sponsors": [
       {
         "name": "Rep Boshart Davis",
@@ -12573,7 +12753,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4131",
     "introduced": "2026-01-18T12:07:27",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting First Reading",
+    "status": "In Senate Committee Awaiting transfer to Desk",
     "sponsors": [
       {
         "name": "Rep Pham H",
@@ -12724,7 +12904,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4132",
     "introduced": "2026-01-18T12:22:11",
     "chamber": "House",
-    "status": "House Desk - Second Reading",
+    "status": "House Desk - Third Reading",
     "sponsors": [
       {
         "name": "Rep Evans",
@@ -12845,6 +13025,11 @@
         "name": "Rep Andersen",
         "level": "Regular",
         "type": "Member"
+      },
+      {
+        "name": "Rep Hudson",
+        "level": "Regular",
+        "type": "Member"
       }
     ]
   },
@@ -12876,7 +13061,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4134",
     "introduced": "2026-01-18T12:38:44",
     "chamber": "House",
-    "status": "In Senate Committee Awaiting transfer to Desk",
+    "status": "Senate Presidents Desk - Awaiting Disposition",
     "sponsors": [
       {
         "name": "Rep Helm",
@@ -13047,7 +13232,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4135",
     "introduced": "2026-01-18T13:20:07",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting First Reading",
+    "status": "In Senate Committee",
     "sponsors": [
       {
         "name": "Rep Hartman",
@@ -13187,6 +13372,11 @@
       {
         "name": "Rep Chotzen",
         "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Sen Reynolds",
+        "level": "Chief",
         "type": "Member"
       }
     ]
@@ -13446,11 +13636,11 @@
   {
     "billNumber": "HB4138",
     "title": "Requires law enforcement agencies to require officers to wear uniforms with specified identifying information.",
-    "summary": "\t<b>Digest: The Act sets police ID rules and limits the actions of public employees when working with U.S. or out-of-state law enforcement. The Act also allows a person to seek an injunction when the rules are violated. The Act goes into effect when the Governor signs it. (Flesch Readability Score: 62.5).</b> \n\t[<i>Digest: The Act sets police ID rules and limits the actions of public employees when working with U.S. or out-of-state law enforcement. The Act also creates a cause of action when the rules are violated. The Act goes into effect when the Governor signs it. (Flesch Readability Score: 66.9).</i>] \n\tRequires law enforcement agencies to [<i>enact policies concerning</i>]<b> require officers to wear uniforms with specified</b> identifying information [<i>on law enforcement uniforms</i>]. [<i>Broadens the application of laws specifying identification requirements for law enforcement officers.</i>]<b> Specifies exceptions.</b> \n\tRequires law enforcement agencies to enact policies prohibiting the wearing of facial coverings by officers except in specified circumstances. Prohibits the wearing of facial coverings by law enforcement officers except in specified circumstances. \n\t[<i>Creates the offense of misrepresentation by a law enforcement officer. Punishes by a maximum penalty of a $2,000 fine.</i>] \n\t[<i>Includes federal officers in the definition of \"peace officer\" for purposes of the crime of criminal impersonation of a peace officer.</i>] \n\tProhibits employees of<b> state and local law enforcement agencies and other</b> public bodies in this state from participating in certain actions. Directs<b> state and local law enforcement agencies and other</b> public bodies to enact policies prohibiting engagement in certain actions. \n\t[<i>Specifies disclosure requirements for law enforcement agencies that enter into joint task forces or cross-deputization agreements with federal law enforcement agencies or law enforcement agencies of another state.</i>] \n\tProvides that volunteers in a civil defense force are agents of a public body for purposes of the Oregon Tort Claims Act. \n\tAllows a person harmed by violations of certain provisions to [<i>bring a civil cause of action. Allows a person to</i>] seek an injunction. \n\tDeclares an emergency, effective on passage.",
+    "summary": "\tDigest: The Act sets police ID rules and limits the actions of public employees when working with U.S. or out-of-state law enforcement. The Act also allows a person to seek an injunction when the rules are violated. The Act goes into effect when the Governor signs it. (Flesch Readability Score: 62.5). \n\tRequires law enforcement agencies to require officers to wear uniforms with specified identifying information. Specifies exceptions. \n\tRequires law enforcement agencies to enact policies prohibiting the wearing of facial coverings by officers except in specified circumstances. Prohibits the wearing of facial coverings by law enforcement officers except in specified circumstances. \n\tProhibits employees of state and local law enforcement agencies and other public bodies in this state from participating in certain actions. Directs state and local law enforcement agencies and other public bodies to enact policies prohibiting engagement in certain actions. \n\tProvides that volunteers in a civil defense force are agents of a public body for purposes of the Oregon Tort Claims Act. \n\tAllows a person harmed by violations of certain provisions to seek an injunction. \n\tDeclares an emergency, effective on passage.",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4138",
     "introduced": "2026-01-18T13:49:05",
     "chamber": "House",
-    "status": "In Senate Committee Awaiting transfer to Desk",
+    "status": "Senate Desk - Awaiting Second Reading",
     "sponsors": [
       {
         "name": "Rep Chaichi",
@@ -14046,7 +14236,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4144",
     "introduced": "2026-01-18T14:32:56",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting First Reading",
+    "status": "In Senate Committee Awaiting transfer to Desk",
     "sponsors": [
       {
         "name": "Rep Levy E",
@@ -14215,11 +14405,6 @@
         "type": "Member"
       },
       {
-        "name": "Sen Manning Jr",
-        "level": "Chief",
-        "type": "Member"
-      },
-      {
         "name": "Sen Reynolds",
         "level": "Regular",
         "type": "Member"
@@ -14249,7 +14434,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4147",
     "introduced": "2026-01-18T14:43:52",
     "chamber": "House",
-    "status": "House Desk - Third Reading",
+    "status": "Senate Desk - Awaiting First Reading",
     "sponsors": [
       {
         "name": "Rep Walters",
@@ -14375,7 +14560,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4148",
     "introduced": "2026-01-18T14:47:43",
     "chamber": "House",
-    "status": "In Senate Committee",
+    "status": "In Senate Committee Awaiting transfer to Desk",
     "sponsors": [
       {
         "name": "Rep Walters",
@@ -14905,7 +15090,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4153",
     "introduced": "2026-01-19T11:22:14",
     "chamber": "House",
-    "status": "In House Committee",
+    "status": "In House Committee Awaiting transfer to Desk",
     "sponsors": [
       {
         "name": "Rep Breese-Iverson",
@@ -14975,11 +15160,6 @@
       {
         "name": "Rep Rieke Smith",
         "level": "Chief",
-        "type": "Member"
-      },
-      {
-        "name": "Rep Nelson",
-        "level": "Regular",
         "type": "Member"
       },
       {
@@ -15105,6 +15285,11 @@
       },
       {
         "name": "Rep Chotzen",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Sen Manning Jr",
         "level": "Regular",
         "type": "Member"
       }
@@ -15425,6 +15610,16 @@
         "name": "Sen Neron Misslin",
         "level": "Regular",
         "type": "Member"
+      },
+      {
+        "name": "Sen Manning Jr",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Sen Patterson",
+        "level": "Regular",
+        "type": "Member"
       }
     ]
   },
@@ -15446,12 +15641,12 @@
   },
   {
     "billNumber": "HB4159",
-    "title": "Provides that the Governor shall appoint one member of the Oregon Government Ethics Commission who has local government experience.",
-    "summary": "\tDigest: The Act says that the Governor has to put a person with a certain background on the OGEC. The Act protects certain protected words during investigations by the OGEC. (Flesch Readability Score: 60.8). \n\tProvides that the Governor shall appoint one member of the Oregon Government Ethics Commission who has local government experience. \n\tProvides that attorney-client privilege is not waived when a communication is made to the commission for purposes of providing information regarding a complaint alleging a violation of government ethics laws or public meetings laws.",
+    "title": "Provides that at least one member who is appointed to the Oregon Government Ethics Commission must have local government experience.",
+    "summary": "\t<b>Digest: The Act says that one person put on the OGEC must have a certain background. The Act protects certain protected words during investigations by the OGEC. (Flesch Readability Score: 63.4).</b> \n\t[<i>Digest: The Act says that the Governor has to put a person with a certain background on the OGEC. The Act protects certain protected words during investigations by the OGEC. (Flesch Readability Score: 60.8).</i>] \n\t[<i>Provides that the Governor shall appoint one member of the Oregon Government Ethics Commission who has local government experience.</i>] \n\t<b>Provides that at least one member who is appointed to the Oregon Government Ethics Commission must have local government experience.</b> \n\tProvides that attorney-client privilege is not waived when a communication is made to the commission for purposes of providing information regarding a complaint alleging a violation of government ethics laws or public meetings laws.",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4159",
     "introduced": "2026-02-03T11:14:00",
     "chamber": "House",
-    "status": "In Senate Committee",
+    "status": "Senate Desk - Awaiting Second Reading",
     "sponsors": [
       {
         "name": "HRULES",
@@ -15483,7 +15678,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4161",
     "introduced": "2026-02-03T11:14:00",
     "chamber": "House",
-    "status": "In Senate Committee",
+    "status": "In Senate Committee Awaiting transfer to Desk",
     "sponsors": [
       {
         "name": "HRULES",
@@ -15499,7 +15694,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4162",
     "introduced": "2026-02-03T11:14:00",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting Third Reading",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": [
       {
         "name": "HRULES",
@@ -15739,7 +15934,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4177",
     "introduced": "2026-02-05T08:31:55",
     "chamber": "House",
-    "status": "In House Committee",
+    "status": "In House Committee Awaiting transfer to Desk",
     "sponsors": [
       {
         "name": "HRULES",
@@ -15755,7 +15950,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4178",
     "introduced": "2026-02-16T09:35:15",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting First Reading",
+    "status": "In Senate Committee",
     "sponsors": [
       {
         "name": "HRULES",
