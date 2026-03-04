@@ -11,7 +11,7 @@
     "RelatingTo": "Relating to sale of single-family residences.",
     "AtTheRequestOf": null,
     "ChapterNumber": null,
-    "CurrentLocation": "Senate Desk - Awaiting Third Reading",
+    "CurrentLocation": "House Desk - PM Possible Consideration of Senate Amendments",
     "CurrentCommitteeCode": null,
     "CurrentSubCommittee": null,
     "FiscalImpact": "Has minimal fiscal impact",
@@ -23,7 +23,7 @@
     "LCNumber": 264,
     "Vetoed": false,
     "CreatedDate": "2026-01-18T11:34:03",
-    "ModifiedDate": "2026-02-26T10:32:36",
+    "ModifiedDate": "2026-03-02T12:31:12",
     "PrefixMeaning": "House Bill"
   },
   "sponsors": [
@@ -404,6 +404,20 @@
       "PresessionFiledMessage": null,
       "CreatedDate": "2026-02-27T12:07:23",
       "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "157977",
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4128,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Manning Jr",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2026-03-02T11:46:58",
+      "ModifiedDate": null
     }
   ],
   "historyActions": [
@@ -588,6 +602,19 @@
       "CreatedDate": "2026-02-27T12:53:56",
       "ModifiedDate": null,
       "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 669177,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4128,
+      "Chamber": "S",
+      "ActionDate": "2026-03-02T12:31:05",
+      "ActionText": "Third reading.  Carried by Neron Misslin.  Passed.",
+      "VoteText": "Ayes, 26; Nays, 2--Linthicum, Robinson; Excused, 2--Drazan, Girod.",
+      "CreatedDate": "2026-03-02T12:31:08",
+      "ModifiedDate": "2026-03-02T12:31:12",
+      "PublicNotification": true
     }
   ],
   "documents": [

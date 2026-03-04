@@ -11,7 +11,7 @@
     "RelatingTo": "Relating to mixed income housing; prescribing an effective date.",
     "AtTheRequestOf": null,
     "ChapterNumber": null,
-    "CurrentLocation": "House Desk - Second Reading",
+    "CurrentLocation": "House Desk - Third Reading",
     "CurrentCommitteeCode": null,
     "CurrentSubCommittee": null,
     "FiscalImpact": "Fiscal impact issued",
@@ -23,7 +23,7 @@
     "LCNumber": 156,
     "Vetoed": false,
     "CreatedDate": "2026-01-16T14:00:23",
-    "ModifiedDate": "2026-02-27T16:24:13",
+    "ModifiedDate": "2026-03-02T12:15:30",
     "PrefixMeaning": "Senate Bill"
   },
   "sponsors": [
@@ -348,6 +348,48 @@
       "PresessionFiledMessage": null,
       "CreatedDate": "2026-02-27T12:47:46",
       "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "157984",
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1567,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Hudson",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2026-03-02T12:48:39",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "158008",
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1567,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Andersen",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2026-03-03T09:50:24",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "158019",
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1567,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Dobson",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2026-03-03T12:51:48",
+      "ModifiedDate": null
     }
   ],
   "historyActions": [
@@ -558,6 +600,32 @@
       "CreatedDate": "2026-02-27T16:24:13",
       "ModifiedDate": null,
       "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 669172,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1567,
+      "Chamber": "H",
+      "ActionDate": "2026-03-02T12:13:54",
+      "ActionText": "Second reading.",
+      "VoteText": null,
+      "CreatedDate": "2026-03-02T12:15:30",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 669517,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1567,
+      "Chamber": "H",
+      "ActionDate": "2026-03-03T14:49:01",
+      "ActionText": "Rules suspended. Carried over to March 4, 2026 Calendar.",
+      "VoteText": null,
+      "CreatedDate": "2026-03-03T14:50:29",
+      "ModifiedDate": null,
+      "PublicNotification": false
     }
   ],
   "documents": [

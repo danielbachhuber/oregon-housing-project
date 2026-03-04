@@ -11,8 +11,8 @@
     "RelatingTo": "Relating to local requirements to develop affordable housing.",
     "AtTheRequestOf": "(at the request of Senate Interim Committee on Housing and Development)",
     "ChapterNumber": null,
-    "CurrentLocation": "In House Committee",
-    "CurrentCommitteeCode": "HRULES",
+    "CurrentLocation": "House Desk - Third Reading",
+    "CurrentCommitteeCode": null,
     "CurrentSubCommittee": null,
     "FiscalImpact": "Fiscal impact issued",
     "RevenueImpact": "No revenue impact",
@@ -23,7 +23,7 @@
     "LCNumber": 5,
     "Vetoed": false,
     "CreatedDate": "2026-01-14T13:37:51",
-    "ModifiedDate": "2026-02-24T18:11:52",
+    "ModifiedDate": "2026-03-03T14:41:08",
     "PrefixMeaning": "Senate Bill"
   },
   "sponsors": [
@@ -172,6 +172,45 @@
       "CreatedDate": "2026-02-27T16:27:49",
       "ModifiedDate": null,
       "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 669315,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1521,
+      "Chamber": "H",
+      "ActionDate": "2026-03-03T08:02:00",
+      "ActionText": "Work Session held.",
+      "VoteText": null,
+      "CreatedDate": "2026-03-03T09:20:38",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 669503,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1521,
+      "Chamber": "H",
+      "ActionDate": "2026-03-03T14:31:35",
+      "ActionText": "Recommendation: Do pass.",
+      "VoteText": null,
+      "CreatedDate": "2026-03-03T14:36:11",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 669508,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1521,
+      "Chamber": "H",
+      "ActionDate": "2026-03-03T14:40:45",
+      "ActionText": "Second reading.",
+      "VoteText": null,
+      "CreatedDate": "2026-03-03T14:41:08",
+      "ModifiedDate": null,
+      "PublicNotification": true
     }
   ],
   "documents": [

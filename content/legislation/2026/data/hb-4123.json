@@ -7,11 +7,11 @@
     "MinorityCatchLine": null,
     "MeasureSummary": "\tDigest: This Act limits the private information that a landlord can share. (Flesch Readability Score: 64.9). \n\tLimits the circumstances under which a landlord may disclose confidential information. Authorizes statutory damages for individuals affected by knowing violations. \n\tTakes effect on the 91st day following adjournment sine die.",
     "CurrentVersion": "A",
-    "RelatingToFull": "Relating to landlord disclosure of confidential information; and prescribing an effective date.\n\t",
-    "RelatingTo": "Relating to landlord disclosure of confidential information; prescribing an effective date.",
+    "RelatingToFull": "Relating to landlord disclosure of confidential information; and prescribing an effective date. \n\t",
+    "RelatingTo": "Relating to landlord disclosure of confidential information; and prescribing an effective date.",
     "AtTheRequestOf": null,
     "ChapterNumber": null,
-    "CurrentLocation": "Senate Desk - Awaiting Third Reading",
+    "CurrentLocation": "Speakers Desk - Awaiting Signature",
     "CurrentCommitteeCode": null,
     "CurrentSubCommittee": null,
     "FiscalImpact": "Has minimal fiscal impact",
@@ -23,7 +23,7 @@
     "LCNumber": 165,
     "Vetoed": false,
     "CreatedDate": "2026-01-18T10:48:38",
-    "ModifiedDate": "2026-02-26T10:32:36",
+    "ModifiedDate": "2026-03-03T10:05:46",
     "PrefixMeaning": "House Bill"
   },
   "sponsors": [
@@ -362,6 +362,20 @@
       "PresessionFiledMessage": null,
       "CreatedDate": "2026-02-17T11:48:54",
       "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "157981",
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4123,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Sollman",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2026-03-02T12:17:48",
+      "ModifiedDate": null
     }
   ],
   "historyActions": [
@@ -533,6 +547,32 @@
       "CreatedDate": "2026-02-27T12:53:56",
       "ModifiedDate": null,
       "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 669175,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4123,
+      "Chamber": "S",
+      "ActionDate": "2026-03-02T12:18:43",
+      "ActionText": "Third reading.  Carried by Anderson.  Passed.",
+      "VoteText": "Ayes, 25; Nays, 3--Linthicum, Robinson, Thatcher; Excused, 2--Drazan, Girod.",
+      "CreatedDate": "2026-03-02T12:18:45",
+      "ModifiedDate": "2026-03-02T12:54:55",
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 669178,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4123,
+      "Chamber": "S",
+      "ActionDate": "2026-03-02T12:19:43",
+      "ActionText": "Frederick, excused, granted unanimous consent to vote aye.",
+      "VoteText": null,
+      "CreatedDate": "2026-03-02T12:32:40",
+      "ModifiedDate": "2026-03-02T12:32:54",
+      "PublicNotification": false
     }
   ],
   "documents": [
@@ -543,6 +583,15 @@
       "VersionDescription": "A-Engrossed",
       "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4123/A-Engrossed",
       "CreatedDate": "2026-02-12T16:51:28.567",
+      "ModifiedDate": null
+    },
+    {
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4123,
+      "VersionDescription": "Enrolled",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4123/Enrolled",
+      "CreatedDate": "2026-03-02T17:06:10.29",
       "ModifiedDate": null
     },
     {
