@@ -7,11 +7,11 @@
     "MinorityCatchLine": null,
     "MeasureSummary": "\tDigest: This Act allows an owner a separate path to restore a destroyed home. (Flesch Readability Score: 69.9). \n\tRequires local governments to approve restoration or replacement of dwellings rendered uninhabitable under an alternative process that is not a land use decision.",
     "CurrentVersion": "A",
-    "RelatingToFull": "Relating to restoration of dwellings damaged by involuntary causes; creating new provisions; and amending ORS 215.213, 215.283 and 215.755.\n\t",
+    "RelatingToFull": "Relating to restoration of dwellings damaged by involuntary causes. \n\t",
     "RelatingTo": "Relating to restoration of dwellings damaged by involuntary causes.",
     "AtTheRequestOf": null,
     "ChapterNumber": null,
-    "CurrentLocation": "House Desk - Third Reading",
+    "CurrentLocation": "Legislative Counsel - Enrollment",
     "CurrentCommitteeCode": null,
     "CurrentSubCommittee": null,
     "FiscalImpact": "Has minimal fiscal impact",
@@ -23,7 +23,7 @@
     "LCNumber": 96,
     "Vetoed": false,
     "CreatedDate": "2026-01-16T12:06:14",
-    "ModifiedDate": "2026-02-27T13:45:26",
+    "ModifiedDate": "2026-03-03T18:05:02",
     "PrefixMeaning": "Senate Bill"
   },
   "sponsors": [
@@ -278,6 +278,20 @@
       "PresessionFiledMessage": null,
       "CreatedDate": "2026-02-26T15:19:26",
       "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "157987",
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1561,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Reschke",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2026-03-02T13:52:37",
+      "ModifiedDate": null
     }
   ],
   "historyActions": [
@@ -449,6 +463,19 @@
       "CreatedDate": "2026-02-27T13:45:26",
       "ModifiedDate": null,
       "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 669267,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1561,
+      "Chamber": "H",
+      "ActionDate": "2026-03-02T17:04:26",
+      "ActionText": "Third reading. Carried by Wright. Passed.",
+      "VoteText": "Ayes, 45; Absent, 6--Boshart Davis, Harbick, Osborne, Scharf, Skarlatos, Yunker; Excused, 5--Diehl, Hartman, Levy E, Mannix, Valderrama; Excused for Business of the House, 4--Bowman, Elmer, Sosa, Speaker Fahey.",
+      "CreatedDate": "2026-03-02T17:04:55",
+      "ModifiedDate": "2026-03-02T17:05:03",
+      "PublicNotification": true
     }
   ],
   "documents": [
@@ -459,6 +486,15 @@
       "VersionDescription": "A-Engrossed",
       "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1561/A-Engrossed",
       "CreatedDate": "2026-02-17T17:03:15.72",
+      "ModifiedDate": null
+    },
+    {
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1561,
+      "VersionDescription": "Enrolled",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1561/Enrolled",
+      "CreatedDate": "2026-03-03T16:42:33.783",
       "ModifiedDate": null
     },
     {

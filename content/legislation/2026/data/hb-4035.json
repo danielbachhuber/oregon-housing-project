@@ -7,11 +7,11 @@
     "MinorityCatchLine": null,
     "MeasureSummary": "\tDigest: This Act amends temp UGB program and lets LCDC award grants. (Flesch Readability Score: 80.3). \n\tExpands eligibility for cities and Metro to amend their urban growth boundaries under a temporary program. \n\t<b>Provides an alternative pathway within the temporary program by which the City of Woodburn may amend its urban growth boundary.</b> \n\tAuthorizes the Land Conservation and Development Commission to issue grants to implement the commission's duties. \n\tDeclares an emergency, effective on passage.",
     "CurrentVersion": "B",
-    "RelatingToFull": "Relating to land use; creating new provisions; amending ORS 197.045 and sections 49, 50, 51, 52, 53, 54, 55, 56 and 60, chapter 110, Oregon Laws 2024, and section 2, chapter 341, Oregon Laws 2025; and declaring an emergency.\n\t",
-    "RelatingTo": "Relating to land use; declaring an emergency.",
+    "RelatingToFull": "Relating to land use; and declaring an emergency. \n\t",
+    "RelatingTo": "Relating to land use; and declaring an emergency.",
     "AtTheRequestOf": "(at the request of House Interim Committee on Housing and Homelessness for Representative Pam Marsh)",
     "ChapterNumber": null,
-    "CurrentLocation": "Senate Desk - Awaiting Third Reading",
+    "CurrentLocation": "Legislative Counsel - Enrollment",
     "CurrentCommitteeCode": null,
     "CurrentSubCommittee": null,
     "FiscalImpact": "Has minimal fiscal impact",
@@ -23,7 +23,7 @@
     "LCNumber": 205,
     "Vetoed": false,
     "CreatedDate": "2026-01-15T09:47:17",
-    "ModifiedDate": "2026-02-26T10:32:36",
+    "ModifiedDate": "2026-03-04T18:05:01",
     "PrefixMeaning": "House Bill"
   },
   "sponsors": [
@@ -211,6 +211,45 @@
       "CreatedDate": "2026-02-27T12:53:56",
       "ModifiedDate": null,
       "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 669159,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4035,
+      "Chamber": "S",
+      "ActionDate": "2026-03-02T12:14:17",
+      "ActionText": "Third reading.  Carried by Pham.  Passed.",
+      "VoteText": "Ayes, 26; Nays, 3--Neron Misslin, Prozanski, Sollman; Excused, 1--Girod.",
+      "CreatedDate": "2026-03-02T12:14:19",
+      "ModifiedDate": "2026-03-02T12:14:24",
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 669180,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4035,
+      "Chamber": "S",
+      "ActionDate": "2026-03-02T12:15:17",
+      "ActionText": "Vote explanation(s) filed by Sollman.",
+      "VoteText": null,
+      "CreatedDate": "2026-03-02T12:48:18",
+      "ModifiedDate": "2026-03-02T12:48:20",
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 669599,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4035,
+      "Chamber": "H",
+      "ActionDate": "2026-03-04T10:49:14",
+      "ActionText": "House concurred in Senate amendments and repassed bill.",
+      "VoteText": "Ayes, 56; Excused, 3--Hartman, Levy B, Valderrama; Excused for Business of the House, 1--Wallan.",
+      "CreatedDate": "2026-03-04T10:49:42",
+      "ModifiedDate": "2026-03-04T10:49:50",
+      "PublicNotification": false
     }
   ],
   "documents": [
@@ -230,6 +269,15 @@
       "VersionDescription": "B-Engrossed",
       "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4035/B-Engrossed",
       "CreatedDate": "2026-02-25T16:42:22.05",
+      "ModifiedDate": null
+    },
+    {
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4035,
+      "VersionDescription": "Enrolled",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4035/Enrolled",
+      "CreatedDate": "2026-03-04T12:36:08.203",
       "ModifiedDate": null
     },
     {
