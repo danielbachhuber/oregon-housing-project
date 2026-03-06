@@ -7,11 +7,11 @@
     "MinorityCatchLine": null,
     "MeasureSummary": "\tDigest: Tells two state agencies to set rules for making housing easier to access and use for people with disabilities. Takes effect 91 days after the session ends. (Flesch Readability Score: 61.5). \n\tRequires the Director of the Department of Consumer and Business Services to adopt rules to conform the state building code to accessibility requirements under the Fair Housing Act [<i>and to certain American National Standards Institute standards for housing accessibility</i>]. \n\tProhibits the Housing and Community Services Department from funding new rental housing that is a subsidized development unless the housing meets specified accessibility standards. \n\tTakes effect on the 91st day following adjournment sine die.",
     "CurrentVersion": "A",
-    "RelatingToFull": "Relating to accessibility standards for housing; creating new provisions; and amending ORS 447.220, 456.508 and 456.510; and prescribing an effective date.\n\t",
-    "RelatingTo": "Relating to accessibility standards for housing; prescribing an effective date.",
+    "RelatingToFull": "Relating to accessibility standards for housing; and prescribing an effective date. \n\t",
+    "RelatingTo": "Relating to accessibility standards for housing; and prescribing an effective date.",
     "AtTheRequestOf": null,
     "ChapterNumber": null,
-    "CurrentLocation": "House Desk - Third Reading",
+    "CurrentLocation": "Governors Office - Awaiting Signature",
     "CurrentCommitteeCode": null,
     "CurrentSubCommittee": null,
     "FiscalImpact": "Has minimal fiscal impact",
@@ -23,7 +23,7 @@
     "LCNumber": 72,
     "Vetoed": false,
     "CreatedDate": "2026-01-16T15:10:46",
-    "ModifiedDate": "2026-02-27T13:45:26",
+    "ModifiedDate": "2026-03-05T11:26:40",
     "PrefixMeaning": "Senate Bill"
   },
   "sponsors": [
@@ -489,6 +489,45 @@
       "CreatedDate": "2026-02-27T13:45:26",
       "ModifiedDate": null,
       "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 669270,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1576,
+      "Chamber": "H",
+      "ActionDate": "2026-03-02T17:14:23",
+      "ActionText": "Third reading. Carried by Andersen. Passed.",
+      "VoteText": "Ayes, 34; Nays, 10--Boice, Bunch, Cate, Evans, Levy B, Lewis, McIntire, Reschke, Wallan, Wright; Absent, 6--Boshart Davis, Harbick, Osborne, Scharf, Skarlatos, Yunker; Excused, 4--Diehl, Hartman, Levy E, Mannix; Excused for Business of the House, 6--Bowman, Elmer, Javadi, Sosa, Walters, Speaker Fahey.",
+      "CreatedDate": "2026-03-02T17:14:42",
+      "ModifiedDate": "2026-03-02T17:14:49",
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 669813,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1576,
+      "Chamber": "S",
+      "ActionDate": "2026-03-05T08:38:22",
+      "ActionText": "President signed.",
+      "VoteText": null,
+      "CreatedDate": "2026-03-05T08:43:26",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 669930,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1576,
+      "Chamber": "H",
+      "ActionDate": "2026-03-05T10:58:24",
+      "ActionText": "Speaker signed.",
+      "VoteText": null,
+      "CreatedDate": "2026-03-05T10:58:39",
+      "ModifiedDate": null,
+      "PublicNotification": true
     }
   ],
   "documents": [
@@ -499,6 +538,15 @@
       "VersionDescription": "A-Engrossed",
       "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1576/A-Engrossed",
       "CreatedDate": "2026-02-13T16:45:24.49",
+      "ModifiedDate": null
+    },
+    {
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1576,
+      "VersionDescription": "Enrolled",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1576/Enrolled",
+      "CreatedDate": "2026-03-03T16:42:34.163",
       "ModifiedDate": null
     },
     {

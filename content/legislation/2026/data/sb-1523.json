@@ -11,7 +11,7 @@
     "RelatingTo": "Relating to electronic access to residential tenancies; and prescribing an effective date.",
     "AtTheRequestOf": "(at the request of Senate Interim Committee on Housing and Development)",
     "ChapterNumber": null,
-    "CurrentLocation": "Senate Desk – Awaiting Transfer to Governor",
+    "CurrentLocation": "Secretary of States Office - Chapter Number Assignment",
     "CurrentCommitteeCode": null,
     "CurrentSubCommittee": null,
     "FiscalImpact": "Has minimal fiscal impact",
@@ -23,7 +23,7 @@
     "LCNumber": 287,
     "Vetoed": false,
     "CreatedDate": "2026-01-14T13:37:51",
-    "ModifiedDate": "2026-02-27T15:38:23",
+    "ModifiedDate": "2026-03-05T14:50:24",
     "PrefixMeaning": "Senate Bill"
   },
   "sponsors": [
@@ -261,6 +261,19 @@
       "ActionText": "Speaker signed.",
       "VoteText": null,
       "CreatedDate": "2026-02-27T15:38:24",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 670041,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1523,
+      "Chamber": "S",
+      "ActionDate": "2026-03-05T14:50:02",
+      "ActionText": "Governor signed.",
+      "VoteText": null,
+      "CreatedDate": "2026-03-05T14:50:24",
       "ModifiedDate": null,
       "PublicNotification": true
     }
