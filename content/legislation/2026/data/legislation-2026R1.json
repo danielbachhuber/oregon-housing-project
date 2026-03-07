@@ -505,7 +505,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HCR202",
     "introduced": "2026-02-05T08:28:43",
     "chamber": "House",
-    "status": "Senate Presidents Desk - Awaiting Signature",
+    "status": "Filed with Secretary of State",
     "sponsors": [
       {
         "name": "HRULES",
@@ -983,7 +983,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SCR205",
     "introduced": "2026-01-20T10:03:46",
     "chamber": "Senate",
-    "status": "Senate Desk - Awaiting Third Reading",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": [
       {
         "name": "Sen President Wagner",
@@ -1237,7 +1237,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SCR209",
     "introduced": "2026-03-04T13:01:46",
     "chamber": "Senate",
-    "status": "Senate Desk - Awaiting Third Reading",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": [
       {
         "name": "Sen President Wagner",
@@ -1258,7 +1258,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1501",
     "introduced": "2026-02-09T08:49:35",
     "chamber": "Senate",
-    "status": "House Desk - Third Reading",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": [
       {
         "name": "Sen President Wagner",
@@ -1289,6 +1289,36 @@
         "name": "Rep Nguyen D",
         "level": "Chief",
         "type": "Member"
+      },
+      {
+        "name": "Rep Bowman",
+        "level": "Chief",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Pham H",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Rieke Smith",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Isadore",
+        "level": "Chief",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Nelson",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Watanabe",
+        "level": "Regular",
+        "type": "Member"
       }
     ]
   },
@@ -1299,7 +1329,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1502",
     "introduced": "2026-03-04T09:22:35",
     "chamber": "Senate",
-    "status": "In House Committee",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": [
       {
         "name": "Sen President Wagner",
@@ -1502,7 +1532,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1515",
     "introduced": "2026-01-14T10:07:08",
     "chamber": "Senate",
-    "status": "Senate Desk - PM Possible Consideration of House Amendments",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": []
   },
   {
@@ -1512,7 +1542,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1516",
     "introduced": "2026-01-14T10:07:08",
     "chamber": "Senate",
-    "status": "Legislative Counsel - Enrollment",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": []
   },
   {
@@ -1522,7 +1552,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1517",
     "introduced": "2026-01-14T10:07:08",
     "chamber": "Senate",
-    "status": "Senate Desk - PM Possible Consideration of House Amendments",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": []
   },
   {
@@ -1618,7 +1648,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1525",
     "introduced": "2026-01-14T14:01:01",
     "chamber": "Senate",
-    "status": "Legislative Counsel - Enrollment",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": []
   },
   {
@@ -1819,7 +1849,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1544",
     "introduced": "2026-01-15T10:08:45",
     "chamber": "Senate",
-    "status": "Legislative Counsel - Enrollment",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": []
   },
   {
@@ -1920,7 +1950,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1546",
     "introduced": "2026-01-15T13:55:26",
     "chamber": "Senate",
-    "status": "Legislative Counsel - Enrollment",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": []
   },
   {
@@ -2441,7 +2471,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1563",
     "introduced": "2026-01-16T12:20:42",
     "chamber": "Senate",
-    "status": "Senate Presidents Desk - Awaiting Disposition",
+    "status": "At Presidents Desk Upon Adjournment",
     "sponsors": [
       {
         "name": "Sen Manning Jr",
@@ -2498,7 +2528,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1565",
     "introduced": "2026-01-16T13:17:59",
     "chamber": "Senate",
-    "status": "Legislative Counsel - Enrollment",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": [
       {
         "name": "Sen Starr",
@@ -2721,7 +2751,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1568",
     "introduced": "2026-01-16T14:22:50",
     "chamber": "Senate",
-    "status": "Legislative Counsel - Enrollment",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": [
       {
         "name": "Sen Reynolds",
@@ -4358,7 +4388,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1585",
     "introduced": "2026-01-16T16:32:52",
     "chamber": "Senate",
-    "status": "In House Committee",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": [
       {
         "name": "Sen Manning Jr",
@@ -4552,6 +4582,11 @@
       },
       {
         "name": "Rep Helm",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Rep Cate",
         "level": "Regular",
         "type": "Member"
       }
@@ -5543,7 +5578,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1595",
     "introduced": "2026-01-20T09:54:23",
     "chamber": "Senate",
-    "status": "Legislative Counsel - Enrollment",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": [
       {
         "name": "Sen Jama",
@@ -5930,11 +5965,11 @@
   {
     "billNumber": "SB1601",
     "title": "Amends an incorrect internal reference in a law relating to judicial compensation.",
-    "summary": "\t<b>Digest: The Act makes changes to the law that are related to budget decisions. (Flesch Readability Score: 69.9).</b> \n\t[<i>Digest: The Act fixes an error in a law about judicial pay. (Flesch Readability Score: 72.6).</i>] \n\tAmends an incorrect internal reference in a law relating to judicial compensation.<b> Extends the deadline for sex offender classification. Modifies reporting requirements relating to summer learning grants. Eliminates references to monthly pay for certain state officials. Authorizes the use of certain funding for PCB testing. \n\t<b>Transfers specified moneys to the General Fund for general governmental purposes. Transfers certain moneys and redirects certain revenues for Department of Transportation operations and maintenance. \n\t<b>Removes the cap on transfers of lottery moneys to the County Fair Account.</b> \n\tDeclares an emergency, effective on passage.",
+    "summary": "\t<b>Digest: The Act makes changes to the law that are related to budget decisions. (Flesch Readability Score: 69.9).</b> \n\t[<i>Digest: The Act fixes an error in a law about judicial pay. (Flesch Readability Score: 72.6).</i>] \n\tAmends an incorrect internal reference in a law relating to judicial compensation.<b> Extends the deadline for sex offender classification. Modifies reporting requirements relating to summer learning grants. Eliminates references to monthly pay for certain state officials. Authorizes the use of certain funding for PCB testing. \n\tTransfers specified moneys to the General Fund for general governmental purposes. Transfers certain moneys and redirects certain revenues for Department of Transportation operations and maintenance. \n\tRemoves the cap on transfers of lottery moneys to the County Fair Account.</b> \n\tDeclares an emergency, effective on passage.",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1601",
     "introduced": "2026-02-06T12:54:30",
     "chamber": "Senate",
-    "status": "Senate Desk - Awaiting Third Reading",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": [
       {
         "name": "JWM",
@@ -6093,7 +6128,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4004",
     "introduced": "2026-01-13T14:20:28",
     "chamber": "House",
-    "status": "Senate Presidents Desk - Awaiting Signature",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": []
   },
   {
@@ -6119,11 +6154,11 @@
   {
     "billNumber": "HB4007",
     "title": "Defines \"powered micromobility device\" for the vehicle code.",
-    "summary": "\t<b>Digest: The Act defines what a \"powered micromobility device\" is. It also combines the laws for kids under 16, making it clear that they must wear helmets when riding bikes, e-bikes, e-scooters and some other vehicles. Changes age a kid must be to use different classes of e-bikes and other types of vehicles. Says a store may not sell a vehicle that looks like an e-bike if it is not an e-bike by state law. The Act tells ODOT to make a new pilot program and let trucks haul more milk on certain routes. The Act tells ODOT to report on the results of the pilot program. Gives DAS more time to finish review of HCAS. (Flesch Readability Score: 73.1).</b> \n\t[<i>Digest: The Act defines what a \"powered micromobility device\" is. It also combines the laws for kids under 16, making it clear that they must wear helmets when riding bikes, e-bikes, e-scooters and some other vehicles. Changes age a kid must be to use different classes of e-bikes and other types of vehicles. Says a store may not sell a vehicle that looks like an e-bike if it is not an e-bike by state law. The Act tells ODOT to make a new pilot program and let trucks haul more milk on certain routes. The Act tells ODOT to report on the results of the pilot program. (Flesch Readability Score: 70.7).</i>] \n\tDefines \"powered micromobility device\" for the vehicle code. \n\tConsolidates and makes uniform standards for wearing protective headgear for children under 16 years of age when riding or using a bicycle, electric assisted bicycle, motor assisted scooter, powered micromobility device and certain nonmotorized vehicles. \n\tLowers the age requirement to operate a Class 1 electric assisted bicycle. Provides that there is no minimum age requirement to operate a Class 1 or Class 2 electric assisted bicycle if the person is participating in a bicycle safety program. \n\tLowers age requirement to operate motor assisted scooter. \n\tCreates offense of improper sale or lease of a vehicle. Punishes by maximum fine of $250. \n\tCreates offense of selling an impostor vehicle. Punishes by maximum fine of $250. \n\tDirects the Department of Transportation to establish a five-year pilot program that allows vehicles to haul fluid milk products with a loaded weight of not more than 129,000 pounds on routes approved by the department. Directs the department to conduct a study and prepare a report on the results of the pilot program. \n\t<b>Extends the time the Oregon Department of Administrative Services has to undertake its review of the methodology for the highway cost allocation study. Makes the report due March 15, 2028. \n\t<b>Takes effect on the 91st day following adjournment sine die.</b>",
+    "summary": "\t<b>Digest: The Act defines what a \"powered micromobility device\" is. It also combines the laws for kids under 16, making it clear that they must wear helmets when riding bikes, e-bikes, e-scooters and some other vehicles. Changes age a kid must be to use different classes of e-bikes and other types of vehicles. Says a store may not sell a vehicle that looks like an e-bike if it is not an e-bike by state law. The Act tells ODOT to make a new pilot program and let trucks haul more milk on certain routes. The Act tells ODOT to report on the results of the pilot program. Gives DAS more time to finish review of HCAS. (Flesch Readability Score: 73.1).</b> \n\t[<i>Digest: The Act defines what a \"powered micromobility device\" is. It also combines the laws for kids under 16, making it clear that they must wear helmets when riding bikes, e-bikes, e-scooters and some other vehicles. Changes age a kid must be to use different classes of e-bikes and other types of vehicles. Says a store may not sell a vehicle that looks like an e-bike if it is not an e-bike by state law. The Act tells ODOT to make a new pilot program and let trucks haul more milk on certain routes. The Act tells ODOT to report on the results of the pilot program. (Flesch Readability Score: 70.7).</i>] \n\tDefines \"powered micromobility device\" for the vehicle code. \n\tConsolidates and makes uniform standards for wearing protective headgear for children under 16 years of age when riding or using a bicycle, electric assisted bicycle, motor assisted scooter, powered micromobility device and certain nonmotorized vehicles. \n\tLowers the age requirement to operate a Class 1 electric assisted bicycle. Provides that there is no minimum age requirement to operate a Class 1 or Class 2 electric assisted bicycle if the person is participating in a bicycle safety program. \n\tLowers age requirement to operate motor assisted scooter. \n\tCreates offense of improper sale or lease of a vehicle. Punishes by maximum fine of $250. \n\tCreates offense of selling an impostor vehicle. Punishes by maximum fine of $250. \n\tDirects the Department of Transportation to establish a five-year pilot program that allows vehicles to haul fluid milk products with a loaded weight of not more than 129,000 pounds on routes approved by the department. Directs the department to conduct a study and prepare a report on the results of the pilot program. \n\t<b>Extends the time the Oregon Department of Administrative Services has to undertake its review of the methodology for the highway cost allocation study. Makes the report due March 15, 2028. \n\tTakes effect on the 91st day following adjournment sine die.</b>",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4007",
     "introduced": "2026-01-13T14:33:40",
     "chamber": "House",
-    "status": "House Desk - Awaiting Enrollment",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": []
   },
   {
@@ -6199,7 +6234,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4014",
     "introduced": "2026-01-14T11:23:14",
     "chamber": "House",
-    "status": "In Senate Committee Awaiting transfer to Desk",
+    "status": "At Senate Desk Upon Adjournment",
     "sponsors": []
   },
   {
@@ -6219,7 +6254,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4016",
     "introduced": "2026-01-14T11:23:14",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting Third Reading",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": []
   },
   {
@@ -6239,7 +6274,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4018",
     "introduced": "2026-01-14T11:46:13",
     "chamber": "House",
-    "status": "Legislative Counsel - Enrollment",
+    "status": "Senate Presidents Desk - Awaiting Signature",
     "sponsors": []
   },
   {
@@ -6259,7 +6294,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4020",
     "introduced": "2026-01-14T11:46:13",
     "chamber": "House",
-    "status": "House Desk - Awaiting Enrollment",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": []
   },
   {
@@ -6269,7 +6304,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4021",
     "introduced": "2026-01-14T11:46:13",
     "chamber": "House",
-    "status": "Legislative Counsel - Enrollment",
+    "status": "Senate Presidents Desk - Awaiting Signature",
     "sponsors": []
   },
   {
@@ -6345,7 +6380,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4027",
     "introduced": "2026-01-14T13:25:19",
     "chamber": "House",
-    "status": "Senate Presidents Desk - Awaiting Signature",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": [
       {
         "name": "Rep Watanabe",
@@ -6542,7 +6577,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4033",
     "introduced": "2026-01-15T08:30:02",
     "chamber": "House",
-    "status": "House Desk - Awaiting Enrollment",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": []
   },
   {
@@ -6658,7 +6693,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4035",
     "introduced": "2026-01-15T09:47:17",
     "chamber": "House",
-    "status": "Senate Presidents Desk - Awaiting Signature",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": []
   },
   {
@@ -6668,7 +6703,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4036",
     "introduced": "2026-01-15T09:47:17",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting Third Reading",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": []
   },
   {
@@ -6678,7 +6713,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4037",
     "introduced": "2026-01-15T09:47:17",
     "chamber": "House",
-    "status": "Legislative Counsel - Enrollment",
+    "status": "Senate Presidents Desk - Awaiting Signature",
     "sponsors": []
   },
   {
@@ -6704,11 +6739,11 @@
   {
     "billNumber": "HB4040",
     "title": "Modifies the requirements for screening a hospital patient for presumptive eligibility for financial assistance.",
-    "summary": "Digest: The Act changes the rules for how certain health care is given in this state. The Act alters how certain health care providers are licensed or regulated. The Act changes some insurance rules. The Act changes some pharmacy and drug rules. The Act takes effect when signed. (Flesch Readability Score: 79.7). \n    Modifies the requirements for screening a hospital patient for presumptive eligibility for financial assistance. \n    [<i>Prohibits the Oregon Health Authority from requiring certain home health agencies to comply with Medicare conditions of participation.</i>] \n    [<i>Modifies the requirements for how the Department of Human Services must publish Residential Care Quality Measurement Program data.</i>] \n    Removes the requirement that an applicant for a residential care facility administrator license hold a bachelor's degree in a health or social service related field. \n    Allows a person residing in a correctional facility to receive prerelease medical assistance benefits under certain circumstances. \n    [<i>Prohibits the authority or a coordinated care organization from requiring prior authorization for medical assistance coverage for repairing complex rehabilitation technology if the repair costs $1,500 or less.</i>] \n    Modifies the requirements for meetings held by the Health Evidence Review Commission. \n    Modifies the composition of the Medicaid Advisory Committee. \n    Modifies the eligibility requirements for parent providers who are paid to provide attendant care services to their children. \n    [<i>Prohibits a coordinated care organization or dental subcontractor from preventing an oral health care provider from informing consumers about their choice of providers.</i>] \n    Allows a full-time dentistry student enrolled in an out-of-state dental education program to practice dentistry without a license if the student is supervised by a faculty member of a dental education program accredited by the Commission on Dental Accreditation of the American Dental Association. \n    Requires casualty or health insurance policies to provide coverage for medically necessary anesthesia services, regardless of duration, for any covered procedures. \n    Requires dental insurers to follow certain rules for payment and denial of claims. \n    Requires the Legislative Policy and Research Director to develop and propose to the [<i>Legislative Policy and Research Committee</i>] <b>committees with jurisdiction over health care</b> an insurance coverage mandate impact statement policy. Directs the [<i>committee</i>] <b>committees</b> to perform due diligence in considering the proposal and authorizes the [<i>committee</i>] <b>committees</b> to modify the proposal if the [<i>committee</i>] <b>committees</b> so [<i>determines</i>]<b> determine</b>, and then to adopt the policy. \n\tRepeals requirement that enrollees in individual or group policies or certificates of health insurance [<i>or members of coordinated care organizations</i>] be assigned by <b>their</b> insurer [<i>or organization</i>] to primary care providers under certain circumstances. \n\tSpecifies exemptions from the requirement that pharmacy services administrative organizations must register with the Department of Consumer and Business Services as third party administrators. \n\t[<i>Provides that the Governor shall select the chairperson of the Prescription Drug Affordability Board.</i>]<b> \n\t<b>Modifies requirements for the Prescription Drug Affordability Board's annual affordability determination for insulin products.</b> \n\tAllows licensees of the Occupational Therapy Licensing Board and the Oregon Board of Physical Therapy to provide psilocybin services as licensed psilocybin service facilitators while providing occupational therapy or physical therapy services. \n\t[Authorizes a <i>naturopathic physician to prescribe durable medical equipment and admit a patient\nto a hospital</i>.].\nDeclares an emergency, effective on passage. ",
+    "summary": "\tDigest: The Act changes the rules for how certain health care is given in this state. The Act alters how certain health care providers are licensed or regulated. The Act changes some insurance rules. The Act changes some pharmacy and drug rules. The Act takes effect when signed. (Flesch Readability Score: 79.7). \n\tModifies the requirements for screening a hospital patient for presumptive eligibility for financial assistance. \n\t[<i>Prohibits the Oregon Health Authority from requiring certain home health agencies to comply with Medicare conditions of participation.</i>] \n\t[<i>Modifies the requirements for how the Department of Human Services must publish Residential Care Quality Measurement Program data.</i>] \n\tRemoves the requirement that an applicant for a residential care facility administrator license hold a bachelor's degree in a health or social service related field. \n\tAllows a person residing in a correctional facility to receive prerelease medical assistance benefits under certain circumstances. \n\t[<i>Prohibits the authority or a coordinated care organization from requiring prior authorization for medical assistance coverage for repairing complex rehabilitation technology if the repair costs $1,500 or less.</i>] \n\tModifies the requirements for meetings held by the Health Evidence Review Commission. \n\tModifies the composition of the Medicaid Advisory Committee. \n\tModifies the eligibility requirements for parent providers who are paid to provide attendant care services to their children. \n\t[<i>Prohibits a coordinated care organization or dental subcontractor from preventing an oral health care provider from informing consumers about their choice of providers.</i>] \n\tAllows a full-time dentistry student enrolled in an out-of-state dental education program to practice dentistry without a license if the student is supervised by a faculty member of a dental education program accredited by the Commission on Dental Accreditation of the American Dental Association. \n\tRequires casualty or health insurance policies to provide coverage for medically necessary anesthesia services, regardless of duration, for any covered procedures. \n\tRequires dental insurers to follow certain rules for payment and denial of claims. \n\tRequires the Legislative Policy and Research Director to develop and propose to the [<i>Legislative Policy and Research Committee</i>] <b>committees with jurisdiction over health care</b> an insurance coverage mandate impact statement policy. Directs the [<i>committee</i>] <b>committees</b> to perform due diligence in considering the proposal and authorizes the [<i>committee</i>] <b>committees</b> to modify the proposal if the [<i>committee</i>] <b>committees</b> so [<i>determines</i>]<b> determine</b>, and then to adopt the policy. \n\tRepeals requirement that enrollees in individual or group policies or certificates of health insurance [<i>or members of coordinated care organizations</i>] be assigned by <b>their</b> insurer [<i>or organization</i>] to primary care providers under certain circumstances. \n\tSpecifies exemptions from the requirement that pharmacy services administrative organizations must register with the Department of Consumer and Business Services as third party administrators. \n\t[<i>Provides that the Governor shall select the chairperson of the Prescription Drug Affordability Board.</i>]<b> \n\tModifies requirements for the Prescription Drug Affordability Board's annual affordability determination for insulin products.</b> \n\tAllows licensees of the Occupational Therapy Licensing Board and the Oregon Board of Physical Therapy to provide psilocybin services as licensed psilocybin service facilitators while providing occupational therapy or physical therapy services. \n\t[<i>Authorizes a naturopathic physician t",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4040",
     "introduced": "2026-01-15T10:40:14",
     "chamber": "House",
-    "status": "House Desk - Awaiting Enrollment",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": []
   },
   {
@@ -6728,7 +6763,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4042",
     "introduced": "2026-01-15T10:48:32",
     "chamber": "House",
-    "status": "Senate Presidents Desk - Awaiting Disposition",
+    "status": "At Presidents Desk Upon Adjournment",
     "sponsors": []
   },
   {
@@ -6738,7 +6773,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4043",
     "introduced": "2026-01-15T10:48:32",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting Third Reading",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": []
   },
   {
@@ -6985,7 +7020,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4047",
     "introduced": "2026-01-15T15:19:01",
     "chamber": "House",
-    "status": "Senate Presidents Desk - Awaiting Signature",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": [
       {
         "name": "Rep Diehl",
@@ -7325,7 +7360,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4052",
     "introduced": "2026-01-16T10:54:06",
     "chamber": "House",
-    "status": "Senate Presidents Desk - Awaiting Signature",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": [
       {
         "name": "Rep Reschke",
@@ -7638,7 +7673,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4060",
     "introduced": "2026-01-16T11:44:54",
     "chamber": "House",
-    "status": "Senate Presidents Desk - Awaiting Signature",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": [
       {
         "name": "Rep Helfrich",
@@ -7679,7 +7714,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4061",
     "introduced": "2026-01-16T12:03:23",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting Third Reading",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": []
   },
   {
@@ -7689,7 +7724,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4062",
     "introduced": "2026-01-16T12:03:23",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting Third Reading",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": []
   },
   {
@@ -7922,7 +7957,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4070",
     "introduced": "2026-01-16T13:08:07",
     "chamber": "House",
-    "status": "Senate Presidents Desk - Awaiting Signature",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": []
   },
   {
@@ -8095,7 +8130,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4075",
     "introduced": "2026-01-16T15:25:56",
     "chamber": "House",
-    "status": "In Senate Committee",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": [
       {
         "name": "Rep Wright",
@@ -8201,7 +8236,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4076",
     "introduced": "2026-01-16T15:30:00",
     "chamber": "House",
-    "status": "Senate Presidents Desk - Awaiting Signature",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": [
       {
         "name": "Rep Lively",
@@ -8747,7 +8782,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4082",
     "introduced": "2026-01-16T16:14:03",
     "chamber": "House",
-    "status": "House Desk - PM Possible Consideration of Senate Amendments",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": []
   },
   {
@@ -8763,11 +8798,11 @@
   {
     "billNumber": "HB4084",
     "title": "Establishes the Joint Permitting Council.",
-    "summary": "\t<b>Digest: The Act would set up a Joint Permitting Council to run a fast track permit program. \n\t<b>The Act would direct certain state agencies to publish a list of certain permits that can be issued by the agencies. \n\t<b>The Act would adjust certain requirements of the enterprise zone program and restrict the use of the program for data centers. \n\t<b>The Act would adjust the tax credit for a taxpayer that creates new jobs. (Flesch Readability Score: 67.5).</b> \n\t[<i>Digest: The Act would set up a Joint Permitting Council to run a fast track permit program.</i>] \n\t[<i>The Act would direct certain state agencies to publish a list of certain permits that can be issued by the agencies.</i>] \n\t[<i>The Act would adjust certain requirements of the enterprise zone program.</i>] \n\t[<i>The Act would give money to OBDD. (Flesch Readability Score: 71.3).</i>] \n\tEstablishes the Joint Permitting Council. Directs the council to administer a fast track permitting program. \n\tDirects certain state agencies to publish a catalog of permits related to economic development projects issued by the agencies within 120 days after the effective date of the Act. \n\tUpdates certain requirements and thresholds for the enterprise zone program. <b>Restricts the use of the program for data centers.</b> \n\t[<i>Appropriates moneys to the Oregon Business Development Department for deposit in the Industrial Site Loan Fund.</i>] \n\t<b>Modifies provisions establishing a personal income or corporate excise tax credit for a taxpayer that creates new jobs.</b> \n\tTakes effect on the 91st day following adjournment sine die.",
+    "summary": "\t<b>Digest: The Act would set up a Joint Permitting Council to run a fast track permit program. \n\tThe Act would direct certain state agencies to publish a list of certain permits that can be issued by the agencies. \n\tThe Act would adjust certain requirements of the enterprise zone program and restrict the use of the program for data centers. \n\tThe Act would adjust the tax credit for a taxpayer that creates new jobs. (Flesch Readability Score: 67.5).</b> \n\t[<i>Digest: The Act would set up a Joint Permitting Council to run a fast track permit program.</i>] \n\t[<i>The Act would direct certain state agencies to publish a list of certain permits that can be issued by the agencies.</i>] \n\t[<i>The Act would adjust certain requirements of the enterprise zone program.</i>] \n\t[<i>The Act would give money to OBDD. (Flesch Readability Score: 71.3).</i>] \n\tEstablishes the Joint Permitting Council. Directs the council to administer a fast track permitting program. \n\tDirects certain state agencies to publish a catalog of permits related to economic development projects issued by the agencies within 120 days after the effective date of the Act. \n\tUpdates certain requirements and thresholds for the enterprise zone program. <b>Restricts the use of the program for data centers.</b> \n\t[<i>Appropriates moneys to the Oregon Business Development Department for deposit in the Industrial Site Loan Fund.</i>] \n\t<b>Modifies provisions establishing a personal income or corporate excise tax credit for a taxpayer that creates new jobs.</b> \n\tTakes effect on the 91st day following adjournment sine die.",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4084",
     "introduced": "2026-01-16T16:14:03",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting Third Reading",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": []
   },
   {
@@ -8828,7 +8863,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4086",
     "introduced": "2026-01-16T16:30:50",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting Third Reading",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": []
   },
   {
@@ -8954,7 +8989,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4088",
     "introduced": "2026-01-17T11:32:35",
     "chamber": "House",
-    "status": "Legislative Counsel - Enrollment",
+    "status": "Senate Presidents Desk - Awaiting Signature",
     "sponsors": [
       {
         "name": "Rep Fragala",
@@ -9125,7 +9160,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4089",
     "introduced": "2026-01-17T11:41:52",
     "chamber": "House",
-    "status": "House Desk - Awaiting Enrollment",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": [
       {
         "name": "Rep Tran",
@@ -9312,7 +9347,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4091",
     "introduced": "2026-01-17T11:58:09",
     "chamber": "House",
-    "status": "Senate Presidents Desk - Awaiting Disposition",
+    "status": "At Presidents Desk Upon Adjournment",
     "sponsors": [
       {
         "name": "Rep Isadore",
@@ -10171,7 +10206,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4100",
     "introduced": "2026-01-17T12:32:34",
     "chamber": "House",
-    "status": "In Senate Committee Awaiting transfer to Desk",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": [
       {
         "name": "Rep Isadore",
@@ -10250,6 +10285,11 @@
       },
       {
         "name": "Rep Nathanson",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Sen Neron Misslin",
         "level": "Regular",
         "type": "Member"
       }
@@ -10774,7 +10814,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4108",
     "introduced": "2026-01-17T13:13:23",
     "chamber": "House",
-    "status": "House Desk - PM Possible Consideration of Senate Amendments",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": [
       {
         "name": "Rep Fragala",
@@ -10967,7 +11007,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4111",
     "introduced": "2026-01-17T13:25:53",
     "chamber": "House",
-    "status": "Legislative Counsel - Enrollment",
+    "status": "Senate Presidents Desk - Awaiting Signature",
     "sponsors": [
       {
         "name": "Rep Chotzen",
@@ -11490,12 +11530,12 @@
   },
   {
     "billNumber": "HB4114",
-    "title": "Creates a civil cause of action against Creates a civil cause of action against [<i>federal law enforcement agents and law enforcement agents of another state in specified circumstances.",
+    "title": "Creates a civil cause of action against certain individuals who under color of law enter certain property without a warrant or an exception to the warrant requirement.",
     "summary": "\t<b>Digest: The Act says that a person can sue a person who under color of law comes in property without a warrant or an exception. (Flesch Readability Score: 62.6).</b> \n\t[<i>Digest: The Act sets rules for when federal agents or agents from another state carry out operations in this state. The Act also creates a cause of action when agents violate the rules. The Act goes into effect when the Governor signs it. (Flesch Readability Score: 69.7).</i>] \n\tCreates a civil cause of action against [<i>federal law enforcement agents and law enforcement agents of another state in specified circumstances.</i>]<b> certain individuals who under color of law enter certain property without a warrant or an exception to the warrant requirement. Allows for an award of attorney fees to a prevailing plaintiff and, under certain circumstances, to a prevailing defendant.</b> \n\t[<i>Requires federal law enforcement agents and law enforcement agents of another state to provide notice to the Department of Justice prior to conducting planned operations within this state.</i>] \n\t[<i>Specifies identification requirements for federal law enforcement agents and law enforcement agents of another state conducting law enforcement operations within this state.</i>] \n\t[<i>Prohibits a state or local law enforcement agency from coordinating with a federal law enforcement agency or a law enforcement agency of another state that does not provide notice as required, violates the identification requirements or targets a sensitive location without authorization.</i>] \n\tDeclares an emergency, effective on passage.",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4114",
     "introduced": "2026-01-17T14:44:02",
     "chamber": "House",
-    "status": "Legislative Counsel - Enrollment",
+    "status": "Senate Presidents Desk - Awaiting Signature",
     "sponsors": [
       {
         "name": "Rep Munoz",
@@ -11621,7 +11661,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4115",
     "introduced": "2026-01-17T14:51:40",
     "chamber": "House",
-    "status": "Senate Presidents Desk - Awaiting Signature",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": [
       {
         "name": "Rep Nathanson",
@@ -11687,7 +11727,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4116",
     "introduced": "2026-01-17T14:55:17",
     "chamber": "House",
-    "status": "Legislative Counsel - Enrollment",
+    "status": "Senate Presidents Desk - Awaiting Signature",
     "sponsors": [
       {
         "name": "Rep Sosa",
@@ -12147,7 +12187,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4121",
     "introduced": "2026-01-17T15:53:08",
     "chamber": "House",
-    "status": "In Senate Committee Awaiting transfer to Desk",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": [
       {
         "name": "Rep Evans",
@@ -12216,6 +12256,16 @@
       },
       {
         "name": "Sen Sollman",
+        "level": "Chief",
+        "type": "Member"
+      },
+      {
+        "name": "Sen Smith DB",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Sen Manning Jr",
         "level": "Chief",
         "type": "Member"
       }
@@ -12400,7 +12450,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4124",
     "introduced": "2026-01-18T10:54:09",
     "chamber": "House",
-    "status": "Senate Presidents Desk - Awaiting Signature",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": [
       {
         "name": "Rep Marsh",
@@ -12698,7 +12748,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4127",
     "introduced": "2026-01-18T11:30:02",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting Third Reading",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": [
       {
         "name": "Rep Bowman",
@@ -12879,7 +12929,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4128",
     "introduced": "2026-01-18T11:34:03",
     "chamber": "House",
-    "status": "Senate Presidents Desk - Awaiting Signature",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": [
       {
         "name": "Rep Bowman",
@@ -13051,7 +13101,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4130",
     "introduced": "2026-01-18T11:50:55",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting Third Reading",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": [
       {
         "name": "Rep Boshart Davis",
@@ -13097,7 +13147,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4131",
     "introduced": "2026-01-18T12:07:27",
     "chamber": "House",
-    "status": "Senate Presidents Desk - Awaiting Signature",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": [
       {
         "name": "Rep Pham H",
@@ -13248,7 +13298,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4132",
     "introduced": "2026-01-18T12:22:11",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting Third Reading",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": [
       {
         "name": "Rep Evans",
@@ -13419,6 +13469,21 @@
         "name": "Sen Meek",
         "level": "Regular",
         "type": "Member"
+      },
+      {
+        "name": "Sen Patterson",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Sen Smith DB",
+        "level": "Regular",
+        "type": "Member"
+      },
+      {
+        "name": "Sen Drazan",
+        "level": "Regular",
+        "type": "Member"
       }
     ]
   },
@@ -13450,7 +13515,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4134",
     "introduced": "2026-01-18T12:38:44",
     "chamber": "House",
-    "status": "Senate Presidents Desk - Awaiting Signature",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": [
       {
         "name": "Rep Helm",
@@ -13908,6 +13973,11 @@
         "name": "Rep Nosse",
         "level": "Regular",
         "type": "Member"
+      },
+      {
+        "name": "Rep Andersen",
+        "level": "Regular",
+        "type": "Member"
       }
     ]
   },
@@ -14059,7 +14129,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4138",
     "introduced": "2026-01-18T13:49:05",
     "chamber": "House",
-    "status": "House Desk - PM Possible Consideration of Senate Amendments",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": [
       {
         "name": "Rep Chaichi",
@@ -14378,7 +14448,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4142",
     "introduced": "2026-01-18T14:08:21",
     "chamber": "House",
-    "status": "House Desk - Awaiting Enrollment",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": [
       {
         "name": "Rep Chaichi",
@@ -14494,7 +14564,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4143",
     "introduced": "2026-01-18T14:24:09",
     "chamber": "House",
-    "status": "Senate Presidents Desk - Awaiting Disposition",
+    "status": "At Presidents Desk Upon Adjournment",
     "sponsors": [
       {
         "name": "Rep Chotzen",
@@ -14665,7 +14735,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4144",
     "introduced": "2026-01-18T14:32:56",
     "chamber": "House",
-    "status": "House Desk - Awaiting Enrollment",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": [
       {
         "name": "Rep Levy E",
@@ -14801,7 +14871,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4145",
     "introduced": "2026-01-18T14:36:34",
     "chamber": "House",
-    "status": "House Desk - PM Possible Consideration of Senate Amendments",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": [
       {
         "name": "Rep Grayber",
@@ -14989,7 +15059,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4148",
     "introduced": "2026-01-18T14:47:43",
     "chamber": "House",
-    "status": "Legislative Counsel - Enrollment",
+    "status": "Senate Presidents Desk - Awaiting Signature",
     "sponsors": [
       {
         "name": "Rep Walters",
@@ -15302,7 +15372,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4151",
     "introduced": "2026-01-19T11:03:07",
     "chamber": "House",
-    "status": "House Desk - Awaiting Enrollment",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": [
       {
         "name": "Rep Edwards",
@@ -15549,7 +15619,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4153",
     "introduced": "2026-01-19T11:22:14",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting Third Reading",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": [
       {
         "name": "Rep Breese-Iverson",
@@ -16135,7 +16205,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4159",
     "introduced": "2026-02-03T11:14:00",
     "chamber": "House",
-    "status": "House Desk - PM Possible Consideration of Senate Amendments",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": [
       {
         "name": "HRULES",
@@ -16167,7 +16237,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4161",
     "introduced": "2026-02-03T11:14:00",
     "chamber": "House",
-    "status": "House Desk - Awaiting Enrollment",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": [
       {
         "name": "HRULES",
@@ -16423,7 +16493,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4177",
     "introduced": "2026-02-05T08:31:55",
     "chamber": "House",
-    "status": "Senate Desk - Awaiting Third Reading",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": [
       {
         "name": "HRULES",
@@ -16435,11 +16505,11 @@
   {
     "billNumber": "HB4178",
     "title": "Allows some places of public accommodation offering goods or services to adopt a rounding policy under which the final digit of the total amount due or remaining amount due in certain in-person transactions will be rounded to the nearest five-cent increment.",
-    "summary": "\t<b>Digest: The Act allows places of public accommodation and public bodies to round some transactions to the nearest five cents. Says it is an emergency. (Flesch Readability Score: 60.7).</b> \n\t[<i>Digest: The Act allows places of public accommodation to round some transactions to the nearest five cents. Says it is an emergency. (Flesch Readability Score: 63.2).</i>] \n\tAllows [<i>a</i>]<b> some</b> [<i>place</i>]<b> places</b> of public accommodation offering goods or services to adopt a rounding policy under which the final digit of the total amount due or remaining amount due in certain in-person transactions will be rounded to the nearest five-cent increment.<b> Specifies rounding procedures.</b> Provides an exception for a buyer who pays in exact change. Requires a place of public accommodation to post signs giving notice of the rounding policy. [<i>Declares that rounding done in accordance with the Act is not an unlawful distinction, discrimination or restriction against United States coins or currency under ORS chapter 659A or price misrepresentation under ORS 618.236.</i>] Exempts from liability as an unlawful trade or business practice any rounding done in accordance with the Act. \n\t<b>Allows a public body to establish a reasonable rounding policy under which the final digit of the total amount due or remaining amount due in certain in-person transactions with the public body may be rounded to the nearest five-cent increment. Requires a public body to post signs giving notice of the rounding policy and publicize the rounding policy. \n\t<b>Declares that rounding done in accordance with the Act by a place of public accommodation or a public body is not an unlawful distinction, discrimination or restriction against United States coins or currency under ORS chapter 659A or price misrepresentation under ORS 618.236.</b> \n\tDeclares an emergency, effective on passage.",
+    "summary": "\t<b>Digest: The Act allows places of public accommodation and public bodies to round some transactions to the nearest five cents. Says it is an emergency. (Flesch Readability Score: 60.7).</b> \n\t[<i>Digest: The Act allows places of public accommodation to round some transactions to the nearest five cents. Says it is an emergency. (Flesch Readability Score: 63.2).</i>] \n\tAllows [<i>a</i>]<b> some</b> [<i>place</i>]<b> places</b> of public accommodation offering goods or services to adopt a rounding policy under which the final digit of the total amount due or remaining amount due in certain in-person transactions will be rounded to the nearest five-cent increment.<b> Specifies rounding procedures.</b> Provides an exception for a buyer who pays in exact change. Requires a place of public accommodation to post signs giving notice of the rounding policy. [<i>Declares that rounding done in accordance with the Act is not an unlawful distinction, discrimination or restriction against United States coins or currency under ORS chapter 659A or price misrepresentation under ORS 618.236.</i>] Exempts from liability as an unlawful trade or business practice any rounding done in accordance with the Act. \n\t<b>Allows a public body to establish a reasonable rounding policy under which the final digit of the total amount due or remaining amount due in certain in-person transactions with the public body may be rounded to the nearest five-cent increment. Requires a public body to post signs giving notice of the rounding policy and publicize the rounding policy. \n\tDeclares that rounding done in accordance with the Act by a place of public accommodation or a public body is not an unlawful distinction, discrimination or restriction against United States coins or currency under ORS chapter 659A or price misrepresentation under ORS 618.236.</b> \n\tDeclares an emergency, effective on passage.",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4178",
     "introduced": "2026-02-16T09:35:15",
     "chamber": "House",
-    "status": "House Desk - Awaiting Enrollment",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": [
       {
         "name": "HRULES",
@@ -16455,7 +16525,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4179",
     "introduced": "2026-02-16T09:35:15",
     "chamber": "House",
-    "status": "House Desk - PM Possible Consideration of Senate Amendments",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": [
       {
         "name": "HRULES",
@@ -16503,7 +16573,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB5203",
     "introduced": "2026-02-06T12:19:54",
     "chamber": "House",
-    "status": "House Desk - Third Reading",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": [
       {
         "name": "JWM",
@@ -16519,7 +16589,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB5204",
     "introduced": "2026-02-06T12:19:54",
     "chamber": "House",
-    "status": "House Desk - Third Reading",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": [
       {
         "name": "JWM",
@@ -16531,11 +16601,11 @@
   {
     "billNumber": "SB5701",
     "title": "Modifies amounts authorized for issuance of debt instruments for the biennium.",
-    "summary": "\t<b>Digest: The Act changes law relating to borrowing by the state for certain projects. (Flesch Readability Score: 63.4).</b> \n\t[<i>Digest: The Act changes lottery bonds from prior sessions. (Flesch Readability Score: 61.2).</i>] \n\t<b>Modifies amounts authorized for issuance of debt instruments for the biennium. \n\t<b>Authorizes issuance of bonds and certificates of participation for Moda Center capital improvement in the current biennium and subsequent biennium, subject to certain conditions.</b> \n\tModifies previously approved lottery bonding provisions.<b> Authorizes issuance of various lottery bonds. \n\t<b>Provides that the Oregon State University Cascades Student Health and Recreation Center project is subject to certain requirements related to apprenticeship, outreach and benefits.</b> \n\tDeclares an emergency, effective on passage.",
+    "summary": "\t<b>Digest: The Act changes law relating to borrowing by the state for certain projects. (Flesch Readability Score: 63.4).</b> \n\t[<i>Digest: The Act changes lottery bonds from prior sessions. (Flesch Readability Score: 61.2).</i>] \n\t<b>Modifies amounts authorized for issuance of debt instruments for the biennium. \n\tAuthorizes issuance of bonds and certificates of participation for Moda Center capital improvement in the current biennium and subsequent biennium, subject to certain conditions.</b> \n\tModifies previously approved lottery bonding provisions.<b> Authorizes issuance of various lottery bonds. \n\tProvides that the Oregon State University Cascades Student Health and Recreation Center project is subject to certain requirements related to apprenticeship, outreach and benefits.</b> \n\tDeclares an emergency, effective on passage.",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB5701",
     "introduced": "2026-02-06T13:05:16",
     "chamber": "Senate",
-    "status": "Senate Desk - Awaiting Third Reading",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": [
       {
         "name": "JWM",
@@ -16551,7 +16621,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB5702",
     "introduced": "2026-02-06T13:05:21",
     "chamber": "Senate",
-    "status": "House Desk - Third Reading",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": [
       {
         "name": "JWM",
@@ -16567,7 +16637,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB5703",
     "introduced": "2026-02-06T13:05:26",
     "chamber": "Senate",
-    "status": "House Desk - Third Reading",
+    "status": "Legislative Counsel - Enrollment",
     "sponsors": [
       {
         "name": "JWM",

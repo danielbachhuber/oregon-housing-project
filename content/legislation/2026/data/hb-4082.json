@@ -7,11 +7,11 @@
     "MinorityCatchLine": null,
     "MeasureSummary": "\tDigest: This Act allows cities to add sites to their UGB for manufactured dwelling parks or housing for older persons. (Flesch Readability Score: 62.8). \n\tAdds to a temporary UGB addition program an option for each city or Metro to also add to its urban growth boundary a site for manufactured dwellings, prefabricated structures or manufactured dwelling parks, or for housing that is predominantly for older persons and affordable for households with incomes not more than 120 percent of area median income. \n\tSunsets January 2, 2033. \n\tTakes effect on the 91st day following adjournment sine die.",
     "CurrentVersion": "B",
-    "RelatingToFull": "Relating to housing for older persons; creating new provisions; amending sections 57 and 60, chapter 110, Oregon Laws 2024; and prescribing an effective date.\n\t",
-    "RelatingTo": "Relating to housing for older persons; prescribing an effective date.",
+    "RelatingToFull": "Relating to housing for older persons; and prescribing an effective date. \n\t",
+    "RelatingTo": "Relating to housing for older persons; and prescribing an effective date.",
     "AtTheRequestOf": "(at the request of Governor Tina Kotek for Office of the Governor)",
     "ChapterNumber": null,
-    "CurrentLocation": "House Desk - PM Possible Consideration of Senate Amendments",
+    "CurrentLocation": "Legislative Counsel - Enrollment",
     "CurrentCommitteeCode": null,
     "CurrentSubCommittee": null,
     "FiscalImpact": "Has minimal fiscal impact",
@@ -23,7 +23,7 @@
     "LCNumber": 94,
     "Vetoed": false,
     "CreatedDate": "2026-01-16T16:14:03",
-    "ModifiedDate": "2026-03-04T15:07:40",
+    "ModifiedDate": "2026-03-06T18:05:01",
     "PrefixMeaning": "House Bill"
   },
   "sponsors": [
@@ -237,6 +237,19 @@
       "CreatedDate": "2026-03-04T15:07:37",
       "ModifiedDate": "2026-03-04T15:07:40",
       "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 670284,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4082,
+      "Chamber": "H",
+      "ActionDate": "2026-03-06T14:43:20",
+      "ActionText": "House concurred in Senate amendments and repassed bill.",
+      "VoteText": "Ayes, 43; Nays, 8--Boice, Cate, Harbick, Osborne, Reschke, Rieke Smith, Scharf, Skarlatos; Excused, 5--Hartman, Javadi, Levy B, Owens, Valderrama; Excused for Business of the House, 4--Boshart Davis, Nelson, Nosse, Wright.",
+      "CreatedDate": "2026-03-06T14:44:01",
+      "ModifiedDate": "2026-03-06T14:44:44",
+      "PublicNotification": false
     }
   ],
   "documents": [
@@ -256,6 +269,15 @@
       "VersionDescription": "B-Engrossed",
       "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4082/B-Engrossed",
       "CreatedDate": "2026-03-02T18:27:19.347",
+      "ModifiedDate": null
+    },
+    {
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4082,
+      "VersionDescription": "Enrolled",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4082/Enrolled",
+      "CreatedDate": "2026-03-06T17:27:21.53",
       "ModifiedDate": null
     },
     {

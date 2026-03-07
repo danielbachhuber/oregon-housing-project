@@ -7,11 +7,11 @@
     "MinorityCatchLine": null,
     "MeasureSummary": "\tDigest: This Act lets Eugene add some noncontiguous land to the city. (Flesch Readability Score: 72.6). \n\tAllows the City of Eugene to annex noncontiguous land upon receipt of a petition from all owners of the land that satisfies four eligibility criteria.",
     "CurrentVersion": "B",
-    "RelatingToFull": "Relating to annexation of land noncontiguous to a city.\n\t",
+    "RelatingToFull": "Relating to annexation of land noncontiguous to a city. \n\t",
     "RelatingTo": "Relating to annexation of land noncontiguous to a city.",
     "AtTheRequestOf": null,
     "ChapterNumber": null,
-    "CurrentLocation": "House Desk - PM Possible Consideration of Senate Amendments",
+    "CurrentLocation": "Legislative Counsel - Enrollment",
     "CurrentCommitteeCode": null,
     "CurrentSubCommittee": null,
     "FiscalImpact": "Has minimal fiscal impact",
@@ -23,7 +23,7 @@
     "LCNumber": 34,
     "Vetoed": false,
     "CreatedDate": "2026-01-17T13:13:23",
-    "ModifiedDate": "2026-03-04T15:10:48",
+    "ModifiedDate": "2026-03-06T18:05:01",
     "PrefixMeaning": "House Bill"
   },
   "sponsors": [
@@ -407,6 +407,19 @@
       "CreatedDate": "2026-03-04T15:10:44",
       "ModifiedDate": "2026-03-04T15:10:48",
       "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 670287,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4108,
+      "Chamber": "H",
+      "ActionDate": "2026-03-06T14:48:39",
+      "ActionText": "House concurred in Senate amendments and repassed bill.",
+      "VoteText": "Ayes, 47; Nays, 4--Cate, Osborne, Reschke, Scharf; Excused, 5--Hartman, Javadi, Levy B, Owens, Valderrama; Excused for Business of the House, 4--Boshart Davis, Nelson, Nosse, Wright.",
+      "CreatedDate": "2026-03-06T14:48:48",
+      "ModifiedDate": "2026-03-06T15:59:48",
+      "PublicNotification": false
     }
   ],
   "documents": [
@@ -426,6 +439,15 @@
       "VersionDescription": "B-Engrossed",
       "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4108/B-Engrossed",
       "CreatedDate": "2026-03-02T18:27:19.697",
+      "ModifiedDate": null
+    },
+    {
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4108,
+      "VersionDescription": "Enrolled",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4108/Enrolled",
+      "CreatedDate": "2026-03-06T17:27:22.2",
       "ModifiedDate": null
     },
     {
