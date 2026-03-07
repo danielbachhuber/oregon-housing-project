@@ -7,11 +7,11 @@
     "MinorityCatchLine": null,
     "MeasureSummary": "\tDigest: This Act stops HOAs or deed terms from limiting an owner from upgrading the fire safety of materials in their home. (Flesch Readability Score: 60.6). \n\tInvalidates deed restrictions and planned community governing documents prohibiting the [<i>removal</i>]<b> replacement</b> of nonfire-hardened building materials or installation of fire-hardened building materials on residential properties. Limits a homeowners association's ability to enforce regulations that would constrain installation of fire-hardened building materials. Applies to new and existing deed restrictions and planned communities. \n\tTakes effect on the 91st day following adjournment sine die.",
     "CurrentVersion": "A",
-    "RelatingToFull": "Relating to fire hardening of residential properties; creating new provisions; amending ORS 94.572, 94.573 and 94.630; and prescribing an effective date.\n\t",
-    "RelatingTo": "Relating to fire hardening of residential properties; prescribing an effective date.",
+    "RelatingToFull": "Relating to fire hardening of residential properties; and prescribing an effective date. \n\t",
+    "RelatingTo": "Relating to fire hardening of residential properties; and prescribing an effective date.",
     "AtTheRequestOf": null,
     "ChapterNumber": null,
-    "CurrentLocation": "House Desk - Third Reading",
+    "CurrentLocation": "Governors Office - Awaiting Signature",
     "CurrentCommitteeCode": null,
     "CurrentSubCommittee": null,
     "FiscalImpact": "Has minimal fiscal impact",
@@ -23,7 +23,7 @@
     "LCNumber": 33,
     "Vetoed": false,
     "CreatedDate": "2026-01-15T15:56:17",
-    "ModifiedDate": "2026-02-27T13:45:26",
+    "ModifiedDate": "2026-03-05T11:26:40",
     "PrefixMeaning": "Senate Bill"
   },
   "sponsors": [
@@ -322,6 +322,45 @@
       "CreatedDate": "2026-02-27T13:45:26",
       "ModifiedDate": null,
       "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 669264,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1551,
+      "Chamber": "H",
+      "ActionDate": "2026-03-02T16:53:32",
+      "ActionText": "Third reading. Carried by Helfrich. Passed.",
+      "VoteText": "Ayes, 44; Absent, 6--Boshart Davis, Harbick, Osborne, Scharf, Skarlatos, Yunker; Excused, 5--Diehl, Hartman, Levy E, Mannix, Valderrama; Excused for Business of the House, 5--Bowman, Elmer, Levy B, Sosa, Speaker Fahey.",
+      "CreatedDate": "2026-03-02T16:54:48",
+      "ModifiedDate": "2026-03-02T16:54:56",
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 669809,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1551,
+      "Chamber": "S",
+      "ActionDate": "2026-03-05T08:38:22",
+      "ActionText": "President signed.",
+      "VoteText": null,
+      "CreatedDate": "2026-03-05T08:43:26",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 669926,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1551,
+      "Chamber": "H",
+      "ActionDate": "2026-03-05T10:58:24",
+      "ActionText": "Speaker signed.",
+      "VoteText": null,
+      "CreatedDate": "2026-03-05T10:58:39",
+      "ModifiedDate": null,
+      "PublicNotification": true
     }
   ],
   "documents": [
@@ -332,6 +371,15 @@
       "VersionDescription": "A-Engrossed",
       "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1551/A-Engrossed",
       "CreatedDate": "2026-02-13T16:45:23.433",
+      "ModifiedDate": null
+    },
+    {
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1551,
+      "VersionDescription": "Enrolled",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1551/Enrolled",
+      "CreatedDate": "2026-03-03T16:42:33.453",
       "ModifiedDate": null
     },
     {
