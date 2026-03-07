@@ -7,11 +7,11 @@
     "MinorityCatchLine": null,
     "MeasureSummary": "\tDigest: This Act sets up a bond fund to preserve low-cost housing and requires OHCS to report on low-cost housing barriers. (Flesch Readability Score: 63.8). \n\tEstablishes the Housing Opportunity, Longevity and Durability Fund to deposit Article XI-Q bonds to be used by the Housing and Community Services Department to preserve affordable housing at risk of loss. [<i>Authorizes the State Treasurer to issue $100 million in bonds for the fund for the 2025-2027 biennium.</i>] \n\tRequires the department to, with input from stakeholders, report to the interim committees of the Legislative Assembly relating to housing on or before December 1, 2026, on legal and policy barriers to affordable housing production. \n\tDeclares an emergency, effective on passage.",
     "CurrentVersion": "B",
-    "RelatingToFull": "Relating to affordable housing; creating new provisions; amending ORS 456.559 and 456.824; and declaring an emergency.\n\t",
-    "RelatingTo": "Relating to affordable housing; declaring an emergency.",
+    "RelatingToFull": "Relating to affordable housing; and declaring an emergency. \n\t",
+    "RelatingTo": "Relating to affordable housing; and declaring an emergency.",
     "AtTheRequestOf": "(at the request of House Interim Committee on Housing and Homelessness for Representative Pam Marsh)",
     "ChapterNumber": null,
-    "CurrentLocation": "Senate Desk - Awaiting Third Reading",
+    "CurrentLocation": "Legislative Counsel - Enrollment",
     "CurrentCommitteeCode": null,
     "CurrentSubCommittee": null,
     "FiscalImpact": "Budget report issued",
@@ -23,7 +23,7 @@
     "LCNumber": 209,
     "Vetoed": false,
     "CreatedDate": "2026-01-15T09:47:17",
-    "ModifiedDate": "2026-03-05T15:41:53",
+    "ModifiedDate": "2026-03-06T18:05:01",
     "PrefixMeaning": "House Bill"
   },
   "sponsors": [
@@ -263,6 +263,19 @@
       "CreatedDate": "2026-03-05T15:41:53",
       "ModifiedDate": null,
       "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 670177,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4036,
+      "Chamber": "S",
+      "ActionDate": "2026-03-06T10:14:07",
+      "ActionText": "Third reading.  Carried by Pham.  Passed.",
+      "VoteText": "Ayes, 22; Nays, 7--Drazan, Girod, Linthicum, Robinson, Starr, Thatcher, Weber; Excused, 1--Hayden.",
+      "CreatedDate": "2026-03-06T10:14:08",
+      "ModifiedDate": "2026-03-06T10:14:12",
+      "PublicNotification": true
     }
   ],
   "documents": [
@@ -282,6 +295,15 @@
       "VersionDescription": "B-Engrossed",
       "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4036/B-Engrossed",
       "CreatedDate": "2026-03-03T09:18:22.31",
+      "ModifiedDate": null
+    },
+    {
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4036,
+      "VersionDescription": "Enrolled",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4036/Enrolled",
+      "CreatedDate": "2026-03-06T17:27:20.57",
       "ModifiedDate": null
     },
     {

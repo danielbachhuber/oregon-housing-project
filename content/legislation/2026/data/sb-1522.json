@@ -81,6 +81,19 @@
       "CreatedDate": "2026-02-12T17:17:24",
       "ModifiedDate": null,
       "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 670346,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1522,
+      "Chamber": "S",
+      "ActionDate": "2026-03-06T16:17:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2026-03-06T16:41:38",
+      "ModifiedDate": null,
+      "PublicNotification": false
     }
   ],
   "documents": [

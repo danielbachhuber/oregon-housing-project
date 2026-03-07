@@ -11,7 +11,7 @@
     "RelatingTo": "Relating to land use; and declaring an emergency.",
     "AtTheRequestOf": "(at the request of House Interim Committee on Housing and Homelessness for Representative Pam Marsh)",
     "ChapterNumber": null,
-    "CurrentLocation": "Senate Presidents Desk - Awaiting Signature",
+    "CurrentLocation": "Governors Office - Awaiting Signature",
     "CurrentCommitteeCode": null,
     "CurrentSubCommittee": null,
     "FiscalImpact": "Has minimal fiscal impact",
@@ -23,7 +23,7 @@
     "LCNumber": 205,
     "Vetoed": false,
     "CreatedDate": "2026-01-15T09:47:17",
-    "ModifiedDate": "2026-03-05T13:30:39",
+    "ModifiedDate": "2026-03-06T10:20:19",
     "PrefixMeaning": "House Bill"
   },
   "sponsors": [
@@ -261,6 +261,19 @@
       "ActionText": "Speaker signed.",
       "VoteText": null,
       "CreatedDate": "2026-03-05T13:30:39",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 670142,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4035,
+      "Chamber": "S",
+      "ActionDate": "2026-03-06T08:59:18",
+      "ActionText": "President signed.",
+      "VoteText": null,
+      "CreatedDate": "2026-03-06T09:04:07",
       "ModifiedDate": null,
       "PublicNotification": true
     }
