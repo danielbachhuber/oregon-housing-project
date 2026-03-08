@@ -348,7 +348,7 @@
       "VoteText": null,
       "CreatedDate": "2026-02-02T09:21:25",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 664323,
@@ -361,7 +361,7 @@
       "VoteText": null,
       "CreatedDate": "2026-02-02T09:59:43",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 666343,
@@ -387,7 +387,7 @@
       "VoteText": null,
       "CreatedDate": "2026-02-16T15:28:05",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 667223,
@@ -400,7 +400,7 @@
       "VoteText": null,
       "CreatedDate": "2026-02-17T14:09:45",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 667423,
@@ -452,7 +452,7 @@
       "VoteText": "Ayes, 51; Nays, 2--Evans, Osborne; Excused, 7--Hartman, Levy B, Scharf, Valderrama, Wallan, Watanabe, Wright.",
       "CreatedDate": "2026-02-19T15:08:02",
       "ModifiedDate": "2026-02-19T15:08:09",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 667818,
@@ -465,7 +465,7 @@
       "VoteText": null,
       "CreatedDate": "2026-02-20T14:43:05",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 667841,
@@ -478,7 +478,7 @@
       "VoteText": null,
       "CreatedDate": "2026-02-20T14:59:53",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 668758,
@@ -504,7 +504,7 @@
       "VoteText": null,
       "CreatedDate": "2026-03-02T09:45:29",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 669158,
@@ -517,7 +517,7 @@
       "VoteText": null,
       "CreatedDate": "2026-03-02T12:03:14",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 669474,
@@ -530,7 +530,7 @@
       "VoteText": "Ayes, 24; Nays, 4--McLane, Robinson, Smith DB, Thatcher; Excused, 2--Linthicum, Nash.",
       "CreatedDate": "2026-03-03T14:02:52",
       "ModifiedDate": "2026-03-03T14:02:55",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 669483,
