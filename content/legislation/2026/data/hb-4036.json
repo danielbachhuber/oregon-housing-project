@@ -54,7 +54,7 @@
       "VoteText": null,
       "CreatedDate": "2026-02-02T09:21:25",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 664239,
@@ -67,7 +67,7 @@
       "VoteText": null,
       "CreatedDate": "2026-02-02T09:59:43",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 664819,
@@ -106,7 +106,7 @@
       "VoteText": null,
       "CreatedDate": "2026-02-12T14:38:22",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 666319,
@@ -184,7 +184,7 @@
       "VoteText": null,
       "CreatedDate": "2026-03-03T09:10:52",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 669432,
@@ -197,7 +197,7 @@
       "VoteText": null,
       "CreatedDate": "2026-03-03T11:56:40",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 669628,
@@ -210,7 +210,7 @@
       "VoteText": "Ayes, 44; Nays, 12--Boshart Davis, Cate, Elmer, Harbick, Helfrich, Lewis, Osborne, Reschke, Scharf, Skarlatos, Wallan, Yunker; Excused, 3--Hartman, Levy B, Valderrama; Excused for Business of the House, 1--McIntire.",
       "CreatedDate": "2026-03-04T11:12:33",
       "ModifiedDate": "2026-03-04T11:12:40",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 669645,
@@ -223,7 +223,7 @@
       "VoteText": null,
       "CreatedDate": "2026-03-04T12:18:13",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 669672,
@@ -236,7 +236,7 @@
       "VoteText": null,
       "CreatedDate": "2026-03-04T12:33:34",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 669796,
@@ -249,7 +249,7 @@
       "VoteText": null,
       "CreatedDate": "2026-03-05T08:13:11",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 670079,
@@ -262,7 +262,7 @@
       "VoteText": null,
       "CreatedDate": "2026-03-05T15:41:53",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 670177,
@@ -275,7 +275,7 @@
       "VoteText": "Ayes, 22; Nays, 7--Drazan, Girod, Linthicum, Robinson, Starr, Thatcher, Weber; Excused, 1--Hayden.",
       "CreatedDate": "2026-03-06T10:14:08",
       "ModifiedDate": "2026-03-06T10:14:12",
-      "PublicNotification": true
+      "PublicNotification": false
     }
   ],
   "documents": [

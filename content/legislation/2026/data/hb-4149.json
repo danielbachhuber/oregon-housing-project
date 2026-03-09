@@ -404,7 +404,7 @@
       "VoteText": null,
       "CreatedDate": "2026-02-02T09:21:25",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 664352,
@@ -417,7 +417,7 @@
       "VoteText": null,
       "CreatedDate": "2026-02-02T09:59:43",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 665350,
@@ -456,7 +456,7 @@
       "VoteText": null,
       "CreatedDate": "2026-02-17T12:15:40",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 667410,
@@ -469,7 +469,7 @@
       "VoteText": null,
       "CreatedDate": "2026-02-18T17:33:51",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 667500,
@@ -495,7 +495,7 @@
       "VoteText": "Ayes, 39; Nays, 3--Cate, Reschke, Smith G; Excused, 18--Boice, Boshart Davis, Breese-Iverson, Diehl, Hartman, Helfrich, Levy B, Lewis, Lively, Nelson, Osborne, Skarlatos, Tran, Valderrama, Wallan, Watanabe, Wright, Yunker.",
       "CreatedDate": "2026-02-20T10:41:44",
       "ModifiedDate": "2026-02-20T10:41:52",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 667822,
@@ -508,7 +508,7 @@
       "VoteText": null,
       "CreatedDate": "2026-02-20T14:43:05",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 667845,
@@ -521,7 +521,7 @@
       "VoteText": null,
       "CreatedDate": "2026-02-20T14:59:53",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 668144,
@@ -560,7 +560,7 @@
       "VoteText": null,
       "CreatedDate": "2026-02-27T09:48:55",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 668903,
@@ -573,7 +573,7 @@
       "VoteText": null,
       "CreatedDate": "2026-02-27T12:51:36",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 669232,
@@ -599,7 +599,7 @@
       "VoteText": "Ayes, 26; Nays, 2--Girod, Robinson; Excused, 2--Linthicum, Starr.",
       "CreatedDate": "2026-03-03T12:05:37",
       "ModifiedDate": "2026-03-03T12:05:41",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 669608,
