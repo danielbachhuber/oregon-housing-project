@@ -11,7 +11,7 @@
     "RelatingTo": "Relating to housing; and prescribing an effective date.",
     "AtTheRequestOf": "(at the request of House Interim Committee on Housing and Homelessness for Representative Pam Marsh)",
     "ChapterNumber": null,
-    "CurrentLocation": "Senate Presidents Desk - Awaiting Signature",
+    "CurrentLocation": "Governors Office - Awaiting Signature",
     "CurrentCommitteeCode": null,
     "CurrentSubCommittee": null,
     "FiscalImpact": "Has minimal fiscal impact",
@@ -23,7 +23,7 @@
     "LCNumber": 222,
     "Vetoed": false,
     "CreatedDate": "2026-01-15T09:47:17",
-    "ModifiedDate": "2026-03-06T11:26:19",
+    "ModifiedDate": "2026-03-10T12:23:22",
     "PrefixMeaning": "House Bill"
   },
   "sponsors": [
@@ -274,6 +274,19 @@
       "ActionText": "Speaker signed.",
       "VoteText": null,
       "CreatedDate": "2026-03-06T11:26:20",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 670436,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4037,
+      "Chamber": "S",
+      "ActionDate": "2026-03-06T17:36:00",
+      "ActionText": "President signed.",
+      "VoteText": null,
+      "CreatedDate": "2026-03-10T09:37:30",
       "ModifiedDate": null,
       "PublicNotification": true
     }

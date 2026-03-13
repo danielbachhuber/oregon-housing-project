@@ -613,7 +613,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HCR203",
     "introduced": "2026-03-04T14:00:47",
     "chamber": "House",
-    "status": "House Desk - Final Readings of Mem & Res.",
+    "status": "At House Desk Upon Adjournment",
     "sponsors": [
       {
         "name": "HRULES",
@@ -811,7 +811,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HCR204",
     "introduced": "2026-03-04T14:09:15",
     "chamber": "House",
-    "status": "House Desk - Final Readings of Mem & Res.",
+    "status": "At House Desk Upon Adjournment",
     "sponsors": [
       {
         "name": "HRULES",
@@ -983,7 +983,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SCR205",
     "introduced": "2026-01-20T10:03:46",
     "chamber": "Senate",
-    "status": "Legislative Counsel - Enrollment",
+    "status": "Filed with Secretary of State",
     "sponsors": [
       {
         "name": "Sen President Wagner",
@@ -1237,7 +1237,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SCR209",
     "introduced": "2026-03-04T13:01:46",
     "chamber": "Senate",
-    "status": "Legislative Counsel - Enrollment",
+    "status": "Filed with Secretary of State",
     "sponsors": [
       {
         "name": "Sen President Wagner",
@@ -1258,7 +1258,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1501",
     "introduced": "2026-02-09T08:49:35",
     "chamber": "Senate",
-    "status": "Legislative Counsel - Enrollment",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": [
       {
         "name": "Sen President Wagner",
@@ -1329,7 +1329,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1502",
     "introduced": "2026-03-04T09:22:35",
     "chamber": "Senate",
-    "status": "Legislative Counsel - Enrollment",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": [
       {
         "name": "Sen President Wagner",
@@ -1432,7 +1432,7 @@
   {
     "billNumber": "SB1506",
     "title": "Amends the Workers' Benefit Fund assessment statute to direct the Department of Consumer and Business Services to set an additional assessment rate in order to deposit in a new BOLI Expenses Fund at least the greater of a minimum dollar amount to fund certain positions at the Bureau of Labor and Industries or 12 months of projected expenses for this purpose.",
-    "summary": "\t<b>Digest: The Act would have DCBS set a rate in order to put at least a minimum amount in a new fund to pay for certain BOLI positions. The Act would also have the rate be set to create and maintain a year of expenses for this purpose. The Act would bar moneys from the Workers' Benefit Fund being used for this purpose. The Act would raise the cap on the fee paid by public agencies for contracts subject to the prevailing wage rate. The Act would require BOLI to report every other year as to whether the cap brings in enough money to pay for BOLI's staffing needs. (Flesch Readability Score: 71.3).</b> \n\t[<i>Digest: Tells LPRO to conduct a study on how state labor agencies in other states are funded. (Flesch Readability Score: 68.9).</i>] \n\t[<i>Requires the Legislative Policy and Research Director to conduct a study of the manner in which state labor agencies in other states are funded. Directs the director to submit findings to the interim committees of the Legislative Assembly related to labor and business no later than September 15, 2027.</i>] \n\t[<i>Sunsets on January 2, 2028.</i>] \n\t<b>Amends the Workers' Benefit Fund assessment statute to direct the Department of Consumer and Business Services to set an additional assessment rate in order to deposit in a new BOLI Expenses Fund at least the greater of a minimum dollar amount to fund certain positions at the Bureau of Labor and Industries or 12 months of projected expenses for this purpose. Requires the assessment rate be set at a level to create and maintain a 12-month reserve in the new fund. Prohibits the transfer of assessment moneys in the Workers' Benefit Fund to the new fund for the Bureau of Labor and Industries positions. \n\t<b>Raises the maximum fee amount paid by public agencies that award public works contracts subject to the prevailing wage rate. Requires the Bureau of Labor and Industries to submit a biennial report to the interim committees of the Legislative Assembly relating to labor that examines whether the maximum fee amount raises enough revenue for the bureau to meet its staffing needs. \n\t<b>Takes effect on the 91st day following adjournment sine die.</b>",
+    "summary": "\t<b>Digest: The Act would have DCBS set a rate in order to put at least a minimum amount in a new fund to pay for certain BOLI positions. The Act would also have the rate be set to create and maintain a year of expenses for this purpose. The Act would bar moneys from the Workers' Benefit Fund being used for this purpose. The Act would raise the cap on the fee paid by public agencies for contracts subject to the prevailing wage rate. The Act would require BOLI to report every other year as to whether the cap brings in enough money to pay for BOLI's staffing needs. (Flesch Readability Score: 71.3).</b> \n\t[<i>Digest: Tells LPRO to conduct a study on how state labor agencies in other states are funded. (Flesch Readability Score: 68.9).</i>] \n\t[<i>Requires the Legislative Policy and Research Director to conduct a study of the manner in which state labor agencies in other states are funded. Directs the director to submit findings to the interim committees of the Legislative Assembly related to labor and business no later than September 15, 2027.</i>] \n\t[<i>Sunsets on January 2, 2028.</i>] \n\t<b>Amends the Workers' Benefit Fund assessment statute to direct the Department of Consumer and Business Services to set an additional assessment rate in order to deposit in a new BOLI Expenses Fund at least the greater of a minimum dollar amount to fund certain positions at the Bureau of Labor and Industries or 12 months of projected expenses for this purpose. Requires the assessment rate be set at a level to create and maintain a 12-month reserve in the new fund. Prohibits the transfer of assessment moneys in the Workers' Benefit Fund to the new fund for the Bureau of Labor and Industries positions. \n</b>\t<b>Raises the maximum fee amount paid by public agencies that award public works contracts subject to the prevailing wage rate. Requires the Bureau of Labor and Industries to submit a biennial report to the interim committees of the Legislative Assembly relating to labor that examines whether the maximum fee amount raises enough revenue for the bureau to meet its staffing needs. </b>\n\t<b>Takes effect on the 91st day following adjournment sine die.</b>",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1506",
     "introduced": "2025-12-29T12:40:28",
     "chamber": "Senate",
@@ -1488,7 +1488,7 @@
   {
     "billNumber": "SB1511",
     "title": "Converts the $1 million exclusion for an estate subject to tax to a deduction of $2.5 million",
-    "summary": "\t<b>Digest: The Act increases the amount of an estate that is not taxed and changes estate tax rates. (Flesch Readability Score: 75.1).</b> \n\t[<i>Digest: The Act tells the LRO to study the estate tax. (Flesch Readability Score: 95.1).</i>] \n\t[<i>Requires the Legislative Revenue Officer to study the estate tax. Directs the Legislative Revenue Officer to submit findings to the interim committees of the Legislative Assembly related to revenue not later than December 1, 2027.</i>] \n\t<b>Converts the $1 million exclusion for an estate subject to tax to a deduction of $2.5 million. Phases in the tax above the deduction. Raises the filing threshold for an estate tax return. Adjusts the deduction and filing threshold for inflation. Adjusts estate tax rates. \n\t<b>Applies to the estates of decedents dying on or after January 1, 2027. \n\t<b>Takes effect on the 91st day following adjournment sine die.</b>",
+    "summary": "\t<b>Digest: The Act increases the amount of an estate that is not taxed and changes estate tax rates. (Flesch Readability Score: 75.1).</b> \n\t[<i>Digest: The Act tells the LRO to study the estate tax. (Flesch Readability Score: 95.1).</i>] \n\t[<i>Requires the Legislative Revenue Officer to study the estate tax. Directs the Legislative Revenue Officer to submit findings to the interim committees of the Legislative Assembly related to revenue not later than December 1, 2027.</i>] \n\t<b>Converts the $1 million exclusion for an estate subject to tax to a deduction of $2.5 million. Phases in the tax above the deduction. Raises the filing threshold for an estate tax return. Adjusts the deduction and filing threshold for inflation. Adjusts estate tax rates.</b> \n\t<b>Applies to the estates of decedents dying on or after January 1, 2027. </b>\n\t<b>Takes effect on the 91st day following adjournment sine die.</b>",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1511",
     "introduced": "2026-01-14T09:36:13",
     "chamber": "Senate",
@@ -1532,7 +1532,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1515",
     "introduced": "2026-01-14T10:07:08",
     "chamber": "Senate",
-    "status": "Legislative Counsel - Enrollment",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": []
   },
   {
@@ -1552,7 +1552,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1517",
     "introduced": "2026-01-14T10:07:08",
     "chamber": "Senate",
-    "status": "Legislative Counsel - Enrollment",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": []
   },
   {
@@ -1718,7 +1718,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1532",
     "introduced": "2026-01-15T09:41:02",
     "chamber": "Senate",
-    "status": "Governors Office - Awaiting Signature",
+    "status": "Secretary of States Office - Chapter Number Assignment",
     "sponsors": []
   },
   {
@@ -4388,7 +4388,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1585",
     "introduced": "2026-01-16T16:32:52",
     "chamber": "Senate",
-    "status": "Legislative Counsel - Enrollment",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": [
       {
         "name": "Sen Manning Jr",
@@ -5969,7 +5969,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1601",
     "introduced": "2026-02-06T12:54:30",
     "chamber": "Senate",
-    "status": "Legislative Counsel - Enrollment",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": [
       {
         "name": "JWM",
@@ -6158,7 +6158,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4007",
     "introduced": "2026-01-13T14:33:40",
     "chamber": "House",
-    "status": "House Desk - Awaiting Transfer to Speaker",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": []
   },
   {
@@ -6230,7 +6230,7 @@
   {
     "billNumber": "HB4014",
     "title": "Establishes the Task Force on Taxation of International Income.",
-    "summary": "\t<b>Digest: The Act creates a task force to study how Oregon taxes income earned by companies doing business in more than one country. (Flesch Readability Score: 60.6).</b> \n\t[<i>Digest: The Act directs the LRO to study the state financial system. (Flesch Readability Score: 72.6).</i>] \n\t[<i>Requires the Legislative Revenue Officer to study the state financial system. Directs the Legislative Revenue Officer to submit findings to the interim committees of the Legislative Assembly related to revenue not later than December 1, 2027.</i>] \n\t<b>Establishes the Task Force on Taxation of International Income. Directs the task force to investigate whether changes to Oregon's tax code could improve or simplify the state's tax treatment of international income and to submit a report to the interim committees of the Legislative Assembly related to revenue no later than December 1, 2026. \n\t<b>Sunsets the task force on December 31, 2027. \n\t<b>Declares an emergency, effective on passage.</b>",
+    "summary": "\t<b>Digest: The Act creates a task force to study how Oregon taxes income earned by companies doing business in more than one country. (Flesch Readability Score: 60.6).</b> \n\t[<i>Digest: The Act directs the LRO to study the state financial system. (Flesch Readability Score: 72.6).</i>] \n\t[<i>Requires the Legislative Revenue Officer to study the state financial system. Directs the Legislative Revenue Officer to submit findings to the interim committees of the Legislative Assembly related to revenue not later than December 1, 2027.</i>] \n\t<b>Establishes the Task Force on Taxation of International Income. Directs the task force to investigate whether changes to Oregon's tax code could improve or simplify the state's tax treatment of international income and to submit a report to the interim committees of the Legislative Assembly related to revenue no later than December 1, 2026. </b>\n\t<b>Sunsets the task force on December 31, 2027. </b>\n\t<b>Declares an emergency, effective on passage.</b>",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4014",
     "introduced": "2026-01-14T11:23:14",
     "chamber": "House",
@@ -6254,7 +6254,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4016",
     "introduced": "2026-01-14T11:23:14",
     "chamber": "House",
-    "status": "House Desk - Awaiting Transfer to Speaker",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": []
   },
   {
@@ -6274,7 +6274,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4018",
     "introduced": "2026-01-14T11:46:13",
     "chamber": "House",
-    "status": "Senate Presidents Desk - Awaiting Signature",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": []
   },
   {
@@ -6294,7 +6294,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4020",
     "introduced": "2026-01-14T11:46:13",
     "chamber": "House",
-    "status": "House Desk - Awaiting Transfer to Speaker",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": []
   },
   {
@@ -6304,7 +6304,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4021",
     "introduced": "2026-01-14T11:46:13",
     "chamber": "House",
-    "status": "Senate Presidents Desk - Awaiting Signature",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": []
   },
   {
@@ -6577,7 +6577,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4033",
     "introduced": "2026-01-15T08:30:02",
     "chamber": "House",
-    "status": "House Desk - Awaiting Transfer to Speaker",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": []
   },
   {
@@ -6703,7 +6703,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4036",
     "introduced": "2026-01-15T09:47:17",
     "chamber": "House",
-    "status": "House Desk - Awaiting Transfer to Speaker",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": []
   },
   {
@@ -6713,7 +6713,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4037",
     "introduced": "2026-01-15T09:47:17",
     "chamber": "House",
-    "status": "Senate Presidents Desk - Awaiting Signature",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": []
   },
   {
@@ -6739,11 +6739,11 @@
   {
     "billNumber": "HB4040",
     "title": "Modifies the requirements for screening a hospital patient for presumptive eligibility for financial assistance.",
-    "summary": "\tDigest: The Act changes the rules for how certain health care is given in this state. The Act alters how certain health care providers are licensed or regulated. The Act changes some insurance rules. The Act changes some pharmacy and drug rules. The Act takes effect when signed. (Flesch Readability Score: 79.7). \n\tModifies the requirements for screening a hospital patient for presumptive eligibility for financial assistance. \n\t[<i>Prohibits the Oregon Health Authority from requiring certain home health agencies to comply with Medicare conditions of participation.</i>] \n\t[<i>Modifies the requirements for how the Department of Human Services must publish Residential Care Quality Measurement Program data.</i>] \n\tRemoves the requirement that an applicant for a residential care facility administrator license hold a bachelor's degree in a health or social service related field. \n\tAllows a person residing in a correctional facility to receive prerelease medical assistance benefits under certain circumstances. \n\t[<i>Prohibits the authority or a coordinated care organization from requiring prior authorization for medical assistance coverage for repairing complex rehabilitation technology if the repair costs $1,500 or less.</i>] \n\tModifies the requirements for meetings held by the Health Evidence Review Commission. \n\tModifies the composition of the Medicaid Advisory Committee. \n\tModifies the eligibility requirements for parent providers who are paid to provide attendant care services to their children. \n\t[<i>Prohibits a coordinated care organization or dental subcontractor from preventing an oral health care provider from informing consumers about their choice of providers.</i>] \n\tAllows a full-time dentistry student enrolled in an out-of-state dental education program to practice dentistry without a license if the student is supervised by a faculty member of a dental education program accredited by the Commission on Dental Accreditation of the American Dental Association. \n\tRequires casualty or health insurance policies to provide coverage for medically necessary anesthesia services, regardless of duration, for any covered procedures. \n\tRequires dental insurers to follow certain rules for payment and denial of claims. \n\tRequires the Legislative Policy and Research Director to develop and propose to the [<i>Legislative Policy and Research Committee</i>] <b>committees with jurisdiction over health care</b> an insurance coverage mandate impact statement policy. Directs the [<i>committee</i>] <b>committees</b> to perform due diligence in considering the proposal and authorizes the [<i>committee</i>] <b>committees</b> to modify the proposal if the [<i>committee</i>] <b>committees</b> so [<i>determines</i>]<b> determine</b>, and then to adopt the policy. \n\tRepeals requirement that enrollees in individual or group policies or certificates of health insurance [<i>or members of coordinated care organizations</i>] be assigned by <b>their</b> insurer [<i>or organization</i>] to primary care providers under certain circumstances. \n\tSpecifies exemptions from the requirement that pharmacy services administrative organizations must register with the Department of Consumer and Business Services as third party administrators. \n\t[<i>Provides that the Governor shall select the chairperson of the Prescription Drug Affordability Board.</i>]<b> \n\tModifies requirements for the Prescription Drug Affordability Board's annual affordability determination for insulin products.</b> \n\tAllows licensees of the Occupational Therapy Licensing Board and the Oregon Board of Physical Therapy to provide psilocybin services as licensed psilocybin service facilitators while providing occupational therapy or physical therapy services. \n\t[<i>Authorizes a naturopathic physician t",
+    "summary": "\tDigest: The Act changes the rules for how certain health care is given in this state. The Act alters how certain health care providers are licensed or regulated. The Act changes some insurance rules. The Act changes some pharmacy and drug rules. The Act takes effect when signed. (Flesch Readability Score: 79.7). \n\tModifies the requirements for screening a hospital patient for presumptive eligibility for financial assistance. \n\t[<i>Prohibits the Oregon Health Authority from requiring certain home health agencies to comply with Medicare conditions of participation.</i>] \n\t[<i>Modifies the requirements for how the Department of Human Services must publish Residential Care Quality Measurement Program data.</i>] \n\tRemoves the requirement that an applicant for a residential care facility administrator license hold a bachelor's degree in a health or social service related field. \n\tAllows a person residing in a correctional facility to receive prerelease medical assistance benefits under certain circumstances. \n\t[<i>Prohibits the authority or a coordinated care organization from requiring prior authorization for medical assistance coverage for repairing complex rehabilitation technology if the repair costs $1,500 or less.</i>] \n\tModifies the requirements for meetings held by the Health Evidence Review Commission. \n\tModifies the composition of the Medicaid Advisory Committee. \n\tModifies the eligibility requirements for parent providers who are paid to provide attendant care services to their children. \n\t[<i>*redacted text - see A-Eng Bill*.</i>] \n\tAllows a full-time dentistry student enrolled in an out-of-state dental education program to practice dentistry without a license if the student is supervised by a faculty member of a dental education program accredited by the Commission on Dental Accreditation of the American Dental Association. \n\tRequires casualty or health insurance policies to provide coverage for medically necessary anesthesia services, regardless of duration, for any covered procedures. \n\tRequires dental insurers to follow certain rules for payment and denial of claims. \n\tRequires the Legislative Policy and Research Director to develop and propose to the [<i>Legislative Policy and Research Committee</i>] <b>committees with jurisdiction over health care</b> an insurance coverage mandate impact statement policy. Directs the [<i>committee</i>] <b>committees</b> to perform due diligence in considering the proposal and authorizes the [<i>committee</i>] <b>committees</b> to modify the proposal if the [<i>committee</i>] <b>committees</b> so [<i>determines</i>]<b> determine</b>, and then to adopt the policy. \n\tRepeals requirement that enrollees in individual or group policies or certificates of health insurance [<i>or members of coordinated care organizations</i>] be assigned by <b>their</b> insurer [<i>or organization</i>] to primary care providers under certain circumstances. \n\tSpecifies exemptions from the requirement that pharmacy services administrative organizations must register with the Department of Consumer and Business Services as third party administrators. \n\t[<i>*redacted text - see A-Eng Bill*</i>]<b> \n\tModifies requirements for the Prescription Drug Affordability Board's annual affordability determination for insulin products.</b> \n\tAllows licensees of the Occupational Therapy Licensing Board and the Oregon Board of Physical Therapy to provide psilocybin services as licensed psilocybin service facilitators while providing occupational therapy or physical therapy services. \n\t[<i>*redacted text - See A-Eng Bill*</i>] Lowers the age at which a naturopathic physician may request a retired license status from 70 years of age to [60] 65 years of age.\n\tIncludes nurse practitioners and physician associates in the definition of \"attending physician\" for purposes of the treatment of workers’ compensable injuries.\n\tDeclares an emergency, effective on passage.",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4040",
     "introduced": "2026-01-15T10:40:14",
     "chamber": "House",
-    "status": "House Desk - Awaiting Transfer to Speaker",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": []
   },
   {
@@ -6773,7 +6773,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4043",
     "introduced": "2026-01-15T10:48:32",
     "chamber": "House",
-    "status": "House Desk - Awaiting Transfer to Speaker",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": []
   },
   {
@@ -7659,7 +7659,7 @@
   {
     "billNumber": "HB4059",
     "title": "Modifies the definition of \"abuse\" for purposes of determining whether a child has been abused.",
-    "summary": "\t<b>Digest: The Act changes what \"abuse\" means when talking about hurting a child. It says that DHS can only look into some reports of child abuse. It also makes a rule for how certain reports of child abuse are resolved. It is an emergency law and starts right away. (Flesch Readability Score: 76.5).</b> \n\t[<i>Digest: The Act changes what \"threatened harm\" means when talking about hurting a child. It says that DHS can only look into some reports of child abuse. It also makes a rule for how certain reports of child abuse are resolved. It is an emergency law and starts right away. (Flesch Readability Score: 78.7).</i>] \n\tModifies the definition of [<i>\"threatened harm\"</i>]<b> \"abuse\"</b> for purposes of determining whether a child has been abused. \n\tLimits the investigative jurisdiction of the Department of Human Services to investigate certain reports of child abuse. \n\t<b>Prohibits making findings in abuse investigations where the alleged perpetrator was a minor at the time of the alleged abuse. Creates exceptions.</b> \n\t[<i>Creates a statutory substantiation standard for certain reports of alleged child abuse.</i>] \n\t<b>Increases the standard of proof necessary for reporting certain abuse investigation findings to the central state registry. \n\t<b>Directs the department to monitor implementation of new child abuse investigation processes and report back to the interim committees of the Legislative Assembly relating to human services.</b> \n\tDeclares an emergency, effective on passage.",
+    "summary": "\t<b>Digest: The Act changes what \"abuse\" means when talking about hurting a child. It says that DHS can only look into some reports of child abuse. It also makes a rule for how certain reports of child abuse are resolved. It is an emergency law and starts right away. (Flesch Readability Score: 76.5).</b> \n\t[<i>Digest: The Act changes what \"threatened harm\" means when talking about hurting a child. It says that DHS can only look into some reports of child abuse. It also makes a rule for how certain reports of child abuse are resolved. It is an emergency law and starts right away. (Flesch Readability Score: 78.7).</i>] \n\tModifies the definition of [<i>\"threatened harm\"</i>]<b> \"abuse\"</b> for purposes of determining whether a child has been abused. \n\tLimits the investigative jurisdiction of the Department of Human Services to investigate certain reports of child abuse. \n\t<b>Prohibits making findings in abuse investigations where the alleged perpetrator was a minor at the time of the alleged abuse. Creates exceptions.</b> \n\t[<i>Creates a statutory substantiation standard for certain reports of alleged child abuse.</i>] \n\t<b>Increases the standard of proof necessary for reporting certain abuse investigation findings to the central state registry.</b>\n\t<b>Directs the department to monitor implementation of new child abuse investigation processes and report back to the interim committees of the Legislative Assembly relating to human services.</b> \n\tDeclares an emergency, effective on passage.",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4059",
     "introduced": "2026-01-16T11:36:58",
     "chamber": "House",
@@ -7714,7 +7714,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4061",
     "introduced": "2026-01-16T12:03:23",
     "chamber": "House",
-    "status": "House Desk - Awaiting Transfer to Speaker",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": []
   },
   {
@@ -7724,7 +7724,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4062",
     "introduced": "2026-01-16T12:03:23",
     "chamber": "House",
-    "status": "House Desk - Awaiting Transfer to Speaker",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": []
   },
   {
@@ -8130,7 +8130,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4075",
     "introduced": "2026-01-16T15:25:56",
     "chamber": "House",
-    "status": "House Desk - Awaiting Transfer to Speaker",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": [
       {
         "name": "Rep Wright",
@@ -8782,7 +8782,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4082",
     "introduced": "2026-01-16T16:14:03",
     "chamber": "House",
-    "status": "House Desk - Awaiting Transfer to Speaker",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": []
   },
   {
@@ -8802,7 +8802,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4084",
     "introduced": "2026-01-16T16:14:03",
     "chamber": "House",
-    "status": "House Desk - Awaiting Transfer to Speaker",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": []
   },
   {
@@ -8863,7 +8863,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4086",
     "introduced": "2026-01-16T16:30:50",
     "chamber": "House",
-    "status": "House Desk - Awaiting Transfer to Speaker",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": []
   },
   {
@@ -8989,7 +8989,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4088",
     "introduced": "2026-01-17T11:32:35",
     "chamber": "House",
-    "status": "Senate Presidents Desk - Awaiting Signature",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": [
       {
         "name": "Rep Fragala",
@@ -9160,7 +9160,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4089",
     "introduced": "2026-01-17T11:41:52",
     "chamber": "House",
-    "status": "House Desk - Awaiting Transfer to Speaker",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": [
       {
         "name": "Rep Tran",
@@ -10206,7 +10206,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4100",
     "introduced": "2026-01-17T12:32:34",
     "chamber": "House",
-    "status": "House Desk - Awaiting Transfer to Speaker",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": [
       {
         "name": "Rep Isadore",
@@ -10814,7 +10814,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4108",
     "introduced": "2026-01-17T13:13:23",
     "chamber": "House",
-    "status": "House Desk - Awaiting Transfer to Speaker",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": [
       {
         "name": "Rep Fragala",
@@ -11007,7 +11007,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4111",
     "introduced": "2026-01-17T13:25:53",
     "chamber": "House",
-    "status": "Senate Presidents Desk - Awaiting Signature",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": [
       {
         "name": "Rep Chotzen",
@@ -11535,7 +11535,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4114",
     "introduced": "2026-01-17T14:44:02",
     "chamber": "House",
-    "status": "Senate Presidents Desk - Awaiting Signature",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": [
       {
         "name": "Rep Munoz",
@@ -11727,7 +11727,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4116",
     "introduced": "2026-01-17T14:55:17",
     "chamber": "House",
-    "status": "Senate Presidents Desk - Awaiting Signature",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": [
       {
         "name": "Rep Sosa",
@@ -12187,7 +12187,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4121",
     "introduced": "2026-01-17T15:53:08",
     "chamber": "House",
-    "status": "House Desk - Awaiting Transfer to Speaker",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": [
       {
         "name": "Rep Evans",
@@ -12748,7 +12748,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4127",
     "introduced": "2026-01-18T11:30:02",
     "chamber": "House",
-    "status": "House Desk - Awaiting Transfer to Speaker",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": [
       {
         "name": "Rep Bowman",
@@ -13101,7 +13101,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4130",
     "introduced": "2026-01-18T11:50:55",
     "chamber": "House",
-    "status": "House Desk - Awaiting Transfer to Speaker",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": [
       {
         "name": "Rep Boshart Davis",
@@ -13298,7 +13298,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4132",
     "introduced": "2026-01-18T12:22:11",
     "chamber": "House",
-    "status": "House Desk - Awaiting Transfer to Speaker",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": [
       {
         "name": "Rep Evans",
@@ -14129,7 +14129,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4138",
     "introduced": "2026-01-18T13:49:05",
     "chamber": "House",
-    "status": "House Desk - Awaiting Transfer to Speaker",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": [
       {
         "name": "Rep Chaichi",
@@ -14316,7 +14316,7 @@
   {
     "billNumber": "HB4139",
     "title": "Increases quarterly distributions to the Oregon Criminal Justice Commission for deposit into the Illegal Marijuana Market Enforcement Grant Program Fund from $750,000 to $3 million.",
-    "summary": "\t<b>Digest: The Act gives more money to the IMMEGP fund. The Act also changes what the phrase \"debilitating medical condition\" means. (Flesch Readability Score: 61.3).</b> \n\t[<i>Digest: The Act says what the term \"industrial hemp-derived cannabinoid product\" means. The Act tells the OLCC and the ODA to inspect some premises and to have law enforcement join the OLCC and the ODA for the inspections. The Act also makes changes to other laws that regulate cannabis. (Flesch Readability Score: 60.1).</i>] \n\t[<i>Defines \"container\" and \"industrial hemp-derived cannabinoid product.\" Changes the definition of \"adult use cannabis item.\" Imposes a retail sales tax on industrial hemp-derived cannabinoid products. Directs the Oregon Liquor and Cannabis Commission to immediately suspend a license to produce marijuana for specified reasons. Directs the commission to inspect a premises licensed by the commission without advance notice for specified reasons and to request that law enforcement accompany the commission to the premises.</i>] \n\t[<i>Requires the State Department of Agriculture to complete a criminal records check on an applicant for an industrial hemp handler license. Requires an applicant for an industrial hemp grower license to provide a land use compatibility statement and information related to land ownership to the department. Directs the department to inspect a premises licensed by the department without advance notice for specified reasons and to request that law enforcement accompany the department to the premises.</i>] \n\t<b>Increases quarterly distributions to the Oregon Criminal Justice Commission for deposit into the Illegal Marijuana Market Enforcement Grant Program Fund from $750,000 to $3 million. \n\t<b>Expands the definition of \"debilitating medical condition\" to include medical conditions that an attending provider determines might be mitigated by the medical use of marijuana.</b> \n\tTakes effect on the 91st day following adjournment sine die.",
+    "summary": "\t<b>Digest: The Act gives more money to the IMMEGP fund. The Act also changes what the phrase \"debilitating medical condition\" means. (Flesch Readability Score: 61.3).</b> \n\t[<i>Digest: The Act says what the term \"industrial hemp-derived cannabinoid product\" means. The Act tells the OLCC and the ODA to inspect some premises and to have law enforcement join the OLCC and the ODA for the inspections. The Act also makes changes to other laws that regulate cannabis. (Flesch Readability Score: 60.1).</i>] \n\t[<i>Defines \"container\" and \"industrial hemp-derived cannabinoid product.\" Changes the definition of \"adult use cannabis item.\" Imposes a retail sales tax on industrial hemp-derived cannabinoid products. Directs the Oregon Liquor and Cannabis Commission to immediately suspend a license to produce marijuana for specified reasons. Directs the commission to inspect a premises licensed by the commission without advance notice for specified reasons and to request that law enforcement accompany the commission to the premises.</i>] \n\t[<i>Requires the State Department of Agriculture to complete a criminal records check on an applicant for an industrial hemp handler license. Requires an applicant for an industrial hemp grower license to provide a land use compatibility statement and information related to land ownership to the department. Directs the department to inspect a premises licensed by the department without advance notice for specified reasons and to request that law enforcement accompany the department to the premises.</i>] \n\t<b>Increases quarterly distributions to the Oregon Criminal Justice Commission for deposit into the Illegal Marijuana Market Enforcement Grant Program Fund from $750,000 to $3 million.</b>\n\t<b>Expands the definition of \"debilitating medical condition\" to include medical conditions that an attending provider determines might be mitigated by the medical use of marijuana.</b> \n\tTakes effect on the 91st day following adjournment sine die.",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4139",
     "introduced": "2026-01-18T13:58:41",
     "chamber": "House",
@@ -14448,7 +14448,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4142",
     "introduced": "2026-01-18T14:08:21",
     "chamber": "House",
-    "status": "House Desk - Awaiting Transfer to Speaker",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": [
       {
         "name": "Rep Chaichi",
@@ -14735,7 +14735,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4144",
     "introduced": "2026-01-18T14:32:56",
     "chamber": "House",
-    "status": "House Desk - Awaiting Transfer to Speaker",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": [
       {
         "name": "Rep Levy E",
@@ -14871,7 +14871,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4145",
     "introduced": "2026-01-18T14:36:34",
     "chamber": "House",
-    "status": "House Desk - Awaiting Transfer to Speaker",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": [
       {
         "name": "Rep Grayber",
@@ -15059,7 +15059,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4148",
     "introduced": "2026-01-18T14:47:43",
     "chamber": "House",
-    "status": "Senate Presidents Desk - Awaiting Signature",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": [
       {
         "name": "Rep Walters",
@@ -15372,7 +15372,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4151",
     "introduced": "2026-01-19T11:03:07",
     "chamber": "House",
-    "status": "House Desk - Awaiting Transfer to Speaker",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": [
       {
         "name": "Rep Edwards",
@@ -15619,7 +15619,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4153",
     "introduced": "2026-01-19T11:22:14",
     "chamber": "House",
-    "status": "House Desk - Awaiting Transfer to Speaker",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": [
       {
         "name": "Rep Breese-Iverson",
@@ -15847,7 +15847,7 @@
   {
     "billNumber": "HB4155",
     "title": "Requires certain health insurers to cover fertility services and treatments.",
-    "summary": "\t<b>Digest: The Act tells some insurers to cover care for some fertility treatments and exempts some insurers from parts of this requirement. Tells DCBS to make a program to cover costs for exempt insurers. Creates a new fund. (Flesch Readability Score: 66.2).</b> \n\t[<i>Digest: The Act tells some insurers, OEBB and PEBB to cover care for some fertility treatments. The Act tells OHA and DCBS to study access to reproductive treatments and report back to the committee on health. The Act makes it an emergency. (Flesch Readability Score: 65.0).</i>] \n\tRequires certain health insurers[<i>, the Oregon Educators Benefit Board and the Public Employees' Benefit Board</i>] to cover fertility services and treatments.<b> Exempts certain insurers from specific coverage requirements.</b> \n\t[<i>Directs the Oregon Health Authority and the Department of Consumer and Business Services to study access to fertility and reproductive endocrinology services and report findings to the interim committees of the Legislative Assembly related to health.</i>] \n\t[<i>Declares an emergency, effective on passage.</i>] \n\t<b>Directs the Department of Consumer and Business Services to administer a program to provide reimbursement for the costs for treatments when not covered by exempted insurers. \n\t<b>Establishes the Family Building Fund in the State Treasury.</b>",
+    "summary": "\t<b>Digest: The Act tells some insurers to cover care for some fertility treatments and exempts some insurers from parts of this requirement. Tells DCBS to make a program to cover costs for exempt insurers. Creates a new fund. (Flesch Readability Score: 66.2).</b> \n\t[<i>Digest: The Act tells some insurers, OEBB and PEBB to cover care for some fertility treatments. The Act tells OHA and DCBS to study access to reproductive treatments and report back to the committee on health. The Act makes it an emergency. (Flesch Readability Score: 65.0).</i>] \n\tRequires certain health insurers[<i>, the Oregon Educators Benefit Board and the Public Employees' Benefit Board</i>] to cover fertility services and treatments.<b> Exempts certain insurers from specific coverage requirements.</b> \n\t[<i>Directs the Oregon Health Authority and the Department of Consumer and Business Services to study access to fertility and reproductive endocrinology services and report findings to the interim committees of the Legislative Assembly related to health.</i>] \n\t[<i>Declares an emergency, effective on passage.</i>] \n\t<b>Directs the Department of Consumer and Business Services to administer a program to provide reimbursement for the costs for treatments when not covered by exempted insurers.</b>\n\t<b>Establishes the Family Building Fund in the State Treasury.</b>",
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4155",
     "introduced": "2026-01-19T11:30:13",
     "chamber": "House",
@@ -16205,7 +16205,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4159",
     "introduced": "2026-02-03T11:14:00",
     "chamber": "House",
-    "status": "House Desk - Awaiting Transfer to Speaker",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": [
       {
         "name": "HRULES",
@@ -16237,7 +16237,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4161",
     "introduced": "2026-02-03T11:14:00",
     "chamber": "House",
-    "status": "House Desk - Awaiting Transfer to Speaker",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": [
       {
         "name": "HRULES",
@@ -16493,7 +16493,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4177",
     "introduced": "2026-02-05T08:31:55",
     "chamber": "House",
-    "status": "House Desk - Awaiting Transfer to Speaker",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": [
       {
         "name": "HRULES",
@@ -16509,7 +16509,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4178",
     "introduced": "2026-02-16T09:35:15",
     "chamber": "House",
-    "status": "House Desk - Awaiting Transfer to Speaker",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": [
       {
         "name": "HRULES",
@@ -16525,7 +16525,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4179",
     "introduced": "2026-02-16T09:35:15",
     "chamber": "House",
-    "status": "House Desk - Awaiting Transfer to Speaker",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": [
       {
         "name": "HRULES",
@@ -16573,7 +16573,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB5203",
     "introduced": "2026-02-06T12:19:54",
     "chamber": "House",
-    "status": "House Desk - Awaiting Transfer to Speaker",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": [
       {
         "name": "JWM",
@@ -16589,7 +16589,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB5204",
     "introduced": "2026-02-06T12:19:54",
     "chamber": "House",
-    "status": "House Desk - Awaiting Transfer to Speaker",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": [
       {
         "name": "JWM",
@@ -16605,7 +16605,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB5701",
     "introduced": "2026-02-06T13:05:16",
     "chamber": "Senate",
-    "status": "Legislative Counsel - Enrollment",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": [
       {
         "name": "JWM",
@@ -16621,7 +16621,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB5702",
     "introduced": "2026-02-06T13:05:21",
     "chamber": "Senate",
-    "status": "Legislative Counsel - Enrollment",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": [
       {
         "name": "JWM",
@@ -16637,7 +16637,7 @@
     "url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB5703",
     "introduced": "2026-02-06T13:05:26",
     "chamber": "Senate",
-    "status": "Legislative Counsel - Enrollment",
+    "status": "Governors Office - Awaiting Signature",
     "sponsors": [
       {
         "name": "JWM",
