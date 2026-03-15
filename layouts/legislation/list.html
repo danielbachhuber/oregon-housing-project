@@ -20,10 +20,11 @@
     {{/* Stage definitions - ordered from most to least advanced */}}
     {{ $stageGroups := slice
       (dict "name" "Signed into Law" "statuses" (slice "Chapter Number Assigned"))
+      (dict "name" "Awaiting Governor Signature" "statuses" (slice "Governors Office - Awaiting Signature" "Senate Presidents Desk - Awaiting Signature" "Senate Desk – Awaiting Transfer to Governor" "Legislative Counsel - Enrollment" "Secretary of States Office - Chapter Number Assignment"))
       (dict "name" "Near Passage" "statuses" (slice "At Presidents Desk Upon Adjournment" "In House Conference Committee" "At House Desk Upon Adjournment"))
-      (dict "name" "Awaiting Floor Vote" "statuses" (slice "Senate Desk - Awaiting Third Reading" "House Desk - Awaiting First Reading"))
-      (dict "name" "In Senate Committee" "statuses" (slice "In Senate Committee"))
-      (dict "name" "In House Committee" "statuses" (slice "In House Committee"))
+      (dict "name" "Awaiting Floor Vote" "statuses" (slice "Senate Desk - Awaiting Third Reading" "House Desk - Awaiting First Reading" "Senate Desk - Awaiting First Reading" "Senate Desk - Awaiting Second Reading" "House Desk - Second Reading" "House Desk - Third Reading" "House Desk - Awaiting Transfer to Speaker" "House Desk - PM Possible Consideration of Senate Amendments" "At Senate Desk Upon Adjournment"))
+      (dict "name" "In Senate Committee" "statuses" (slice "In Senate Committee" "In Senate Committee Awaiting transfer to Desk"))
+      (dict "name" "In House Committee" "statuses" (slice "In House Committee" "In House Committee Awaiting transfer to Desk"))
       (dict "name" "Failed" "statuses" (slice "Senate Desk - Failed" "House Desk - Failed"))
     }}
 
