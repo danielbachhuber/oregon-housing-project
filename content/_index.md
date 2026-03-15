@@ -5,7 +5,9 @@ title = 'Home'
 
 # Oregon Housing Project
 
-The mission of the Oregon Housing Project is to explore the topic of housing in Oregon at depth in a way that makes the topic accessible to more people. When it presents analysis, the project is biased towards these opinions:
+The mission of the Oregon Housing Project is to explore the topic of housing in Oregon at depth in a way that makes the topic accessible to more people. It aspires to be the canonical resource about housing for all Oregonians interested in the subject.
+
+When it presents analysis, the project is biased towards these opinions:
 
 * Oregon isn't building enough housing.
 * Oregon's housing is too expensive.
