@@ -49,6 +49,8 @@ interface PageData {
   source: string;
   date: string;
   content: string;
+  wordCount: number;
+  readingTime: number;
 }
 
 function extractPageData(html: string, url: string): PageData {
@@ -101,12 +103,18 @@ function extractPageData(html: string, url: string): PageData {
 
   const date = dateStr ? new Date(dateStr).toISOString().split('T')[0] : new Date().toISOString().split('T')[0];
 
+  const trimmedContent = content.trim();
+  const wordCount = trimmedContent ? trimmedContent.split(/\s+/).length : 0;
+  const readingTime = Math.ceil(wordCount / 250);
+
   return {
     title: title.replace(/\s+/g, ' ').trim(),
     author: author.replace(/\s+/g, ' ').trim(),
     source,
     date,
-    content: content.trim(),
+    content: trimmedContent,
+    wordCount,
+    readingTime,
   };
 }
 
@@ -160,6 +168,8 @@ async function main() {
   console.log(`  Author: ${page.author}`);
   console.log(`  Source: ${page.source}`);
   console.log(`  Date:   ${page.date}`);
+  console.log(`  Words:  ${page.wordCount}`);
+  console.log(`  Reading: ~${page.readingTime} min`);
 
   console.log('Generating description via Claude...');
   const description = await generateDescription(url, page);
@@ -168,13 +178,13 @@ async function main() {
   const slug = slugify(page.title);
   const filepath = path.join(CONTENT_DIR, `${slug}.md`);
 
-  if (fs.existsSync(filepath)) {
-    console.error(`File already exists: ${filepath}`);
-    process.exit(1);
-  }
-
   if (!fs.existsSync(CONTENT_DIR)) {
     fs.mkdirSync(CONTENT_DIR, { recursive: true });
+  }
+
+  const exists = fs.existsSync(filepath);
+  if (exists) {
+    console.log(`Updating existing file: ${filepath}`);
   }
 
   const escTitle = page.title.replace(/'/g, "''");
@@ -188,11 +198,13 @@ original_url = '${url}'
 source = '${page.source}'
 author = '${escAuthor}'
 description = '${escDescription}'
+word_count = ${page.wordCount}
+reading_time = ${page.readingTime}
 +++
 `;
 
   fs.writeFileSync(filepath, fileContent);
-  console.log(`Created: ${filepath}`);
+  console.log(`${exists ? 'Updated' : 'Created'}: ${filepath}`);
 
   // Output the filepath for use by the workflow
   console.log(`OUTPUT_FILE=${filepath}`);
