@@ -37,8 +37,14 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
+          set +e
           OUTPUT=$(pnpm capture-research -- "${{ inputs.url }}" 2>&1)
+          EXIT_CODE=$?
+          set -e
           echo "$OUTPUT"
+          if [ $EXIT_CODE -ne 0 ]; then
+            exit $EXIT_CODE
+          fi
           FILE=$(echo "$OUTPUT" | grep '^OUTPUT_FILE=' | cut -d= -f2-)
           echo "file=$FILE" >> $GITHUB_OUTPUT
 
