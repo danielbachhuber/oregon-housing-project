@@ -6,7 +6,7 @@ import Anthropic from '@anthropic-ai/sdk';
 import 'dotenv/config';
 
 const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY;
-const CONTENT_DIR = path.join(process.cwd(), 'content/links');
+const CONTENT_DIR = path.join(process.cwd(), 'content/research');
 
 const anthropic = new Anthropic({ apiKey: ANTHROPIC_API_KEY });
 
@@ -113,7 +113,7 @@ function extractPageData(html: string, url: string): PageData {
 async function generateDescription(url: string, page: PageData): Promise<string> {
   const contentSnippet = page.content.substring(0, 12000);
 
-  const prompt = `You are helping curate an Oregon housing policy research site. Write 1-2 sentences describing this article and why it's interesting from a housing, construction, or urban policy perspective. Be direct and specific — focus on the key insight or finding.
+  const prompt = `You are helping curate an Oregon housing policy research site. Write 1-2 sentences summarizing this article. Be direct and specific — focus on the key insight or finding.
 
 Title: ${page.title}
 URL: ${url}
@@ -122,7 +122,7 @@ Content: ${contentSnippet}
 Respond with ONLY the description sentences, no preamble.`;
 
   const msg = await anthropic.messages.create({
-    model: 'claude-sonnet-4-6',
+    model: 'claude-opus-4-6',
     max_tokens: 256,
     messages: [{ role: 'user', content: prompt }],
   });
