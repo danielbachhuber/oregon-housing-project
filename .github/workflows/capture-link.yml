@@ -1,0 +1,73 @@
+name: Capture Link
+
+on:
+  workflow_dispatch:
+    inputs:
+      url:
+        description: 'URL of the article or post to capture'
+        required: true
+        type: string
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  capture:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v3
+        with:
+          version: 9
+
+      - name: Install dependencies
+        run: pnpm install
+
+      - name: Capture link
+        id: capture
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          OUTPUT=$(pnpm capture-link -- "${{ inputs.url }}" 2>&1)
+          echo "$OUTPUT"
+          FILE=$(echo "$OUTPUT" | grep '^OUTPUT_FILE=' | cut -d= -f2-)
+          echo "file=$FILE" >> $GITHUB_OUTPUT
+
+      - name: Create PR
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          FILE="${{ steps.capture.outputs.file }}"
+          if [ -z "$FILE" ]; then
+            echo "No file was created."
+            exit 1
+          fi
+
+          BASENAME=$(basename "$FILE" .md)
+          BRANCH_NAME="link-${BASENAME}"
+
+          git config user.name 'oregonhousingproject[bot]'
+          git config user.email 'info@oregonhousingproject.org'
+
+          git checkout -b "$BRANCH_NAME"
+          git add "$FILE"
+
+          TITLE=$(grep '^title' "$FILE" | head -n 1 | sed "s/title = '//;s/'$//")
+          git commit -m "Add link: $TITLE"
+          git push -u origin "$BRANCH_NAME"
+
+          gh pr create \
+            --title "New Link: $TITLE" \
+            --body "Captured from: ${{ inputs.url }}\n\nFile: $FILE" \
+            --base main \
+            --head "$BRANCH_NAME" \
+            --reviewer danielbachhuber
