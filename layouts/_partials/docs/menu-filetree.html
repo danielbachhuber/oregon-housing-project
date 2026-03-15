@@ -9,7 +9,7 @@
 
 {{ define "book-section-children" }}{{/* (dict "Section" .Section "CurrentPage" .CurrentPage) */}}
   <ul>
-    {{ $sortByTitle := or (eq .Section.Section "people") (eq .Section.Section "cities") (and (eq .Section.Section "legislation") (.Section.Parent) (ne .Section.Parent.Kind "home")) }}
+    {{ $sortByTitle := or (eq .Section.Section "people") (eq .Section.Section "cities") (eq .Section.Section "organizations") (and (eq .Section.Section "legislation") (.Section.Parent) (ne .Section.Parent.Kind "home")) }}
     {{ $sortByTitleDesc := eq .Section.RelPermalink "/legislation/" }}
     {{ $pages := where .Section.Pages "Params.bookHidden" "ne" true }}
     {{ $sortedPages := cond $sortByTitle (sort $pages "Title") $pages }}

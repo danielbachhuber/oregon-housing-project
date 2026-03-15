@@ -1,0 +1,8 @@
+{{- return and
+  (not (eq .Params.bookToC false))
+  (not (eq .Site.Params.BookToC false))
+  (or
+    (not (eq .TableOfContents "<nav id=\"TableOfContents\"></nav>"))
+    (and (eq .Kind "page") (eq .Section "organizations"))
+  )
+-}}

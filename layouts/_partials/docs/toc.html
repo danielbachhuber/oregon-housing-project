@@ -10,6 +10,14 @@
     {{ with .Params.history }}<li><a href="#legislative-history">Legislative History</a></li>{{ end }}
   </ul>
 </nav>
+{{ else if and (eq .Kind "page") (eq .Section "organizations") }}
+<nav id="TableOfContents">
+  <ul>
+    {{ with .TableOfContents }}{{ . | replaceRE `</?nav[^>]*>` "" | replaceRE `</?ul>` "" | safeHTML }}{{ end }}
+    <li><a href="#news-coverage">News Coverage</a></li>
+    <li><a href="#legislative-testimony">Legislative Testimony</a></li>
+  </ul>
+</nav>
 {{ else }}
 {{ .TableOfContents }}
 {{ end }}
