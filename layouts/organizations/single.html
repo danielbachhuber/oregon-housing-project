@@ -1,0 +1,75 @@
+{{ define "main" }}
+<article class="markdown book-article">
+  <h1>{{ .Title }}</h1>
+
+  {{ .Content }}
+
+  {{/* Find news coverage that links to this organization */}}
+  {{ $currentPath := .RelPermalink | replaceRE "/$" "" }}
+  {{ $backlinks := slice }}
+  {{ range where .Site.RegularPages "Section" "news-coverage" }}
+    {{ if findRE (printf `\]\(%s\)` $currentPath) .RawContent }}
+      {{ $backlinks = $backlinks | append . }}
+    {{ end }}
+  {{ end }}
+
+  {{ if gt (len $backlinks) 0 }}
+  <h2 id="news-coverage">News Coverage</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Article</th>
+        <th>Source</th>
+        <th>Date</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{ range sort $backlinks "Date" "desc" }}
+      <tr>
+        <td><a href="{{ .Permalink }}">{{ .Title }}</a></td>
+        <td>{{ .Params.source }}</td>
+        <td>{{ .Date.Format "January 2, 2006" }}</td>
+      </tr>
+      {{ end }}
+    </tbody>
+  </table>
+  {{ end }}
+
+  {{/* Find testimony provided by this organization across all legislation */}}
+  {{ $orgNames := .Params.testimony_names | default (slice .Title) }}
+  {{ $testimonyList := slice }}
+  {{ range where .Site.RegularPages "Section" "legislation" }}
+    {{ $bill := . }}
+    {{ range .Params.testimony }}
+      {{ if in $orgNames .organization }}
+        {{ $testimonyList = $testimonyList | append (dict "bill" $bill "name" .name "organization" .organization "position" .position "date" .date "url" .url) }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
+  {{ if gt (len $testimonyList) 0 }}
+  <h2 id="testimony">Testimony</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Bill</th>
+        <th>Name</th>
+        <th>Position</th>
+        <th>Date</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{ range sort $testimonyList "date" "desc" }}
+      {{ $t := . }}
+      <tr>
+        <td><a href="{{ .bill.RelPermalink }}">{{ .bill.Title }}</a></td>
+        <td>{{ .name }}</td>
+        <td>{{ with .url }}<a href="{{ . }}">{{ $t.position }}</a>{{ else }}{{ .position }}{{ end }}</td>
+        <td>{{ .date }}</td>
+      </tr>
+      {{ end }}
+    </tbody>
+  </table>
+  {{ end }}
+</article>
+{{ end }}
