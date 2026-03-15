@@ -162,13 +162,17 @@ This will start a local development server at `http://localhost:1313/`. If port 
 
 ## Git Worktrees
 
-When creating a worktree (via the `EnterWorktree` tool or otherwise), always initialize submodules immediately after:
+When creating a worktree (via the `EnterWorktree` tool or otherwise), run the following setup commands immediately after:
 
 ```bash
 git submodule update --init
+cp /Users/danielbachhuber/projects/oregon-housing-project/.env .env
+pnpm install
 ```
 
-The site depends on the `themes/hugo-book` submodule and Hugo will fail to build without it.
+- `git submodule update --init`: The site depends on the `themes/hugo-book` submodule and Hugo will fail to build without it.
+- `cp .../.env .env`: Copies the `.env` file from the main repo (not committed to git).
+- `pnpm install`: Installs Node dependencies in the new worktree.
 
 ## LLM-Assisted Research
 
