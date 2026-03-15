@@ -1,0 +1,13 @@
+{{ define "main" }}
+<article class="markdown book-article">
+  <h1>{{ .Title }}</h1>
+
+  {{ range .Pages.ByDate.Reverse }}
+  <div style="margin-bottom: 0.75rem; padding-bottom: 0.75rem; border-bottom: 1px solid var(--gray-200); font-size: 0.9375rem;">
+    <h3 style="margin: 0 0 0.25rem 0; font-size: 1rem;"><a href="{{ .Params.original_url }}" target="_blank" rel="noopener">{{ .Title }}</a></h3>
+    <small style="color: var(--gray-600); font-style: italic;">{{ .Params.source }} · {{ .Date.Format "January 2, 2006" }}{{ with .Params.author }} · {{ . }}{{ end }}</small>
+    {{ with .Params.description }}<div style="margin-top: 0.25rem;">{{ . }}</div>{{ end }}
+  </div>
+  {{ end }}
+</article>
+{{ end }}
