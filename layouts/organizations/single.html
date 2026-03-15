@@ -54,7 +54,7 @@
     {{ end }}
   {{ end }}
 
-  <h2 id="testimony">Testimony</h2>
+  <h2 id="legislative-testimony">Legislative Testimony</h2>
   {{ if gt (len $testimonyList) 0 }}
   {{/* Group by year descending */}}
   {{ $years := slice }}
@@ -65,11 +65,11 @@
   {{ $year := . }}
   {{ $yearTestimony := where $testimonyList "year" $year }}
   <h3>{{ $year }}</h3>
+  <p><em>{{ len $yearTestimony }} testimon{{ if eq (len $yearTestimony) 1 }}y{{ else }}ies{{ end }}</em></p>
   <table>
     <thead>
       <tr>
         <th>Bill</th>
-        <th>Description</th>
         <th>Name</th>
         <th>Position</th>
         <th>Date</th>
@@ -79,8 +79,7 @@
       {{ range sort $yearTestimony "date" "desc" }}
       {{ $t := . }}
       <tr>
-        <td><a href="{{ .bill.RelPermalink }}">{{ .bill.Title }}</a></td>
-        <td>{{ .bill.Params.catch_line }}</td>
+        <td><a href="{{ .bill.RelPermalink }}" style="font-weight:bold">{{ .bill.Title }}</a>{{ with .bill.Params.catch_line }}<br>{{ . }}{{ end }}</td>
         <td>{{ .name }}</td>
         <td>{{ with .url }}<a href="{{ . }}">{{ $t.position }}</a>{{ else }}{{ .position }}{{ end }}</td>
         <td>{{ .date }}</td>
