@@ -101,7 +101,18 @@ function extractPageData(html: string, url: string): PageData {
     }
   }
 
-  const date = dateStr ? new Date(dateStr).toISOString().split('T')[0] : new Date().toISOString().split('T')[0];
+  // Try metadata date, then URL date pattern, then fall back to today
+  let date: string;
+  if (dateStr) {
+    date = new Date(dateStr).toISOString().split('T')[0];
+  } else {
+    const urlDateMatch = url.match(/\/(\d{4})\/(\d{2})\/(\d{2})\//);
+    if (urlDateMatch) {
+      date = `${urlDateMatch[1]}-${urlDateMatch[2]}-${urlDateMatch[3]}`;
+    } else {
+      date = new Date().toISOString().split('T')[0];
+    }
+  }
 
   const trimmedContent = content.trim();
   const wordCount = trimmedContent ? trimmedContent.split(/\s+/).length : 0;
