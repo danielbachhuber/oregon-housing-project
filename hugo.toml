@@ -3,6 +3,11 @@ languageCode = 'en-us'
 title = 'Oregon Housing Project'
 theme = 'hugo-book'
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [[module.mounts]]
   source = "content"
   target = "content"

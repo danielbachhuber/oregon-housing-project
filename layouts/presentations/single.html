@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ .Title }} — {{ .Site.Title }}</title>
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js@5.1.0/dist/reset.css">
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js@5.1.0/dist/reveal.css">
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js@5.1.0/dist/theme/white.css">
+  <style>
+    .reveal h1, .reveal h2, .reveal h3 { text-transform: none; }
+  </style>
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides" id="slides-content">
+      {{ .Content }}
+    </div>
+  </div>
+
+  <script src="https://unpkg.com/reveal.js@5.1.0/dist/reveal.js"></script>
+  <script src="https://unpkg.com/reveal.js@5.1.0/plugin/notes/notes.js"></script>
+  {{ with .Params.extra_js }}
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-annotation@3.1.0/dist/chartjs-plugin-annotation.min.js"></script>
+  {{ end }}
+  <script>
+    (function() {
+      var container = document.getElementById('slides-content');
+      var html = container.innerHTML;
+      // Remove Hugo-generated anchor links from headings
+      html = html.replace(/<a class="anchor" href="[^"]*">#<\/a>/g, '');
+      // Split on <hr> tags (which Hugo generates from ---)
+      var parts = html.split(/<hr\s*\/?>/i);
+      var slidesHtml = '';
+      for (var i = 0; i < parts.length; i++) {
+        var content = parts[i].trim();
+        if (content) {
+          slidesHtml += '<section>' + content + '</section>';
+        }
+      }
+      container.innerHTML = slidesHtml;
+
+      Reveal.initialize({
+        hash: true,
+        slideNumber: true,
+        plugins: [RevealNotes]
+      });
+    })();
+  </script>
+  {{ range .Params.extra_js }}
+  <script src="{{ . }}"></script>
+  {{ end }}
+</body>
+</html>
