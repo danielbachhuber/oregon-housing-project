@@ -1,7 +1,7 @@
 +++
 title = "Organizations"
 date = "2026-01-11"
-weight = 70
+weight = 45
 bookCollapseSection = true
 +++
 
