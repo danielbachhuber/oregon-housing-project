@@ -6,4 +6,4 @@ weight = 20
 bookCollapseSection = true
 +++
 
-<!-- clickable sidebar link -->
+Year-by-year tracking of Oregon's housing-related legislation, from landmark zoning reform bills to targeted affordability measures.
