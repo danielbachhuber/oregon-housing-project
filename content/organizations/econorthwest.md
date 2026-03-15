@@ -1,10 +1,9 @@
 +++
 title = 'ECONorthwest'
 date = '2026-01-11'
+external_url = 'https://econw.com'
 testimony_names = ['ECONorthwest']
 +++
-
-# ECONorthwest
 
 ECONorthwest is an economic consulting firm based in Portland, Oregon, with additional offices in Seattle and Boise. The firm specializes in economics, finance, and planning work for public and nonprofit clients throughout the Pacific Northwest. ECONorthwest is frequently hired to conduct housing needs analyses, fiscal impact studies, and land use economics research for Oregon cities and state agencies.
 

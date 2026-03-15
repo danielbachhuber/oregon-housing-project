@@ -1,10 +1,9 @@
 +++
 title = 'Home For Everyone'
 date = '2026-01-11'
+external_url = 'https://homeforeveryone.net'
 testimony_names = ['Home For Everyone']
 +++
-
-# Home For Everyone
 
 Home For Everyone is a regional coalition of service providers, government agencies, and community organizations working to address homelessness in the Portland metro area. The coalition coordinates across Multnomah, Washington, and Clackamas counties to align resources and strategies for preventing and ending homelessness.
 

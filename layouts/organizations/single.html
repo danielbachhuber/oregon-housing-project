@@ -2,6 +2,10 @@
 <article class="markdown book-article">
   <h1>{{ .Title }}</h1>
 
+  {{ with .Params.external_url }}
+  <p><a href="{{ . }}">{{ . }}</a></p>
+  {{ end }}
+
   {{ .Content }}
 
   {{/* Find news coverage that links to this organization */}}
@@ -13,8 +17,8 @@
     {{ end }}
   {{ end }}
 
-  {{ if gt (len $backlinks) 0 }}
   <h2 id="news-coverage">News Coverage</h2>
+  {{ if gt (len $backlinks) 0 }}
   <table>
     <thead>
       <tr>
@@ -33,6 +37,8 @@
       {{ end }}
     </tbody>
   </table>
+  {{ else }}
+  <p>No news coverage found for this organization.</p>
   {{ end }}
 
   {{/* Find testimony provided by this organization across all legislation */}}
@@ -42,27 +48,39 @@
     {{ $bill := . }}
     {{ range .Params.testimony }}
       {{ if in $orgNames .organization }}
-        {{ $testimonyList = $testimonyList | append (dict "bill" $bill "name" .name "organization" .organization "position" .position "date" .date "url" .url) }}
+        {{ $year := index (split .date "-") 0 }}
+        {{ $testimonyList = $testimonyList | append (dict "bill" $bill "name" .name "organization" .organization "position" .position "date" .date "url" .url "year" $year) }}
       {{ end }}
     {{ end }}
   {{ end }}
 
-  {{ if gt (len $testimonyList) 0 }}
   <h2 id="testimony">Testimony</h2>
+  {{ if gt (len $testimonyList) 0 }}
+  {{/* Group by year descending */}}
+  {{ $years := slice }}
+  {{ range $testimonyList }}
+    {{ $years = $years | append .year }}
+  {{ end }}
+  {{ range collections.Reverse ($years | uniq | sort) }}
+  {{ $year := . }}
+  {{ $yearTestimony := where $testimonyList "year" $year }}
+  <h3>{{ $year }}</h3>
   <table>
     <thead>
       <tr>
         <th>Bill</th>
+        <th>Description</th>
         <th>Name</th>
         <th>Position</th>
         <th>Date</th>
       </tr>
     </thead>
     <tbody>
-      {{ range sort $testimonyList "date" "desc" }}
+      {{ range sort $yearTestimony "date" "desc" }}
       {{ $t := . }}
       <tr>
         <td><a href="{{ .bill.RelPermalink }}">{{ .bill.Title }}</a></td>
+        <td>{{ .bill.Params.catch_line }}</td>
         <td>{{ .name }}</td>
         <td>{{ with .url }}<a href="{{ . }}">{{ $t.position }}</a>{{ else }}{{ .position }}{{ end }}</td>
         <td>{{ .date }}</td>
@@ -70,6 +88,9 @@
       {{ end }}
     </tbody>
   </table>
+  {{ end }}
+  {{ else }}
+  <p>No testimony found for this organization.</p>
   {{ end }}
 </article>
 {{ end }}
