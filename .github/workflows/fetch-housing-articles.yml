@@ -68,6 +68,9 @@ jobs:
              git fetch origin main
              git checkout -b "$BRANCH_NAME" origin/main
 
+             # Auto-link legislation, people, and cities
+             pnpm refine-internal-links --write "$file"
+
              # Add the file
              git add "$file"
 
