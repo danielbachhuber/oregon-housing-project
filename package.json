@@ -12,7 +12,7 @@
 		"refine-legislation": "tsx scripts/refine-legislation.ts",
 		"refine-city": "tsx scripts/refine-city.ts",
 		"refine-person": "tsx scripts/refine-person.ts",
-		"capture-link": "tsx scripts/capture-link.ts"
+		"capture-research": "tsx scripts/capture-research.ts"
 	},
 	"keywords": [],
 	"author": "",

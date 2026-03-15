@@ -1,4 +1,4 @@
-name: Capture Link
+name: Capture Research
 
 on:
   workflow_dispatch:
@@ -32,12 +32,12 @@ jobs:
       - name: Install dependencies
         run: pnpm install
 
-      - name: Capture link
+      - name: Capture research
         id: capture
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
-          OUTPUT=$(pnpm capture-link -- "${{ inputs.url }}" 2>&1)
+          OUTPUT=$(pnpm capture-research -- "${{ inputs.url }}" 2>&1)
           echo "$OUTPUT"
           FILE=$(echo "$OUTPUT" | grep '^OUTPUT_FILE=' | cut -d= -f2-)
           echo "file=$FILE" >> $GITHUB_OUTPUT
@@ -67,7 +67,7 @@ jobs:
 
           gh pr create \
             --title "New Research: $TITLE" \
-            --body "Captured from: ${{ inputs.url }}\n\nFile: $FILE" \
+            --body "Adds research item captured from ${{ inputs.url }}." \
             --base main \
             --head "$BRANCH_NAME" \
             --reviewer danielbachhuber
