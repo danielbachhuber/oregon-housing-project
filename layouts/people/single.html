@@ -1,0 +1,40 @@
+{{ define "main" }}
+<article class="markdown book-article">
+  <h1>{{ .Title }}</h1>
+
+  {{ .Content }}
+
+  {{ $personSlug := .File.BaseFileName }}
+  {{ $sponsoredLegislation := slice }}
+  {{ range where .Site.RegularPages "Section" "legislation" }}
+    {{ $legPage := . }}
+    {{ range .Params.sponsors }}
+      {{ if eq .slug $personSlug }}
+        {{ $sponsoredLegislation = $sponsoredLegislation | append $legPage }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
+  {{ if gt (len $sponsoredLegislation) 0 }}
+  <h2 id="sponsored-legislation">Sponsored Legislation</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Bill</th>
+        <th>Description</th>
+        <th>Status</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{ range sort $sponsoredLegislation "Date" "desc" }}
+      <tr>
+        <td><a href="{{ .Permalink }}">{{ .Title }}</a></td>
+        <td>{{ .Params.catch_line }}</td>
+        <td>{{ .Params.status }}</td>
+      </tr>
+      {{ end }}
+    </tbody>
+  </table>
+  {{ end }}
+</article>
+{{ end }}
