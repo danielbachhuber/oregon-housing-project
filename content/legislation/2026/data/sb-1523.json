@@ -10,20 +10,20 @@
     "RelatingToFull": "Relating to electronic access to residential tenancies; and prescribing an effective date. \n\t",
     "RelatingTo": "Relating to electronic access to residential tenancies; and prescribing an effective date.",
     "AtTheRequestOf": "(at the request of Senate Interim Committee on Housing and Development)",
-    "ChapterNumber": null,
-    "CurrentLocation": "Secretary of States Office - Chapter Number Assignment",
+    "ChapterNumber": "23",
+    "CurrentLocation": "Chapter Number Assigned",
     "CurrentCommitteeCode": null,
     "CurrentSubCommittee": null,
     "FiscalImpact": "Has minimal fiscal impact",
     "RevenueImpact": "No revenue impact",
     "EmergencyClause": false,
-    "EffectiveDate": null,
+    "EffectiveDate": "2026-06-05T00:00:00",
     "FiscalAnalyst": "Michael Graham",
     "RevenueEconomist": "Chris Allanach",
     "LCNumber": 287,
     "Vetoed": false,
     "CreatedDate": "2026-01-14T13:37:51",
-    "ModifiedDate": "2026-03-05T14:50:24",
+    "ModifiedDate": "2026-03-17T10:34:10",
     "PrefixMeaning": "Senate Bill"
   },
   "sponsors": [
@@ -276,6 +276,32 @@
       "CreatedDate": "2026-03-05T14:50:24",
       "ModifiedDate": null,
       "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 670725,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1523,
+      "Chamber": "S",
+      "ActionDate": "2026-03-17T10:32:42",
+      "ActionText": "Chapter 23, 2026 Laws.",
+      "VoteText": null,
+      "CreatedDate": "2026-03-17T10:33:16",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 670733,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1523,
+      "Chamber": "S",
+      "ActionDate": "2026-03-17T10:33:50",
+      "ActionText": "Effective date, June 5, 2026.",
+      "VoteText": null,
+      "CreatedDate": "2026-03-17T10:34:10",
+      "ModifiedDate": null,
+      "PublicNotification": false
     }
   ],
   "documents": [
