@@ -15,6 +15,8 @@ The majority of the research depth focuses on Oregon. As appropriate, examples f
 
 ## What's On This Website
 
+If you're new here, check out the [Start Here](/start-here/) page for an introduction to the project and key housing concepts.
+
 The Oregon Housing Project catalogs and analyzes Oregon's housing policy landscape:
 
 * **[Legislation](/legislation/)**: Bills, executive orders, and ballot measures that shape housing policy
