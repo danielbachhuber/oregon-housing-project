@@ -5,7 +5,7 @@ date = '2026-02-07'
 
 # Portland Housing Bureau
 
-The Portland Housing Bureau is the City of Portland's primary agency responsible for funding affordable housing, ensuring protections for renters, and preserving existing homes. The bureau manages multiple funding sources and programs aimed at addressing Portland's housing crisis.
+The Portland Housing Bureau is the City of [Portland](/cities/portland)'s primary agency responsible for funding affordable housing, ensuring protections for renters, and preserving existing homes. The bureau manages multiple funding sources and programs aimed at addressing Portland's housing crisis.
 
 ## Overview
 

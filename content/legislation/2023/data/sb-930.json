@@ -1,0 +1,112 @@
+{
+  "measure": {
+    "SessionKey": "2023R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 930,
+    "CatchLine": "Expands attorney fee award for prevailing applicants to include any person developing needed housing whose approval is appealed to Land Use Board of Appeals.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tExpands attorney fee award for prevailing applicants to include any person developing needed housing whose approval is appealed to Land Use Board of Appeals.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to attorney fees for land use appeals of housing developments; creating new provisions; and amending ORS 197.843.\n\t",
+    "RelatingTo": "Relating to attorney fees for land use appeals of housing developments.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SJUD",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Emily Coates",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 3823,
+    "Vetoed": false,
+    "CreatedDate": "2023-02-17T09:13:03",
+    "ModifiedDate": "2023-03-06T09:07:58",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "133536",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 930,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Smith DB",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-02-19T16:35:01",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "133537",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 930,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Knopp",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "2",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-02-19T16:35:01",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 556800,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 930,
+      "Chamber": "S",
+      "ActionDate": "2023-02-20T10:15:48",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2023-02-20T11:01:46",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 557438,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 930,
+      "Chamber": "S",
+      "ActionDate": "2023-02-22T15:45:57",
+      "ActionText": "Referred to Judiciary.",
+      "VoteText": null,
+      "CreatedDate": "2023-02-22T15:46:04",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 601088,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 930,
+      "Chamber": "S",
+      "ActionDate": "2023-06-25T16:30:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2023-06-29T14:10:29",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 930,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/SB930/Introduced",
+      "CreatedDate": "2023-02-17T16:21:25.737",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

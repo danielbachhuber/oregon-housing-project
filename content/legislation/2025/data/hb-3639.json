@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3639,
+    "CatchLine": "Prohibits local governments from requiring the payment of a system development charge prior to issuing a certificate of occupancy for a dwelling within an urban growth boundary.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: This Act prohibits collecting SDCs for a new urban home before the home is built. (Flesch Readability Score: 67.5). \n\tProhibits local governments from requiring the payment of a system development charge prior to issuing a certificate of occupancy for a dwelling within an urban growth boundary.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to collection of system development charges.\n\t",
+    "RelatingTo": "Relating to collection of system development charges.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HHOUSH",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 3670,
+    "Vetoed": false,
+    "CreatedDate": "2025-02-18T14:41:24",
+    "ModifiedDate": "2025-02-22T11:51:54",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "150572",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3639,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Helfrich",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-02-19T17:20:49",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 623574,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3639,
+      "Chamber": "H",
+      "ActionDate": "2025-02-20T11:35:40",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-02-20T11:35:48",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 623866,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3639,
+      "Chamber": "H",
+      "ActionDate": "2025-02-21T10:24:39",
+      "ActionText": "Referred to Housing and Homelessness.",
+      "VoteText": null,
+      "CreatedDate": "2025-02-21T10:24:51",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 660567,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3639,
+      "Chamber": "H",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-30T15:33:42",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3639,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3639/Introduced",
+      "CreatedDate": "2025-02-19T16:18:05.94",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

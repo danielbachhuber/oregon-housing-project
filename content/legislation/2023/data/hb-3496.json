@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2023R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3496,
+    "CatchLine": "Imposes additional personal income tax on portion of income treated as net capital gain.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tImposes additional personal income tax on portion of income treated as net capital gain. Directs increase in revenue to funding legal representation of residential tenants in eviction proceedings. Applies to tax years beginning on or after January 1, 2024. \n\tTakes effect on 91st day following adjournment sine die.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to use of tax proceeds for legal representation of tenants; creating new provisions; amending ORS 316.037 and 316.122; prescribing an effective date; and providing for revenue raising that requires approval by a three-fifths majority.\n\t",
+    "RelatingTo": "Relating to use of tax proceeds for legal representation of tenants; prescribing an effective date; providing for revenue raising that requires approval by a three-fifths majority.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HREV",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 4168,
+    "Vetoed": false,
+    "CreatedDate": "2023-02-23T18:02:18",
+    "ModifiedDate": "2023-03-03T22:52:45",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "134842",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3496,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Chaichi",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-02-28T08:50:02",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 558552,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3496,
+      "Chamber": "H",
+      "ActionDate": "2023-02-28T10:14:25",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2023-02-28T10:19:29",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 559494,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3496,
+      "Chamber": "H",
+      "ActionDate": "2023-03-03T09:30:17",
+      "ActionText": "Referred to Revenue.",
+      "VoteText": null,
+      "CreatedDate": "2023-03-03T09:31:48",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 600027,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3496,
+      "Chamber": "H",
+      "ActionDate": "2023-06-25T16:26:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2023-06-28T16:35:41",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3496,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/HB3496/Introduced",
+      "CreatedDate": "2023-02-27T17:36:21.32",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

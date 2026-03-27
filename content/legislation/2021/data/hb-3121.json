@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2021R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3121,
+    "CatchLine": "Permits Building Codes Structures Board to adopt rules to administer licensing for persons that perform structural masonry in connection with seismic rehabilitation.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tPermits Building Codes Structures Board to adopt rules to administer licensing for persons that perform structural masonry in connection with seismic rehabilitation. \n\tTakes effect on 91st day following adjournment sine die.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to licensing for persons performing structural masonry; amending ORS 455.117; and prescribing an effective date.\n\t",
+    "RelatingTo": "Relating to licensing for persons performing structural masonry; prescribing an effective date.",
+    "AtTheRequestOf": "(at the request of Bricklayers and Allied Craftworkers Local 1 OR/WA/ID/MT)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HBL",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 2931,
+    "Vetoed": false,
+    "CreatedDate": "2021-02-02T11:09:28",
+    "ModifiedDate": "2021-02-12T10:44:11",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "117782",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3121,
+      "SponsorType": "Committee",
+      "LegislatoreCode": null,
+      "CommitteeCode": "HBL",
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2021-02-08T21:05:03",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 497918,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3121,
+      "Chamber": "H",
+      "ActionDate": "2021-02-09T10:27:16",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2021-02-09T10:29:22",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 498510,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3121,
+      "Chamber": "H",
+      "ActionDate": "2021-02-12T09:10:50",
+      "ActionText": "Referred to Business and Labor.",
+      "VoteText": null,
+      "CreatedDate": "2021-02-12T09:10:53",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 537493,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3121,
+      "Chamber": "H",
+      "ActionDate": "2021-06-26T17:37:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2021-07-13T12:52:01",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3121,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/HB3121/Introduced",
+      "CreatedDate": "2021-02-08T16:18:48.23",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

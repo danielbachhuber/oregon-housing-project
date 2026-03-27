@@ -1,0 +1,137 @@
+{
+  "measure": {
+    "SessionKey": "2023R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3277,
+    "CatchLine": "Requires Housing and Community Services Department to study homelessness.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tRequires Housing and Community Services Department to study homelessness. Directs department to submit findings to interim committees of Legislative Assembly related to homelessness not later than September 15, 2024.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to homelessness.\n\t",
+    "RelatingTo": "Relating to homelessness.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HRULES",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "Fiscal impact issued",
+    "RevenueImpact": "No revenue impact",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Tim Walker",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 3150,
+    "Vetoed": false,
+    "CreatedDate": "2023-02-16T09:36:10",
+    "ModifiedDate": "2023-04-06T11:47:48",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "133639",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3277,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Dexter",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-02-20T21:05:03",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 556945,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3277,
+      "Chamber": "H",
+      "ActionDate": "2023-02-21T10:25:45",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2023-02-21T10:28:43",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 557646,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3277,
+      "Chamber": "H",
+      "ActionDate": "2023-02-23T10:42:01",
+      "ActionText": "Referred to Housing and Homelessness.",
+      "VoteText": null,
+      "CreatedDate": "2023-02-23T10:44:03",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 570779,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3277,
+      "Chamber": "H",
+      "ActionDate": "2023-04-04T08:02:00",
+      "ActionText": "Work Session held.",
+      "VoteText": null,
+      "CreatedDate": "2023-04-04T10:09:00",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 571451,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3277,
+      "Chamber": "H",
+      "ActionDate": "2023-04-06T11:42:18",
+      "ActionText": "Without recommendation as to passage and be referred to Rules.",
+      "VoteText": null,
+      "CreatedDate": "2023-04-06T11:47:48",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 571452,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3277,
+      "Chamber": "H",
+      "ActionDate": "2023-04-06T11:42:19",
+      "ActionText": "Referred to Rules by order of Speaker.",
+      "VoteText": null,
+      "CreatedDate": "2023-04-06T11:47:48",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 600146,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3277,
+      "Chamber": "H",
+      "ActionDate": "2023-06-25T16:26:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2023-06-28T16:35:41",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3277,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/HB3277/Introduced",
+      "CreatedDate": "2023-02-20T17:48:36.253",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

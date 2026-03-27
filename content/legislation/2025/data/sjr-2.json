@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "SJR",
+    "MeasureNumber": 2,
+    "CatchLine": "Proposes an amendment to the Oregon Constitution to exclude partial exemptions of the assessed value of property, and tax credits against property taxes on property, from the requirement that the maximum assessed value of the property be redetermined when the property is first granted or disqualified from a partial exemption or property tax credit. Refers the proposed amendment to the people for their approval or rejection at the next regular general election.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: The measure would simplify how exempt property is taxed. It takes effect only if the people vote for it. (Flesch Readability Score: 72.5). \n\tProposes an amendment to the Oregon Constitution to exclude partial exemptions of the assessed value of property, and tax credits against property taxes on property, from the requirement that the maximum assessed value of the property be redetermined when the property is first granted or disqualified from a partial exemption or property tax credit. \n\tRefers the proposed amendment to the people for their approval or rejection at the next regular general election.",
+    "CurrentVersion": null,
+    "RelatingToFull": "\n\t",
+    "RelatingTo": "Proposing an amendment to the Oregon Constitution relating to excluding partial exemptions and property tax credits from the requirement of redetermining the maximum assessed value of property granted exemption or credit.",
+    "AtTheRequestOf": "(at the request of Senate Interim Committee on Finance and Revenue)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SRULES",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": null,
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Roxanne Adams",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 2253,
+    "Vetoed": false,
+    "CreatedDate": "2024-12-31T13:18:07",
+    "ModifiedDate": "2025-01-17T14:47:12",
+    "PrefixMeaning": "Senate Joint Resolution"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "145784",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SJR",
+      "MeasureNumber": 2,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "Printed pursuant to Senate Interim Rule 213.28 by order of the President of the Senate in conformance with presession filing rules, indicating neither advocacy nor opposition on the part of the President.",
+      "CreatedDate": "2025-01-06T17:54:11",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 615233,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SJR",
+      "MeasureNumber": 2,
+      "Chamber": "S",
+      "ActionDate": "2025-01-13T09:07:30",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-13T09:07:45",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 617500,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SJR",
+      "MeasureNumber": 2,
+      "Chamber": "S",
+      "ActionDate": "2025-01-17T14:13:22",
+      "ActionText": "Referred to Rules.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-17T14:16:31",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 659467,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SJR",
+      "MeasureNumber": 2,
+      "Chamber": "S",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-28T16:50:21",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SJR",
+      "MeasureNumber": 2,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SJR2/Introduced",
+      "CreatedDate": "2025-01-10T12:27:42.817",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

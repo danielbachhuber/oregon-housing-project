@@ -1,0 +1,112 @@
+{
+  "measure": {
+    "SessionKey": "2023R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 684,
+    "CatchLine": "Limits applicant screening charge to $10.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tLimits applicant screening charge to $10. Makes violations of screening requirements unlawful practice subject to enforcement by Commissioner of the Bureau of Labor and Industries. \n\tTakes effect on 91st day following adjournment sine die.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to applicant screening for residential tenants; amending ORS 90.295; and prescribing an effective date.\n\t",
+    "RelatingTo": "Relating to applicant screening for residential tenants; prescribing an effective date.",
+    "AtTheRequestOf": "(at the request of Kevin Cronin)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SHDEV",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Tim Walker",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 899,
+    "Vetoed": false,
+    "CreatedDate": "2022-12-23T09:07:21",
+    "ModifiedDate": "2023-01-23T11:59:26",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "127777",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 684,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Manning Jr",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-01-07T22:25:06",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "127778",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 684,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Pham K",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-01-07T22:25:06",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 550124,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 684,
+      "Chamber": "S",
+      "ActionDate": "2023-01-09T10:53:53",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2023-01-09T11:09:24",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 551791,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 684,
+      "Chamber": "S",
+      "ActionDate": "2023-01-15T08:54:08",
+      "ActionText": "Referred to Housing and Development.",
+      "VoteText": null,
+      "CreatedDate": "2023-01-15T08:55:56",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 600796,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 684,
+      "Chamber": "S",
+      "ActionDate": "2023-06-25T16:30:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2023-06-29T14:10:29",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 684,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/SB684/Introduced",
+      "CreatedDate": "2023-01-07T21:18:30.93",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

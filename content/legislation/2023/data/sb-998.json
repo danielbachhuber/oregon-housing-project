@@ -1,0 +1,143 @@
+{
+  "measure": {
+    "SessionKey": "2023R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 998,
+    "CatchLine": "Authorizes cities to include modifications to system development charges in housing productions strategy.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tAuthorizes cities to include modifications to system development charges in housing productions strategy. Allows Land Conservation and Development Commission to require modifications to charges in compliance order for unsatisfactory progress in implementing strategy. Authorizes local government to exempt affordable housing from system development charges. Becomes operative January 1, 2024. \n\tRequires Department of Land Conservation and Development to report to interim committee of Legislative Assembly on recommended legislative changes to adopt consolidated infrastructure funding on or before December 15, 2023. \n\tDeclares emergency, effective on passage.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to infrastructure; creating new provisions; amending ORS 197.290, 197.335 and 223.301; and declaring an emergency.\n\t",
+    "RelatingTo": "Relating to infrastructure; declaring an emergency.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SHDEV",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": true,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Tim Walker",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 3848,
+    "Vetoed": false,
+    "CreatedDate": "2023-02-21T11:40:29",
+    "ModifiedDate": "2023-02-27T11:25:29",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "134136",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 998,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Jama",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-02-21T21:05:04",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 557281,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 998,
+      "Chamber": "S",
+      "ActionDate": "2023-02-22T10:32:27",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2023-02-22T10:47:05",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 557944,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 998,
+      "Chamber": "S",
+      "ActionDate": "2023-02-24T13:10:42",
+      "ActionText": "Referred to Housing and Development.",
+      "VoteText": null,
+      "CreatedDate": "2023-02-24T13:12:08",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 601264,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 998,
+      "Chamber": "S",
+      "ActionDate": "2023-06-25T16:30:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2023-06-29T14:10:29",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 998,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/SB998/Introduced",
+      "CreatedDate": "2023-02-21T17:27:09.957",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": [
+    {
+      "CommTestId": 60010,
+      "SubmitterFirstName": "Anna",
+      "SubmitterLastName": "Braun",
+      "BehalfOf": "Oregon Home Builders Association ",
+      "Organization": "Braun Law LLC ",
+      "DocumentDescription": "Testimony",
+      "CreatedDate": "2023-03-06T07:06:59.087",
+      "ModifiedDate": "2023-03-06T07:10:17.577",
+      "PdfCreatedFlag": "Y",
+      "PositionOnMeasureId": 3981,
+      "SessionKey": "2023R1",
+      "CommitteeCode": "SHDEV",
+      "MeetingDate": "2023-03-06T08:00:00",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 998,
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2023R1",
+      "FirstName": null,
+      "LastName": null,
+      "ExecApptId": null,
+      "Topic": "Authorizes cities to include modifications to system development charges in housing productions strategy."
+    },
+    {
+      "CommTestId": 60632,
+      "SubmitterFirstName": "David",
+      "SubmitterLastName": "Wall",
+      "BehalfOf": "Mr Oregon Opposes SB 998",
+      "Organization": "Newberg",
+      "DocumentDescription": "Testimony",
+      "CreatedDate": "2023-03-07T14:02:28.713",
+      "ModifiedDate": "2023-03-07T14:04:59.267",
+      "PdfCreatedFlag": "Y",
+      "PositionOnMeasureId": 3982,
+      "SessionKey": "2023R1",
+      "CommitteeCode": "SHDEV",
+      "MeetingDate": "2023-03-06T08:00:00",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 998,
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2023R1",
+      "FirstName": null,
+      "LastName": null,
+      "ExecApptId": null,
+      "Topic": "Authorizes cities to include modifications to system development charges in housing productions strategy."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2021R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3060,
+    "CatchLine": "Directs Department of Land Conservation and Development to study issues relating to land use and report to appropriate committee or interim committee of Legislative Assembly on or before September 15, 2022.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDirects Department of Land Conservation and Development to study issues relating to land use and report to appropriate committee or interim committee of Legislative Assembly on or before September 15, 2022. \n\tSunsets December 31, 2022.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to land use.\n\t",
+    "RelatingTo": "Relating to land use.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HRULES",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Haylee Morse-Miller",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 1190,
+    "Vetoed": false,
+    "CreatedDate": "2021-01-25T11:20:00",
+    "ModifiedDate": "2021-02-16T13:26:44",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "117243",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3060,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Speaker Kotek",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2021-01-25T21:05:02",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 496164,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3060,
+      "Chamber": "H",
+      "ActionDate": "2021-01-26T10:05:02",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2021-01-26T10:05:22",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 496527,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3060,
+      "Chamber": "H",
+      "ActionDate": "2021-01-28T15:15:47",
+      "ActionText": "Referred to Rules.",
+      "VoteText": null,
+      "CreatedDate": "2021-01-28T15:16:03",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 537557,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3060,
+      "Chamber": "H",
+      "ActionDate": "2021-06-26T17:37:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2021-07-13T12:52:01",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3060,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/HB3060/Introduced",
+      "CreatedDate": "2021-01-25T17:03:36.457",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

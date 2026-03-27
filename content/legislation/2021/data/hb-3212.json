@@ -1,0 +1,137 @@
+{
+  "measure": {
+    "SessionKey": "2021R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3212,
+    "CatchLine": "Lowers number of actions to foreclose trust deed by advertisement and sale or by suit that beneficiary may commence during preceding calendar year and still claim exemption from requirement to participate in resolution conference with borrower that has failed to pay amount due on obligation secured by residential real property.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tLowers number of actions to foreclose trust deed by advertisement and sale or by suit that beneficiary may commence during preceding calendar year and still claim exemption from requirement to participate in resolution conference with borrower that has failed to pay amount due on obligation secured by residential real property. \n\tDeclares emergency, effective on passage.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to qualifications for an exemption from the requirement to participate in a resolution conference; creating new provisions; amending ORS 86.726; and declaring an emergency.\n\t",
+    "RelatingTo": "Relating to qualifications for an exemption from the requirement to participate in a resolution conference; declaring an emergency.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HRULES",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "No fiscal impact",
+    "RevenueImpact": "Revenue impact issued",
+    "EmergencyClause": true,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 3512,
+    "Vetoed": false,
+    "CreatedDate": "2021-02-12T15:09:25",
+    "ModifiedDate": "2021-04-15T16:14:43",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "118488",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3212,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Holvey",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2021-02-22T21:05:02",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 499743,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3212,
+      "Chamber": "H",
+      "ActionDate": "2021-02-23T10:32:09",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2021-02-23T10:32:41",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 500535,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3212,
+      "Chamber": "H",
+      "ActionDate": "2021-02-26T07:55:16",
+      "ActionText": "Referred to Business and Labor.",
+      "VoteText": null,
+      "CreatedDate": "2021-02-26T07:56:03",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 515182,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3212,
+      "Chamber": "H",
+      "ActionDate": "2021-04-12T15:17:00",
+      "ActionText": "Work Session held.",
+      "VoteText": null,
+      "CreatedDate": "2021-04-12T16:03:45",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 516108,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3212,
+      "Chamber": "H",
+      "ActionDate": "2021-04-15T16:13:28",
+      "ActionText": "Without recommendation as to passage and be referred to Rules.",
+      "VoteText": null,
+      "CreatedDate": "2021-04-15T16:14:43",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 516109,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3212,
+      "Chamber": "H",
+      "ActionDate": "2021-04-15T16:13:29",
+      "ActionText": "Referred to Rules by order of Speaker.",
+      "VoteText": null,
+      "CreatedDate": "2021-04-15T16:14:43",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 537615,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3212,
+      "Chamber": "H",
+      "ActionDate": "2021-06-26T17:37:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2021-07-13T12:52:01",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3212,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/HB3212/Introduced",
+      "CreatedDate": "2021-02-22T16:48:12.403",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

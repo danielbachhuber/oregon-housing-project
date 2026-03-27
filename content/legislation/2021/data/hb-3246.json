@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2021R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3246,
+    "CatchLine": "Allows partition of land zoned for exclusive farm use that contains dwelling.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tAllows partition of land zoned for exclusive farm use that contains dwelling. Specifies conditions on partition.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to partition of land zoned for exclusive farm use that contains a dwelling; amending ORS 197.665, 215.263, 215.265 and 329A.440.\n\t",
+    "RelatingTo": "Relating to partition of land zoned for exclusive farm use that contains a dwelling.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HRULES",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Haylee Morse-Miller",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 3397,
+    "Vetoed": false,
+    "CreatedDate": "2021-02-18T10:56:13",
+    "ModifiedDate": "2021-03-17T11:25:17",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "118559",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3246,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Noble",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2021-02-22T21:05:02",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 499777,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3246,
+      "Chamber": "H",
+      "ActionDate": "2021-02-23T10:32:09",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2021-02-23T10:32:41",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 500560,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3246,
+      "Chamber": "H",
+      "ActionDate": "2021-02-26T07:55:16",
+      "ActionText": "Referred to Rules.",
+      "VoteText": null,
+      "CreatedDate": "2021-02-26T07:56:03",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 536903,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3246,
+      "Chamber": "H",
+      "ActionDate": "2021-06-26T17:37:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2021-07-13T12:52:00",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3246,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/HB3246/Introduced",
+      "CreatedDate": "2021-02-22T16:48:15.123",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

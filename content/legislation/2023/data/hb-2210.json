@@ -1,0 +1,126 @@
+{
+  "measure": {
+    "SessionKey": "2023R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 2210,
+    "CatchLine": "Allows counties to authorize subdivision of land zoned for exclusive farm use or forest use into parcels no smaller than average size of county's lots and parcels of same type.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tAllows counties to authorize subdivision of land zoned for exclusive farm use or forest use into parcels no smaller than average size of county's lots and parcels of same type.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to parcel sizes of resource lands; amending ORS 215.780.\n\t",
+    "RelatingTo": "Relating to parcel sizes of resource lands.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HALNRW",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Tim Walker",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 1903,
+    "Vetoed": false,
+    "CreatedDate": "2022-12-15T14:46:05",
+    "ModifiedDate": "2023-01-19T09:10:48",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "131001",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2210,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Smith DB",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-01-08T00:35:03",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "131002",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2210,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Morgan",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "2",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-01-08T00:35:03",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "131267",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2210,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Levy B",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-01-11T13:37:11",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 548586,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2210,
+      "Chamber": "H",
+      "ActionDate": "2023-01-09T08:13:56",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2023-01-09T08:16:12",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 550467,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2210,
+      "Chamber": "H",
+      "ActionDate": "2023-01-11T12:08:51",
+      "ActionText": "Referred to Agriculture, Land Use, Natural Resources, and Water.",
+      "VoteText": null,
+      "CreatedDate": "2023-01-11T12:09:17",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 599109,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2210,
+      "Chamber": "H",
+      "ActionDate": "2023-06-25T16:26:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2023-06-28T16:35:40",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2210,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/HB2210/Introduced",
+      "CreatedDate": "2023-01-07T18:57:30.43",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

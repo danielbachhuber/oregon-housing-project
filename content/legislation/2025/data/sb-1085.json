@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 1085,
+    "CatchLine": "Quarters the minimum acreage for farm, forest and rangeland lots or parcels.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: This Act reduces minimum lot sizes for farm and forest lands. (Flesch Readability Score: 72.6). \n\tQuarters the minimum acreage for farm, forest and rangeland lots or parcels. Allows farm, forest or rangeland lots to be created from land without water rights if the land is subdivided to establish at least four dwellings that will share infrastructure and amenities. \n\tDeclares an emergency, effective on passage.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to minimum lot sizes for resource lands; amending ORS 215.263, 215.304 and 215.780; and declaring an emergency.\n\t",
+    "RelatingTo": "Relating to minimum lot sizes for resource lands; declaring an emergency.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SHDEV",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": true,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 4325,
+    "Vetoed": false,
+    "CreatedDate": "2025-02-21T14:37:23",
+    "ModifiedDate": "2025-02-26T10:33:29",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "150979",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1085,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Anderson",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-02-24T17:40:02",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 624284,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1085,
+      "Chamber": "S",
+      "ActionDate": "2025-02-25T10:32:29",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-02-25T11:24:40",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 624460,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1085,
+      "Chamber": "S",
+      "ActionDate": "2025-02-25T11:46:34",
+      "ActionText": "Referred to Housing and Development.",
+      "VoteText": null,
+      "CreatedDate": "2025-02-25T11:48:22",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 659143,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1085,
+      "Chamber": "S",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-28T16:50:21",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1085,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB1085/Introduced",
+      "CreatedDate": "2025-02-24T17:18:30.603",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

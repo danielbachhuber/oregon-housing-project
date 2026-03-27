@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2021R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 118,
+    "CatchLine": "Allows surviving spouse or disabled heir of individual whose homestead was granted deferral under homestead property tax deferral program to continue deferral without having owned or occupied homestead for five years.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tAllows surviving spouse or disabled heir of individual whose homestead was granted deferral under homestead property tax deferral program to continue deferral without having owned or occupied homestead for five years. \n\tAllows claim for deferral to be filed late, with payment of fee. Modifies procedures related to maximum number of claims for deferral that may be granted for property tax year. \n\tExtends sunset for deferral program. \n\tEliminates requirement to submit income statement to county assessor with application for delay in foreclosure. \n\tTakes effect on 91st day following adjournment sine die.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to the homestead property tax deferral program; creating new provisions; amending ORS 311.666, 311.668, 311.670, 311.672, 311.688 and 311.693 and section 24, chapter 723, Oregon Laws 2011; and prescribing an effective date.\n\t",
+    "RelatingTo": "Relating to the homestead property tax deferral program; prescribing an effective date.",
+    "AtTheRequestOf": "(at the request of Governor Kate Brown for Department of Revenue)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SFR",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Jaime McGovern",
+    "LCNumber": 507,
+    "Vetoed": false,
+    "CreatedDate": "2020-12-14T11:02:48",
+    "ModifiedDate": "2021-01-19T14:19:40",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "113200",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 118,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "Printed pursuant to Senate Interim Rule 213.28 by order of the President of the Senate in conformance with presession filing rules, indicating neither advocacy nor opposition on the part of the President.",
+      "CreatedDate": "2021-01-09T19:30:57",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 493211,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 118,
+      "Chamber": "S",
+      "ActionDate": "2021-01-11T09:28:22",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2021-01-11T09:28:40",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 494034,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 118,
+      "Chamber": "S",
+      "ActionDate": "2021-01-19T11:35:42",
+      "ActionText": "Referred to Finance and Revenue.",
+      "VoteText": null,
+      "CreatedDate": "2021-01-19T11:36:35",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 536275,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 118,
+      "Chamber": "S",
+      "ActionDate": "2021-06-26T17:37:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2021-07-06T13:57:54",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 118,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/SB118/Introduced",
+      "CreatedDate": "2021-01-10T08:18:38.68",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

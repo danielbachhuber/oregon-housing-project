@@ -1,0 +1,126 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3184,
+    "CatchLine": "Provides that a homestead may not be sold on execution to satisfy a judgment that does not exceed the amount of the homestead exemption.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: The Act says that a homestead may not be sold on execution for a judgment that is not more than the amount of the homestead exemption. (Flesch Readability Score: 60.0). \n\tProvides that a homestead may not be sold on execution to satisfy a judgment that does not exceed the amount of the homestead exemption.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to the homestead exemption; creating new provisions; and amending ORS 18.395, 18.908 and 18.912.\n\t",
+    "RelatingTo": "Relating to the homestead exemption.",
+    "AtTheRequestOf": "(at the request of Oregon Consumer Justice)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HCCP",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": null,
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Roxanne Adams",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 2763,
+    "Vetoed": false,
+    "CreatedDate": "2024-12-31T13:18:07",
+    "ModifiedDate": "2025-01-17T13:23:44",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "147465",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3184,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "(Presession filed.)",
+      "CreatedDate": "2025-01-08T17:40:30",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "147466",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3184,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Sosa",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-01-08T17:40:30",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "147467",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3184,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Gorsek",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "2",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-01-08T17:40:30",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 615148,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3184,
+      "Chamber": "H",
+      "ActionDate": "2025-01-13T08:01:32",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-13T08:01:46",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 617357,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3184,
+      "Chamber": "H",
+      "ActionDate": "2025-01-17T12:47:46",
+      "ActionText": "Referred to Commerce and Consumer Protection.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-17T12:52:00",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 660881,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3184,
+      "Chamber": "H",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-30T15:33:43",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3184,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3184/Introduced",
+      "CreatedDate": "2025-01-10T13:16:57.323",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

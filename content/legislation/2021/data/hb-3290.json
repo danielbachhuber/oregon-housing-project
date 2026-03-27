@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2021R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3290,
+    "CatchLine": "Transfers certain duties, functions and powers related to state building code and Building Codes Division from Department of Consumer and Business Services to Bureau of Labor and Industries.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tTransfers certain duties, functions and powers related to state building code and Building Codes Division from Department of Consumer and Business Services to Bureau of Labor and Industries. \n\tTransfers certain duties, functions and powers related to occupational health and safety laws from Department of Consumer and Business Services to Bureau of Labor and Industries. \n\tMakes conforming amendments. \n\tBecomes operative January 1, 2022. \n\tDeclares emergency, effective on passage.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to the Bureau of Labor and Industries; creating new provisions; amending ORS 183.530, 215.236, 279C.527, 283.421, 308.310, 315.164, 315.169, 320.192, 401.256, 401.915, 401.922, 421.645, 431A.363, 433.521, 443.760, 446.003, 446.005, 446.007, 446.062, 446.066, 446.072, 446.076, 446.095, 446.100, 446.105, 446.155, 446.160, 446.170, 446.176, 446.180, 446.185, 446.225, 446.230, 446.240, 446.245, 446.250, 446.252, 446.253, 446.255, 446.260, 446.271, 446.280, 446.285, 446.322, 446.395, 446.400, 446.405, 446.410, 446.416, 446.423, 446.430, 446.566, 446.568, 446.571, 446.581, 446.586, 446.591, 446.596, 446.601, 446.606, 446.611, 446.616, 446.621, 446.626, 446.631, 446.636, 446.641, 446.646, 446.666, 446.681, 446.686, 446.691, 446.696, 446.701, 446.706, 446.711, 446.716, 446.721, 446.726, 446.736, 446.741, 446.746, 446.748, 446.751, 446.995, 447.010, 447.020, 447.026, 447.072, 447.076, 447.080, 447.091, 447.095, 447.097, 447.100, 447.118, 447.124, 447.140, 447.145, 447.152, 447.210, 447.220, 447.230, 447.231, 447.233, 447.247, 447.250, 447.260, 447.270, 447.275, 448.330, 450.837, 453.307, 455.010, 455.015, 455.020, 455.022, 455.028, 455.030, 455.040, 455.042, 455.044, 455.046, 455.048, 455.055, 455.058, 455.060, 455.062, 455.065, 455.068, 455.070, 455.083, 455.085, 455.090, 455.095, 455.097, 455.100, 455.110, 455.112, 455.117, 455.122, 455.125, 455.127, 455.129, 455.132, 455.135, 455.138, 455.140, 455.144, 455.146, 455.148, 455.150, 455.152, 455.153, 455.154, 455.155, 455.156, 455.160, 455.165, 455.170, 455.185, 455.188, 455.192, 455.195, 455.198, 455.200, 455.210, 455.220, 455.230, 455.240, 455.310, 455.312, 455.355, 455.365, 455.380, 455.412, 455.415, 455.420, 455.425, 455.430, 455.445, 455.447, 455.448, 455.449, 455.450, 455.457, 455.461, 455.463, 455.465, 455.466, 455.467, 455.471, 455.473, 455.475, 455.479, 455.483, 455.485, 455.490, 455.492, 455.496, 455.500, 455.505, 455.511, 455.525, 455.560, 455.570, 455.575, 455.580, 455.610, 455.616, 455.622, 455.625, 455.626, 455.627, 455.628, 455.630, 455.680, 455.685, 455.690, 455.705, 455.715, 455.720, 455.723, 455.725, 455.732, 455.735, 455.737, 455.740, 455.770, 455.775, 455.800, 455.805, 455.810, 455.815, 455.820, 455.895, 460.005, 460.024, 460.035, 460.045, 460.055, 460.057, 460.059, 460.061, 460.065, 460.075, 460.085, 460.125, 460.135, 460.145, 460.155, 460.165, 460.175, 460.310, 460.320, 460.330, 460.350, 460.352, 460.355, 460.360, 460.370, 469.700, 469.735, 469.740, 469.745, 469B.103, 469B.279, 470.560, 479.155, 479.520, 479.530, 479.540, 479.560, 479.570, 479.630, 479.632, 479.730, 479.740, 479.760, 479.770, 479.810, 479.815, 479.820, 479.840, 479.850, 479.853, 479.854, 479.855, 479.860, 479.910, 479.915, 479.950, 480.432, 480.450, 480.515, 480.520, 480.525, 480.530, 480.535, 480.545, 480.565, 480.570, 480.585, 480.595, 480.600, 480.605, 480.610, 480.630, 480.647, 480.670, 634.063, 654.003, 654.005, 654.022, 654.025, 654.031, 654.035, 654.056, 654.062, 654.067, 654.071, 654.078, 654.082, 654.086, 654.090, 654.097, 654.120, 654.130, 654.150, 654.160, 654.172, 654.174, 654.182, 654.189, 654.191, 654.196, 654.200, 654.202, 654.251, 654.285, 654.290, 654.310, 654.416, 654.760, 654.770, 654.780, 654.991, 656.268, 656.612, 656.726, 656.732, 658.440, 658.705, 658.717, 658.750, 658.755, 658.780, 658.785, 658.790, 658.805, 658.825, 672.107, 693.025, 693.115, 693.165, 701.550 and 701.995 and section 1, chapter 350, Oregon Laws 2019; repealing ORS 658.827; and declaring an emergency.\n\t",
+    "RelatingTo": "Relating to the Bureau of Labor and Industries; declaring an emergency.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HBL",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": true,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Kim To",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 3372,
+    "Vetoed": false,
+    "CreatedDate": "2021-02-22T11:43:57",
+    "ModifiedDate": "2021-03-17T11:26:42",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "118625",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3290,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Holvey",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2021-02-22T21:05:02",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 499821,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3290,
+      "Chamber": "H",
+      "ActionDate": "2021-02-23T10:32:09",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2021-02-23T10:32:41",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 500578,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3290,
+      "Chamber": "H",
+      "ActionDate": "2021-02-26T07:55:16",
+      "ActionText": "Referred to Business and Labor with subsequent referral to Ways and Means.",
+      "VoteText": null,
+      "CreatedDate": "2021-02-26T07:56:03",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 537483,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3290,
+      "Chamber": "H",
+      "ActionDate": "2021-06-26T17:37:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2021-07-13T12:52:01",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3290,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/HB3290/Introduced",
+      "CreatedDate": "2021-02-22T14:57:03.81",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

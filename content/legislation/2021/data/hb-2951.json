@@ -1,0 +1,111 @@
+{
+  "measure": {
+    "SessionKey": "2021R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 2951,
+    "CatchLine": "Prohibits association or other owners from retaliating or discriminating against owner for exercising owner's right.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tProhibits association or other owners from retaliating or discriminating against owner for exercising owner's right. Awards attorney fees to prevailing aggrieved owner.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to actions taken against lot owners in homeowners association.\n\t",
+    "RelatingTo": "Relating to actions taken against lot owners in homeowners association.",
+    "AtTheRequestOf": "(at the request of Dana Weintraub)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HHOUS",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 2640,
+    "Vetoed": false,
+    "CreatedDate": "2021-01-08T09:00:36",
+    "ModifiedDate": "2021-02-16T11:10:10",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "116897",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2951,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Helm",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2021-01-21T08:00:03",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 495642,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2951,
+      "Chamber": "H",
+      "ActionDate": "2021-01-21T09:03:02",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2021-01-21T09:03:23",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 496046,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2951,
+      "Chamber": "H",
+      "ActionDate": "2021-01-26T08:12:34",
+      "ActionText": "Referred to Housing.",
+      "VoteText": null,
+      "CreatedDate": "2021-01-26T08:12:57",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 497059,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2951,
+      "Chamber": "H",
+      "ActionDate": "2021-02-02T08:01:00",
+      "ActionText": "Public Hearing held.",
+      "VoteText": null,
+      "CreatedDate": "2021-02-02T13:38:16",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 537158,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2951,
+      "Chamber": "H",
+      "ActionDate": "2021-06-26T17:37:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2021-07-13T12:52:01",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2951,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/HB2951/Introduced",
+      "CreatedDate": "2021-01-13T11:12:31.683",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

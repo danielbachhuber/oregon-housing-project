@@ -1,0 +1,140 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3139,
+    "CatchLine": "Authorizes a county to allow a homestead rebuilt by the same owner on the same lot to replace the homestead destroyed by wildfire to have a specially assessed value equal to the destroyed homestead's real market value for the property tax year during which the homestead is destroyed, to the extent of the square footage of the destroyed homestead.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: The Act would let a county grant a property tax break to homes rebuilt after being destroyed by a wildfire. (Flesch Readability Score: 72.3). \n\tAuthorizes a county to allow a homestead rebuilt by the same owner on the same lot to replace the homestead destroyed by wildfire to have a specially assessed value equal to the destroyed homestead's real market value for the property tax year during which the homestead is destroyed, to the extent of the square footage of the destroyed homestead. Provides that the specially assessed value continues until the earliest of the date on which the rebuilt homestead is no longer the owner's principal dwelling, is rented to another person for any duration or is transferred to new ownership. \n\tTakes effect on the 91st day following adjournment sine die.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to the assessment of rebuilt homesteads; creating new provisions; amending ORS 310.165; and prescribing an effective date.\n\t",
+    "RelatingTo": "Relating to the assessment of rebuilt homesteads; prescribing an effective date.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HREV",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Roxanne Adams",
+    "RevenueEconomist": "Beau Olen",
+    "LCNumber": 3774,
+    "Vetoed": false,
+    "CreatedDate": "2024-12-31T13:18:07",
+    "ModifiedDate": "2025-03-07T08:05:13",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "146565",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3139,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "(Presession filed.)",
+      "CreatedDate": "2025-01-07T16:28:18",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "146566",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3139,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Breese-Iverson",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-01-07T16:28:18",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "146567",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3139,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Girod",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "2",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-01-07T16:28:18",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "148561",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3139,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Elmer",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-01-21T16:42:00",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 615103,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3139,
+      "Chamber": "H",
+      "ActionDate": "2025-01-13T08:01:32",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-13T08:01:46",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 617312,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3139,
+      "Chamber": "H",
+      "ActionDate": "2025-01-17T12:47:46",
+      "ActionText": "Referred to Revenue.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-17T12:52:00",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 660026,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3139,
+      "Chamber": "H",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-30T15:33:42",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3139,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3139/Introduced",
+      "CreatedDate": "2025-01-10T13:16:52.573",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2021R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 729,
+    "CatchLine": "Requires seller of property to include in disclosure statement whether property has been used for, or investigated or inspected for use of, manufacturing, distribution or disposal of illegal drugs.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tRequires seller of property to include in disclosure statement whether property has been used for, or investigated or inspected for use of, manufacturing, distribution or disposal of illegal drugs.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to seller's property disclosure statement; amending ORS 105.464.\n\t",
+    "RelatingTo": "Relating to seller's property disclosure statement.",
+    "AtTheRequestOf": "(at the request of Senator Kim Thatcher)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SJD110",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Libby Chamberlin",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 1871,
+    "Vetoed": false,
+    "CreatedDate": "2021-01-27T12:51:21",
+    "ModifiedDate": "2021-02-12T10:47:50",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "117642",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 729,
+      "SponsorType": "Committee",
+      "LegislatoreCode": null,
+      "CommitteeCode": "SJD110",
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2021-02-03T21:05:03",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 497397,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 729,
+      "Chamber": "S",
+      "ActionDate": "2021-02-04T09:01:19",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2021-02-04T09:02:22",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 498259,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 729,
+      "Chamber": "S",
+      "ActionDate": "2021-02-10T11:40:34",
+      "ActionText": "Referred to Judiciary and Ballot Measure 110 Implementation.",
+      "VoteText": null,
+      "CreatedDate": "2021-02-10T11:41:51",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 536386,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 729,
+      "Chamber": "S",
+      "ActionDate": "2021-06-26T17:37:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2021-07-06T13:57:54",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 729,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/SB729/Introduced",
+      "CreatedDate": "2021-02-03T16:33:49.133",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

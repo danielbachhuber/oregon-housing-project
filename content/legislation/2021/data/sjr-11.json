@@ -1,0 +1,112 @@
+{
+  "measure": {
+    "SessionKey": "2021R1",
+    "MeasurePrefix": "SJR",
+    "MeasureNumber": 11,
+    "CatchLine": "Proposes amendment to Oregon Constitution directing Legislative Assembly to enact property tax relief program for owner-occupied principal dwellings of certain seniors.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tProposes amendment to Oregon Constitution directing Legislative Assembly to enact property tax relief program for owner-occupied principal dwellings of certain seniors. \n\tRefers proposed amendment to people for their approval or rejection at next regular general election.",
+    "CurrentVersion": null,
+    "RelatingToFull": "\n\t",
+    "RelatingTo": "Proposing amendment to Oregon Constitution relating to a property tax relief program for owner-occupied principal dwellings of certain seniors.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SFR",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Kim To",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 2351,
+    "Vetoed": false,
+    "CreatedDate": "2020-12-21T16:27:33",
+    "ModifiedDate": "2021-01-19T19:15:40",
+    "PrefixMeaning": "Senate Joint Resolution"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "116521",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SJR",
+      "MeasureNumber": 11,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "(Presession filed.)",
+      "CreatedDate": "2021-01-09T19:32:48",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "116522",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SJR",
+      "MeasureNumber": 11,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Knopp",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2021-01-09T19:32:48",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 493030,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SJR",
+      "MeasureNumber": 11,
+      "Chamber": "S",
+      "ActionDate": "2021-01-11T09:28:22",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2021-01-11T09:28:40",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 493908,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SJR",
+      "MeasureNumber": 11,
+      "Chamber": "S",
+      "ActionDate": "2021-01-19T11:35:42",
+      "ActionText": "Referred to Finance and Revenue.",
+      "VoteText": null,
+      "CreatedDate": "2021-01-19T11:36:34",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 535989,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SJR",
+      "MeasureNumber": 11,
+      "Chamber": "S",
+      "ActionDate": "2021-06-26T17:37:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2021-07-06T13:57:54",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SJR",
+      "MeasureNumber": 11,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/SJR11/Introduced",
+      "CreatedDate": "2021-01-10T08:33:43.43",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

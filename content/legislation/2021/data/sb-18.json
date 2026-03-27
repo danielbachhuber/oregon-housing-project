@@ -1,0 +1,112 @@
+{
+  "measure": {
+    "SessionKey": "2021R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 18,
+    "CatchLine": "For purposes of eligibility of property for homestead property tax deferral program, creates minimum cap of $250,000 for maximum allowable real market value of homestead.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tFor purposes of eligibility of property for homestead property tax deferral program, creates minimum cap of $250,000 for maximum allowable real market value of homestead. Directs Department of Revenue to adjust minimum cap for maximum allowable real market value annually according to change in Consumer Price Index. \n\tAllows claim for deferral to be filed late, with payment of fee. Modifies procedure for allowing claims for deferral in excess of maximum allowable number of claims for property tax year. \n\tExtends sunset for deferral program. \n\tTakes effect on 91st day following adjournment sine die.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to the homestead property tax deferral program; creating new provisions; amending ORS 311.666, 311.668, 311.670, 311.672 and 311.694 and section 24, chapter 723, Oregon Laws 2011; and prescribing an effective date.\n\t",
+    "RelatingTo": "Relating to the homestead property tax deferral program; prescribing an effective date.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SFR",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Jaime McGovern",
+    "LCNumber": 793,
+    "Vetoed": false,
+    "CreatedDate": "2020-12-11T14:13:50",
+    "ModifiedDate": "2021-01-19T12:45:47",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "113092",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 18,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "(Presession filed.)",
+      "CreatedDate": "2021-01-09T19:30:57",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "113093",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 18,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Findley",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2021-01-09T19:30:57",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 493111,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 18,
+      "Chamber": "S",
+      "ActionDate": "2021-01-11T09:28:22",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2021-01-11T09:28:40",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 493934,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 18,
+      "Chamber": "S",
+      "ActionDate": "2021-01-19T11:35:42",
+      "ActionText": "Referred to Finance and Revenue.",
+      "VoteText": null,
+      "CreatedDate": "2021-01-19T11:36:34",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 536048,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 18,
+      "Chamber": "S",
+      "ActionDate": "2021-06-26T17:37:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2021-07-06T13:57:54",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 18,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/SB18/Introduced",
+      "CreatedDate": "2021-01-10T08:18:32.38",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

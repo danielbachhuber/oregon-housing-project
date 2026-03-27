@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2023R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 938,
+    "CatchLine": "Instructs office of State Fire Marshal to develop and distribute curriculum for adult learners that relates to fire safety.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tInstructs office of State Fire Marshal to develop and distribute curriculum for adult learners that relates to fire safety. \n\tInstructs Housing and Community Services Department, Department of Human Services and Oregon Health Authority to take certain actions related to residential fire safety. Becomes operative July 1, 2024. \n\tRequires institutions of higher education and certain schools to take certain actions related to residential fire safety. First applies to 2024-2025 school year.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to fire safety; creating new provisions; and amending ORS 336.071.\n\t",
+    "RelatingTo": "Relating to fire safety.",
+    "AtTheRequestOf": "(at the request of Lauren Gibbs)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SNR",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Emily Coates",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 2812,
+    "Vetoed": false,
+    "CreatedDate": "2023-02-20T10:01:32",
+    "ModifiedDate": "2023-02-22T16:30:05",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "133898",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 938,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Gelser Blouin",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-02-20T21:05:03",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 557060,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 938,
+      "Chamber": "S",
+      "ActionDate": "2023-02-21T10:23:09",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2023-02-21T10:54:09",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 557446,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 938,
+      "Chamber": "S",
+      "ActionDate": "2023-02-22T15:45:57",
+      "ActionText": "Referred to Natural Resources, then Ways and Means.",
+      "VoteText": null,
+      "CreatedDate": "2023-02-22T15:46:04",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 601218,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 938,
+      "Chamber": "S",
+      "ActionDate": "2023-06-25T16:30:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2023-06-29T14:10:29",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 938,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/SB938/Introduced",
+      "CreatedDate": "2023-02-20T17:48:45.777",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3709,
+    "CatchLine": "Allows a city with a population of 20,000 or fewer to bring exchanged lands into its urban growth boundary, under a temporary program, without regard to the land designation.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: This Act increases lands that a smaller city can add to its UGB through a temporary exchange program. (Flesch Readability Score: 61.6). \n\tAllows a city with a population of 20,000 or fewer to bring exchanged lands into its urban growth boundary, under a temporary program, without regard to the land designation.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to modifications to an urban growth boundary; amending sections 58 and 60, chapter 110, Oregon Laws 2024.\n\t",
+    "RelatingTo": "Relating to modifications to an urban growth boundary.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HALNRW",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Twais Broadus",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 4109,
+    "Vetoed": false,
+    "CreatedDate": "2025-02-23T19:58:01",
+    "ModifiedDate": "2025-02-28T08:27:36",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "150838",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3709,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Evans",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-02-24T17:40:02",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 624393,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3709,
+      "Chamber": "H",
+      "ActionDate": "2025-02-25T11:45:35",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-02-25T11:45:40",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 625254,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3709,
+      "Chamber": "H",
+      "ActionDate": "2025-02-27T11:41:05",
+      "ActionText": "Referred to Agriculture, Land Use, Natural Resources, and Water.",
+      "VoteText": null,
+      "CreatedDate": "2025-02-27T11:41:14",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 660443,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3709,
+      "Chamber": "H",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-30T15:33:42",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3709,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3709/Introduced",
+      "CreatedDate": "2025-02-24T17:12:19.753",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

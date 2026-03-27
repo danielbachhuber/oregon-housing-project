@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 1080,
+    "CatchLine": "Prevents local governments or state agencies from prohibiting natural gas use or other energy options in or availability for new or existing residential or commercial buildings.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: This Act prohibits local or agency bans of energy use. (Flesch Readability Score: 61.2). \n\tPrevents local governments or state agencies from prohibiting natural gas use or other energy options in or availability for new or existing residential or commercial buildings.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to regulation of energy use in buildings.\n\t",
+    "RelatingTo": "Relating to regulation of energy use in buildings.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SEE",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Twais Broadus",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 1022,
+    "Vetoed": false,
+    "CreatedDate": "2025-02-21T14:37:23",
+    "ModifiedDate": "2025-02-26T10:33:29",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "150974",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1080,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Anderson",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-02-24T17:40:02",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 624279,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1080,
+      "Chamber": "S",
+      "ActionDate": "2025-02-25T10:32:29",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-02-25T11:24:40",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 624455,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1080,
+      "Chamber": "S",
+      "ActionDate": "2025-02-25T11:46:34",
+      "ActionText": "Referred to Energy and Environment.",
+      "VoteText": null,
+      "CreatedDate": "2025-02-25T11:48:22",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 659138,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1080,
+      "Chamber": "S",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-28T16:50:21",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1080,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB1080/Introduced",
+      "CreatedDate": "2025-02-24T17:18:30.103",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

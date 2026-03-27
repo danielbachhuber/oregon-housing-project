@@ -1,0 +1,83 @@
+{
+  "measure": {
+    "SessionKey": "2023R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 114,
+    "CatchLine": "Requires Housing and Community Services Department to study inclusive housing.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tRequires Housing and Community Services Department to study inclusive housing. Directs department to submit findings to interim committees of Legislative Assembly related to housing not later than September 15, 2024.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to inclusive housing.\n\t",
+    "RelatingTo": "Relating to inclusive housing.",
+    "AtTheRequestOf": "(at the request of Senate Interim Committee on Human Services, Mental Health and Recovery)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SHS",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "MaryMichelle Sosne",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 2435,
+    "Vetoed": false,
+    "CreatedDate": "2022-12-12T15:42:10",
+    "ModifiedDate": "2023-01-12T14:06:09",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 549554,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 114,
+      "Chamber": "S",
+      "ActionDate": "2023-01-09T10:53:53",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2023-01-09T11:09:22",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 551047,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 114,
+      "Chamber": "S",
+      "ActionDate": "2023-01-12T11:26:35",
+      "ActionText": "Referred to Human Services.",
+      "VoteText": null,
+      "CreatedDate": "2023-01-12T11:31:56",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 600589,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 114,
+      "Chamber": "S",
+      "ActionDate": "2023-06-25T16:30:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2023-06-29T14:10:29",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 114,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/SB114/Introduced",
+      "CreatedDate": "2023-01-07T20:48:31.81",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

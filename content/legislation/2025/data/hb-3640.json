@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3640,
+    "CatchLine": "Requires that rules adopted by the Department of Consumer and Business Services with respect to the registration of farmworker camps be consistent with federal regulations governing farmworker housing health and safety standards.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: The Act makes new laws with respect to the registration of farm worker housing. (Flesch Readability Score: 69.9). \n\tRequires that rules adopted by the Department of Consumer and Business Services with respect to the registration of farmworker camps be consistent with federal regulations governing farmworker housing health and safety standards. \n\tDirects the department to register farmworker camps that comply with certain federal regulations. \n\tBecomes operative on January 1, 2028.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to farmworker camp registration; creating new provisions; and amending ORS 658.750.\n\t",
+    "RelatingTo": "Relating to farmworker camp registration.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HLWS",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "MaryMichelle Sosne",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 4285,
+    "Vetoed": false,
+    "CreatedDate": "2025-02-18T14:44:09",
+    "ModifiedDate": "2025-02-22T11:51:54",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "150573",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3640,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Helfrich",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-02-19T17:20:49",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 623575,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3640,
+      "Chamber": "H",
+      "ActionDate": "2025-02-20T11:35:40",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-02-20T11:35:48",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 623867,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3640,
+      "Chamber": "H",
+      "ActionDate": "2025-02-21T10:24:39",
+      "ActionText": "Referred to Labor and Workplace Standards.",
+      "VoteText": null,
+      "CreatedDate": "2025-02-21T10:24:51",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 660568,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3640,
+      "Chamber": "H",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-30T15:33:42",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3640,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3640/Introduced",
+      "CreatedDate": "2025-02-19T16:18:06.143",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

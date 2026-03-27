@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2023R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3145,
+    "CatchLine": "Provides that Director of Department of Consumer and Business Services require in state building code that building inspectors identify in all inspection reports name of person that performed work that requires building inspection and permit number that applies to work or state that owner performed work on owner's own property.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tProvides that Director of Department of Consumer and Business Services require in state building code that building inspectors identify in all inspection reports name of person that performed work that requires building inspection and permit number that applies to work or state that owner performed work on owner's own property. \n\tTakes effect on 91st day following adjournment sine die.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to information required of building inspectors in reports; creating new provisions; amending ORS 455.055; and prescribing an effective date.\n\t",
+    "RelatingTo": "Relating to information required of building inspectors in reports; prescribing an effective date.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HBL",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Tim Walker",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 2216,
+    "Vetoed": false,
+    "CreatedDate": "2023-01-24T16:20:22",
+    "ModifiedDate": "2023-03-17T22:16:36",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "131983",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3145,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Holvey",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-01-25T18:05:01",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 553097,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3145,
+      "Chamber": "H",
+      "ActionDate": "2023-01-26T10:17:29",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2023-01-26T10:18:35",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 553526,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3145,
+      "Chamber": "H",
+      "ActionDate": "2023-01-30T13:47:24",
+      "ActionText": "Referred to Business and Labor.",
+      "VoteText": null,
+      "CreatedDate": "2023-01-30T13:47:41",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 599821,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3145,
+      "Chamber": "H",
+      "ActionDate": "2023-06-25T16:26:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2023-06-28T16:35:41",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3145,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/HB3145/Introduced",
+      "CreatedDate": "2023-01-25T16:21:14.317",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

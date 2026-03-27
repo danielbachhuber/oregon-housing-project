@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2021R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3325,
+    "CatchLine": "Establishes Task Force on Rental Property Inspections.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tEstablishes Task Force on Rental Property Inspections. Requires task force to report to appropriate interim committee of Legislative Assembly on or before September 15, 2022. \n\tSunsets December 31, 2022. \n\tTakes effect on 91st day following adjournment sine die.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to rental property inspections; and prescribing an effective date.\n\t",
+    "RelatingTo": "Relating to rental property inspections; prescribing an effective date.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HHOUS",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Kim To",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 3521,
+    "Vetoed": false,
+    "CreatedDate": "2021-02-23T14:13:27",
+    "ModifiedDate": "2021-03-17T11:32:59",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "118980",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3325,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Ruiz",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2021-03-01T21:05:04",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 501145,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3325,
+      "Chamber": "H",
+      "ActionDate": "2021-03-02T10:50:16",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2021-03-02T10:50:50",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 502988,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3325,
+      "Chamber": "H",
+      "ActionDate": "2021-03-09T19:33:25",
+      "ActionText": "Referred to Housing with subsequent referral to Ways and Means.",
+      "VoteText": null,
+      "CreatedDate": "2021-03-09T19:34:55",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 537552,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3325,
+      "Chamber": "H",
+      "ActionDate": "2021-06-26T17:37:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2021-07-13T12:52:01",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3325,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/HB3325/Introduced",
+      "CreatedDate": "2021-03-01T17:48:22.5",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

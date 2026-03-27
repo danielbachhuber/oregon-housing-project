@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2023R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3434,
+    "CatchLine": "Authorizes cities to bring certain lands within their urban growth boundaries for light industrial and open space uses.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tAuthorizes cities to bring certain lands within their urban growth boundaries for light industrial and open space uses. \n\tSunsets January 2, 2035. \n\tSunsets 2011 program under which Economic Recovery Review Council designated regionally significant industrial areas.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to urban growth boundaries; creating new provisions; amending ORS 285B.637; and repealing ORS 197.722, 197.723, 197.724, 197.726, 197.727 and 197.728.\n\t",
+    "RelatingTo": "Relating to urban growth boundaries.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HALNRW",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Tim Walker",
+    "RevenueEconomist": "Beau Olen",
+    "LCNumber": 3690,
+    "Vetoed": false,
+    "CreatedDate": "2023-02-21T21:11:56",
+    "ModifiedDate": "2023-03-06T09:01:04",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "134508",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3434,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Evans",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-02-22T21:05:03",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 558490,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3434,
+      "Chamber": "H",
+      "ActionDate": "2023-02-28T10:14:25",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2023-02-28T10:19:28",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 559433,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3434,
+      "Chamber": "H",
+      "ActionDate": "2023-03-03T09:30:17",
+      "ActionText": "Referred to Agriculture, Land Use, Natural Resources, and Water.",
+      "VoteText": null,
+      "CreatedDate": "2023-03-03T09:31:48",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 599881,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3434,
+      "Chamber": "H",
+      "ActionDate": "2023-06-25T16:26:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2023-06-28T16:35:41",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3434,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/HB3434/Introduced",
+      "CreatedDate": "2023-02-22T17:27:30.13",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

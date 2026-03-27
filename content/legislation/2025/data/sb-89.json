@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 89,
+    "CatchLine": "Requires the State Department of Energy to coordinate with other organizations, conduct outreach, establish a statewide navigation and support system and provide information in multiple languages, as part of the department's single resource for providing information and assistance related to available energy efficiency incentives and programs.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: Makes ODOE do outreach and provide certain support. (Flesch Readability Score: 61.2). \n\tRequires the State Department of Energy to coordinate with other organizations, conduct outreach, establish a statewide navigation and support system and provide information in multiple languages, as part of the department's single resource for providing information and assistance related to available energy efficiency incentives and programs. \n\tRequires the department to create a statewide clearinghouse for energy and energy efficiency incentive programs that uses a single, universal application form and application process. Requires the department to coordinate with and encourage other incentive and program providers to participate in the statewide clearinghouse. Requires entities to use best practices to maintain the confidentiality and security of information and data as required by law.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to energy; creating new provisions; and amending ORS 469.161.\n\t",
+    "RelatingTo": "Relating to energy.",
+    "AtTheRequestOf": "(at the request of Senate Interim Committee on Energy and Environment)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SEE",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Twais Broadus",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 1823,
+    "Vetoed": false,
+    "CreatedDate": "2024-12-31T13:18:07",
+    "ModifiedDate": "2025-01-22T16:11:01",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "142278",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 89,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "Printed pursuant to Senate Interim Rule 213.28 by order of the President of the Senate in conformance with presession filing rules, indicating neither advocacy nor opposition on the part of the President.",
+      "CreatedDate": "2024-12-20T17:28:43",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 615394,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 89,
+      "Chamber": "S",
+      "ActionDate": "2025-01-13T09:07:30",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-13T09:07:45",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 617661,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 89,
+      "Chamber": "S",
+      "ActionDate": "2025-01-17T14:13:22",
+      "ActionText": "Referred to Energy and Environment, then Ways and Means.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-17T14:16:31",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 659151,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 89,
+      "Chamber": "S",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-28T16:50:21",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 89,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB89/Introduced",
+      "CreatedDate": "2025-01-10T13:20:21.763",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

@@ -1,0 +1,112 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 2856,
+    "CatchLine": "Directs the Department of Veterans' Affairs to provide grants to nonprofit organizations to offset unexpected increases in costs in repurposing buildings for veteran housing and housing programs.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: Tells ODVA to give grants to offset costs that groups incur but did not expect to incur in repurposing buildings for veteran housing. Creates a fund with lottery moneys to fund the grants. (Flesch Readability Score: 67.0). \n\tDirects the Department of Veterans' Affairs to provide grants to nonprofit organizations to offset unexpected increases in costs in repurposing buildings for veteran housing and housing programs. \n\tEstablishes the Veterans Housing Construction Cost Reduction Fund. Directs the State Treasury to transfer, each biennium, moneys from the Veterans' Department of Veterans' Affairs Dedicated Lottery Fund to the Veterans Housing Construction Cost Reduction Fund to be used by the department to provide the grants.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to veteran housing services.\n\t",
+    "RelatingTo": "Relating to veteran housing services.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HHOUSH",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 1083,
+    "Vetoed": false,
+    "CreatedDate": "2024-12-31T13:18:07",
+    "ModifiedDate": "2025-02-22T13:29:07",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "145461",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2856,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "(Presession filed.)",
+      "CreatedDate": "2025-01-06T17:54:11",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "145462",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2856,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Evans",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-01-06T17:54:11",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 614820,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2856,
+      "Chamber": "H",
+      "ActionDate": "2025-01-13T08:01:32",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-13T08:01:45",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 617029,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2856,
+      "Chamber": "H",
+      "ActionDate": "2025-01-17T12:47:46",
+      "ActionText": "Referred to Housing and Homelessness with subsequent referral to Ways and Means.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-17T12:52:00",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 661165,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2856,
+      "Chamber": "H",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-30T15:33:43",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2856,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2856/Introduced",
+      "CreatedDate": "2025-01-10T13:16:21.26",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

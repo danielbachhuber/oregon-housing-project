@@ -1,0 +1,112 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 340,
+    "CatchLine": "Prohibits an insurer from canceling fire insurance policies, or raising policy premiums by more than three percent, if an insured's property is located within the wildland-urban interface or the insured's primary employment or economic or business activity is farming or resource extraction.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: Tells an insurer in some cases not to raise the price of a policy of fire insurance by more than three percent each year or cancel the policy. The cases are if the policy holder lives near wild land or works at farming, logging, mining or similar work. (Flesch Readability Score: 62.6). \n\tProhibits an insurer from canceling fire insurance policies, or raising policy premiums by more than three percent, if an insured's property is located within the wildland-urban interface or the insured's primary employment or economic or business activity is farming or resource extraction. Specifies exceptions. Requires the Department of Consumer and Business Services to determine by rule how to measure employment or economic or business activity for the purposes of qualifying for limitations on cancellations and policy increases. \n\tTakes effect on the 91st day following adjournment sine die.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to fire insurance that covers properties at particular risk of wildfires; creating new provisions; amending ORS 737.310 and 742.224; and prescribing an effective date.\n\t",
+    "RelatingTo": "Relating to fire insurance that covers properties at particular risk of wildfires; prescribing an effective date.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SNRW",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Twais Broadus",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 1546,
+    "Vetoed": false,
+    "CreatedDate": "2024-12-31T13:18:07",
+    "ModifiedDate": "2025-01-23T09:29:29",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "143468",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 340,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "(Presession filed.)",
+      "CreatedDate": "2024-12-30T16:16:37",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "143469",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 340,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Smith DB",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2024-12-30T16:16:37",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 615645,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 340,
+      "Chamber": "S",
+      "ActionDate": "2025-01-13T09:07:30",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-13T09:07:46",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 617912,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 340,
+      "Chamber": "S",
+      "ActionDate": "2025-01-17T14:13:22",
+      "ActionText": "Referred to Natural Resources and Wildfire.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-17T14:16:32",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 658727,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 340,
+      "Chamber": "S",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-28T16:50:21",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 340,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB340/Introduced",
+      "CreatedDate": "2025-01-10T12:21:08.373",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

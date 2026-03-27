@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2023R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 2118,
+    "CatchLine": "Directs Department of Revenue to develop and implement program to award grants to local taxing jurisdictions to reimburse them for property tax expenditures incurred to encourage development and provision of affordable housing.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDirects Department of Revenue to develop and implement program to award grants to local taxing jurisdictions to reimburse them for property tax expenditures incurred to encourage development and provision of affordable housing. \n\tTakes effect on 91st day following adjournment sine die.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to reimbursement for certain property tax expenditures; and prescribing an effective date.\n\t",
+    "RelatingTo": "Relating to reimbursement for certain property tax expenditures; prescribing an effective date.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HHOUSH",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 1883,
+    "Vetoed": false,
+    "CreatedDate": "2022-12-14T12:12:53",
+    "ModifiedDate": "2023-01-19T08:27:20",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "130794",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2118,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Mannix",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-01-08T00:35:02",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 548494,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2118,
+      "Chamber": "H",
+      "ActionDate": "2023-01-09T08:13:56",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2023-01-09T08:16:12",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 550398,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2118,
+      "Chamber": "H",
+      "ActionDate": "2023-01-11T12:08:51",
+      "ActionText": "Referred to Housing and Homelessness with subsequent referral to Revenue.",
+      "VoteText": null,
+      "CreatedDate": "2023-01-11T12:09:17",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 599570,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2118,
+      "Chamber": "H",
+      "ActionDate": "2023-06-25T16:26:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2023-06-28T16:35:41",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2118,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/HB2118/Introduced",
+      "CreatedDate": "2023-01-07T18:48:29.86",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

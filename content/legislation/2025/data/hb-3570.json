@@ -1,0 +1,162 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3570,
+    "CatchLine": "Appropriates moneys to the Oregon Business Development Department to update the inventory of community infrastructure project needs related to the production of new housing and prepare reports on the inventory update and the processes and programs for maintaining inventories of, and providing funding for, drinking water, wastewater and stormwater infrastructure projects.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: The Act would fund an update by Business Oregon of the infrastructure that is needed for new housing. The Act would also have the agency draft two reports, one on the update and one on water-related works. (Flesch Readability Score: 60.0). \n\tAppropriates moneys to the Oregon Business Development Department to update the inventory of community infrastructure project needs related to the production of new housing and prepare reports on the inventory update and the processes and programs for maintaining inventories of, and providing funding for, drinking water, wastewater and stormwater infrastructure projects. \n\tDeclares an emergency, effective on passage.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to community infrastructure inventory; and declaring an emergency.\n\t",
+    "RelatingTo": "Relating to community infrastructure inventory; declaring an emergency.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HHOUSH",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": true,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 4393,
+    "Vetoed": false,
+    "CreatedDate": "2025-02-12T10:59:53",
+    "ModifiedDate": "2025-02-20T10:59:04",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "150084",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3570,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Owens",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-02-12T17:25:01",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "150085",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3570,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Helm",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "2",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-02-12T17:25:01",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "152872",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3570,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Gamba",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-03-24T13:14:56",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 622905,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3570,
+      "Chamber": "H",
+      "ActionDate": "2025-02-18T11:23:22",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-02-18T11:24:54",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 623460,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3570,
+      "Chamber": "H",
+      "ActionDate": "2025-02-20T09:58:52",
+      "ActionText": "Referred to Housing and Homelessness with subsequent referral to Ways and Means.",
+      "VoteText": null,
+      "CreatedDate": "2025-02-20T09:59:52",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 632128,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3570,
+      "Chamber": "H",
+      "ActionDate": "2025-03-24T13:01:00",
+      "ActionText": "Public Hearing held.",
+      "VoteText": null,
+      "CreatedDate": "2025-03-24T14:53:37",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 661316,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3570,
+      "Chamber": "H",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-30T15:33:43",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3570,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3570/Introduced",
+      "CreatedDate": "2025-02-12T16:57:36.777",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": [
+    {
+      "CommTestId": 169107,
+      "SubmitterFirstName": "David",
+      "SubmitterLastName": "Wall",
+      "BehalfOf": "Mr Oregon OPPOSES HB 3570",
+      "Organization": "Newberg",
+      "DocumentDescription": "Testimony",
+      "CreatedDate": "2025-03-26T07:31:23.707",
+      "ModifiedDate": "2025-03-26T07:31:51.9",
+      "PdfCreatedFlag": "Y",
+      "PositionOnMeasureId": 3982,
+      "SessionKey": "2025R1",
+      "CommitteeCode": "HHOUSH",
+      "MeetingDate": "2025-03-24T13:00:00",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3570,
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1",
+      "FirstName": null,
+      "LastName": null,
+      "ExecApptId": null,
+      "Topic": "Appropriates moneys to the Oregon Business Development Department to update the inventory of community infrastructure project needs related to the production of new housing and prepare reports on the inventory update and the processes and programs for maintaining inventories of, and providing funding for, drinking water, wastewater and stormwater infrastructure projects."
+    }
+  ]
+}

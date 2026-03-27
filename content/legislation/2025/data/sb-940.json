@@ -1,0 +1,151 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 940,
+    "CatchLine": "Allows development of certain accessory dwelling units, recreational vehicles or emergency shelters on farmland on which is sited certain nonfarm dwellings.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: This Act expands the meaning of \"area zoned for rural residential use\" for land use planning. (Flesch Readability Score: 60.1). \n\tAllows development of certain accessory dwelling units, recreational vehicles or emergency shelters on farmland on which is sited certain nonfarm dwellings. Subjects such lands to other land use planning requirements.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to rural residential lands; amending ORS 215.501.\n\t",
+    "RelatingTo": "Relating to rural residential lands.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SHDEV",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "Fiscal impact issued",
+    "RevenueImpact": "Revenue impact issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Twais Broadus",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 1667,
+    "Vetoed": false,
+    "CreatedDate": "2025-01-22T10:20:50",
+    "ModifiedDate": "2025-02-10T09:49:29",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "148612",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 940,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Nash",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-01-22T17:38:37",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "151146",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 940,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Smith DB",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "10",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-02-26T13:12:41",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 619028,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 940,
+      "Chamber": "S",
+      "ActionDate": "2025-01-23T10:49:27",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-23T10:56:27",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 619035,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 940,
+      "Chamber": "S",
+      "ActionDate": "2025-01-23T13:00:10",
+      "ActionText": "Referred to Natural Resources and Wildfire.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-23T13:00:25",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 621078,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 940,
+      "Chamber": "S",
+      "ActionDate": "2025-02-06T13:02:00",
+      "ActionText": "Work Session held.",
+      "VoteText": null,
+      "CreatedDate": "2025-02-06T14:40:49",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 621388,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 940,
+      "Chamber": "S",
+      "ActionDate": "2025-02-10T09:08:24",
+      "ActionText": "Recommendation: Without recommendation as to passage and be referred to Housing and Development.",
+      "VoteText": null,
+      "CreatedDate": "2025-02-10T09:49:29",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 621389,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 940,
+      "Chamber": "S",
+      "ActionDate": "2025-02-10T09:08:25",
+      "ActionText": "Referred to Housing and Development by order of the President.",
+      "VoteText": null,
+      "CreatedDate": "2025-02-10T09:49:29",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 659441,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 940,
+      "Chamber": "S",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-28T16:50:21",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 940,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB940/Introduced",
+      "CreatedDate": "2025-01-22T16:27:19.667",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

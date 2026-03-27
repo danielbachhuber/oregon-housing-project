@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2021R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 709,
+    "CatchLine": "Allows surviving spouse or disabled heir of individual whose homestead was granted deferral under homestead property tax deferral program to continue deferral without having owned or occupied homestead for five years.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tAllows surviving spouse or disabled heir of individual whose homestead was granted deferral under homestead property tax deferral program to continue deferral without having owned or occupied homestead for five years. \n\tTakes effect on 91st day following adjournment sine die.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to the homestead property tax deferral program; creating new provisions; amending ORS 311.666, 311.668, 311.670, 311.672 and 311.688 and section 24, chapter 723, Oregon Laws 2011; and prescribing an effective date.\n\t",
+    "RelatingTo": "Relating to the homestead property tax deferral program; prescribing an effective date.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SFR",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Jaime McGovern",
+    "LCNumber": 3352,
+    "Vetoed": false,
+    "CreatedDate": "2021-01-21T12:49:09",
+    "ModifiedDate": "2021-02-16T13:22:52",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "117082",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 709,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Gelser",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2021-01-21T21:05:01",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 495780,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 709,
+      "Chamber": "S",
+      "ActionDate": "2021-01-22T08:29:52",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2021-01-22T08:49:54",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 496313,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 709,
+      "Chamber": "S",
+      "ActionDate": "2021-01-27T17:02:47",
+      "ActionText": "Referred to Finance and Revenue.",
+      "VoteText": null,
+      "CreatedDate": "2021-01-27T17:03:09",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 536125,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 709,
+      "Chamber": "S",
+      "ActionDate": "2021-06-26T17:37:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2021-07-06T13:57:54",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 709,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/SB709/Introduced",
+      "CreatedDate": "2021-01-21T16:42:35.307",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

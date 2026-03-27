@@ -1,0 +1,112 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 2257,
+    "CatchLine": "Appropriates moneys to the Oregon Business Development Department to provide grants to specified cities to build infrastructure that will contribute to the development of housing under the program established by a 2024 Act.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: This Act gives money to OBDD to give grants to cities for infrastructure projects that will contribute to building more homes. (Flesch Readability Score: 64.6). \n\tAppropriates moneys to the Oregon Business Development Department to provide grants to specified cities to build infrastructure that will contribute to the development of housing under the program established by a 2024 Act. Extends sunsets for the program and for cities' reports on the program. \n\tDeclares an emergency, effective July 1, 2025.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to housing; creating new provisions; amending sections 3 and 4, chapter 103, Oregon Laws 2024; and declaring an emergency.\n\t",
+    "RelatingTo": "Relating to housing; declaring an emergency.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HHOUSH",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": true,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 4000,
+    "Vetoed": false,
+    "CreatedDate": "2024-12-31T13:18:07",
+    "ModifiedDate": "2025-01-18T19:07:55",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "142481",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2257,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "(Presession filed.)",
+      "CreatedDate": "2024-12-23T18:54:23",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "142482",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2257,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Wright",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2024-12-23T18:54:23",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 614221,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2257,
+      "Chamber": "H",
+      "ActionDate": "2025-01-13T08:01:32",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-13T08:01:43",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 616430,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2257,
+      "Chamber": "H",
+      "ActionDate": "2025-01-17T12:47:46",
+      "ActionText": "Referred to Housing and Homelessness with subsequent referral to Ways and Means.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-17T12:51:58",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 660259,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2257,
+      "Chamber": "H",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-30T15:33:42",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2257,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2257/Introduced",
+      "CreatedDate": "2025-01-10T13:10:44.717",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

@@ -1,0 +1,111 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3943,
+    "CatchLine": "Requires all state agencies to prepare a report within 60 days on the impacts of the agency's current rules on construction of new housing and the agency's land that may be available for housing production.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: This Act makes agencies report on impacts of current and future rules on home production. (Flesch Readability Score: 61.8). \n\tRequires all state agencies to prepare a report within 60 days on the impacts of the agency's current rules on construction of new housing and the agency's land that may be available for housing production. Requires the agencies to submit the report to the interim committees of the Legislative Assembly related to housing no later than September 15, 2026. Expands, to all state agencies, the requirement to complete housing impact statements upon proposing rules. \n\tTakes effect on the 91st day following adjournment sine die.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to agency support for housing production; creating new provisions; amending ORS 183.335, 183.534 and 183.538; repealing ORS 183.530; and prescribing an effective date.\n\t",
+    "RelatingTo": "Relating to agency support for housing production; prescribing an effective date.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HHOUSH",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 4747,
+    "Vetoed": false,
+    "CreatedDate": "2025-03-18T14:49:38",
+    "ModifiedDate": "2025-04-25T08:37:28",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "152679",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3943,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Diehl",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-03-19T18:15:03",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 630036,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3943,
+      "Chamber": "H",
+      "ActionDate": "2025-03-20T11:25:16",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-03-20T11:27:34",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 630281,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3943,
+      "Chamber": "H",
+      "ActionDate": "2025-03-20T15:38:19",
+      "ActionText": "Referred to Housing and Homelessness with subsequent referral to Ways and Means.",
+      "VoteText": null,
+      "CreatedDate": "2025-03-20T15:38:35",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 643740,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3943,
+      "Chamber": "H",
+      "ActionDate": "2025-04-30T13:01:00",
+      "ActionText": "Informational Meeting held.",
+      "VoteText": null,
+      "CreatedDate": "2025-04-30T14:34:34",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 661293,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3943,
+      "Chamber": "H",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-30T15:33:43",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3943,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3943/Introduced",
+      "CreatedDate": "2025-03-19T17:06:31.407",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

@@ -5,7 +5,7 @@ title = 'Raymond C. Lee III'
 
 # Raymond C. Lee III
 
-Raymond C. Lee III is the City Administrator of Portland, Oregon, appointed by Mayor [Keith Wilson](/people/keith-wilson) in December 2025.[^1] As City Administrator, Lee oversees the city's day-to-day operations and financial management under Portland's new form of government that took effect in January 2025.
+Raymond C. Lee III is the City Administrator of [Portland](/cities/portland), Oregon, appointed by Mayor [Keith Wilson](/people/keith-wilson) in December 2025.[^1] As City Administrator, Lee oversees the city's day-to-day operations and financial management under Portland's new form of government that took effect in January 2025.
 
 ## Key Housing Actions
 

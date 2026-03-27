@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3620,
+    "CatchLine": "Repeals the public purpose charge and public purpose expenditure standard for electric companies and Oregon Community Power.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: Repeals the public purpose charge. (Flesch Readability Score: 66.4). \n\tRepeals the public purpose charge and public purpose expenditure standard for electric companies and Oregon Community Power. \n\tRepeals the Housing and Community Services Department Electricity Public Purpose Charge Fund.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to the public purpose charge; creating new provisions; amending ORS 297.300, 317A.100, 456.587, 458.395, 469A.200, 469B.460, 469B.480, 470.050, 470.510, 470.515, 470.530, 470.550, 470.555, 470.560, 470.815, 757.053, 757.247, 757.365, 757.617, 757.649, 757.659, 757.698, 757.746, 757.747 and 757.872 and section 3, chapter 547, Oregon Laws 2021; and repealing ORS 757.612.\n\t",
+    "RelatingTo": "Relating to the public purpose charge.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HCEE",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Twais Broadus",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 3950,
+    "Vetoed": false,
+    "CreatedDate": "2025-02-16T13:48:00",
+    "ModifiedDate": "2025-02-20T11:02:00",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "150346",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3620,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Reschke",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-02-17T18:03:00",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 622955,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3620,
+      "Chamber": "H",
+      "ActionDate": "2025-02-18T11:23:22",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-02-18T11:24:54",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 623510,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3620,
+      "Chamber": "H",
+      "ActionDate": "2025-02-20T09:58:52",
+      "ActionText": "Referred to Climate, Energy, and Environment.",
+      "VoteText": null,
+      "CreatedDate": "2025-02-20T09:59:52",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 660555,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3620,
+      "Chamber": "H",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-30T15:33:42",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3620,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3620/Introduced",
+      "CreatedDate": "2025-02-17T16:57:38.593",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

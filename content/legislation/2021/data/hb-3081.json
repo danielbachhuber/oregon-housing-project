@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2021R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3081,
+    "CatchLine": "Imposes requirement to procure and maintain workers' compensation insurance on independent contractor that is exempt from licensing by Construction Contractors Board and is residential contractor.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tImposes requirement to procure and maintain workers' compensation insurance on independent contractor that is exempt from licensing by Construction Contractors Board and is residential contractor. \n\tPermits board to revoke, suspend or refuse to issue or reissue contractor's license to licensee if licensee assists or contracts with person that licensee reasonably should have known was unlicensed, and unlicensed person performs work as contractor, or if licensee knowingly assists or contracts with unlicensed person and person performs work as contractor. \n\tSpecifies sanctions that board may impose on person for assisting or contracting with unlicensed other person that performs work as contractor. \n\tTakes effect on 91st day following adjournment sine die.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to construction contractors; creating new provisions; amending ORS 701.035, 701.046, 701.098 and 701.992; and prescribing an effective date.\n\t",
+    "RelatingTo": "Relating to construction contractors; prescribing an effective date.",
+    "AtTheRequestOf": "(at the request of Representative Paul Holvey)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HBL",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 2194,
+    "Vetoed": false,
+    "CreatedDate": "2021-01-26T09:32:39",
+    "ModifiedDate": "2021-02-16T13:27:18",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "117470",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3081,
+      "SponsorType": "Committee",
+      "LegislatoreCode": null,
+      "CommitteeCode": "HBL",
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2021-02-01T21:05:02",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 496999,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3081,
+      "Chamber": "H",
+      "ActionDate": "2021-02-02T10:36:48",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2021-02-02T10:37:40",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 498124,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3081,
+      "Chamber": "H",
+      "ActionDate": "2021-02-09T15:11:50",
+      "ActionText": "Referred to Business and Labor.",
+      "VoteText": null,
+      "CreatedDate": "2021-02-09T15:12:00",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 537605,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3081,
+      "Chamber": "H",
+      "ActionDate": "2021-06-26T17:37:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2021-07-13T12:52:01",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3081,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/HB3081/Introduced",
+      "CreatedDate": "2021-02-01T16:18:43.51",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

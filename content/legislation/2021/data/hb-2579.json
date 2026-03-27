@@ -1,0 +1,126 @@
+{
+  "measure": {
+    "SessionKey": "2021R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 2579,
+    "CatchLine": "Increases state transient lodging tax rate and provides for transfer of moneys attributable to increase to county in which taxes were collected.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tIncreases state transient lodging tax rate and provides for transfer of moneys attributable to increase to county in which taxes were collected. Requires transferred moneys to be used exclusively for affordable housing in county. \n\tTakes effect on 91st day following adjournment sine die.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to state transient lodging taxes; creating new provisions; amending ORS 320.305 and 320.335 and section 3, chapter 600, Oregon Laws 2019; prescribing an effective date; and providing for revenue raising that requires approval by three-fifths majority.\n\t",
+    "RelatingTo": "Relating to state transient lodging taxes; prescribing an effective date.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HHOUS",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Mazen Malik",
+    "LCNumber": 3013,
+    "Vetoed": false,
+    "CreatedDate": "2020-12-24T21:47:19",
+    "ModifiedDate": "2021-01-26T11:38:37",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "113796",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2579,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "(Presession filed.)",
+      "CreatedDate": "2021-01-09T19:31:20",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "113797",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2579,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Pham",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2021-01-09T19:31:20",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "113798",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2579,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Dembrow",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2021-01-09T19:31:20",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 492632,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2579,
+      "Chamber": "H",
+      "ActionDate": "2021-01-11T07:57:04",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2021-01-11T07:59:31",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 495172,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2579,
+      "Chamber": "H",
+      "ActionDate": "2021-01-19T20:40:25",
+      "ActionText": "Referred to Housing with subsequent referral to Revenue, then Ways and Means.",
+      "VoteText": null,
+      "CreatedDate": "2021-01-19T20:40:48",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 537190,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2579,
+      "Chamber": "H",
+      "ActionDate": "2021-06-26T17:37:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2021-07-13T12:52:01",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2579,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/HB2579/Introduced",
+      "CreatedDate": "2021-01-10T08:03:32.66",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

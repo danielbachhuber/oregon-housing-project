@@ -1,0 +1,112 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3888,
+    "CatchLine": "Requires the Land Conservation and Development Commission to, on or before June 30, 2026, adopt rules allowing temporary housing for the construction of solar power generation facilities.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: This Act requires LCDC to adopt rules for siting homes for builders of solar energy plants. (Flesch Readability Score: 63.3). \n\tRequires the Land Conservation and Development Commission to, on or before June 30, 2026, adopt rules allowing temporary housing for the construction of solar power generation facilities. \n\tTakes effect on the 91st day following adjournment sine die.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to solar power generation facilities; and prescribing an effective date.\n\t",
+    "RelatingTo": "Relating to solar power generation facilities; prescribing an effective date.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HCEE",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Twais Broadus",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 3414,
+    "Vetoed": false,
+    "CreatedDate": "2025-02-26T12:46:02",
+    "ModifiedDate": "2025-03-05T10:33:19",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "155057",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3888,
+      "SponsorType": "Committee",
+      "LegislatoreCode": null,
+      "CommitteeCode": "HCEE",
+      "SponsorLevel": "Chief",
+      "PrintOrder": "200",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-06-27T20:05:10",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "155058",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3888,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "300",
+      "PresessionFiledMessage": "(In compliance with House Rule 12.00 (4)(b), committee inherited sponsorship upon removal of sole chief sponsor.)",
+      "CreatedDate": "2025-06-27T20:05:10",
+      "ModifiedDate": "2025-06-27T20:10:00"
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 625064,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3888,
+      "Chamber": "H",
+      "ActionDate": "2025-02-27T11:29:00",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-02-27T11:29:08",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 626473,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3888,
+      "Chamber": "H",
+      "ActionDate": "2025-03-04T16:19:48",
+      "ActionText": "Referred to Climate, Energy, and Environment.",
+      "VoteText": null,
+      "CreatedDate": "2025-03-04T16:19:57",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 661092,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3888,
+      "Chamber": "H",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-30T15:33:43",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3888,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3888/Introduced",
+      "CreatedDate": "2025-02-26T16:50:39.877",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2021R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 2005,
+    "CatchLine": "Directs Housing and Community Services Department to study issues relating to housing supply and report to appropriate committee or interim committee of Legislative Assembly on or before September 15, 2022.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDirects Housing and Community Services Department to study issues relating to housing supply and report to appropriate committee or interim committee of Legislative Assembly on or before September 15, 2022. \n\tSunsets December 31, 2022.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to housing supply.\n\t",
+    "RelatingTo": "Relating to housing supply.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HHOUS",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Kim To",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 1189,
+    "Vetoed": false,
+    "CreatedDate": "2021-01-25T11:10:17",
+    "ModifiedDate": "2021-05-11T11:02:54",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "117205",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2005,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Speaker Kotek",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2021-01-25T21:05:02",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 496142,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2005,
+      "Chamber": "H",
+      "ActionDate": "2021-01-26T10:05:02",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2021-01-26T10:05:22",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 496496,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2005,
+      "Chamber": "H",
+      "ActionDate": "2021-01-28T15:15:47",
+      "ActionText": "Referred to Housing.",
+      "VoteText": null,
+      "CreatedDate": "2021-01-28T15:16:03",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 537556,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2005,
+      "Chamber": "H",
+      "ActionDate": "2021-06-26T17:37:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2021-07-13T12:52:01",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2005,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/HB2005/Introduced",
+      "CreatedDate": "2021-01-25T17:03:34.27",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

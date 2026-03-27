@@ -1,0 +1,126 @@
+{
+  "measure": {
+    "SessionKey": "2021R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 874,
+    "CatchLine": "Allows production of food in planned community by lot owners and their tenants.\t.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tAllows production of food in planned community by lot owners and their tenants.\t.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to producing food in planned communities; amending ORS 94.779. \n\t",
+    "RelatingTo": "Relating to producing food in planned communities.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SRULES",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Kim To",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 3841,
+    "Vetoed": false,
+    "CreatedDate": "2021-06-15T15:08:21",
+    "ModifiedDate": "2021-06-16T13:42:43",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "122679",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 874,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Knopp",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2021-06-15T21:05:02",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "122680",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 874,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Hayden",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "2",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2021-06-15T21:05:02",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "122745",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 874,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Thatcher",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2021-06-17T11:10:52",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 531131,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 874,
+      "Chamber": "S",
+      "ActionDate": "2021-06-16T10:26:58",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2021-06-16T11:05:14",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 531255,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 874,
+      "Chamber": "S",
+      "ActionDate": "2021-06-16T13:34:22",
+      "ActionText": "Referred to Rules.",
+      "VoteText": null,
+      "CreatedDate": "2021-06-16T13:34:52",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 536335,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 874,
+      "Chamber": "S",
+      "ActionDate": "2021-06-26T17:37:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2021-07-06T13:57:54",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 874,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/SB874/Introduced",
+      "CreatedDate": "2021-06-15T17:03:29.75",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

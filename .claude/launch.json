@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "Hugo Dev Server",
+      "runtimeExecutable": "bash",
+      "runtimeArgs": ["-c", "hugo server --port ${PORT:-1313}"],
+      "port": 1313,
+      "autoPort": true
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "measure": {
+    "SessionKey": "2021R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 2653,
+    "CatchLine": "Directs Environmental Quality Commission to adopt rules authorizing single-family dwelling and accessory dwelling unit constructed on same lot or parcel to be permanently connected to same subsurface sewage disposal system or alternative sewage disposal system.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDirects Environmental Quality Commission to adopt rules authorizing single-family dwelling and accessory dwelling unit constructed on same lot or parcel to be permanently connected to same subsurface sewage disposal system or alternative sewage disposal system.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to subsurface sewage disposal; creating new provisions; and amending ORS 454.605.\n\t",
+    "RelatingTo": "Relating to subsurface sewage disposal.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HEE",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Haylee Morse-Miller",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 2816,
+    "Vetoed": false,
+    "CreatedDate": "2020-12-24T19:31:58",
+    "ModifiedDate": "2021-02-01T14:26:16",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "114443",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2653,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "(Presession filed.)",
+      "CreatedDate": "2021-01-09T19:32:18",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "114444",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2653,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Smith DB",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2021-01-09T19:32:18",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "114445",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2653,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Owens",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2021-01-09T19:32:18",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "114446",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2653,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Zika",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2021-01-09T19:32:18",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 492706,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2653,
+      "Chamber": "H",
+      "ActionDate": "2021-01-11T07:57:04",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2021-01-11T07:59:31",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 495246,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2653,
+      "Chamber": "H",
+      "ActionDate": "2021-01-19T20:40:25",
+      "ActionText": "Referred to Energy and Environment.",
+      "VoteText": null,
+      "CreatedDate": "2021-01-19T20:40:48",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 537233,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2653,
+      "Chamber": "H",
+      "ActionDate": "2021-06-26T17:37:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2021-07-13T12:52:01",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2653,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/HB2653/Introduced",
+      "CreatedDate": "2021-01-10T08:06:31.343",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

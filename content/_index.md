@@ -5,7 +5,9 @@ title = 'Home'
 
 # Oregon Housing Project
 
-The mission of the Oregon Housing Project is to explore the topic of housing in Oregon at depth in a way that makes the topic accessible to more people. When it presents analysis, the project is biased towards these opinions:
+The mission of the Oregon Housing Project is to explore the topic of housing in Oregon at depth in a way that makes the topic accessible to more people. It aspires to be the canonical resource about housing for all Oregonians interested in the subject.
+
+When it presents analysis, the project is biased towards these opinions:
 
 * Oregon isn't building enough housing.
 * Oregon's housing is too expensive.
@@ -24,13 +26,14 @@ The Oregon Housing Project catalogs and analyzes Oregon's housing policy landsca
 * **[Cities](/cities/)**: Detailed profiles of individual Oregon cities and their housing situations
 * **[News Coverage](/news-coverage/)**: Media reporting on housing policy developments
 * **[Key Concepts](/key-concepts/)**: Educational content explaining housing policy terms and issues
+* **[Organizations](/organizations/)**: Advocacy groups, nonprofits, and industry associations involved in housing policy
 * **[Metrics](/metrics/)**: Data on housing production and related statistics
 
 Browse the navigation menu to explore these areas in depth.
 
 ## Governance
 
-The project is maintained by [danielbachhuber](https://github.com/danielbachhuber).
+The project is maintained by [danielbachhuber](https://github.com/danielbachhuber), a resident of [Tualatin](/cities/tualatin/). It is unaffiliated with his employer.
 
 ## "LLM-Assisted"
 

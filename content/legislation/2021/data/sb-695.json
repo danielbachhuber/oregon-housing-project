@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2021R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 695,
+    "CatchLine": "Allows counties to authorize construction of accessory dwelling units on lands zoned for rural residential use.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tAllows counties to authorize construction of accessory dwelling units on lands zoned for rural residential use. Establishes conditions of approval for accessory dwelling units. \n\tRequires Department of Consumer and Business Services to map wildfire risk and to develop appropriate fire protection standards within state building code for accessory dwelling units based on fire risk identified in maps. Requires department and Oregon State University College of Forestry to report to interim committee of Legislative Assembly on updates to maps and state building code no later than September 15, 2022.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to accessory dwelling units.\n\t",
+    "RelatingTo": "Relating to accessory dwelling units.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SHDEV",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 3097,
+    "Vetoed": false,
+    "CreatedDate": "2021-01-15T13:05:51",
+    "ModifiedDate": "2021-01-27T17:06:34",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "116864",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 695,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Knopp",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2021-01-20T21:05:02",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 495766,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 695,
+      "Chamber": "S",
+      "ActionDate": "2021-01-22T08:29:52",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2021-01-22T08:49:54",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 496299,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 695,
+      "Chamber": "S",
+      "ActionDate": "2021-01-27T17:02:47",
+      "ActionText": "Referred to Housing and Development.",
+      "VoteText": null,
+      "CreatedDate": "2021-01-27T17:03:09",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 536206,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 695,
+      "Chamber": "S",
+      "ActionDate": "2021-06-26T17:37:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2021-07-06T13:57:54",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 695,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/SB695/Introduced",
+      "CreatedDate": "2021-01-20T12:18:41.04",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

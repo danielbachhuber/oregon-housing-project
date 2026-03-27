@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3673,
+    "CatchLine": "Reduces to 90 days the time under which a city or county must decide a land use application for housing or mental health or addiction facilities.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: This Act speeds up review of housing and facility permits. (Flesch Readability Score: 61.3). \n\tReduces to 90 days the time under which a city or county must decide a land use application for housing or mental health or addiction facilities.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to the timeline for reviewing land use applications; creating new provisions; and amending ORS 197A.470, 215.427, 215.429, 215.433, 227.178 and 227.179.\n\t",
+    "RelatingTo": "Relating to the timeline for reviewing land use applications.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HALNRW",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Twais Broadus",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 2061,
+    "Vetoed": false,
+    "CreatedDate": "2025-02-20T15:11:00",
+    "ModifiedDate": "2025-02-28T08:25:27",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "150769",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3673,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Edwards",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-02-24T17:40:02",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 624357,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3673,
+      "Chamber": "H",
+      "ActionDate": "2025-02-25T11:45:35",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-02-25T11:45:40",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 625218,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3673,
+      "Chamber": "H",
+      "ActionDate": "2025-02-27T11:41:05",
+      "ActionText": "Referred to Agriculture, Land Use, Natural Resources, and Water.",
+      "VoteText": null,
+      "CreatedDate": "2025-02-27T11:41:14",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 660423,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3673,
+      "Chamber": "H",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-30T15:33:42",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3673,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3673/Introduced",
+      "CreatedDate": "2025-02-24T17:12:15.927",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

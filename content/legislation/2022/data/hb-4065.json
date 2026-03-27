@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2022R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 4065,
+    "CatchLine": "Allows certain cities to adopt unique requirements and incentives for inclusion of affordable housing within certain housing developments.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tAllows certain cities to adopt unique requirements and incentives for inclusion of affordable housing within certain housing developments.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to housing developments.\n\t",
+    "RelatingTo": "Relating to housing developments.",
+    "AtTheRequestOf": "(at the request of House Interim Committee on Housing for City of McMinnville)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HHOUS",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 184,
+    "Vetoed": false,
+    "CreatedDate": "2022-01-14T13:36:20",
+    "ModifiedDate": "2022-02-01T14:06:26",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "123491",
+      "SessionKey": "2022R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4065,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "Introduced and printed pursuant to House Rule 12.00.  Presession filed",
+      "CreatedDate": "2022-01-25T10:35:02",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 540366,
+      "SessionKey": "2022R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4065,
+      "Chamber": "H",
+      "ActionDate": "2022-02-01T07:39:06",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2022-02-01T07:41:20",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 541010,
+      "SessionKey": "2022R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4065,
+      "Chamber": "H",
+      "ActionDate": "2022-02-01T13:16:25",
+      "ActionText": "Referred to Housing.",
+      "VoteText": null,
+      "CreatedDate": "2022-02-01T13:16:36",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 545931,
+      "SessionKey": "2022R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4065,
+      "Chamber": "H",
+      "ActionDate": "2022-03-04T11:58:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2022-03-08T10:28:54",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2022R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4065,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2022R1/Downloads/MeasureDocument/HB4065/Introduced",
+      "CreatedDate": "2022-01-25T10:21:07.817",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

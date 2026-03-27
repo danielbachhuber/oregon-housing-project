@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 1133,
+    "CatchLine": "Allows counties to approve the alteration, restoration or replacement of certain nonresidential structures on rural residential lands for use as an accessory dwelling unit.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: This Act lets counties allow the reuse of some rural buildings as second homes. (Flesch Readability Score: 77.8). \n\tAllows counties to approve the alteration, restoration or replacement of certain nonresidential structures on rural residential lands for use as an accessory dwelling unit.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to accessory dwelling units; amending ORS 215.495.\n\t",
+    "RelatingTo": "Relating to accessory dwelling units.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SHDEV",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 4383,
+    "Vetoed": false,
+    "CreatedDate": "2025-02-25T13:06:50",
+    "ModifiedDate": "2025-03-03T15:33:09",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "151571",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1133,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Smith DB",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-02-26T17:50:06",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 624843,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1133,
+      "Chamber": "S",
+      "ActionDate": "2025-02-27T10:24:49",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-02-27T11:02:50",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 625755,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1133,
+      "Chamber": "S",
+      "ActionDate": "2025-03-03T14:19:38",
+      "ActionText": "Referred to Housing and Development.",
+      "VoteText": null,
+      "CreatedDate": "2025-03-03T14:19:58",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 659229,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1133,
+      "Chamber": "S",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-28T16:50:21",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1133,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB1133/Introduced",
+      "CreatedDate": "2025-02-26T15:12:21.363",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

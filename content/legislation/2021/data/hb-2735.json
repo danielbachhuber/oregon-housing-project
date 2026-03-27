@@ -1,0 +1,126 @@
+{
+  "measure": {
+    "SessionKey": "2021R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 2735,
+    "CatchLine": "Allows county to authorize dwelling not in conjunction with a resource use on lawful resource lots or parcels.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tAllows county to authorize dwelling not in conjunction with a resource use on lawful resource lots or parcels.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to dwellings on resource lands; amending ORS 183.457, 197.660, 215.236, 215.263, 215.284, 215.296, 215.304, 215.306, 215.311, 215.316, 215.402, 215.417, 215.455, 215.705, 215.710, 215.757, 215.783 and 308A.053 and section 3, chapter 636, Oregon Laws 2009, and section 4, chapter 433, Oregon Laws 2019; and repealing ORS 215.720, 215.730, 215.740 and 215.750.\n\t",
+    "RelatingTo": "Relating to dwellings on resource lands.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HHOUS",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Haylee Morse-Miller",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 2962,
+    "Vetoed": false,
+    "CreatedDate": "2020-12-27T19:14:32",
+    "ModifiedDate": "2021-01-25T12:46:22",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "114763",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2735,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "(Presession filed.)",
+      "CreatedDate": "2021-01-09T19:32:19",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "114764",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2735,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Leif",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2021-01-09T19:32:19",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "117021",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2735,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Morgan",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2021-01-21T09:12:15",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 492788,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2735,
+      "Chamber": "H",
+      "ActionDate": "2021-01-11T07:57:04",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2021-01-11T07:59:31",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 495328,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2735,
+      "Chamber": "H",
+      "ActionDate": "2021-01-19T20:40:25",
+      "ActionText": "Referred to Housing.",
+      "VoteText": null,
+      "CreatedDate": "2021-01-19T20:40:48",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 536948,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2735,
+      "Chamber": "H",
+      "ActionDate": "2021-06-26T17:37:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2021-07-13T12:52:00",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2735,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/HB2735/Introduced",
+      "CreatedDate": "2021-01-10T08:06:36.28",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

@@ -1,0 +1,143 @@
+{
+  "measure": {
+    "SessionKey": "2021R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 69,
+    "CatchLine": "Expands range of housing for individuals with substance use disorders that is authorized to receive development funding from Oregon Health Authority.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tExpands range of housing for individuals with substance use disorders that is authorized to receive development funding from Oregon Health Authority. \n\tUpdates references to alcoholism, drug dependency and detoxification.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to services for individuals with substance use disorders; creating new provisions; amending ORS 90.243, 90.440, 109.680, 137.227, 137.228, 421.633, 426.005, 430.021, 430.165, 430.197, 430.254, 430.265, 430.306, 430.315, 430.335, 430.338, 430.342, 430.345, 430.359, 430.364, 430.395, 430.402, 430.415, 430.450, 430.455, 430.460, 430.475, 430.485, 430.535, 430.540, 430.545, 430.560, 430.570, 430.630, 430.850, 430.905, 442.015, 678.150, 689.045 and 689.185; and repealing ORS 430.405.\n\t",
+    "RelatingTo": "Relating to services for individuals with substance use disorders.",
+    "AtTheRequestOf": "(at the request of Governor Kate Brown for Oregon Health Authority)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SHSMHR",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Haylee Morse-Miller",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 421,
+    "Vetoed": false,
+    "CreatedDate": "2020-12-14T11:02:48",
+    "ModifiedDate": "2021-01-19T14:11:48",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "113150",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 69,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "Printed pursuant to Senate Interim Rule 213.28 by order of the President of the Senate in conformance with presession filing rules, indicating neither advocacy nor opposition on the part of the President.",
+      "CreatedDate": "2021-01-09T19:30:57",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 493162,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 69,
+      "Chamber": "S",
+      "ActionDate": "2021-01-11T09:28:22",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2021-01-11T09:28:40",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 493985,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 69,
+      "Chamber": "S",
+      "ActionDate": "2021-01-19T11:35:42",
+      "ActionText": "Referred to Human Services, Mental Health and Recovery.",
+      "VoteText": null,
+      "CreatedDate": "2021-01-19T11:36:34",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 536257,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 69,
+      "Chamber": "S",
+      "ActionDate": "2021-06-26T17:37:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2021-07-06T13:57:54",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 69,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/SB69/Introduced",
+      "CreatedDate": "2021-01-10T08:18:35.883",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": [
+    {
+      "CommTestId": 390,
+      "SubmitterFirstName": "Annaliese",
+      "SubmitterLastName": "Dolph",
+      "BehalfOf": "Steve Allen OHA",
+      "Organization": "Oregon Health Authority",
+      "DocumentDescription": "Letter",
+      "CreatedDate": "2021-01-28T11:42:16.15",
+      "ModifiedDate": "2021-01-28T12:38:26.627",
+      "PdfCreatedFlag": "Y",
+      "PositionOnMeasureId": 3983,
+      "SessionKey": "2021R1",
+      "CommitteeCode": "SHSMHR",
+      "MeetingDate": "2021-01-28T15:15:00",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 69,
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2021R1",
+      "FirstName": null,
+      "LastName": null,
+      "ExecApptId": null,
+      "Topic": "Expands range of housing for individuals with substance use disorders that is authorized to receive development funding from Oregon Health Authority."
+    },
+    {
+      "CommTestId": 396,
+      "SubmitterFirstName": "Ruth",
+      "SubmitterLastName": "Adkins",
+      "BehalfOf": "Kaiser Permanente",
+      "Organization": "Kaiser Permanente",
+      "DocumentDescription": "Testimony",
+      "CreatedDate": "2021-01-28T12:32:48.42",
+      "ModifiedDate": "2021-01-28T12:45:13.847",
+      "PdfCreatedFlag": "Y",
+      "PositionOnMeasureId": 3983,
+      "SessionKey": "2021R1",
+      "CommitteeCode": "SHSMHR",
+      "MeetingDate": "2021-01-28T15:15:00",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 69,
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2021R1",
+      "FirstName": null,
+      "LastName": null,
+      "ExecApptId": null,
+      "Topic": "Expands range of housing for individuals with substance use disorders that is authorized to receive development funding from Oregon Health Authority."
+    }
+  ]
+}

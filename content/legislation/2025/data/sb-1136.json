@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 1136,
+    "CatchLine": "Requires the Land Conservation and Development Commission to adopt model ordinances by which a city outside of Metro with a population of less than 25,000 may add lands to its urban growth boundary.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: This Act makes LCDC adopt model rules for UGB amendments for small cities. (Flesch Readability Score: 69.9). \n\tRequires the Land Conservation and Development Commission to adopt model ordinances by which a city outside of Metro with a population of less than 25,000 may add lands to its urban growth boundary. \n\tLimits the bases for appeal of an ordinance adopted by a local government based on a model ordinance of the commission relating to housing or urbanization. \n\tTakes effect on the 91st day following adjournment sine die.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to land use planning model ordinances; creating new provisions; amending ORS 197A.025; and prescribing an effective date.\n\t",
+    "RelatingTo": "Relating to land use planning model ordinances; prescribing an effective date.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SHDEV",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 1179,
+    "Vetoed": false,
+    "CreatedDate": "2025-02-25T13:08:29",
+    "ModifiedDate": "2025-03-03T15:33:09",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "151574",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1136,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Anderson",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-02-26T17:50:06",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 624846,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1136,
+      "Chamber": "S",
+      "ActionDate": "2025-02-27T10:24:49",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-02-27T11:02:50",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 625758,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1136,
+      "Chamber": "S",
+      "ActionDate": "2025-03-03T14:19:38",
+      "ActionText": "Referred to Housing and Development.",
+      "VoteText": null,
+      "CreatedDate": "2025-03-03T14:19:58",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 659232,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1136,
+      "Chamber": "S",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-28T16:50:21",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1136,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB1136/Introduced",
+      "CreatedDate": "2025-02-26T15:12:21.707",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

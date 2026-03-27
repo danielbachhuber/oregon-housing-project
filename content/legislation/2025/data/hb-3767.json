@@ -1,0 +1,139 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3767,
+    "CatchLine": "Repeals the prohibition on local rent control.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: This Act allows cities or counties to impose rent control. (Flesch Readability Score: 69.7). \n\tRepeals the prohibition on local rent control. \n\tDeclares an emergency, effective on passage.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to local rent control; amending ORS 197A.465 and section 9, chapter 552, Oregon Laws 2021; repealing ORS 91.225; and declaring an emergency.\n\t",
+    "RelatingTo": "Relating to local rent control; declaring an emergency.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HHOUSH",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": true,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 2065,
+    "Vetoed": false,
+    "CreatedDate": "2025-02-25T10:36:29",
+    "ModifiedDate": "2025-03-05T10:26:47",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "151203",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3767,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Chaichi",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-02-26T17:50:06",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "151204",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3767,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Hartman",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-02-26T17:50:06",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "151205",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3767,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Golden",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-02-26T17:50:06",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 624943,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3767,
+      "Chamber": "H",
+      "ActionDate": "2025-02-27T11:29:00",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-02-27T11:29:08",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 626352,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3767,
+      "Chamber": "H",
+      "ActionDate": "2025-03-04T16:19:48",
+      "ActionText": "Referred to Housing and Homelessness.",
+      "VoteText": null,
+      "CreatedDate": "2025-03-04T16:19:57",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 642079,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3767,
+      "Chamber": "H",
+      "ActionDate": "2025-04-21T13:01:00",
+      "ActionText": "Informational Meeting held.",
+      "VoteText": null,
+      "CreatedDate": "2025-04-21T14:51:04",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 661338,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3767,
+      "Chamber": "H",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-30T15:33:43",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3767,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3767/Introduced",
+      "CreatedDate": "2025-02-26T16:48:31.05",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

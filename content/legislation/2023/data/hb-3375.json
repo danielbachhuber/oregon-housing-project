@@ -1,0 +1,112 @@
+{
+  "measure": {
+    "SessionKey": "2023R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3375,
+    "CatchLine": "Provides that defendant's perception of victim's homelessness or extreme poverty may constitute motive for bias crime.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tProvides that defendant's perception of victim's homelessness or extreme poverty may constitute motive for bias crime.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to bias crimes; amending ORS 166.155 and 166.165.\n\t",
+    "RelatingTo": "Relating to bias crimes.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HJUD",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Emily Coates",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 2929,
+    "Vetoed": false,
+    "CreatedDate": "2023-02-21T09:57:57",
+    "ModifiedDate": "2023-03-06T08:55:03",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "134369",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3375,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Tran",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-02-22T21:05:03",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "134370",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3375,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Dembrow",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-02-22T21:05:03",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 558431,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3375,
+      "Chamber": "H",
+      "ActionDate": "2023-02-28T10:14:25",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2023-02-28T10:19:28",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 559375,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3375,
+      "Chamber": "H",
+      "ActionDate": "2023-03-03T09:30:17",
+      "ActionText": "Referred to Judiciary.",
+      "VoteText": null,
+      "CreatedDate": "2023-03-03T09:31:48",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 599782,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3375,
+      "Chamber": "H",
+      "ActionDate": "2023-06-25T16:26:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2023-06-28T16:35:41",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3375,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/HB3375/Introduced",
+      "CreatedDate": "2023-02-22T15:21:19.92",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

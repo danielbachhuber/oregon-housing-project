@@ -1,0 +1,112 @@
+{
+  "measure": {
+    "SessionKey": "2023R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3606,
+    "CatchLine": "Establishes Hillcrest Housing and Health Care Authority and specifies governance and duties.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tEstablishes Hillcrest Housing and Health Care Authority and specifies governance and duties. Allows authority to perform examinations related to the fitness of criminal defendants to assist in their defense. \n\tDirects Oregon Department of Administrative Services to convene task force to evaluate potential for creating Oregon Department of Behavioral Health and transfer from other state agencies to Oregon Department of Behavioral Health all matters related to behavioral health. Requires report of findings to interim committees of Legislative Assembly related to health. \n\tReduces from 30 days to 6 days deadline for community developmental disabilities program to submit to court report of investigation in proceeding to commit person with intellectual disability for residential care, treatment and training.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to care for vulnerable individuals; creating new provisions; and amending ORS 161.362, 161.365, 161.367, 161.370, 161.373, 161.375, 161.390 and 427.235.\n\t",
+    "RelatingTo": "Relating to care for vulnerable individuals.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HBHHC",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Haylee Morse-Miller",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 4441,
+    "Vetoed": false,
+    "CreatedDate": "2023-03-23T11:28:46",
+    "ModifiedDate": "2023-03-28T16:05:35",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "135874",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3606,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Mannix",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-03-26T18:05:02",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "135875",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3606,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Smith G",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "2",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-03-26T18:05:02",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 567365,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3606,
+      "Chamber": "H",
+      "ActionDate": "2023-03-27T10:17:03",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2023-03-27T10:17:15",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 568278,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3606,
+      "Chamber": "H",
+      "ActionDate": "2023-03-28T15:48:14",
+      "ActionText": "Referred to Behavioral Health and Health Care.",
+      "VoteText": null,
+      "CreatedDate": "2023-03-28T15:48:34",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 600193,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3606,
+      "Chamber": "H",
+      "ActionDate": "2023-06-25T16:26:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2023-06-28T16:35:41",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3606,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/HB3606/Introduced",
+      "CreatedDate": "2023-03-24T18:03:16.897",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

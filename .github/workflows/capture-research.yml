@@ -1,0 +1,79 @@
+name: Capture Research
+
+on:
+  workflow_dispatch:
+    inputs:
+      url:
+        description: 'URL of the article or post to capture'
+        required: true
+        type: string
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  capture:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v3
+        with:
+          version: 9
+
+      - name: Install dependencies
+        run: pnpm install
+
+      - name: Capture research
+        id: capture
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          set +e
+          OUTPUT=$(pnpm capture-research "${{ inputs.url }}" 2>&1)
+          EXIT_CODE=$?
+          set -e
+          echo "$OUTPUT"
+          if [ $EXIT_CODE -ne 0 ]; then
+            exit $EXIT_CODE
+          fi
+          FILE=$(echo "$OUTPUT" | grep '^OUTPUT_FILE=' | cut -d= -f2-)
+          echo "file=$FILE" >> $GITHUB_OUTPUT
+
+      - name: Create PR
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          FILE="${{ steps.capture.outputs.file }}"
+          if [ -z "$FILE" ]; then
+            echo "No file was created."
+            exit 1
+          fi
+
+          BASENAME=$(basename "$FILE" .md)
+          BRANCH_NAME="research-${BASENAME}"
+
+          git config user.name 'oregonhousingproject[bot]'
+          git config user.email 'info@oregonhousingproject.org'
+
+          git checkout -b "$BRANCH_NAME"
+          git add "$FILE"
+
+          TITLE=$(grep '^title' "$FILE" | head -n 1 | sed "s/title = '//;s/'$//")
+          git commit -m "Add research: $TITLE"
+          git push -u origin "$BRANCH_NAME"
+
+          gh pr create \
+            --title "New Research: $TITLE" \
+            --body "Adds research item captured from ${{ inputs.url }}." \
+            --base main \
+            --head "$BRANCH_NAME" \
+            --reviewer danielbachhuber

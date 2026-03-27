@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2023R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 439,
+    "CatchLine": "Aligns criteria for alteration, restoration or replacement of a dwellings on lands zoned for forest use consistent with criteria applicable to dwellings on lands zoned for farm use.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tAligns criteria for alteration, restoration or replacement of a dwellings on lands zoned for forest use consistent with criteria applicable to dwellings on lands zoned for farm use. \n\tMakes permanent temporary changes made in 2013 to laws authorizing alteration, restoration or replacement for dwellings on lands zoned for exclusive farm use.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to existing dwellings on resource lands; amending ORS 92.176, 215.291 and 215.755; and repealing section 4, chapter 440, Oregon Laws 2019.\n\t",
+    "RelatingTo": "Relating to existing dwellings on resource lands.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SNR",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Tim Walker",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 1266,
+    "Vetoed": false,
+    "CreatedDate": "2022-12-21T11:16:54",
+    "ModifiedDate": "2023-01-23T09:53:40",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "129030",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 439,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Hayden",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-01-07T23:50:05",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 549879,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 439,
+      "Chamber": "S",
+      "ActionDate": "2023-01-09T10:53:53",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2023-01-09T11:09:23",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 551184,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 439,
+      "Chamber": "S",
+      "ActionDate": "2023-01-12T15:44:25",
+      "ActionText": "Referred to Natural Resources.",
+      "VoteText": null,
+      "CreatedDate": "2023-01-12T15:50:18",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 601009,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 439,
+      "Chamber": "S",
+      "ActionDate": "2023-06-25T16:30:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2023-06-29T14:10:29",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 439,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/SB439/Introduced",
+      "CreatedDate": "2023-01-07T21:03:36.01",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

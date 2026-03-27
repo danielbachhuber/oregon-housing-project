@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3890,
+    "CatchLine": "Requires a law enforcement agency to provide notice to a landlord after responding to an incident at a rental unit and to provide a copy of any police report to the landlord.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: The Act would make police give notice to a landlord after responding to an incident at a rental unit. The Act would make police give a copy of any police report to the landlord. (Flesch Readability Score: 65.1). \n\tRequires a law enforcement agency to provide notice to a landlord after responding to an incident at a rental unit and to provide a copy of any police report to the landlord.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to residential tenancies.\n\t",
+    "RelatingTo": "Relating to residential tenancies.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HJUD",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Chelsey Herrmann-Nordness",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 3739,
+    "Vetoed": false,
+    "CreatedDate": "2025-02-26T12:50:06",
+    "ModifiedDate": "2025-03-05T10:33:19",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "151465",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3890,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Tran",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-02-26T17:50:06",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 625066,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3890,
+      "Chamber": "H",
+      "ActionDate": "2025-02-27T11:29:00",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-02-27T11:29:08",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 626475,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3890,
+      "Chamber": "H",
+      "ActionDate": "2025-03-04T16:19:48",
+      "ActionText": "Referred to Judiciary.",
+      "VoteText": null,
+      "CreatedDate": "2025-03-04T16:19:57",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 661094,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3890,
+      "Chamber": "H",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-30T15:33:43",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3890,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3890/Introduced",
+      "CreatedDate": "2025-02-26T16:50:40.393",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

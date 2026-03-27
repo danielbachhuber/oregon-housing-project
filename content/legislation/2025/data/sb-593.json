@@ -1,0 +1,112 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 593,
+    "CatchLine": "Repeals the statute enacted by House Bill 3115 (2021) that established objective reasonableness as a statewide standard for city and county laws regulating the use of public property with respect to persons experiencing homelessness, as the basis for a cause of action for injunctive and declaratory relief to challenge such laws and as an affirmative defense in the prosecution of violations of such laws.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: The Act would repeal the law that set a state standard for city and county laws that govern the use of public property by the homeless. (Flesch Readability Score: 63.3). \n\tRepeals the statute enacted by House Bill 3115 (2021) that established objective reasonableness as a statewide standard for city and county laws regulating the use of public property with respect to persons experiencing homelessness, as the basis for a cause of action for injunctive and declaratory relief to challenge such laws and as an affirmative defense in the prosecution of violations of such laws. \n\tDeclares an emergency, effective on passage.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to the regulation of public property with respect to persons experiencing homelessness; repealing ORS 195.530; and declaring an emergency.\n\t",
+    "RelatingTo": "Relating to the regulation of public property with respect to persons experiencing homelessness; declaring an emergency.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SJUD",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": true,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Chelsey Herrmann-Nordness",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 1168,
+    "Vetoed": false,
+    "CreatedDate": "2024-12-31T13:18:07",
+    "ModifiedDate": "2025-01-24T09:22:09",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "145155",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 593,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "(Presession filed.)",
+      "CreatedDate": "2025-01-03T23:14:38",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "145156",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 593,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Meek",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-01-03T23:14:38",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 615898,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 593,
+      "Chamber": "S",
+      "ActionDate": "2025-01-13T09:07:30",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-13T09:07:47",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 618165,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 593,
+      "Chamber": "S",
+      "ActionDate": "2025-01-17T14:13:22",
+      "ActionText": "Referred to Judiciary, then Housing and Development.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-17T14:16:32",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 658784,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 593,
+      "Chamber": "S",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-28T16:50:21",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 593,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB593/Introduced",
+      "CreatedDate": "2025-01-10T12:27:34.453",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

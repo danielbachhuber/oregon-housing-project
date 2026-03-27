@@ -1,0 +1,112 @@
+name: Fetch Housing Articles
+
+on:
+  schedule:
+    - cron: '0 14 * * *'  # 6:00 AM PST
+    - cron: '0 2 * * *'   # 6:00 PM PST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  search-and-process:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        source: [opb, wweek, occ]
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v3
+        with:
+          version: 9
+
+      - name: Install dependencies
+        run: pnpm install
+
+      - name: Fetch housing articles from ${{ matrix.source }}
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: pnpm fetch-housing-articles -- ${{ matrix.source }}
+
+      - name: Check for New Articles and Create PRs
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          # Find untracked markdown files in content/news-coverage/
+          # We use git status --porcelain to find new files (?? status)
+          NEW_FILES=$(git status --porcelain content/news-coverage/ | grep '^??' | cut -c4-)
+
+          if [ -z "$NEW_FILES" ]; then
+            echo "No new articles found."
+            exit 0
+          fi
+
+          echo "Found new articles: $NEW_FILES"
+
+          git config user.name 'oregonhousingproject[bot]'
+          git config user.email 'info@oregonhousingproject.org'
+
+          for file in $NEW_FILES; do
+             echo "Processing $file..."
+
+             # Extract slug from filename for branch name
+             BASENAME=$(basename "$file" .md)
+             BRANCH_NAME="housing-article-${BASENAME}"
+
+             # Create a new branch from main (fresh state)
+             # Note: We must fetch latest main first if we just pushed state
+             git fetch origin main
+             git checkout -b "$BRANCH_NAME" origin/main
+
+             # Auto-link legislation, people, and cities
+             pnpm refine-internal-links --write "$file"
+
+             # Add the file
+             git add "$file"
+
+             # Commit
+             TITLE=$(grep '^title' "$file" | head -n 1 | sed "s/title = '//;s/'$//")
+             git commit -m "Add article: $TITLE"
+
+             # Push
+             git push -u origin "$BRANCH_NAME"
+
+             # Create PR
+             gh pr create \
+               --title "New Housing Article: $TITLE" \
+               --body "Automated housing article discovery.\n\nFile: $file" \
+               --base main \
+               --head "$BRANCH_NAME" \
+               --reviewer danielbachhuber
+
+             echo "Created PR for $file"
+
+             # Switch back to main for next loop
+             git checkout main
+          done
+
+      - name: Update Processed URLs State
+        if: success()
+        run: |
+          git config user.name 'oregonhousingproject[bot]'
+          git config user.email 'info@oregonhousingproject.org'
+
+          # Check if state files have changed
+          if [[ -n $(git status --porcelain content/news-coverage/data/processed-*-urls.txt) ]]; then
+            echo "State files changed. Committing updates."
+            git add content/news-coverage/data/processed-*-urls.txt
+            git commit -m "Update processed URLs state [skip ci]"
+            git push
+          else
+            echo "No changes to state files."
+          fi

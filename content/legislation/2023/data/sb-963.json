@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2023R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 963,
+    "CatchLine": "Requires additional cities to develop urban reserves.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tRequires additional cities to develop urban reserves. \n\tAllows approval of certain development within urban reserves not designated by Metro and expansion of urban growth boundary to include development.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to urban reserves; creating new provisions; and amending ORS 195.141, 195.143, 195.145, 197.651 and 268.390.\n\t",
+    "RelatingTo": "Relating to urban reserves.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SNR",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Tim Walker",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 3821,
+    "Vetoed": false,
+    "CreatedDate": "2023-02-21T09:48:00",
+    "ModifiedDate": "2023-02-27T11:23:35",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "134056",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 963,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Smith DB",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-02-21T21:05:04",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 557246,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 963,
+      "Chamber": "S",
+      "ActionDate": "2023-02-22T10:32:27",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2023-02-22T10:47:05",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 557836,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 963,
+      "Chamber": "S",
+      "ActionDate": "2023-02-23T15:50:40",
+      "ActionText": "Referred to Natural Resources.",
+      "VoteText": null,
+      "CreatedDate": "2023-02-23T15:50:56",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 601238,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 963,
+      "Chamber": "S",
+      "ActionDate": "2023-06-25T16:30:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2023-06-29T14:10:29",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 963,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/SB963/Introduced",
+      "CreatedDate": "2023-02-21T17:27:06.87",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

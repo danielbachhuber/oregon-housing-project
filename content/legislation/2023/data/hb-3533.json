@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2023R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3533,
+    "CatchLine": "Requires approval of urban renewal plan by electors of municipality proposing plan or substantial amendment to plan.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tRequires approval of urban renewal plan by electors of municipality proposing plan or substantial amendment to plan.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to urban renewal; creating new provisions; and amending ORS 457.085, 457.089, 457.095, 457.105, 457.120, 457.125 and 457.135.\n\t",
+    "RelatingTo": "Relating to urban renewal.",
+    "AtTheRequestOf": "(at the request of Traci Hensley)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HEMGGV",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Tim Walker",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 4157,
+    "Vetoed": false,
+    "CreatedDate": "2023-02-24T18:14:01",
+    "ModifiedDate": "2023-03-03T22:55:43",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "134904",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3533,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Hieb",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-02-28T08:50:02",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 558589,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3533,
+      "Chamber": "H",
+      "ActionDate": "2023-02-28T10:14:25",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2023-02-28T10:19:29",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 559531,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3533,
+      "Chamber": "H",
+      "ActionDate": "2023-03-03T09:30:17",
+      "ActionText": "Referred to Emergency Management, General Government, and Veterans.",
+      "VoteText": null,
+      "CreatedDate": "2023-03-03T09:31:48",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 600150,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3533,
+      "Chamber": "H",
+      "ActionDate": "2023-06-25T16:26:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2023-06-28T16:35:41",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3533,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/HB3533/Introduced",
+      "CreatedDate": "2023-02-27T17:36:24.397",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

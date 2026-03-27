@@ -3,8 +3,6 @@ title = 'Portland'
 date = '2026-02-07'
 +++
 
-# Portland
-
 Portland is Oregon's largest city and the seat of Multnomah County, with a population of approximately 635,749 residents (2024 estimate).[^3] As the state's economic and cultural center, Portland faces significant housing challenges including affordability, homelessness, and limited housing production.
 
 ## Overview

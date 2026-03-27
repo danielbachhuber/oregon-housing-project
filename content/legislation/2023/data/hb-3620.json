@@ -1,0 +1,140 @@
+{
+  "measure": {
+    "SessionKey": "2023R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3620,
+    "CatchLine": "Authorizes certain cities with demonstrated need for housing to add project area to their urban growth boundary upon certain conditions.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tAuthorizes certain cities with demonstrated need for housing to add project area to their urban growth boundary upon certain conditions. Sunsets authorization January 2, 2033. \n\tAmends principles that Land Conservation and Development Commission must consider in adopting rules regulating urban reserves. \n\tDeclares emergency, effective on passage.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to urbanization; creating new provisions; amending ORS 195.145; and declaring an emergency.\n\t",
+    "RelatingTo": "Relating to urbanization; declaring an emergency.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HHOUSH",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": true,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Tim Walker",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 4551,
+    "Vetoed": false,
+    "CreatedDate": "2023-04-29T11:02:54",
+    "ModifiedDate": "2023-05-04T13:30:30",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "137103",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3620,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Levy E",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-05-01T22:05:02",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "137104",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3620,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Javadi",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "2",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-05-01T22:05:02",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "137135",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3620,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Elmer",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-05-03T09:09:56",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "137138",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3620,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Stout",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-05-03T09:31:44",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 576737,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3620,
+      "Chamber": "H",
+      "ActionDate": "2023-05-02T09:47:27",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2023-05-02T09:47:45",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 577267,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3620,
+      "Chamber": "H",
+      "ActionDate": "2023-05-04T09:13:15",
+      "ActionText": "Referred to Housing and Homelessness.",
+      "VoteText": null,
+      "CreatedDate": "2023-05-04T09:13:32",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 600226,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3620,
+      "Chamber": "H",
+      "ActionDate": "2023-06-25T16:26:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2023-06-28T16:35:41",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3620,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/HB3620/Introduced",
+      "CreatedDate": "2023-05-01T17:03:24.55",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

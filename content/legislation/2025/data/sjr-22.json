@@ -1,0 +1,112 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "SJR",
+    "MeasureNumber": 22,
+    "CatchLine": "Proposes an amendment to the Oregon Constitution directing the Legislative Assembly to enact a property tax relief program for the owner-occupied primary residences of certain seniors. Refers the proposed amendment to the people for their approval or rejection at the next regular general election.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: The measure would direct the legislature to pass laws to provide a property tax break for the homes of seniors. It takes effect only if the people vote for it. (Flesch Readability Score: 70.3). \n\tProposes an amendment to the Oregon Constitution directing the Legislative Assembly to enact a property tax relief program for the owner-occupied primary residences of certain seniors. \n\tRefers the proposed amendment to the people for their approval or rejection at the next regular general election.",
+    "CurrentVersion": null,
+    "RelatingToFull": "\n\t",
+    "RelatingTo": "Proposing an amendment to the Oregon Constitution relating to a property tax relief program for the owner-occupied primary residences of certain seniors.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SRULES",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": null,
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Roxanne Adams",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 2968,
+    "Vetoed": false,
+    "CreatedDate": "2024-12-31T13:18:07",
+    "ModifiedDate": "2025-01-17T14:47:53",
+    "PrefixMeaning": "Senate Joint Resolution"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "145826",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SJR",
+      "MeasureNumber": 22,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "(Presession filed.)",
+      "CreatedDate": "2025-01-06T17:54:11",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "145827",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SJR",
+      "MeasureNumber": 22,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Bonham",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-01-06T17:54:11",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 615253,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SJR",
+      "MeasureNumber": 22,
+      "Chamber": "S",
+      "ActionDate": "2025-01-13T09:07:30",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-13T09:07:45",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 617520,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SJR",
+      "MeasureNumber": 22,
+      "Chamber": "S",
+      "ActionDate": "2025-01-17T14:13:22",
+      "ActionText": "Referred to Rules.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-17T14:16:31",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 658818,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SJR",
+      "MeasureNumber": 22,
+      "Chamber": "S",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-28T16:50:21",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SJR",
+      "MeasureNumber": 22,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SJR22/Introduced",
+      "CreatedDate": "2025-01-10T12:27:44.723",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

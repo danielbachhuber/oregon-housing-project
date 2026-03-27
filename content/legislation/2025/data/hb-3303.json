@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3303,
+    "CatchLine": "Directs the Oregon Business Development Department to study infrastructure financing in Oregon by considering and evaluating tools the state may use to have a positive effect on infrastructure and housing costs in Oregon.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: The Act would require a study of how the state can help lower infrastructure and housing costs. The Act would require the agency doing the study to submit a report to the legislature by mid-September. (Flesch Readability Score: 60.6). \n\tDirects the Oregon Business Development Department to study infrastructure financing in Oregon by considering and evaluating tools the state may use to have a positive effect on infrastructure and housing costs in Oregon. Requires the department to submit a report of the findings of the study to the Legislative Assembly. \n\tDeclares an emergency, effective on passage.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to infrastructure financing; and declaring an emergency.\n\t",
+    "RelatingTo": "Relating to infrastructure financing; declaring an emergency.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HHOUSH",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": true,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 2581,
+    "Vetoed": false,
+    "CreatedDate": "2025-01-12T18:02:09",
+    "ModifiedDate": "2025-01-27T08:03:43",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "148309",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3303,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Evans",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-01-14T14:45:02",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 618774,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3303,
+      "Chamber": "H",
+      "ActionDate": "2025-01-21T09:56:04",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-21T09:56:48",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 619172,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3303,
+      "Chamber": "H",
+      "ActionDate": "2025-01-24T11:44:29",
+      "ActionText": "Referred to Housing and Homelessness with subsequent referral to Ways and Means.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-24T11:46:30",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 661009,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3303,
+      "Chamber": "H",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-30T15:33:43",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3303,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3303/Introduced",
+      "CreatedDate": "2025-01-14T13:42:35.057",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

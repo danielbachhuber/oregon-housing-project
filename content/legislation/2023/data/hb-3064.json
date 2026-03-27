@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2023R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3064,
+    "CatchLine": "Allows landlords to terminate month-to-month residential tenancies without cause.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tAllows landlords to terminate month-to-month residential tenancies without cause. Repeals limits on increases to rent.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to residential tenancies; creating new provisions; amending ORS 90.100, 90.220, 90.323, 90.427, 90.600, 90.643 and 105.124; and repealing ORS 90.324.\n\t",
+    "RelatingTo": "Relating to residential tenancies.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HHOUSH",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Tim Walker",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 1140,
+    "Vetoed": false,
+    "CreatedDate": "2023-01-06T10:54:14",
+    "ModifiedDate": "2023-02-01T08:42:44",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "131376",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3064,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Reschke",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-01-16T18:05:03",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 552284,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3064,
+      "Chamber": "H",
+      "ActionDate": "2023-01-17T09:57:24",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2023-01-17T09:59:26",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 552509,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3064,
+      "Chamber": "H",
+      "ActionDate": "2023-01-20T09:49:09",
+      "ActionText": "Referred to Housing and Homelessness.",
+      "VoteText": null,
+      "CreatedDate": "2023-01-20T09:49:32",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 599647,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3064,
+      "Chamber": "H",
+      "ActionDate": "2023-06-25T16:26:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2023-06-28T16:35:41",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3064,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/HB3064/Introduced",
+      "CreatedDate": "2023-01-13T15:36:32.773",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

@@ -1,0 +1,155 @@
+{
+  "measure": {
+    "SessionKey": "2021R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3367,
+    "CatchLine": "Establishes Lost Revenue Stabilization Fund and School Stabilization Fund.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\t\t<i>Requires local governments to unconditionally allow restoration or replacement of certain uses destroyed by 2020 wildfires until December 31, 2025.</i>] \n\t<b>Establishes Lost Revenue Stabilization Fund and School Stabilization Fund. Continuously appropriates moneys in funds for recovery from 2020 wildfires.</b> \n\tSunsets \t<i>January 2, 2026</i>]<b> June 30, 2027</b>. \n\tDeclares emergency, effective \t<i>on passage</i>]<b> July 1, 2021</b>.",
+    "CurrentVersion": "A",
+    "RelatingToFull": "Relating to 2020 wildfires; and declaring an emergency.\n\t",
+    "RelatingTo": "Relating to 2020 wildfires; declaring an emergency.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "JWM",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "Fiscal impact issued",
+    "RevenueImpact": "No revenue impact",
+    "EmergencyClause": true,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Haylee Morse-Miller",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 3587,
+    "Vetoed": false,
+    "CreatedDate": "2021-03-08T10:56:58",
+    "ModifiedDate": "2021-06-08T21:05:02",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "119321",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3367,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Morgan",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2021-03-08T21:05:02",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 502770,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3367,
+      "Chamber": "H",
+      "ActionDate": "2021-03-09T10:31:24",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2021-03-09T10:31:46",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 504742,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3367,
+      "Chamber": "H",
+      "ActionDate": "2021-03-16T21:39:24",
+      "ActionText": "Referred to Wildfire Recovery.",
+      "VoteText": null,
+      "CreatedDate": "2021-03-16T21:39:55",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 526060,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3367,
+      "Chamber": "H",
+      "ActionDate": "2021-05-28T10:02:00",
+      "ActionText": "Public Hearing and Work Session held.",
+      "VoteText": null,
+      "CreatedDate": "2021-05-28T12:00:34",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 527655,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3367,
+      "Chamber": "H",
+      "ActionDate": "2021-06-07T08:06:47",
+      "ActionText": "Recommendation: Do pass with amendments, be printed A-Engrossed, and be referred to Ways and Means.",
+      "VoteText": null,
+      "CreatedDate": "2021-06-07T08:35:50",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 527656,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3367,
+      "Chamber": "H",
+      "ActionDate": "2021-06-07T08:06:48",
+      "ActionText": "Referred to Ways and Means by order of Speaker.",
+      "VoteText": null,
+      "CreatedDate": "2021-06-07T08:35:50",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 537595,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3367,
+      "Chamber": "H",
+      "ActionDate": "2021-06-26T17:37:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2021-07-13T12:52:01",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3367,
+      "VersionDescription": "A-Engrossed",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/HB3367/A-Engrossed",
+      "CreatedDate": "2021-06-08T16:12:26.243",
+      "ModifiedDate": null
+    },
+    {
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3367,
+      "VersionDescription": "House Amendments to Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/HB3367/House Amendments to Introduced",
+      "CreatedDate": "2021-06-08T16:12:26.303",
+      "ModifiedDate": null
+    },
+    {
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3367,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/HB3367/Introduced",
+      "CreatedDate": "2021-03-08T16:36:09.5",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

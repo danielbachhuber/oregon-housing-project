@@ -136,6 +136,44 @@ To add support for a new jurisdiction:
 3. Create content directory structure
 4. Update this documentation
 
+## Scripting Language
+
+When writing new scripts or rewriting existing ones, **prefer JavaScript (Node.js)** over Python. The existing meeting transcription scripts are in Python but new tooling should use JavaScript.
+
+## Package Management
+
+This project uses **PNPM** as its package manager. Always use `pnpm` commands for package management:
+- Install dependencies: `pnpm install`
+- Add a package: `pnpm add <package-name>`
+- Add a dev dependency: `pnpm add -D <package-name>`
+- Run scripts: `pnpm <script-name>`
+
+**Do NOT use NPM** commands (`npm install`, etc.) as this will create conflicting lock files.
+
+## Running the Site
+
+This project uses **Hugo** as its static site generator. To run the development server:
+
+```bash
+hugo server
+```
+
+This will start a local development server at `http://localhost:1313/`. If port 1313 is already in use (e.g., another worktree's Hugo server is running), Hugo will automatically select the next available port.
+
+## Git Worktrees
+
+When creating a worktree (via the `EnterWorktree` tool or otherwise), always initialize submodules and copy the `.env` file immediately after:
+
+```bash
+git submodule update --init
+cp /Users/danielbachhuber/projects/oregon-housing-project/.env .env
+pnpm install
+```
+
+- `git submodule update --init`: The site depends on the `themes/hugo-book` submodule and Hugo will fail to build without it.
+- `cp .../.env .env`: Copies the `.env` file from the main repo (not committed to git).
+- `pnpm install`: Installs Node dependencies in the new worktree.
+
 ## LLM-Assisted Research
 
 The project explicitly uses LLMs (Gemini, Claude) for research, drafting, editing, and infographics. All AI-generated content receives human review before publication. This is documented in the About page.

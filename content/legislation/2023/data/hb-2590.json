@@ -1,0 +1,140 @@
+{
+  "measure": {
+    "SessionKey": "2023R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 2590,
+    "CatchLine": "Requires Department of Environmental Quality to study both requirements related to subsurface and alternative sewage disposal systems that create barriers to siting and construction of accessory dwelling units in areas outside urban growth boundary and solutions to eliminate barriers.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tRequires Department of Environmental Quality to study both requirements related to subsurface and alternative sewage disposal systems that create barriers to siting and construction of accessory dwelling units in areas outside urban growth boundary and solutions to eliminate barriers. Directs department to submit findings to interim committees of Legislative Assembly related to environment no later than September 15, 2024.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to sewage disposal systems.\n\t",
+    "RelatingTo": "Relating to sewage disposal systems.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HALNRW",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Haylee Morse-Miller",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 818,
+    "Vetoed": false,
+    "CreatedDate": "2022-12-22T09:16:44",
+    "ModifiedDate": "2023-01-23T09:34:09",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "128288",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2590,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Morgan",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-01-07T23:50:03",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "128289",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2590,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Helfrich",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "2",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-01-07T23:50:03",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "128290",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2590,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Levy B",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-01-07T23:50:03",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "128291",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2590,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Weber",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-01-07T23:50:03",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 548966,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2590,
+      "Chamber": "H",
+      "ActionDate": "2023-01-09T08:13:56",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2023-01-09T08:16:13",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 551929,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2590,
+      "Chamber": "H",
+      "ActionDate": "2023-01-16T09:42:49",
+      "ActionText": "Referred to Agriculture, Land Use, Natural Resources, and Water.",
+      "VoteText": null,
+      "CreatedDate": "2023-01-16T09:44:06",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 599050,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2590,
+      "Chamber": "H",
+      "ActionDate": "2023-06-25T16:26:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2023-06-28T16:35:40",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2590,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/HB2590/Introduced",
+      "CreatedDate": "2023-01-07T19:12:44.893",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

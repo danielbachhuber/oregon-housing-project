@@ -1,0 +1,112 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 2877,
+    "CatchLine": "Directs the Department of Veterans' Affairs to develop and implement one or more pilot programs statewide to provide training, job placement services, financial assistance, technical support and business creation assistance to veterans in the construction and construction materials industries.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: This Act tells ODVA to start a pilot program to give help to veterans in the construction industry. (Flesch Readability Score: 61.6). \n\tDirects the Department of Veterans' Affairs to develop and implement one or more pilot programs statewide to provide training, job placement services, financial assistance, technical support and business creation assistance to veterans in the construction and construction materials industries. \n\tPermits the department to use moneys in the Veterans' Services Fund to develop, implement and maintain the pilot programs. \n\tRequires a report to the Legislative Assembly regarding the status of the pilot programs by September 15, 2026. \n\tSunsets pilot programs on December 31, 2027. \n\tDeclares an emergency, effective July 1, 2025.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to workforce assistance to veterans in the construction industry; and declaring an emergency.\n\t",
+    "RelatingTo": "Relating to workforce assistance to veterans in the construction industry; declaring an emergency.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HHED",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": true,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 2047,
+    "Vetoed": false,
+    "CreatedDate": "2024-12-31T13:18:07",
+    "ModifiedDate": "2025-01-27T10:37:55",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "145506",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2877,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "(Presession filed.)",
+      "CreatedDate": "2025-01-06T17:54:11",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "145507",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2877,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Evans",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-01-06T17:54:11",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 614841,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2877,
+      "Chamber": "H",
+      "ActionDate": "2025-01-13T08:01:32",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-13T08:01:45",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 617050,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2877,
+      "Chamber": "H",
+      "ActionDate": "2025-01-17T12:47:46",
+      "ActionText": "Referred to Higher Education and Workforce Development with subsequent referral to Emergency Management, General Government, and Veterans, then Ways and Means.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-17T12:52:00",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 661186,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2877,
+      "Chamber": "H",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-30T15:33:43",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2877,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2877/Introduced",
+      "CreatedDate": "2025-01-10T13:16:23.713",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

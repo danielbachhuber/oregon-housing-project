@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 901,
+    "CatchLine": "Requires the Department of Corrections to study residence requirements for women upon release from a Department of Corrections institution.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: The Act would tell the DOC to study residence requirements. (Flesch Readability Score: 61.3). \n\tRequires the Department of Corrections to study residence requirements for women upon release from a Department of Corrections institution. Directs the department to submit findings to the interim committees of the Legislative Assembly related to the judiciary not later than September 15, 2026.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to residence requirements for women upon release from a Department of Corrections institution.\n\t",
+    "RelatingTo": "Relating to residence requirements for women upon release from a Department of Corrections institution.",
+    "AtTheRequestOf": "(at the request of Ironworkers Local 29)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SJUD",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Chelsey Herrmann-Nordness",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 2782,
+    "Vetoed": false,
+    "CreatedDate": "2025-01-14T11:22:10",
+    "ModifiedDate": "2025-02-04T13:58:46",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "148433",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 901,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Taylor",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-01-16T15:59:17",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 618677,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 901,
+      "Chamber": "S",
+      "ActionDate": "2025-01-21T08:44:32",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-21T09:17:22",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 618848,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 901,
+      "Chamber": "S",
+      "ActionDate": "2025-01-21T11:30:54",
+      "ActionText": "Referred to Judiciary.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-21T11:33:02",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 658587,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 901,
+      "Chamber": "S",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-28T16:50:21",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 901,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB901/Introduced",
+      "CreatedDate": "2025-01-16T13:48:18.583",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

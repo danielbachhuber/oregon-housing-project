@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3632,
+    "CatchLine": "Prohibits continuing care retirement communities from banning certain acts of free expression in community spaces or common areas of the continuing care retirement community.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: The Act stops certain housing communities from banning certain acts of free expression in shared spaces and common areas. The Act creates some exceptions. (Flesch Readability Score: 64.2). \n\tProhibits continuing care retirement communities from banning certain acts of free expression in community spaces or common areas of the continuing care retirement community. \n\tAuthorizes the Department of Human Services to impose a civil penalty against a continuing care retirement community that violates the prohibition.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to restrictions on expression in certain housing communities.\n\t",
+    "RelatingTo": "Relating to restrictions on expression in certain housing communities.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HHOUSH",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 4226,
+    "Vetoed": false,
+    "CreatedDate": "2025-02-18T10:49:15",
+    "ModifiedDate": "2025-02-22T11:51:28",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "150548",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3632,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Evans",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-02-19T17:20:49",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 623567,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3632,
+      "Chamber": "H",
+      "ActionDate": "2025-02-20T11:35:40",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-02-20T11:35:48",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 623859,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3632,
+      "Chamber": "H",
+      "ActionDate": "2025-02-21T10:24:39",
+      "ActionText": "Referred to Housing and Homelessness.",
+      "VoteText": null,
+      "CreatedDate": "2025-02-21T10:24:51",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 660561,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3632,
+      "Chamber": "H",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-30T15:33:42",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3632,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3632/Introduced",
+      "CreatedDate": "2025-02-19T16:18:05.143",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

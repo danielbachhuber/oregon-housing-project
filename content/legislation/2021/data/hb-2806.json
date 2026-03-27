@@ -1,0 +1,126 @@
+{
+  "measure": {
+    "SessionKey": "2021R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 2806,
+    "CatchLine": "Prohibits person that transacts title insurance in this state from refusing to issue policy of title insurance or refusing to close or insure real property transaction solely because real property that is subject of transaction has been used for purpose of growing, producing, manufacturing or selling cannabis, or conducting other activities related to cannabis, if growing, production, manufacture, sale or other activities occurred in compliance with state laws relating to regulation of marijuana items.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tProhibits person that transacts title insurance in this state from refusing to issue policy of title insurance or refusing to close or insure real property transaction solely because real property that is subject of transaction has been used for purpose of growing, producing, manufacturing or selling cannabis, or conducting other activities related to cannabis, if growing, production, manufacture, sale or other activities occurred in compliance with state laws relating to regulation of marijuana items. \n\tProvides that violation of provisions of Act is unfair and deceptive practice in transaction of insurance. Requires Director of Department of Consumer and Business Services to adopt rules to prohibit violation and to provide for imposing civil penalty of not more than $5,000 for violation. \n\tBecomes operative on January 1, 2022. \n\tTakes effect on 91st day following adjournment sine die.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to title insurance policies for real property used in connection with production of cannabis; and prescribing an effective date.\n\t",
+    "RelatingTo": "Relating to title insurance policies for real property used in connection with production of cannabis; prescribing an effective date.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HBL",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Tim Walker",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 2930,
+    "Vetoed": false,
+    "CreatedDate": "2020-12-28T15:10:35",
+    "ModifiedDate": "2021-03-18T09:53:40",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "114988",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2806,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "(Presession filed.)",
+      "CreatedDate": "2021-01-09T19:32:19",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "114989",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2806,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Smith DB",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2021-01-09T19:32:19",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "114990",
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2806,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Leif",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2021-01-09T19:32:19",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 492859,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2806,
+      "Chamber": "H",
+      "ActionDate": "2021-01-11T07:57:04",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2021-01-11T07:59:32",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 495399,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2806,
+      "Chamber": "H",
+      "ActionDate": "2021-01-19T20:40:25",
+      "ActionText": "Referred to Business and Labor with subsequent referral to General Government.",
+      "VoteText": null,
+      "CreatedDate": "2021-01-19T20:40:49",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 536683,
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2806,
+      "Chamber": "H",
+      "ActionDate": "2021-06-26T17:37:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2021-07-13T12:52:00",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2021R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2806,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/HB2806/Introduced",
+      "CreatedDate": "2021-01-10T08:06:41.677",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

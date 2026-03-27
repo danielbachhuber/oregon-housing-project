@@ -1,0 +1,112 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 2775,
+    "CatchLine": "Requires the Department of Consumer and Business Services to study the feasibility of providing discounted mortgage loans to home buyers who install energy generation improvements capable of providing electricity to a local utility.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: Tells a state agency to see if it is possible to get discounts on home loans for putting in renewable energy systems. Shows examples of the kinds of systems the agency should look into. Tells the agency to report back its findings to the legislature. (Flesch Readability Score: 60.0). \n\tRequires the Department of Consumer and Business Services to study the feasibility of providing discounted mortgage loans to home buyers who install energy generation improvements capable of providing electricity to a local utility. Directs the department to submit findings to interim committees of the Legislative Assembly related to energy resources not later than September 15, 2026.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to discounted mortgage loans for installation of energy generation improvements.\n\t",
+    "RelatingTo": "Relating to discounted mortgage loans for installation of energy generation improvements.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HCCP",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": null,
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "MaryMichelle Sosne",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 2407,
+    "Vetoed": false,
+    "CreatedDate": "2024-12-31T13:18:07",
+    "ModifiedDate": "2025-01-17T13:12:24",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "144581",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2775,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "(Presession filed.)",
+      "CreatedDate": "2025-01-03T23:14:37",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "144582",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2775,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Evans",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-01-03T23:14:37",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 614739,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2775,
+      "Chamber": "H",
+      "ActionDate": "2025-01-13T08:01:32",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-13T08:01:45",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 616948,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2775,
+      "Chamber": "H",
+      "ActionDate": "2025-01-17T12:47:46",
+      "ActionText": "Referred to Commerce and Consumer Protection with subsequent referral to Ways and Means.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-17T12:51:59",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 661155,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2775,
+      "Chamber": "H",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-30T15:33:43",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2775,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB2775/Introduced",
+      "CreatedDate": "2025-01-10T13:16:10.957",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

@@ -1,0 +1,96 @@
+{
+  "measure": {
+    "SessionKey": "2023R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 2064,
+    "CatchLine": "Establishes sunset for continued property tax exemption for former cemetery or crematory land used for exempt low income housing.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tEstablishes sunset for continued property tax exemption for former cemetery or crematory land used for exempt low income housing.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to continued exemption for certain land used for exempt low income housing.\n\t",
+    "RelatingTo": "Relating to continued exemption for certain land used for exempt low income housing.",
+    "AtTheRequestOf": "(at the request of House Interim Committee on Revenue for Representative Nancy Nathanson)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "JCTE",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 1553,
+    "Vetoed": false,
+    "CreatedDate": "2022-12-13T13:36:25",
+    "ModifiedDate": "2023-01-17T12:21:29",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 548440,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2064,
+      "Chamber": "H",
+      "ActionDate": "2023-01-09T08:13:56",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2023-01-09T08:16:12",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 551808,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2064,
+      "Chamber": "H",
+      "ActionDate": "2023-01-16T09:42:49",
+      "ActionText": "Referred to Tax Expenditures.",
+      "VoteText": null,
+      "CreatedDate": "2023-01-16T09:44:05",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 561296,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2064,
+      "Chamber": "H",
+      "ActionDate": "2023-03-10T08:31:00",
+      "ActionText": "Public Hearing held.",
+      "VoteText": null,
+      "CreatedDate": "2023-03-10T16:34:06",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 598891,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2064,
+      "Chamber": "H",
+      "ActionDate": "2023-06-25T16:26:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2023-06-28T16:35:40",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2064,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/HB2064/Introduced",
+      "CreatedDate": "2023-01-07T18:48:21.617",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

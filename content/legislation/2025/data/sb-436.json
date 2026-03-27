@@ -1,0 +1,138 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 436,
+    "CatchLine": "Provides that constructing a nonprofit child care facility within a project for affordable housing does not subject the project for affordable housing to prevailing wage requirements if the child care facility meets specified requirements.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: Says that building a child care center in a place that provides affordable housing does not mean that a person building the whole place must pay prevailing wage. But building the child care center itself does require paying prevailing wage for labor. (Flesch Readability Score: 62.6). \n\tProvides that constructing a nonprofit child care facility within a project for affordable housing does not subject the project for affordable housing to prevailing wage requirements if the child care facility meets specified requirements. Provides that prevailing wage requirements do apply to the construction of a child care facility. \n\tTakes effect on the 91st day following adjournment sine die.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to constructing child care facilities within projects for affordable housing; creating new provisions; amending ORS 279C.810; and prescribing an effective date.\n\t",
+    "RelatingTo": "Relating to constructing child care facilities within projects for affordable housing; prescribing an effective date.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SHDEV",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "Fiscal impact issued",
+    "RevenueImpact": "No revenue impact",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "MaryMichelle Sosne",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 1157,
+    "Vetoed": false,
+    "CreatedDate": "2024-12-31T13:18:07",
+    "ModifiedDate": "2025-02-04T15:04:05",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "144007",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 436,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "(Presession filed.)",
+      "CreatedDate": "2024-12-31T11:51:19",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "144008",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 436,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Anderson",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2024-12-31T11:51:19",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 615741,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 436,
+      "Chamber": "S",
+      "ActionDate": "2025-01-13T09:07:30",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-13T09:07:47",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 618008,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 436,
+      "Chamber": "S",
+      "ActionDate": "2025-01-17T14:13:22",
+      "ActionText": "Referred to Rules.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-17T14:16:32",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 620269,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 436,
+      "Chamber": "S",
+      "ActionDate": "2025-02-03T13:02:00",
+      "ActionText": "Work Session held.",
+      "VoteText": null,
+      "CreatedDate": "2025-02-03T14:07:18",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 620560,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 436,
+      "Chamber": "S",
+      "ActionDate": "2025-02-04T15:00:47",
+      "ActionText": "Recommendation: Without recommendation as to passage and be returned to President's desk for referral.  Referred to Housing and Development by order of the President.",
+      "VoteText": null,
+      "CreatedDate": "2025-02-04T15:04:05",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 659067,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 436,
+      "Chamber": "S",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-28T16:50:21",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 436,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB436/Introduced",
+      "CreatedDate": "2025-01-10T12:21:17.97",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

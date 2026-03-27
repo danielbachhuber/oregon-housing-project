@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2023R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 1000,
+    "CatchLine": "Adds new entity eligible to receive grant funds to provide services to refugees and adds new categories of refugees eligible for assistance.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tAdds new entity eligible to receive grant funds to provide services to refugees and adds new categories of refugees eligible for assistance. Requires Department of Human Services to provide grantees with funding for specified services related to housing. Requires department to hire full-time State Refugee Coordinator and Refugee Housing Coordinator. Appropriates moneys to department to carry out new requirements. \n\tDeclares emergency, effective July 1, 2023.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to refugees; creating new provisions; amending ORS 411.139; and declaring an emergency.\n\t",
+    "RelatingTo": "Relating to refugees; declaring an emergency.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SHS",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": true,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "MaryMichelle Sosne",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 1867,
+    "Vetoed": false,
+    "CreatedDate": "2023-02-21T11:49:24",
+    "ModifiedDate": "2023-02-27T11:25:29",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "134138",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1000,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Dembrow",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-02-21T21:05:04",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 557283,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1000,
+      "Chamber": "S",
+      "ActionDate": "2023-02-22T10:32:27",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2023-02-22T10:47:05",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 557946,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1000,
+      "Chamber": "S",
+      "ActionDate": "2023-02-24T13:10:42",
+      "ActionText": "Referred to Human Services, then Ways and Means.",
+      "VoteText": null,
+      "CreatedDate": "2023-02-24T13:12:08",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 601265,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1000,
+      "Chamber": "S",
+      "ActionDate": "2023-06-25T16:30:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2023-06-29T14:10:29",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1000,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/SB1000/Introduced",
+      "CreatedDate": "2023-02-21T17:27:10.147",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

@@ -1,0 +1,112 @@
+{
+  "measure": {
+    "SessionKey": "2023R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3169,
+    "CatchLine": "Requires annual registration and fee for each rental residential dwelling and vacation occupancy with Housing and Community Services Department.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tRequires annual registration and fee for each rental residential dwelling and vacation occupancy with Housing and Community Services Department. Authorizes penalties for noncompliance. Requires department to report on collected data. \n\tRequires fees to be used to administer collection and to provide courses for managers of rental units and vacation occupancies. \n\tDeclares emergency, effective on passage.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to rented dwellings; creating new provisions; amending ORS 90.736 and 90.738; and declaring an emergency.\n\t",
+    "RelatingTo": "Relating to rented dwellings; declaring an emergency.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HHOUSH",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": true,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Tim Walker",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 3477,
+    "Vetoed": false,
+    "CreatedDate": "2023-01-27T10:14:44",
+    "ModifiedDate": "2023-02-06T09:36:09",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "132138",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3169,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Dexter",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-01-30T18:05:01",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "132676",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3169,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Chaichi",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-02-06T12:46:20",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 553621,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3169,
+      "Chamber": "H",
+      "ActionDate": "2023-01-31T09:57:26",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2023-01-31T09:58:07",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 554395,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3169,
+      "Chamber": "H",
+      "ActionDate": "2023-02-02T15:52:52",
+      "ActionText": "Referred to Housing and Homelessness.",
+      "VoteText": null,
+      "CreatedDate": "2023-02-02T15:53:04",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 599930,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3169,
+      "Chamber": "H",
+      "ActionDate": "2023-06-25T16:26:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2023-06-28T16:35:41",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3169,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/HB3169/Introduced",
+      "CreatedDate": "2023-01-30T16:51:31.45",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

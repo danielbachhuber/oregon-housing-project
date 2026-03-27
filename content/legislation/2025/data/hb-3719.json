@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3719,
+    "CatchLine": "Requires the Housing and Community Services Department to study housing for individuals with substance use disorders and submit findings to the interim committees of the Legislative Assembly related to housing no later than September 15, 2026.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: This bill makes OHCS study housing for people with substance use disorders. (Flesch Readability Score: 64.9). \n\tRequires the Housing and Community Services Department to study housing for individuals with substance use disorders and submit findings to the interim committees of the Legislative Assembly related to housing no later than September 15, 2026.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to housing for individuals with substance use disorders.\n\t",
+    "RelatingTo": "Relating to housing for individuals with substance use disorders.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HHOUSH",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 4565,
+    "Vetoed": false,
+    "CreatedDate": "2025-02-23T20:45:37",
+    "ModifiedDate": "2025-02-28T08:28:03",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "150850",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3719,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Andersen",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-02-24T17:40:02",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 624403,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3719,
+      "Chamber": "H",
+      "ActionDate": "2025-02-25T11:45:35",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-02-25T11:45:40",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 625264,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3719,
+      "Chamber": "H",
+      "ActionDate": "2025-02-27T11:41:05",
+      "ActionText": "Referred to Housing and Homelessness.",
+      "VoteText": null,
+      "CreatedDate": "2025-02-27T11:41:14",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 660453,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3719,
+      "Chamber": "H",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-30T15:33:42",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3719,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3719/Introduced",
+      "CreatedDate": "2025-02-24T17:18:25.277",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

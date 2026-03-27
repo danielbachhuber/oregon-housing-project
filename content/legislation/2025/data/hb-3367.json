@@ -1,0 +1,112 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3367,
+    "CatchLine": "Modifies the definition of \"farmworker camp\" so that the relevant statutes apply to farmworker camps specifically in connection with workers who work on a seasonal or temporary basis.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: The Act would change a definition with respect to laws about farmworker camps. (Flesch Readability Score: 63.4). \n\tModifies the definition of \"farmworker camp\" so that the relevant statutes apply to farmworker camps specifically in connection with workers who work on a seasonal or temporary basis.\t.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to agricultural labor housing; amending ORS 658.705.\n\t",
+    "RelatingTo": "Relating to agricultural labor housing.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HLWS",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "MaryMichelle Sosne",
+    "RevenueEconomist": "Kyle Easton",
+    "LCNumber": 1214,
+    "Vetoed": false,
+    "CreatedDate": "2025-01-22T14:55:59",
+    "ModifiedDate": "2025-02-06T13:25:34",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "148770",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3367,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Scharf",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-01-27T18:21:59",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "148771",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3367,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Boshart Davis",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "2",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2025-01-27T18:21:59",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 619418,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3367,
+      "Chamber": "H",
+      "ActionDate": "2025-01-28T10:00:52",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-28T10:03:23",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 619790,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3367,
+      "Chamber": "H",
+      "ActionDate": "2025-01-30T11:01:46",
+      "ActionText": "Referred to Labor and Workplace Standards.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-30T11:02:07",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 660723,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3367,
+      "Chamber": "H",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-30T15:33:42",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3367,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3367/Introduced",
+      "CreatedDate": "2025-01-27T16:18:25.637",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

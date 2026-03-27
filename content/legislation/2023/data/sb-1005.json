@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2023R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 1005,
+    "CatchLine": "Establishes procedures for review of certain Department of Corrections disciplinary orders and other housing-related decisions by panel of Court of Appeals.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tEstablishes procedures for review of certain Department of Corrections disciplinary orders and other housing-related decisions by panel of Court of Appeals.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to judicial review of Department of Corrections actions; creating new provisions; and repealing ORS 421.194.\n\t",
+    "RelatingTo": "Relating to judicial review of Department of Corrections actions.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SJUD",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Emily Coates",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 964,
+    "Vetoed": false,
+    "CreatedDate": "2023-02-21T11:52:53",
+    "ModifiedDate": "2023-02-27T11:26:06",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "134143",
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1005,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Gorsek",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2023-02-21T21:05:04",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 557288,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1005,
+      "Chamber": "S",
+      "ActionDate": "2023-02-22T10:32:27",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2023-02-22T10:47:05",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 557951,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1005,
+      "Chamber": "S",
+      "ActionDate": "2023-02-24T13:10:42",
+      "ActionText": "Referred to Judiciary.",
+      "VoteText": null,
+      "CreatedDate": "2023-02-24T13:12:08",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 601269,
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1005,
+      "Chamber": "S",
+      "ActionDate": "2023-06-25T16:30:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2023-06-29T14:10:29",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2023R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1005,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/SB1005/Introduced",
+      "CreatedDate": "2023-02-21T17:27:10.713",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}
