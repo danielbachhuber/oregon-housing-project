@@ -17,7 +17,7 @@ In 2019, Smith founded Dream Big Communications, a communications consultancy sp
 
 ### Multnomah County Commission (2011-2018)
 
-Smith began her own political career by running for Multnomah County Commissioner in 2010, winning the runoff by 26 percentage points.[^6] During her tenure, she focused on investments in programs helping poor youth and served on the Portland Metro Workforce Development Board.[^2][^7] She won reelection in 2014 with little opposition.[^2]
+Smith began her own political career by running for Multnomah County Commissioner in 2010, winning the runoff by 26 percentage points.[^6] During her tenure, she focused on investments in programs helping poor youth and served on the Portland [Metro](/organizations/metro) Workforce Development Board.[^2][^7] She won reelection in 2014 with little opposition.[^2]
 
 ### Portland City Council Campaigns
 

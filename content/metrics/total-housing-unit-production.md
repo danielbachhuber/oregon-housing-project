@@ -35,7 +35,7 @@ At current production levels, Oregon is building approximately **50% of the hous
 
 ## Affordable Housing Production
 
-For state-supported affordable housing specifically, Oregon Housing and Community Services (OHCS) funded the creation or preservation of:[^5]
+For state-supported affordable housing specifically, [Oregon Housing and Community Services](/organizations/oregon-housing-and-community-services) (OHCS) funded the creation or preservation of:[^5]
 
 - 4,806 affordable rental homes in 2025 (50% increase from 2024)
 - 3,208 affordable homes in 2024

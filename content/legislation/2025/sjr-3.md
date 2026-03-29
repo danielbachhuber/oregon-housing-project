@@ -44,7 +44,7 @@ Proposes constitutional amendments to change property tax maximum assessed value
 ## Overview
 
 Digest: The Act would change the constitutional property tax laws that deal with maximum assessed value and local option taxes. It takes effect only if the people vote for it. (Flesch Readability Score: 60.8). 
-Proposes amendments to the Oregon Constitution providing that, for purposes of ad valorem property taxation, maximum assessed value shall be reassessed upon the sale of property, the ratio of maximum assessed value to real market value of property may not be less than 0.75, and the maximum number of years for which a local option tax may be passed are extended and the tax is not subject to compression under Ballot Measure 5 (1990). 
+Proposes amendments to the Oregon Constitution providing that, for purposes of ad valorem property taxation, maximum assessed value shall be reassessed upon the sale of property, the ratio of maximum assessed value to real market value of property may not be less than 0.75, and the maximum number of years for which a local option tax may be passed are extended and the tax is not subject to compression under Ballot [Measure 5](/legislation/1990/measure-5) (1990). 
 Refers the proposed amendments to the people for their approval or rejection at the next regular general election.
 
 <!--
