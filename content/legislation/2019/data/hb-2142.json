@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2019R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 2142,
+    "CatchLine": "Increases number of years former exempt cemetery or crematory land must be used to provide exempt low income housing to have additional taxes due upon disqualification from cemetery or crematory exemption canceled.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tIncreases number of years former exempt cemetery or crematory land must be used to provide exempt low income housing to have additional taxes due upon disqualification from cemetery or crematory exemption canceled. \n\tTakes effect on 91st day following adjournment sine die.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to cemetery land used for low income housing; creating new provisions; amending section 9, chapter 111, Oregon Laws 2018; and prescribing an effective date.",
+    "RelatingTo": "Relating to cemetery land used for low income housing; prescribing an effective date.",
+    "AtTheRequestOf": "(at the request of House Interim Committee on Revenue)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HHS",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Haylee Morse-Miller",
+    "RevenueEconomist": "Jaime McGovern",
+    "LCNumber": 2747,
+    "Vetoed": false,
+    "CreatedDate": "2018-12-13T09:54:02",
+    "ModifiedDate": "2020-06-26T19:41:22",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "97803",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2142,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "Introduced and printed pursuant to House Rule 12.00.  Presession filed",
+      "CreatedDate": "2019-01-09T15:00:49",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 437647,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2142,
+      "Chamber": "H",
+      "ActionDate": "2019-01-14T08:54:51",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-14T08:55:36",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 439700,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2142,
+      "Chamber": "H",
+      "ActionDate": "2019-01-18T11:43:45",
+      "ActionText": "Referred to Human Services and Housing with subsequent referral to Revenue.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-18T11:46:09",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 480606,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2142,
+      "Chamber": "H",
+      "ActionDate": "2019-06-30T17:23:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2019-07-08T16:02:16",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2142,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB2142/Introduced",
+      "CreatedDate": "2019-01-09T20:03:10.28",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

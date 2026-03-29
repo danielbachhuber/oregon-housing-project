@@ -1,0 +1,125 @@
+{
+  "measure": {
+    "SessionKey": "2019R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 270,
+    "CatchLine": "Exempts residential construction contractor meeting criteria from continuing education requirement.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tExempts residential construction contractor meeting criteria from continuing education requirement. \n\tDeclares emergency, effective on passage.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to continuing education for construction contractors; creating new provisions; amending ORS 701.082; and declaring an emergency.",
+    "RelatingTo": "Relating to continuing education for construction contractors; declaring an emergency.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SBGG",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": true,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Haylee Morse-Miller",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 2338,
+    "Vetoed": false,
+    "CreatedDate": "2018-12-17T14:31:25",
+    "ModifiedDate": "2020-06-26T19:41:22",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "95268",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 270,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "(Presession filed.)",
+      "CreatedDate": "2019-01-09T14:58:33",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "95269",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 270,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Olsen",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2019-01-09T14:58:33",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 437100,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 270,
+      "Chamber": "S",
+      "ActionDate": "2019-01-14T07:33:37",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-14T07:34:04",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 438850,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 270,
+      "Chamber": "S",
+      "ActionDate": "2019-01-15T15:44:19",
+      "ActionText": "Referred to Business and General Government.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-15T15:44:42",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 444448,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 270,
+      "Chamber": "S",
+      "ActionDate": "2019-02-21T08:01:00",
+      "ActionText": "Public Hearing held.",
+      "VoteText": null,
+      "CreatedDate": "2019-02-21T08:51:03",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 480433,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 270,
+      "Chamber": "S",
+      "ActionDate": "2019-06-30T19:00:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2019-07-08T13:59:09",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 270,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/SB270/Introduced",
+      "CreatedDate": "2019-01-09T20:36:32.04",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

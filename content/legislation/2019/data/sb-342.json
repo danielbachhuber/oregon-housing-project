@@ -1,0 +1,112 @@
+{
+  "measure": {
+    "SessionKey": "2019R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 342,
+    "CatchLine": "Requires agency, board, commission or other instrumentality of state that lawfully seizes firearm to transfer firearm to Department of State Lands for disposition as unclaimed property.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tRequires agency, board, commission or other instrumentality of state that lawfully seizes firearm to transfer firearm to Department of State Lands for disposition as unclaimed property. Requires department to deposit proceeds of sale of firearm into Emergency Housing Account and directs Housing and Community Services Department to disburse moneys deposited for purposes of assisting persons who are homeless or at risk of becoming homeless.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to the disposition of firearms lawfully seized by the state; creating new provisions; and amending ORS 131.597, 131A.350 and 166.279.",
+    "RelatingTo": "Relating to the disposition of firearms lawfully seized by the state.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SJUD",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Meg Bushman-Reinhold",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 1847,
+    "Vetoed": false,
+    "CreatedDate": "2018-12-18T09:19:08",
+    "ModifiedDate": "2020-06-26T19:41:22",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "95484",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 342,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "(Presession filed.)",
+      "CreatedDate": "2019-01-09T14:58:34",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "95485",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 342,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Baertschiger Jr",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2019-01-09T14:58:34",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 437172,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 342,
+      "Chamber": "S",
+      "ActionDate": "2019-01-14T07:33:37",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-14T07:34:05",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 438910,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 342,
+      "Chamber": "S",
+      "ActionDate": "2019-01-15T15:44:19",
+      "ActionText": "Referred to Judiciary.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-15T15:44:42",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 480210,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 342,
+      "Chamber": "S",
+      "ActionDate": "2019-06-30T19:00:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2019-07-08T13:59:08",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 342,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/SB342/Introduced",
+      "CreatedDate": "2019-01-09T20:42:14.277",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

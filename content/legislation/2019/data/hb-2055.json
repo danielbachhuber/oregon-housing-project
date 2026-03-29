@@ -1,0 +1,168 @@
+{
+  "measure": {
+    "SessionKey": "2019R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 2055,
+    "CatchLine": "Establishes Greater Oregon Housing Accelerator Program within Housing and Community Services Department.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tEstablishes Greater Oregon Housing Accelerator Program within Housing and Community Services Department. Allows department to \t<i>assist local government efforts to increase workforce housing through technical assistance and direct funding</i>] <b>provide eligible recipients with grants or loans to develop workforce housing and with technical assistance or grants to develop workforce housing proposals.</b> \n\tEstablishes Greater Oregon Housing Account within Oregon Housing Fund to fund program.",
+    "CurrentVersion": "A",
+    "RelatingToFull": "Relating to workforce housing; creating new provisions; and amending ORS 458.610 and 458.620.",
+    "RelatingTo": "Relating to workforce housing.",
+    "AtTheRequestOf": "(at the request of Governor Kate Brown for Housing and Community Services Department)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "JWM",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "Fiscal impact issued",
+    "RevenueImpact": "No revenue impact",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Krista Dauenhauer",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 441,
+    "Vetoed": false,
+    "CreatedDate": "2018-12-07T11:38:34",
+    "ModifiedDate": "2020-06-26T19:41:22",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "97703",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2055,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "Introduced and printed pursuant to House Rule 12.00.  Presession filed",
+      "CreatedDate": "2019-01-09T15:00:49",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 437560,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2055,
+      "Chamber": "H",
+      "ActionDate": "2019-01-14T08:54:51",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-14T08:55:35",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 438949,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2055,
+      "Chamber": "H",
+      "ActionDate": "2019-01-15T15:56:58",
+      "ActionText": "Referred to Human Services and Housing with subsequent referral to Ways and Means.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-15T16:00:05",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 441814,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2055,
+      "Chamber": "H",
+      "ActionDate": "2019-02-04T13:01:00",
+      "ActionText": "Public Hearing held.",
+      "VoteText": null,
+      "CreatedDate": "2019-02-04T15:03:36",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 450152,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2055,
+      "Chamber": "H",
+      "ActionDate": "2019-03-18T13:02:00",
+      "ActionText": "Work Session held.",
+      "VoteText": null,
+      "CreatedDate": "2019-03-18T15:38:46",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 451556,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2055,
+      "Chamber": "H",
+      "ActionDate": "2019-03-22T09:07:39",
+      "ActionText": "Recommendation: Do pass with amendments, be printed A-Engrossed, and be referred to Ways and Means by prior reference.",
+      "VoteText": null,
+      "CreatedDate": "2019-03-22T09:17:00",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 451557,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2055,
+      "Chamber": "H",
+      "ActionDate": "2019-03-22T09:07:40",
+      "ActionText": "Referred to Ways and Means by prior reference.",
+      "VoteText": null,
+      "CreatedDate": "2019-03-22T09:17:00",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 480671,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2055,
+      "Chamber": "H",
+      "ActionDate": "2019-06-30T17:23:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2019-07-08T16:02:16",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2055,
+      "VersionDescription": "A-Engrossed",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB2055/A-Engrossed",
+      "CreatedDate": "2019-03-22T16:13:02.88",
+      "ModifiedDate": null
+    },
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2055,
+      "VersionDescription": "House Amendments to Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB2055/House Amendments to Introduced",
+      "CreatedDate": "2019-03-22T16:13:03.003",
+      "ModifiedDate": null
+    },
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2055,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB2055/Introduced",
+      "CreatedDate": "2019-01-09T19:57:15.517",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

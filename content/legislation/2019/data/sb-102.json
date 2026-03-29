@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2019R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 102,
+    "CatchLine": "Requires State Forester to establish guidelines for wildfire buffer zones that produce defensible spaces around lands in forestland-urban interface.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tRequires State Forester to establish guidelines for wildfire buffer zones that produce defensible spaces around lands in forestland-urban interface. Provides tax credit to landowner that establishes wildfire buffer zone.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to wildfire buffer zones for lands in forestland-urban interface.",
+    "RelatingTo": "Relating to wildfire buffer zones for lands in forestland-urban interface.",
+    "AtTheRequestOf": "(at the request of Senate Interim Committee on Environment and Natural Resources)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SENR",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Krista Dauenhauer",
+    "RevenueEconomist": "Kyle Easton",
+    "LCNumber": 2704,
+    "Vetoed": false,
+    "CreatedDate": "2018-12-12T13:38:16",
+    "ModifiedDate": "2020-06-26T19:41:22",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "97569",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 102,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "Printed pursuant to Senate Interim Rule 213.28 by order of the President of the Senate in conformance with presession filing rules, indicating neither advocacy nor opposition on the part of the President.",
+      "CreatedDate": "2019-01-09T14:59:47",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 436932,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 102,
+      "Chamber": "S",
+      "ActionDate": "2019-01-14T07:33:37",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-14T07:34:03",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 438394,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 102,
+      "Chamber": "S",
+      "ActionDate": "2019-01-15T08:47:07",
+      "ActionText": "Referred to Environment and Natural Resources.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-15T09:17:07",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 479758,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 102,
+      "Chamber": "S",
+      "ActionDate": "2019-06-30T19:00:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2019-07-08T13:59:08",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 102,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/SB102/Introduced",
+      "CreatedDate": "2019-01-09T20:33:41.807",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

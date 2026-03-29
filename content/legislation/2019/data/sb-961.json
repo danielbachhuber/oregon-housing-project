@@ -1,0 +1,137 @@
+{
+  "measure": {
+    "SessionKey": "2019R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 961,
+    "CatchLine": "Requires Land Conservation and Development Commission to amend statewide land use planning goals related to beaches and dunes to expand definition of \"development.\".",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tRequires Land Conservation and Development Commission to amend statewide land use planning goals related to beaches and dunes to expand definition of \"development.\"",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to statewide land use planning goal 18.",
+    "RelatingTo": "Relating to statewide land use planning goal 18.",
+    "AtTheRequestOf": "(at the request of Steve Neville)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SRULES",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "Fiscal impact issued",
+    "RevenueImpact": "No revenue impact",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Krista Dauenhauer",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 3832,
+    "Vetoed": false,
+    "CreatedDate": "2019-02-27T09:50:01",
+    "ModifiedDate": "2020-06-26T19:41:22",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "103786",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 961,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Roblan",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2019-03-03T18:05:09",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 446687,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 961,
+      "Chamber": "S",
+      "ActionDate": "2019-03-04T09:37:28",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2019-03-04T09:37:54",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 447513,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 961,
+      "Chamber": "S",
+      "ActionDate": "2019-03-06T08:32:23",
+      "ActionText": "Referred to Environment and Natural Resources.",
+      "VoteText": null,
+      "CreatedDate": "2019-03-06T08:32:30",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 457085,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 961,
+      "Chamber": "S",
+      "ActionDate": "2019-04-04T13:02:00",
+      "ActionText": "Work Session held.",
+      "VoteText": null,
+      "CreatedDate": "2019-04-04T16:09:01",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 459128,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 961,
+      "Chamber": "S",
+      "ActionDate": "2019-04-12T11:28:58",
+      "ActionText": "Recommendation: Without recommendation as to passage and be referred to Rules.",
+      "VoteText": null,
+      "CreatedDate": "2019-04-12T12:36:18",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 459129,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 961,
+      "Chamber": "S",
+      "ActionDate": "2019-04-12T11:28:59",
+      "ActionText": "Referred to Rules by order of the President.",
+      "VoteText": null,
+      "CreatedDate": "2019-04-12T12:36:18",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 480156,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 961,
+      "Chamber": "S",
+      "ActionDate": "2019-06-30T19:00:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2019-07-08T13:59:08",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 961,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/SB961/Introduced",
+      "CreatedDate": "2019-03-01T12:33:17.88",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

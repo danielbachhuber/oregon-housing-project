@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2019R1",
+    "MeasurePrefix": "SJR",
+    "MeasureNumber": 1,
+    "CatchLine": "Proposes amendment to Oregon Constitution directing Legislative Assembly, notwithstanding any provision of Ballot Measure 50 (1997), to enact laws necessary to ensure that property taxes are equitable and fairly apportioned.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tProposes amendment to Oregon Constitution directing Legislative Assembly, notwithstanding any provision of Ballot Measure 50 (1997), to enact laws necessary to ensure that property taxes are equitable and fairly apportioned. Provides that such legislation is not subject to constitutional emergency declaration prohibition. \n\tRefers proposed amendment to people for their approval or rejection at next regular general election.",
+    "CurrentVersion": null,
+    "RelatingToFull": null,
+    "RelatingTo": "Proposing amendment to Oregon Constitution relating to the property tax system.",
+    "AtTheRequestOf": "(at the request of Senate Interim Committee on Finance and Revenue)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SFR",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Haylee Morse-Miller",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 2160,
+    "Vetoed": false,
+    "CreatedDate": "2018-12-14T16:10:41",
+    "ModifiedDate": "2020-06-26T19:41:22",
+    "PrefixMeaning": "Senate Joint Resolution"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "96415",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SJR",
+      "MeasureNumber": 1,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "Printed pursuant to Senate Interim Rule 213.28 by order of the President of the Senate in conformance with presession filing rules, indicating neither advocacy nor opposition on the part of the President.",
+      "CreatedDate": "2019-01-09T14:58:36",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 436768,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SJR",
+      "MeasureNumber": 1,
+      "Chamber": "S",
+      "ActionDate": "2019-01-14T07:33:37",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-14T07:34:00",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 438251,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SJR",
+      "MeasureNumber": 1,
+      "Chamber": "S",
+      "ActionDate": "2019-01-15T08:47:07",
+      "ActionText": "Referred to Finance and Revenue, then Rules.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-15T09:17:06",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 479995,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SJR",
+      "MeasureNumber": 1,
+      "Chamber": "S",
+      "ActionDate": "2019-06-30T19:00:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2019-07-08T13:59:08",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SJR",
+      "MeasureNumber": 1,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/SJR1/Introduced",
+      "CreatedDate": "2019-01-09T20:48:37.157",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

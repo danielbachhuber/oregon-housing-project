@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2019R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 806,
+    "CatchLine": "Directs Legislative Revenue Officer to study land value taxation and report to interim committees of Legislative Assembly by September 15, 2020.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDirects Legislative Revenue Officer to study land value taxation and report to interim committees of Legislative Assembly by September 15, 2020. Defines \"land value taxation\" to mean property tax system that imposes higher uniform rate of tax on land assessments than on improvement assessments. \n\tSunsets on date of convening of 2021 regular session of Legislative Assembly. \n\tTakes effect on 91st day following adjournment sine die.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to land value taxation; and prescribing an effective date.",
+    "RelatingTo": "Relating to land value taxation; prescribing an effective date.",
+    "AtTheRequestOf": "(at the request of Kris Nelson)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SFR",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Kim To",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 3765,
+    "Vetoed": false,
+    "CreatedDate": "2019-02-14T14:34:10",
+    "ModifiedDate": "2020-06-26T19:41:22",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "100960",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 806,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Beyer",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2019-02-18T21:05:02",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 443808,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 806,
+      "Chamber": "S",
+      "ActionDate": "2019-02-19T09:36:52",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2019-02-19T09:37:03",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 444252,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 806,
+      "Chamber": "S",
+      "ActionDate": "2019-02-20T13:21:45",
+      "ActionText": "Referred to Finance and Revenue.",
+      "VoteText": null,
+      "CreatedDate": "2019-02-20T13:22:06",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 480012,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 806,
+      "Chamber": "S",
+      "ActionDate": "2019-06-30T19:00:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2019-07-08T13:59:08",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 806,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/SB806/Introduced",
+      "CreatedDate": "2019-02-18T17:33:12.13",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

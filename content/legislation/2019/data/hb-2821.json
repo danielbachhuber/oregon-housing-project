@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2019R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 2821,
+    "CatchLine": "Requires Director of Department of Consumer and Business Services to make structural specialty code requirements for seismic force resistance applicable retroactively to existing unreinforced masonry structures two or more stories above grade.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tRequires Director of Department of Consumer and Business Services to make structural specialty code requirements for seismic force resistance applicable retroactively to existing unreinforced masonry structures two or more stories above grade. Requires program for Department of Consumer and Business Services enforcement of standards in areas not served by municipal building inspection program. \n\tRequires municipality administering and enforcing building inspection programs to establish seismic rehabilitation program for unreinforced masonry structures two or more stories above grade. Provides for department or municipality to offer seismic rehabilitation agreement to property owner unless seismic rehabilitation is technically infeasible. Provides for treating structure as not conforming to structural specialty code if property owner declines agreement.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to unreinforced masonry structures.",
+    "RelatingTo": "Relating to unreinforced masonry structures.",
+    "AtTheRequestOf": "(at the request of Deb Boone)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HBL",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Haylee Morse-Miller",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 1821,
+    "Vetoed": false,
+    "CreatedDate": "2019-01-25T10:31:28",
+    "ModifiedDate": "2020-06-26T19:41:22",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "98784",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2821,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Evans",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2019-01-25T21:05:03",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 440746,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2821,
+      "Chamber": "H",
+      "ActionDate": "2019-01-28T08:50:34",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-28T08:52:03",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 441636,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2821,
+      "Chamber": "H",
+      "ActionDate": "2019-02-04T08:30:40",
+      "ActionText": "Referred to Business and Labor with subsequent referral to Ways and Means.",
+      "VoteText": null,
+      "CreatedDate": "2019-02-04T08:31:13",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 481073,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2821,
+      "Chamber": "H",
+      "ActionDate": "2019-06-30T17:23:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2019-07-08T16:02:17",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2821,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB2821/Introduced",
+      "CreatedDate": "2019-01-25T16:48:11.58",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

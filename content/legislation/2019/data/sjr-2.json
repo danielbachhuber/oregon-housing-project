@@ -1,0 +1,111 @@
+{
+  "measure": {
+    "SessionKey": "2019R1",
+    "MeasurePrefix": "SJR",
+    "MeasureNumber": 2,
+    "CatchLine": "Proposes amendment to Oregon Constitution providing that, for purposes of ad valorem property taxation, ratio of maximum assessed value to real market value of property may not be less than 0.75.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tProposes amendment to Oregon Constitution providing that, for purposes of ad valorem property taxation, ratio of maximum assessed value to real market value of property may not be less than 0.75. Provides that if such ratio is less than 0.75, maximum assessed value of such property shall be increased so that ratio is equal to 0.75. Provides five-year ramp-up for new assessment policy. \n\tExempts from ad valorem property taxes lesser of first $25,000 or first 25 percent of real market value of each homestead. Requires Legislative Assembly to enact laws for administration of exemption, including adjusting $25,000 for inflation. \n\tRefers proposed amendment to people for their approval or rejection at next regular general election.",
+    "CurrentVersion": null,
+    "RelatingToFull": null,
+    "RelatingTo": "Proposing amendment to Oregon Constitution relating to ad valorem property taxation.",
+    "AtTheRequestOf": "(at the request of Senate Interim Committee on Finance and Revenue)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SFR",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Haylee Morse-Miller",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 2159,
+    "Vetoed": false,
+    "CreatedDate": "2018-12-14T16:10:41",
+    "ModifiedDate": "2020-06-26T19:41:22",
+    "PrefixMeaning": "Senate Joint Resolution"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "96416",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SJR",
+      "MeasureNumber": 2,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "Printed pursuant to Senate Interim Rule 213.28 by order of the President of the Senate in conformance with presession filing rules, indicating neither advocacy nor opposition on the part of the President.",
+      "CreatedDate": "2019-01-09T14:58:36",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 436769,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SJR",
+      "MeasureNumber": 2,
+      "Chamber": "S",
+      "ActionDate": "2019-01-14T07:33:37",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-14T07:34:00",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 438252,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SJR",
+      "MeasureNumber": 2,
+      "Chamber": "S",
+      "ActionDate": "2019-01-15T08:47:07",
+      "ActionText": "Referred to Finance and Revenue, then Rules.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-15T09:17:06",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 444790,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SJR",
+      "MeasureNumber": 2,
+      "Chamber": "S",
+      "ActionDate": "2019-02-20T15:01:00",
+      "ActionText": "Public Hearing held.",
+      "VoteText": null,
+      "CreatedDate": "2019-02-22T10:02:51",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 479996,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SJR",
+      "MeasureNumber": 2,
+      "Chamber": "S",
+      "ActionDate": "2019-06-30T19:00:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2019-07-08T13:59:08",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SJR",
+      "MeasureNumber": 2,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/SJR2/Introduced",
+      "CreatedDate": "2019-01-09T20:48:37.297",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

@@ -1,0 +1,125 @@
+{
+  "measure": {
+    "SessionKey": "2019R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 2363,
+    "CatchLine": "Redefines \"historic home\" to include dwellings built before 1974 for purpose of serving as accessory dwelling unit to homes newly constructed on rural residential lands.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tRedefines \"historic home\" to include dwellings built before 1974 for purpose of serving as accessory dwelling unit to homes newly constructed on rural residential lands.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to accessory dwelling units; amending ORS 215.501.",
+    "RelatingTo": "Relating to accessory dwelling units.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HAGLU",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Krista Dauenhauer",
+    "RevenueEconomist": "Jaime McGovern",
+    "LCNumber": 1099,
+    "Vetoed": false,
+    "CreatedDate": "2018-12-17T13:42:28",
+    "ModifiedDate": "2020-06-26T19:41:22",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "96951",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2363,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "(Presession filed.)",
+      "CreatedDate": "2019-01-09T14:59:45",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "96952",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2363,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Smith DB",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2019-01-09T14:59:45",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 437868,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2363,
+      "Chamber": "H",
+      "ActionDate": "2019-01-14T08:54:51",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-14T08:55:38",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 439797,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2363,
+      "Chamber": "H",
+      "ActionDate": "2019-01-18T11:43:45",
+      "ActionText": "Referred to Agriculture and Land Use.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-18T11:46:10",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 442910,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2363,
+      "Chamber": "H",
+      "ActionDate": "2019-02-12T15:01:00",
+      "ActionText": "Public Hearing held.",
+      "VoteText": null,
+      "CreatedDate": "2019-02-12T15:45:01",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 481019,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2363,
+      "Chamber": "H",
+      "ActionDate": "2019-06-30T17:23:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2019-07-08T16:02:17",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2363,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB2363/Introduced",
+      "CreatedDate": "2019-01-09T20:06:14.78",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

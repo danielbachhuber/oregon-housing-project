@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2019R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 2784,
+    "CatchLine": "Establishes certain requirements for employer who hires homeless day laborer to perform work for employer.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tEstablishes certain requirements for employer who hires homeless day laborer to perform work for employer. Allows employer to qualify for subtraction from federal taxable income. \n\tPermits employer to apply for federal waiver for exemption from federal payroll tax requirements. \n\tExcludes wages paid to homeless day laborers from definition of \"wages\" for purposes of state income tax withholding. Exempts wages from employee income tax withholding. \n\tTakes effect on 91st day following adjournment sine die.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to homeless day laborers; creating new provisions; amending ORS 316.162; and prescribing an effective date.",
+    "RelatingTo": "Relating to homeless day laborers; prescribing an effective date.",
+    "AtTheRequestOf": "(at the request of Julie Parrish)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HBL",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Krista Dauenhauer",
+    "RevenueEconomist": "Kyle Easton",
+    "LCNumber": 8,
+    "Vetoed": false,
+    "CreatedDate": "2019-01-23T10:07:21",
+    "ModifiedDate": "2020-06-26T19:41:22",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "98554",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2784,
+      "SponsorType": "Committee",
+      "LegislatoreCode": null,
+      "CommitteeCode": "HBL",
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2019-01-23T21:05:03",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 440313,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2784,
+      "Chamber": "H",
+      "ActionDate": "2019-01-24T08:36:04",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-24T08:41:14",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 440594,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2784,
+      "Chamber": "H",
+      "ActionDate": "2019-01-25T14:27:15",
+      "ActionText": "Referred to Business and Labor.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-25T14:28:01",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 481082,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2784,
+      "Chamber": "H",
+      "ActionDate": "2019-06-30T17:23:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2019-07-08T16:02:17",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2784,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB2784/Introduced",
+      "CreatedDate": "2019-01-23T16:57:11.697",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

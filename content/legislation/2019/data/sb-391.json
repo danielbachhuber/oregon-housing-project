@@ -1,0 +1,112 @@
+{
+  "measure": {
+    "SessionKey": "2019R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 391,
+    "CatchLine": "Requires contractor licensed to conduct illegal drug manufacturing decontamination work to report property that contractor knows or has reasonable grounds to believe was used for illegal drug manufacturing and that has not been evaluated for fitness of use.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tRequires contractor licensed to conduct illegal drug manufacturing decontamination work to report property that contractor knows or has reasonable grounds to believe was used for illegal drug manufacturing and that has not been evaluated for fitness of use. \n\tProhibits person from performing work to decontaminate property that person knows or has reasonable grounds to believe was used as illegal drug manufacturing site unless person is licensed to perform decontamination work by Oregon Health Authority. \n\tAuthorizes authority to deny, suspend or revoke decontamination contractor license for failure to comply with reporting and licensing requirements. Authorizes authority to, in addition to denial, suspension or revocation, impose civil penalty not to exceed $500.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to illegal drug manufacturing sites; creating new provisions; and amending ORS 453.888.",
+    "RelatingTo": "Relating to illegal drug manufacturing sites.",
+    "AtTheRequestOf": "(at the request of Marty Justus)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SJUD",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Kim To",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 784,
+    "Vetoed": false,
+    "CreatedDate": "2018-12-18T13:10:44",
+    "ModifiedDate": "2020-06-26T19:41:22",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "95565",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 391,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "(Presession filed.)",
+      "CreatedDate": "2019-01-09T14:58:34",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "95566",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 391,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Bentz",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2019-01-09T14:58:34",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 437221,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 391,
+      "Chamber": "S",
+      "ActionDate": "2019-01-14T07:33:37",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-14T07:34:06",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 439375,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 391,
+      "Chamber": "S",
+      "ActionDate": "2019-01-16T09:20:23",
+      "ActionText": "Referred to Judiciary.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-16T09:20:46",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 480240,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 391,
+      "Chamber": "S",
+      "ActionDate": "2019-06-30T19:00:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2019-07-08T13:59:09",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 391,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/SB391/Introduced",
+      "CreatedDate": "2019-01-09T20:42:21.66",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

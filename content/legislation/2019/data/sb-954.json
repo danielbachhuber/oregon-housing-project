@@ -1,0 +1,111 @@
+{
+  "measure": {
+    "SessionKey": "2019R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 954,
+    "CatchLine": "Directs Housing and Community Services Department to study and make recommendations on provisions of state law related to mold in residential properties that are listed for sale or rent.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDirects Housing and Community Services Department to study and make recommendations on provisions of state law related to mold in residential properties that are listed for sale or rent. Requires department to submit report on findings to Legislative Assembly by September 15, 2021.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to mold in residential properties.",
+    "RelatingTo": "Relating to mold in residential properties.",
+    "AtTheRequestOf": "(at the request of Thomas W. Mueller)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SHOUS",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Krista Dauenhauer",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 3532,
+    "Vetoed": false,
+    "CreatedDate": "2019-02-26T15:50:10",
+    "ModifiedDate": "2020-06-26T19:41:22",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "103752",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 954,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Thatcher",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2019-03-03T18:05:09",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 446680,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 954,
+      "Chamber": "S",
+      "ActionDate": "2019-03-04T09:37:28",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2019-03-04T09:37:53",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 447507,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 954,
+      "Chamber": "S",
+      "ActionDate": "2019-03-06T08:32:23",
+      "ActionText": "Referred to Housing.",
+      "VoteText": null,
+      "CreatedDate": "2019-03-06T08:32:30",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 452202,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 954,
+      "Chamber": "S",
+      "ActionDate": "2019-03-25T15:01:00",
+      "ActionText": "Public Hearing held.",
+      "VoteText": null,
+      "CreatedDate": "2019-03-25T15:39:18",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 480399,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 954,
+      "Chamber": "S",
+      "ActionDate": "2019-06-30T19:00:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2019-07-08T13:59:09",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 954,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/SB954/Introduced",
+      "CreatedDate": "2019-03-01T12:33:15.367",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

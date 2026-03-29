@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2019R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 733,
+    "CatchLine": "Increases amount of value of homesteads exempt from sale on execution, judgment lien or liability for debts of owner.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tIncreases amount of value of homesteads exempt from sale on execution, judgment lien or liability for debts of owner.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to the homestead exemption; creating new provisions; and amending ORS 18.395, 18.402, 18.412, 18.845 and 18.896.",
+    "RelatingTo": "Relating to the homestead exemption.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SJUD",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Meg Bushman-Reinhold",
+    "RevenueEconomist": "Jaime McGovern",
+    "LCNumber": 3558,
+    "Vetoed": false,
+    "CreatedDate": "2019-01-30T08:35:35",
+    "ModifiedDate": "2020-06-26T19:41:22",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "99356",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 733,
+      "SponsorType": "Committee",
+      "LegislatoreCode": null,
+      "CommitteeCode": "SHS",
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2019-01-30T21:05:03",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 441378,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 733,
+      "Chamber": "S",
+      "ActionDate": "2019-01-31T09:36:05",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-31T09:36:35",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 441588,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 733,
+      "Chamber": "S",
+      "ActionDate": "2019-02-01T13:41:32",
+      "ActionText": "Referred to Judiciary.",
+      "VoteText": null,
+      "CreatedDate": "2019-02-01T13:41:58",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 479853,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 733,
+      "Chamber": "S",
+      "ActionDate": "2019-06-30T19:00:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2019-07-08T13:59:08",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 733,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/SB733/Introduced",
+      "CreatedDate": "2019-01-30T17:33:15.06",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

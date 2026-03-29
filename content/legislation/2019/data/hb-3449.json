@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2019R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3449,
+    "CatchLine": "Requires Land Conservation and Development Commission to ensure that land use planning of local government allows for appropriate dense, mixed-use housing on employment lands.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tRequires Land Conservation and Development Commission to ensure that land use planning of local government allows for appropriate dense, mixed-use housing on employment lands.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to housing density in areas zoned for commercial uses; creating new provisions; and amending 197.712.",
+    "RelatingTo": "Relating to housing density in areas zoned for commercial uses.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HRULES",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Krista Dauenhauer",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 4484,
+    "Vetoed": false,
+    "CreatedDate": "2019-06-07T09:53:52",
+    "ModifiedDate": "2020-06-26T19:41:22",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "106181",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3449,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Helt",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2019-06-09T18:05:03",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 473244,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3449,
+      "Chamber": "H",
+      "ActionDate": "2019-06-10T08:53:20",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2019-06-10T08:53:41",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 474213,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3449,
+      "Chamber": "H",
+      "ActionDate": "2019-06-12T12:46:21",
+      "ActionText": "Referred to Rules.",
+      "VoteText": null,
+      "CreatedDate": "2019-06-12T12:46:30",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 480788,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3449,
+      "Chamber": "H",
+      "ActionDate": "2019-06-30T17:23:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2019-07-08T16:02:16",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3449,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB3449/Introduced",
+      "CreatedDate": "2019-06-07T17:06:09.167",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

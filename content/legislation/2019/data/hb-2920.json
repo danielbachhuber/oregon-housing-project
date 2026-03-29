@@ -1,0 +1,112 @@
+{
+  "measure": {
+    "SessionKey": "2019R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 2920,
+    "CatchLine": "Reduces interest rates chargeable on delinquent property tax payments and payable on property tax refunds.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tReduces interest rates chargeable on delinquent property tax payments and payable on property tax refunds. \n\tTakes effect on 91st day following adjournment sine die.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to property tax interest rates; creating new provisions; amending ORS 311.505 and 311.812; and prescribing an effective date.",
+    "RelatingTo": "Relating to property tax interest rates; prescribing an effective date.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HREV",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Jaime McGovern",
+    "LCNumber": 3629,
+    "Vetoed": false,
+    "CreatedDate": "2019-02-07T14:06:55",
+    "ModifiedDate": "2020-06-26T19:41:22",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "100158",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2920,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Nearman",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2019-02-10T18:05:03",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "105216",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2920,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Reschke",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "10",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2019-04-12T09:50:25",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 442571,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2920,
+      "Chamber": "H",
+      "ActionDate": "2019-02-11T09:06:18",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2019-02-11T09:06:58",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 443229,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2920,
+      "Chamber": "H",
+      "ActionDate": "2019-02-14T09:42:55",
+      "ActionText": "Referred to Revenue.",
+      "VoteText": null,
+      "CreatedDate": "2019-02-14T09:43:24",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 481649,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2920,
+      "Chamber": "H",
+      "ActionDate": "2019-06-30T17:23:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2019-07-08T16:02:18",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2920,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB2920/Introduced",
+      "CreatedDate": "2019-02-08T16:06:07.95",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

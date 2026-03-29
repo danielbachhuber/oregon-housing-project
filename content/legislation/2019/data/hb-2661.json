@@ -1,0 +1,126 @@
+{
+  "measure": {
+    "SessionKey": "2019R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 2661,
+    "CatchLine": "Shortens period of limitation for tort action by homeowner association or association of unit owners arising out of structure construction defect.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tShortens period of limitation for tort action by homeowner association or association of unit owners arising out of structure construction defect. \n\tShortens period of limitation by homeowner arising out of single-family dwelling construction defect. \n\tProhibits homeowner association or association of unit owners from initiating or intervening in litigation or administrative proceeding arising out of construction defect unless approved by majority of lots or units voting at meeting called for purpose. \n\tEstablishes separate procedures regarding response to notices of construction defect given by owner that is homeowner association or association of unit owners.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to construction defect claims; creating new provisions; and amending ORS 12.135, 94.630, 94.662, 100.105, 100.405, 100.490, 701.570, 701.575 and 701.585.",
+    "RelatingTo": "Relating to construction defect claims.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HJUD",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Meg Bushman-Reinhold",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 1628,
+    "Vetoed": false,
+    "CreatedDate": "2018-12-21T15:30:15",
+    "ModifiedDate": "2020-06-26T19:41:22",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "94509",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2661,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "(Presession filed.)",
+      "CreatedDate": "2019-01-09T14:55:43",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "94510",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2661,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Power",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2019-01-09T14:55:43",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "98854",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2661,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Meek",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "10",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2019-01-28T09:35:03",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 438166,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2661,
+      "Chamber": "H",
+      "ActionDate": "2019-01-14T08:54:51",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-14T08:55:41",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 439928,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2661,
+      "Chamber": "H",
+      "ActionDate": "2019-01-18T11:43:45",
+      "ActionText": "Referred to Judiciary.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-18T11:46:10",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 481329,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2661,
+      "Chamber": "H",
+      "ActionDate": "2019-06-30T17:23:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2019-07-08T16:02:17",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2661,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB2661/Introduced",
+      "CreatedDate": "2019-01-09T20:27:24.73",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

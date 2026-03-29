@@ -1,0 +1,181 @@
+{
+  "measure": {
+    "SessionKey": "2019R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 2796,
+    "CatchLine": "Requires Department of State Lands to develop rules to allow removal and fill of degraded wetlands for needed housing projects by general permit or authorization.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tRequires Department of State Lands to develop rules to allow removal and fill of degraded wetlands for needed housing projects by general permit or authorization. <b>Allows department to suspend, modify or revoke rules to obtain authority to assume federal wetland permitting.</b>",
+    "CurrentVersion": "A",
+    "RelatingToFull": "Relating to needed housing projects in wetlands.",
+    "RelatingTo": "Relating to needed housing projects in wetlands.",
+    "AtTheRequestOf": "(at the request of Representative Bill Post)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "JWM",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "Fiscal impact issued",
+    "RevenueImpact": "No revenue impact",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Krista Dauenhauer",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 1872,
+    "Vetoed": false,
+    "CreatedDate": "2019-01-23T13:23:19",
+    "ModifiedDate": "2020-06-26T19:41:22",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "98566",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2796,
+      "SponsorType": "Committee",
+      "LegislatoreCode": null,
+      "CommitteeCode": "HAGLU",
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2019-01-23T21:05:03",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 440325,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2796,
+      "Chamber": "H",
+      "ActionDate": "2019-01-24T08:36:04",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-24T08:41:14",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 440836,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2796,
+      "Chamber": "H",
+      "ActionDate": "2019-01-28T14:19:26",
+      "ActionText": "Referred to Agriculture and Land Use.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-28T14:19:59",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 451474,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2796,
+      "Chamber": "H",
+      "ActionDate": "2019-03-21T15:01:00",
+      "ActionText": "Public Hearing held.",
+      "VoteText": null,
+      "CreatedDate": "2019-03-21T16:00:26",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 457089,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2796,
+      "Chamber": "H",
+      "ActionDate": "2019-04-04T15:01:00",
+      "ActionText": "Work Session held.",
+      "VoteText": null,
+      "CreatedDate": "2019-04-04T16:18:19",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 458485,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2796,
+      "Chamber": "H",
+      "ActionDate": "2019-04-09T15:02:00",
+      "ActionText": "Work Session held.",
+      "VoteText": null,
+      "CreatedDate": "2019-04-09T17:06:50",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 459690,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2796,
+      "Chamber": "H",
+      "ActionDate": "2019-04-16T09:16:26",
+      "ActionText": "Recommendation: Do pass with amendments, be printed A-Engrossed, and be referred to Ways and Means.",
+      "VoteText": null,
+      "CreatedDate": "2019-04-16T09:27:23",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 459691,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2796,
+      "Chamber": "H",
+      "ActionDate": "2019-04-16T09:16:27",
+      "ActionText": "Referred to Ways and Means by order of Speaker.",
+      "VoteText": null,
+      "CreatedDate": "2019-04-16T09:27:23",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 481091,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2796,
+      "Chamber": "H",
+      "ActionDate": "2019-06-30T17:23:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2019-07-08T16:02:17",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2796,
+      "VersionDescription": "A-Engrossed",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB2796/A-Engrossed",
+      "CreatedDate": "2019-04-16T16:48:09.713",
+      "ModifiedDate": null
+    },
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2796,
+      "VersionDescription": "House Amendments to Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB2796/House Amendments to Introduced",
+      "CreatedDate": "2019-04-16T16:48:09.843",
+      "ModifiedDate": null
+    },
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2796,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB2796/Introduced",
+      "CreatedDate": "2019-01-23T16:57:14.357",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

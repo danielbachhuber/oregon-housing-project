@@ -1,0 +1,111 @@
+{
+  "measure": {
+    "SessionKey": "2019R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3157,
+    "CatchLine": "Requires Director of Department of Consumer and Business Services to amend Low-Rise Residential Dwelling Code to require alternative energy collection or generation by December 15, 2020.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tRequires Director of Department of Consumer and Business Services to amend Low-Rise Residential Dwelling Code to require alternative energy collection or generation by December 15, 2020. \n\tTakes effect on 91st day following adjournment sine die.\t.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to residential alternative energy; and prescribing an effective date.",
+    "RelatingTo": "Relating to residential alternative energy; prescribing an effective date.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HEE",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 3965,
+    "Vetoed": false,
+    "CreatedDate": "2019-02-26T14:46:16",
+    "ModifiedDate": "2020-06-26T19:41:22",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "102383",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3157,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Evans",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2019-02-27T21:05:04",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 446081,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3157,
+      "Chamber": "H",
+      "ActionDate": "2019-02-28T09:37:31",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2019-02-28T09:38:08",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 447847,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3157,
+      "Chamber": "H",
+      "ActionDate": "2019-03-06T16:07:36",
+      "ActionText": "Referred to Energy and Environment.",
+      "VoteText": null,
+      "CreatedDate": "2019-03-06T16:08:53",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 455661,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3157,
+      "Chamber": "H",
+      "ActionDate": "2019-04-02T13:01:00",
+      "ActionText": "Public Hearing and Work Session held.",
+      "VoteText": null,
+      "CreatedDate": "2019-04-02T15:22:45",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 481485,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3157,
+      "Chamber": "H",
+      "ActionDate": "2019-06-30T17:23:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2019-07-08T16:02:18",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3157,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB3157/Introduced",
+      "CreatedDate": "2019-02-27T16:18:08.037",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

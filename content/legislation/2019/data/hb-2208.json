@@ -1,0 +1,168 @@
+{
+  "measure": {
+    "SessionKey": "2019R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 2208,
+    "CatchLine": "Establishes Oregon Business Development Department Unreinforced Masonry Seismic Safety Program to issue grants for improving seismic safety, stability and resiliency of qualifying unreinforced masonry and unreinforced concrete buildings.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tEstablishes Oregon Business Development Department <b>Unreinforced Masonry Seismic Safety </b>Program to issue grants for improving seismic safety, stability and resiliency of qualifying unreinforced masonry and unreinforced concrete buildings.<b> Specifies limits and conditions for grants.</b> Establishes fund for program. Authorizes issuance of lottery bonds during biennium ending June 30, 2021, to finance program.<b> Requires department to report to interim committee of Legislative Assembly no later than September 15, 2021, regarding operation of program.</b> \n\tTakes effect on 91st day following adjournment sine die.",
+    "CurrentVersion": "A",
+    "RelatingToFull": "Relating to seismic improvements to buildings; and prescribing an effective date.",
+    "RelatingTo": "Relating to seismic improvements to buildings; prescribing an effective date.",
+    "AtTheRequestOf": "(at the request of House Interim Committee on Veterans and Emergency Preparedness)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "JWM",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "Fiscal impact issued",
+    "RevenueImpact": "No revenue impact",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Mazen Malik",
+    "LCNumber": 2652,
+    "Vetoed": false,
+    "CreatedDate": "2018-12-13T16:25:16",
+    "ModifiedDate": "2020-06-26T19:41:22",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "97877",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2208,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "Introduced and printed pursuant to House Rule 12.00.  Presession filed",
+      "CreatedDate": "2019-01-09T15:00:49",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 437713,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2208,
+      "Chamber": "H",
+      "ActionDate": "2019-01-14T08:54:51",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-14T08:55:36",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 439732,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2208,
+      "Chamber": "H",
+      "ActionDate": "2019-01-18T11:43:45",
+      "ActionText": "Referred to Veterans and Emergency Preparedness with subsequent referral to Ways and Means.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-18T11:46:09",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 449640,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2208,
+      "Chamber": "H",
+      "ActionDate": "2019-03-14T15:01:00",
+      "ActionText": "Public Hearing held.",
+      "VoteText": null,
+      "CreatedDate": "2019-03-14T16:13:05",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 458402,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2208,
+      "Chamber": "H",
+      "ActionDate": "2019-04-09T15:02:00",
+      "ActionText": "Work Session held.",
+      "VoteText": null,
+      "CreatedDate": "2019-04-09T15:28:29",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 459547,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2208,
+      "Chamber": "H",
+      "ActionDate": "2019-04-15T16:22:48",
+      "ActionText": "Recommendation: Do pass with amendments, be printed A-Engrossed, and be referred to Ways and Means by prior reference.",
+      "VoteText": null,
+      "CreatedDate": "2019-04-15T16:46:51",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 459548,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2208,
+      "Chamber": "H",
+      "ActionDate": "2019-04-15T16:22:49",
+      "ActionText": "Referred to Ways and Means by prior reference.",
+      "VoteText": null,
+      "CreatedDate": "2019-04-15T16:46:51",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 480962,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2208,
+      "Chamber": "H",
+      "ActionDate": "2019-06-30T17:23:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2019-07-08T16:02:17",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2208,
+      "VersionDescription": "A-Engrossed",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB2208/A-Engrossed",
+      "CreatedDate": "2019-04-15T17:13:04.443",
+      "ModifiedDate": null
+    },
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2208,
+      "VersionDescription": "House Amendments to Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB2208/House Amendments to Introduced",
+      "CreatedDate": "2019-04-15T17:13:04.597",
+      "ModifiedDate": null
+    },
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2208,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB2208/Introduced",
+      "CreatedDate": "2019-01-09T20:03:20.597",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

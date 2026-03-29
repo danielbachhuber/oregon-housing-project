@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2019R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 2095,
+    "CatchLine": "Establishes Building Maintenance Account in State Treasury, separate and distinct from General Fund.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tEstablishes Building Maintenance Account in State Treasury, separate and distinct from General Fund. Directs State Treasurer to create subaccounts within account for specified state agencies. Continuously appropriates amounts in subaccounts to state agencies for purposes of repairing and maintaining buildings owned by state agencies. \n\tDeclares emergency, effective July 1, 2019.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to maintenance of buildings owned by state agencies; and declaring an emergency.",
+    "RelatingTo": "Relating to maintenance of buildings owned by state agencies; declaring an emergency.",
+    "AtTheRequestOf": "(at the request of Governor Kate Brown for Oregon Department of Administrative Services)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "JWM",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": true,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 548,
+    "Vetoed": false,
+    "CreatedDate": "2018-12-07T14:13:10",
+    "ModifiedDate": "2020-06-26T19:41:22",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "97744",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2095,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "Introduced and printed pursuant to House Rule 12.00.  Presession filed",
+      "CreatedDate": "2019-01-09T15:00:49",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 437600,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2095,
+      "Chamber": "H",
+      "ActionDate": "2019-01-14T08:54:51",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-14T08:55:35",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 438962,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2095,
+      "Chamber": "H",
+      "ActionDate": "2019-01-15T15:56:58",
+      "ActionText": "Referred to Ways and Means.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-15T16:00:05",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 480572,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2095,
+      "Chamber": "H",
+      "ActionDate": "2019-06-30T17:23:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2019-07-08T16:02:16",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2095,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB2095/Introduced",
+      "CreatedDate": "2019-01-09T19:57:21.56",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

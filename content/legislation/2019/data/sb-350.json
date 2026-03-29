@@ -1,0 +1,126 @@
+{
+  "measure": {
+    "SessionKey": "2019R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 350,
+    "CatchLine": "Allows county with no population growth, and city within county with no population growth, to adopt exception to any statewide land use planning goal for certain purposes, with exceptions.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tAllows county with no population growth, and city within county with no population growth, to adopt exception to any statewide land use planning goal for certain purposes, with exceptions. \n\tRequires Land Conservation and Development Commission to review and approve proposed exception within 60 days of receiving notice from county or city. \n\tPermits person adversely affected by adoption of exception to obtain judicial review of exception. \n\tDirects Oregon Business Development Department to monitor adoption of exceptions by counties with no population growth and cities within counties with no population growth. Appropriates moneys from General Fund to department for monitoring costs. Requires department to submit report to interim committee of Legislative Assembly no later than September 15, 2022. \n\tDeclares emergency, effective on passage.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to land use planning that does not comply with goals in rural counties without population growth; creating new provisions; amending ORS 34.020, 197.610, 197.650, 197.732 and 197.736; and declaring an emergency.",
+    "RelatingTo": "Relating to land use planning that does not comply with goals in rural counties without population growth; declaring an emergency.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SENR",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": true,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Krista Dauenhauer",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 2244,
+    "Vetoed": false,
+    "CreatedDate": "2018-12-18T10:02:55",
+    "ModifiedDate": "2020-06-26T19:41:22",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "95501",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 350,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "(Presession filed.)",
+      "CreatedDate": "2019-01-09T14:58:34",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "95502",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 350,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Thomsen",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2019-01-09T14:58:34",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "95503",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 350,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Hansell",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2019-01-09T14:58:34",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 437180,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 350,
+      "Chamber": "S",
+      "ActionDate": "2019-01-14T07:33:37",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-14T07:34:05",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 438918,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 350,
+      "Chamber": "S",
+      "ActionDate": "2019-01-15T15:44:19",
+      "ActionText": "Referred to Environment and Natural Resources.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-15T15:44:43",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 480221,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 350,
+      "Chamber": "S",
+      "ActionDate": "2019-06-30T19:00:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2019-07-08T13:59:08",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 350,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/SB350/Introduced",
+      "CreatedDate": "2019-01-09T20:42:15.407",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

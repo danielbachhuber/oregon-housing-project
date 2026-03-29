@@ -1,0 +1,112 @@
+{
+  "measure": {
+    "SessionKey": "2019R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 2774,
+    "CatchLine": "Prohibits county's governing body from charging more than $1,000 for appeal of most land use decisions unless appeal costs are within estimate and itemization of county's limited and specified costs.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tProhibits county's governing body from charging more than $1,000 for appeal of most land use decisions unless appeal costs are within estimate and itemization of county's limited and specified costs.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to appeal of county decisions; amending ORS 215.422.",
+    "RelatingTo": "Relating to appeal of county decisions.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HAGLU",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Krista Dauenhauer",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 1706,
+    "Vetoed": false,
+    "CreatedDate": "2019-01-22T11:34:52",
+    "ModifiedDate": "2020-06-26T19:41:22",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "98539",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2774,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Helm",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2019-01-23T21:05:03",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "98540",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2774,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Prozanski",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2019-01-23T21:05:03",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 440303,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2774,
+      "Chamber": "H",
+      "ActionDate": "2019-01-24T08:36:04",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-24T08:41:14",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 440588,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2774,
+      "Chamber": "H",
+      "ActionDate": "2019-01-25T14:27:15",
+      "ActionText": "Referred to Agriculture and Land Use.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-25T14:28:01",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 481635,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2774,
+      "Chamber": "H",
+      "ActionDate": "2019-06-30T17:23:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2019-07-08T16:02:18",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2774,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB2774/Introduced",
+      "CreatedDate": "2019-01-23T16:57:08.937",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

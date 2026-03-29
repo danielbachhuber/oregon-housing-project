@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2019R1",
+    "MeasurePrefix": "HJR",
+    "MeasureNumber": 2,
+    "CatchLine": "Proposes amendment to Oregon Constitution relating to ad valorem property taxation.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tProposes amendment to Oregon Constitution relating to ad valorem property taxation. Provides that residential property that is subject of sale or other transfer for which seller receives consideration of $1 million or more shall have assessed value equal to residential property's real market value. \n\tRefers proposed amendment to people for their approval or rejection at next regular general election.",
+    "CurrentVersion": null,
+    "RelatingToFull": null,
+    "RelatingTo": "Proposing amendment to Oregon Constitution relating to the assessment of high-value residential property for ad valorem property tax purposes.",
+    "AtTheRequestOf": "(at the request of House Interim Committee on Revenue)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HRULES",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Kim To",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 2356,
+    "Vetoed": false,
+    "CreatedDate": "2018-12-13T10:53:27",
+    "ModifiedDate": "2020-06-26T19:41:22",
+    "PrefixMeaning": "House Joint Resolution"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "94957",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HJR",
+      "MeasureNumber": 2,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "Introduced and printed pursuant to House Rule 12.00.  Presession filed",
+      "CreatedDate": "2019-01-09T14:55:47",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 437457,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HJR",
+      "MeasureNumber": 2,
+      "Chamber": "H",
+      "ActionDate": "2019-01-14T08:54:51",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-14T08:55:22",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 439337,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HJR",
+      "MeasureNumber": 2,
+      "Chamber": "H",
+      "ActionDate": "2019-01-15T15:56:58",
+      "ActionText": "Referred to Rules.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-15T16:00:09",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 480633,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HJR",
+      "MeasureNumber": 2,
+      "Chamber": "H",
+      "ActionDate": "2019-06-30T17:23:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2019-07-08T16:02:16",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HJR",
+      "MeasureNumber": 2,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HJR2/Introduced",
+      "CreatedDate": "2019-01-09T20:33:19.28",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

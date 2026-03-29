@@ -1,0 +1,139 @@
+{
+  "measure": {
+    "SessionKey": "2019R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3402,
+    "CatchLine": "Establishes subtraction from personal taxable income for eligible rental payments made by eligible renters.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tEstablishes subtraction from personal taxable income for eligible rental payments made by eligible renters. \n\tApplies to tax years beginning on or after January 1, 2020, and before January 1, 2026. \n\tTakes effect on 91st day following adjournment sine die.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to an income tax subtraction for rental payments; and prescribing an effective date.",
+    "RelatingTo": "Relating to an income tax subtraction for rental payments; prescribing an effective date.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HREV",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Kyle Easton",
+    "LCNumber": 4229,
+    "Vetoed": false,
+    "CreatedDate": "2019-03-25T12:12:27",
+    "ModifiedDate": "2020-06-26T19:41:22",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "104589",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3402,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Smith DB",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2019-03-25T21:05:01",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "104590",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3402,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Hayden",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "2",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2019-03-25T21:05:01",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "106245",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3402,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Zika",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2019-06-13T10:31:12",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 452403,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3402,
+      "Chamber": "H",
+      "ActionDate": "2019-03-26T09:40:47",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2019-03-26T09:42:09",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 452946,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3402,
+      "Chamber": "H",
+      "ActionDate": "2019-03-27T13:25:43",
+      "ActionText": "Referred to Revenue.",
+      "VoteText": null,
+      "CreatedDate": "2019-03-27T13:25:49",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 474519,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3402,
+      "Chamber": "H",
+      "ActionDate": "2019-06-13T10:30:00",
+      "ActionText": "Motion to withdraw from Revenue failed.",
+      "VoteText": "Ayes, 22; Nays, 36--Alonso Leon, Barker, Bynum, Clem, Doherty, Fahey, Gomberg, Gorsek, Greenlick, Helm, Hernandez, Holvey, Keny-Guyer, Lively, Marsh, McKeown, McLain, Meek, Mitchell, Nathanson, Neron, Nosse, Power, Prusak, Rayfield, Reardon, Salinas, Sanchez, Schouten, Smith Warner, Sollman, Speaker Kotek, Wilde, Williams, Williamson, Witt; Excused, 1--Piluso; Excused for Business of the House, 1--Evans.",
+      "CreatedDate": "2019-06-13T10:32:56",
+      "ModifiedDate": "2019-06-25T11:42:38",
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 481665,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3402,
+      "Chamber": "H",
+      "ActionDate": "2019-06-30T17:23:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2019-07-08T16:02:18",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3402,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB3402/Introduced",
+      "CreatedDate": "2019-03-25T17:51:12.55",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

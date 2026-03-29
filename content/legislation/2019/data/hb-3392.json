@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2019R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3392,
+    "CatchLine": "Sets limit on taxes due on homesteads of seniors living on fixed income equal to total amount of taxes due for property tax year preceding first property tax year for which relief is allowed.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tSets limit on taxes due on homesteads of seniors living on fixed income equal to total amount of taxes due for property tax year preceding first property tax year for which relief is allowed. Abates taxes in excess of limit. \n\tTakes effect on 91st day following adjournment sine die.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to property taxes due on the homestead of certain seniors; and prescribing an effective date.",
+    "RelatingTo": "Relating to property taxes due on the homestead of certain seniors; prescribing an effective date.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HREV",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Jaime McGovern",
+    "LCNumber": 4291,
+    "Vetoed": false,
+    "CreatedDate": "2019-03-21T14:21:39",
+    "ModifiedDate": "2020-06-26T19:41:22",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "104540",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3392,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Drazan",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2019-03-24T18:05:03",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 451844,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3392,
+      "Chamber": "H",
+      "ActionDate": "2019-03-25T09:24:45",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2019-03-25T09:25:31",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 452437,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3392,
+      "Chamber": "H",
+      "ActionDate": "2019-03-26T10:57:48",
+      "ActionText": "Referred to Revenue.",
+      "VoteText": null,
+      "CreatedDate": "2019-03-26T10:58:04",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 481156,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3392,
+      "Chamber": "H",
+      "ActionDate": "2019-06-30T17:23:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2019-07-08T16:02:17",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3392,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB3392/Introduced",
+      "CreatedDate": "2019-03-22T16:13:04.113",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

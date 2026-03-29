@@ -1,0 +1,126 @@
+{
+  "measure": {
+    "SessionKey": "2019R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3313,
+    "CatchLine": "Authorizes Housing and Community Services Department to provide grants to nonprofit to develop infrastructure for new manufactured dwelling park in Springfield, Oregon.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tAuthorizes Housing and Community Services Department to provide grants to nonprofit to develop infrastructure for new manufactured dwelling park in Springfield, Oregon. Appropriates moneys to Manufactured Dwelling Parks Account for grants. \n\tSunsets program June 30, 2023. \n\tRenames Mobile Home Parks Purchase Account to Manufactured Dwelling Parks Account. Expands allowable uses of account to support infrastructure for new manufactured dwelling parks, to support displaced individuals from closed parks and to supplement new manufactured dwelling park grants to nonprofit. \n\tRequires Housing and Community Services Department to submit report to Legislative Assembly on grants by December 15, 2020. \n\tTakes effect on 91st day following adjournment sine die.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to manufactured dwelling parks; creating new provisions; amending ORS 90.840, 456.579 and 456.581; and prescribing an effective date.",
+    "RelatingTo": "Relating to manufactured dwelling parks; prescribing an effective date.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HHS",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "Fiscal impact issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Haylee Morse-Miller",
+    "RevenueEconomist": "Kyle Easton",
+    "LCNumber": 2303,
+    "Vetoed": false,
+    "CreatedDate": "2019-02-27T10:48:45",
+    "ModifiedDate": "2020-06-26T19:41:22",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "103251",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3313,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Lively",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2019-03-03T18:05:08",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "103252",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3313,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Beyer",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "2",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2019-03-03T18:05:08",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "103253",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3313,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Marsh",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2019-03-03T18:05:08",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 446841,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3313,
+      "Chamber": "H",
+      "ActionDate": "2019-03-04T09:45:33",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2019-03-04T09:46:23",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 448541,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3313,
+      "Chamber": "H",
+      "ActionDate": "2019-03-11T13:46:59",
+      "ActionText": "Referred to Human Services and Housing with subsequent referral to Ways and Means.",
+      "VoteText": null,
+      "CreatedDate": "2019-03-11T13:47:31",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 480893,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3313,
+      "Chamber": "H",
+      "ActionDate": "2019-06-30T17:23:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2019-07-08T16:02:16",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3313,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB3313/Introduced",
+      "CreatedDate": "2019-03-01T08:12:32.407",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

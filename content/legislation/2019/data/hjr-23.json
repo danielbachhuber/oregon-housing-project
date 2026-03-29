@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2019R1",
+    "MeasurePrefix": "HJR",
+    "MeasureNumber": 23,
+    "CatchLine": "Proposes amendment to Oregon Constitution imposing tax on property, providing that tax is not subject to sections 11 or 11b, Article XI, of Oregon Constitution, providing that revenues from tax must be deposited in emergency resilience fund, providing that moneys in fund may be used only for emergency resilience projects, and repealing provisions June 30, 2040.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tProposes amendment to Oregon Constitution imposing tax on property, providing that tax is not subject to sections 11 or 11b, Article XI, of Oregon Constitution, providing that revenues from tax must be deposited in emergency resilience fund, providing that moneys in fund may be used only for emergency resilience projects, and repealing provisions June 30, 2040. \n\tRefers proposed amendment to people for their approval or rejection at next regular general election.",
+    "CurrentVersion": null,
+    "RelatingToFull": null,
+    "RelatingTo": "Proposing amendment to Oregon Constitution relating to imposition of tax on property for deposit in emergency resilience fund.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HREV",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Kim To",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 1818,
+    "Vetoed": false,
+    "CreatedDate": "2019-02-26T14:52:08",
+    "ModifiedDate": "2020-06-26T19:41:22",
+    "PrefixMeaning": "House Joint Resolution"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "103549",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HJR",
+      "MeasureNumber": 23,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Evans",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2019-03-03T18:05:09",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 446755,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HJR",
+      "MeasureNumber": 23,
+      "Chamber": "H",
+      "ActionDate": "2019-03-04T09:45:33",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2019-03-04T09:46:03",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 448598,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HJR",
+      "MeasureNumber": 23,
+      "Chamber": "H",
+      "ActionDate": "2019-03-11T13:46:59",
+      "ActionText": "Referred to Revenue with subsequent referral to Ways and Means.",
+      "VoteText": null,
+      "CreatedDate": "2019-03-11T13:47:32",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 481491,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HJR",
+      "MeasureNumber": 23,
+      "Chamber": "H",
+      "ActionDate": "2019-06-30T17:23:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2019-07-08T16:02:18",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HJR",
+      "MeasureNumber": 23,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HJR23/Introduced",
+      "CreatedDate": "2019-03-01T08:12:55.31",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2019R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 2152,
+    "CatchLine": "Creates or adjusts sunset dates for certain property tax expenditure provisions.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tCreates or adjusts sunset dates for certain property tax expenditure provisions. \n\tTakes effect on 91st day following adjournment sine die.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to property tax expenditures; creating new provisions; amending ORS 285C.255, 285C.406, 307.110, 307.517, 307.518, 307.523, 307.529, 307.535, 307.637, 307.651, 307.664, 307.681, 308.256 and 358.499 and section 2, chapter 783, Oregon Laws 1979, section 6, chapter 660, Oregon Laws 1985, section 2, chapter 256, Oregon Laws 2001, section 5, chapter 422, Oregon Laws 2001, section 13, chapter 119, Oregon Laws 2005, section 7, chapter 637, Oregon Laws 2005, section 4, chapter 656, Oregon Laws 2011, section 3, chapter 571, Oregon Laws 2015, section 8, chapter 96, Oregon Laws 2016, and section 6, chapter 112, Oregon Laws 2016; and prescribing an effective date.",
+    "RelatingTo": "Relating to property tax expenditures; prescribing an effective date.",
+    "AtTheRequestOf": "(at the request of House Interim Committee on Revenue)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HREV",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Jaime McGovern",
+    "LCNumber": 2643,
+    "Vetoed": false,
+    "CreatedDate": "2018-12-13T09:54:03",
+    "ModifiedDate": "2020-06-26T19:41:22",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "97813",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2152,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "Introduced and printed pursuant to House Rule 12.00.  Presession filed",
+      "CreatedDate": "2019-01-09T15:00:49",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 437657,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2152,
+      "Chamber": "H",
+      "ActionDate": "2019-01-14T08:54:51",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-14T08:55:36",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 439708,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2152,
+      "Chamber": "H",
+      "ActionDate": "2019-01-18T11:43:45",
+      "ActionText": "Referred to Revenue.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-18T11:46:09",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 480616,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2152,
+      "Chamber": "H",
+      "ActionDate": "2019-06-30T17:23:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2019-07-08T16:02:16",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2152,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB2152/Introduced",
+      "CreatedDate": "2019-01-09T20:03:11.753",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

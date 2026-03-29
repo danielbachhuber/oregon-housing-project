@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2019R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 94,
+    "CatchLine": "Provides that brownfield granted property tax incentive benefit under program adopted pursuant to chapter 96, Oregon Laws 2016, may be granted any other special assessment, exemption or partial exemption for which such property is eligible.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tProvides that brownfield granted property tax incentive benefit under program adopted pursuant to chapter 96, Oregon Laws 2016, may be granted any other special assessment, exemption or partial exemption for which such property is eligible. Provides that total amount of all property tax benefits granted to brownfield under any law may not reduce property tax liability below zero for any property tax year. Provides that eligible costs of brownfield for purposes of determining property tax incentive benefit under chapter 96, Oregon Laws 2016, shall be reduced by any special assessment, exemption or partial exemption granted to brownfield under any law other than chapter 96, Oregon Laws 2016. \n\tTakes effect on 91st day following adjournment sine die.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to property tax incentive benefits for brownfields; creating new provisions; amending sections 1 and 3, chapter 96, Oregon Laws 2016; and prescribing an effective date.",
+    "RelatingTo": "Relating to property tax incentive benefits for brownfields; prescribing an effective date.",
+    "AtTheRequestOf": "(at the request of Senate Interim Committee on Environment and Natural Resources)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SENR",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Jaime McGovern",
+    "LCNumber": 1635,
+    "Vetoed": false,
+    "CreatedDate": "2018-12-12T13:38:16",
+    "ModifiedDate": "2020-06-26T19:41:22",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "97561",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 94,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "Printed pursuant to Senate Interim Rule 213.28 by order of the President of the Senate in conformance with presession filing rules, indicating neither advocacy nor opposition on the part of the President.",
+      "CreatedDate": "2019-01-09T14:59:47",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 436924,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 94,
+      "Chamber": "S",
+      "ActionDate": "2019-01-14T07:33:37",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-14T07:34:02",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 438387,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 94,
+      "Chamber": "S",
+      "ActionDate": "2019-01-15T08:47:07",
+      "ActionText": "Referred to Environment and Natural Resources, then Finance and Revenue.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-15T09:17:07",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 479751,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 94,
+      "Chamber": "S",
+      "ActionDate": "2019-06-30T19:00:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2019-07-08T13:59:08",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 94,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/SB94/Introduced",
+      "CreatedDate": "2019-01-09T20:33:40.41",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

@@ -1,0 +1,111 @@
+{
+  "measure": {
+    "SessionKey": "2019R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 2798,
+    "CatchLine": "Allows housing associations to invest funds in high-rated municipal bonds.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tAllows housing associations to invest funds in high-rated municipal bonds.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to association investments; amending ORS 94.670 and 100.480.",
+    "RelatingTo": "Relating to association investments.",
+    "AtTheRequestOf": "(at the request of Pacific Homes Beach Club Homeowners Association)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HBL",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "No fiscal impact",
+    "RevenueImpact": "No revenue impact",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Krista Dauenhauer",
+    "RevenueEconomist": "Mazen Malik",
+    "LCNumber": 244,
+    "Vetoed": false,
+    "CreatedDate": "2019-01-23T13:32:18",
+    "ModifiedDate": "2020-06-26T19:41:22",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "98569",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2798,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Gomberg",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2019-01-23T21:05:03",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 440327,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2798,
+      "Chamber": "H",
+      "ActionDate": "2019-01-24T08:36:04",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-24T08:41:14",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 440838,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2798,
+      "Chamber": "H",
+      "ActionDate": "2019-01-28T14:19:26",
+      "ActionText": "Referred to Business and Labor.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-28T14:19:59",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 443547,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2798,
+      "Chamber": "H",
+      "ActionDate": "2019-02-18T08:01:00",
+      "ActionText": "Public Hearing held.",
+      "VoteText": null,
+      "CreatedDate": "2019-02-18T09:25:40",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 481093,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2798,
+      "Chamber": "H",
+      "ActionDate": "2019-06-30T17:23:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2019-07-08T16:02:17",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2798,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB2798/Introduced",
+      "CreatedDate": "2019-01-23T16:57:14.757",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

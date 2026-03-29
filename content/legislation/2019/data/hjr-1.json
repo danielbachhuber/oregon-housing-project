@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2019R1",
+    "MeasurePrefix": "HJR",
+    "MeasureNumber": 1,
+    "CatchLine": "Proposes amendment to Oregon Constitution providing that, for purposes of ad valorem property taxation, ratio of maximum assessed value to real market value of property may not be less than 0.75.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tProposes amendment to Oregon Constitution providing that, for purposes of ad valorem property taxation, ratio of maximum assessed value to real market value of property may not be less than 0.75. Provides that if such ratio is less than 0.75, maximum assessed value of such property shall be increased so that ratio is equal to 0.75. Provides five-year ramp-up for new assessment policy. \n\tExempts from ad valorem property taxes lesser of first $25,000 or first 25 percent of real market value of each homestead. Requires Legislative Assembly to enact laws for administration of exemption, including adjusting $25,000 for inflation. \n\tRefers proposed amendment to people for their approval or rejection at next regular general election held throughout this state.",
+    "CurrentVersion": null,
+    "RelatingToFull": null,
+    "RelatingTo": "Proposing amendment to Oregon Constitution relating to ad valorem property taxation.",
+    "AtTheRequestOf": "(at the request of House Interim Committee on Revenue)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HREV",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Kim To",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 2744,
+    "Vetoed": false,
+    "CreatedDate": "2018-12-13T10:53:27",
+    "ModifiedDate": "2020-06-26T19:41:22",
+    "PrefixMeaning": "House Joint Resolution"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "94956",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HJR",
+      "MeasureNumber": 1,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "Introduced and printed pursuant to House Rule 12.00.  Presession filed",
+      "CreatedDate": "2019-01-09T14:55:47",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 437456,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HJR",
+      "MeasureNumber": 1,
+      "Chamber": "H",
+      "ActionDate": "2019-01-14T08:54:51",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-14T08:55:22",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 440023,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HJR",
+      "MeasureNumber": 1,
+      "Chamber": "H",
+      "ActionDate": "2019-01-18T16:12:28",
+      "ActionText": "Referred to Revenue with subsequent referral to Rules.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-18T16:14:05",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 480632,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HJR",
+      "MeasureNumber": 1,
+      "Chamber": "H",
+      "ActionDate": "2019-06-30T17:23:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2019-07-08T16:02:16",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HJR",
+      "MeasureNumber": 1,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HJR1/Introduced",
+      "CreatedDate": "2019-01-09T20:33:19.03",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

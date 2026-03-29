@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2019R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3045,
+    "CatchLine": "Requires local governments to allow residential or commercial development applications to provide one parking space with electric vehicle charging as substitute for two required nonelectrified spaces.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tRequires local governments to allow residential or commercial development applications to provide one parking space with electric vehicle charging as substitute for two required nonelectrified spaces.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to electric vehicle charging.",
+    "RelatingTo": "Relating to electric vehicle charging.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HEE",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 3955,
+    "Vetoed": false,
+    "CreatedDate": "2019-02-21T13:45:50",
+    "ModifiedDate": "2020-06-26T19:41:22",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "101525",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3045,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Wilde",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2019-02-24T18:05:05",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 445022,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3045,
+      "Chamber": "H",
+      "ActionDate": "2019-02-25T09:48:40",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2019-02-25T09:49:16",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 447095,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3045,
+      "Chamber": "H",
+      "ActionDate": "2019-03-04T16:33:29",
+      "ActionText": "Referred to Energy and Environment.",
+      "VoteText": null,
+      "CreatedDate": "2019-03-04T16:33:44",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 481106,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3045,
+      "Chamber": "H",
+      "ActionDate": "2019-06-30T17:23:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2019-07-08T16:02:17",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3045,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB3045/Introduced",
+      "CreatedDate": "2019-02-22T16:57:08.837",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2019R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3396,
+    "CatchLine": "Requires Oregon Health Authority to adopt standards for testing radon levels in new public buildings and certain new residential buildings.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tRequires Oregon Health Authority to adopt standards for testing radon levels in new public buildings and certain new residential buildings.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to radon testing.",
+    "RelatingTo": "Relating to radon testing.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HHC",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Kim To",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 4262,
+    "Vetoed": false,
+    "CreatedDate": "2019-03-22T08:13:44",
+    "ModifiedDate": "2020-06-26T19:41:22",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "104545",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3396,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Keny-Guyer",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2019-03-24T18:05:03",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 451848,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3396,
+      "Chamber": "H",
+      "ActionDate": "2019-03-25T09:24:45",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2019-03-25T09:25:31",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 452440,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3396,
+      "Chamber": "H",
+      "ActionDate": "2019-03-26T10:57:48",
+      "ActionText": "Referred to Health Care with subsequent referral to Ways and Means.",
+      "VoteText": null,
+      "CreatedDate": "2019-03-26T10:58:04",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 481567,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3396,
+      "Chamber": "H",
+      "ActionDate": "2019-06-30T17:23:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2019-07-08T16:02:18",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3396,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB3396/Introduced",
+      "CreatedDate": "2019-03-22T16:13:04.8",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}
