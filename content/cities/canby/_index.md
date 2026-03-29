@@ -22,7 +22,7 @@ Additional housing statistics are being compiled as part of the city's Housing P
 
 ## Zoning and Land Use
 
-Canby updated its [development code](https://library.municode.com/or/canby/codes/code_of_ordinances) to comply with [HB 2001 (2019)](/legislation/2019/hb-2001), which requires cities in the Metro region to allow middle housing types in residential zones.
+Canby updated its [development code](https://library.municode.com/or/canby/codes/code_of_ordinances) to comply with [HB 2001 (2019)](/legislation/2019/hb-2001), which requires cities in the [Metro](/organizations/metro) region to allow middle housing types in residential zones.
 
 ## Buildable Land
 

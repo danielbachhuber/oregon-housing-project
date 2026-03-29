@@ -68,6 +68,24 @@ According to the 2019 Housing Needs Analysis, Tualatin has 96 buildable acres.[^
 
 Download a copy of documents to the files directory as relevant.
 
+## Using Repository Content as Source Material
+
+When researching or refining any content (people, legislation, cities, etc.), **search the repository first** before relying solely on web searches. This repository contains thousands of primary source documents that are more reliable and specific than web results.
+
+### How to Find Relevant Sources
+
+1. **Search existing content pages** with Grep for the person, bill, or topic name across `content/`. These markdown files often contain curated summaries, citations, and internal links that are directly useful.
+
+2. **Search legislation PDF testimony and documents.** Legislation directories (e.g., `content/legislation/2025/files/hb-2258/`) contain PDFs of testimony, staff reports, amendments, and fiscal analyses. Use Glob to find PDFs under a bill's files directory, then read relevant ones. These are organized by OLIS document ID (numeric filenames like `6219.pdf`).
+
+3. **Search news coverage** in `content/news-coverage/` for summaries of media articles that may mention the topic.
+
+4. **Search meeting transcripts** in `content/state/meetings/` and `content/cities/*/meetings/` for discussions that reference the topic.
+
+### Reading PDFs
+
+The repository contains ~23,000 PDFs, mostly legislative testimony and documents. Claude Code can read PDFs directly with the Read tool (up to 20 pages per request). When a PDF is large, use the `pages` parameter to read specific page ranges. Look at the first few pages to determine relevance before reading the full document.
+
 ## Meeting Transcription Framework
 
 The project includes automated tools for downloading, transcribing, and publishing meeting videos from YouTube. Meetings are organized by jurisdiction with structured documentation.

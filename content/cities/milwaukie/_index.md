@@ -32,7 +32,7 @@ The city created the Comprehensive Plan Implementation Committee (CPIC), a 15-me
 
 ## Buildable Land
 
-According to the city's 2023 Housing Capacity Analysis (HCA), prepared by ECONorthwest:
+According to the city's 2023 Housing Capacity Analysis (HCA), prepared by [ECONorthwest](/organizations/econorthwest):
 
 Milwaukie has about 51 buildable acres in residential plan designations within the city limits.[^11] The City is planning to accommodate the city's forecasted growth of 1,670 new dwelling units over the 2023–2043 planning period.[^12] It seems likely the City will have more than the estimate of 600 units of middle housing infill and redevelopment to supplement capacity on vacant land.[^13]
 
@@ -44,7 +44,7 @@ Key constraints on remaining buildable land include Milwaukie's position as a la
 
 ## Recent Housing Developments
 
-- **Hillside Park Redevelopment**: The phased project will ultimately convert 100 aging homes built in 1942 into 500 beautiful new affordable apartment homes with modern amenities.[^14] The demolition of the initial 54 public housing units located to the south of Hillside Park has been completed, making way for the construction of 275 new units of amenity-rich affordable housing, located in three adjacent buildings. Construction began in Summer 2024 and completion is expected in the first half of 2026.[^15] The three buildings are funded in part with $41.7 million from the voter-approved Metro affordable housing bond leveraged by Clackamas County.[^16] The new buildings will offer studio to three-bedroom homes for households earning less than 30% to 60% of the area median income. Twenty-one apartments will be permanently supportive homes that come with case management and wraparound services for households leaving homelessness.[^16]
+- **Hillside Park Redevelopment**: The phased project will ultimately convert 100 aging homes built in 1942 into 500 beautiful new affordable apartment homes with modern amenities.[^14] The demolition of the initial 54 public housing units located to the south of Hillside Park has been completed, making way for the construction of 275 new units of amenity-rich affordable housing, located in three adjacent buildings. Construction began in Summer 2024 and completion is expected in the first half of 2026.[^15] The three buildings are funded in part with $41.7 million from the voter-approved [Metro](/organizations/metro) affordable housing bond leveraged by Clackamas County.[^16] The new buildings will offer studio to three-bedroom homes for households earning less than 30% to 60% of the area median income. Twenty-one apartments will be permanently supportive homes that come with case management and wraparound services for households leaving homelessness.[^16]
 
 - **Shortstack Milwaukie**: Shortstack Milwaukie is the first of six affordable homeownership projects that have received Metro affordable housing bond funds to reach completion. The new development includes 15 free-standing houses in a 'cottage cluster' design. The two-story homes are priced at $250,000 each and available to households with incomes at or below 80% of the area median income.[^17] The development team explored an innovative process using mass panelized timber to construct the homes quickly and efficiently, and construction took only about a year.[^17]
 
