@@ -41,7 +41,7 @@ The date should be today's date for new profiles, or the existing date for refin
 - Write in third person, factual tone
 - Be concise — each bullet point should be 1-2 sentences, not a full paragraph
 - Break up the Introduction and Background sections into short paragraphs (2-3 sentences each) for readability
-- Focus on housing-related actions; omit unrelated policy work
+- Focus on housing-related actions; omit unrelated policy work, identity milestones, personal life details, and non-housing achievements
 - Every factual claim should have a footnote citation
 - Use footnote format: `[^1]` in text, `[^1]: [Source Title](URL)` at the end
 - Prefer primary sources (official legislative records, government websites, reputable news outlets)
