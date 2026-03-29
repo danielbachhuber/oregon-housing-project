@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2019R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 629,
+    "CatchLine": "Allows transfers of certain authorizations for dwelling within farm or forest zone as property interest in land.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tAllows transfers of certain authorizations for dwelling within farm or forest zone as property interest in land. Provides that authorization does not expire. \n\tApplies to existing authorizations.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to dwellings in resource lands; creating new provisions; and amending ORS 215.705.",
+    "RelatingTo": "Relating to dwellings in resource lands.",
+    "AtTheRequestOf": "(at the request of Kevin Mabe)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SENR",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Krista Dauenhauer",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 1707,
+    "Vetoed": false,
+    "CreatedDate": "2019-01-08T09:11:06",
+    "ModifiedDate": "2020-06-26T19:41:22",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "98154",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 629,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Bentz",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2019-01-21T20:05:03",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 440065,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 629,
+      "Chamber": "S",
+      "ActionDate": "2019-01-22T08:58:53",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-22T08:59:29",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 440388,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 629,
+      "Chamber": "S",
+      "ActionDate": "2019-01-24T13:17:20",
+      "ActionText": "Referred to Environment and Natural Resources.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-24T13:18:10",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 480481,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 629,
+      "Chamber": "S",
+      "ActionDate": "2019-06-30T19:00:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2019-07-08T13:59:09",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 629,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/SB629/Introduced",
+      "CreatedDate": "2019-01-15T16:51:07.927",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

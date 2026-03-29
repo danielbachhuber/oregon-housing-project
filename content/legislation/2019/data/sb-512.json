@@ -1,0 +1,112 @@
+{
+  "measure": {
+    "SessionKey": "2019R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 512,
+    "CatchLine": "Defines \"rural communities\" and \"frontier communities\" for purposes of Local Innovation and Fast Track Housing Program.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDefines \"rural communities\" and \"frontier communities\" for purposes of Local Innovation and Fast Track Housing Program. Requires minimum of 10 percent of moneys available in program to be spent for rural communities and minimum of 10 percent for frontier communities.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to Local Innovation and Fast Track Housing Program; amending ORS 458.480 and 458.485.",
+    "RelatingTo": "Relating to Local Innovation and Fast Track Housing Program.",
+    "AtTheRequestOf": "(at the request of Judge Pete Runnels)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SHOUS",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Krista Dauenhauer",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 1398,
+    "Vetoed": false,
+    "CreatedDate": "2018-12-19T14:31:17",
+    "ModifiedDate": "2020-06-26T19:41:22",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "96016",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 512,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "(Presession filed.)",
+      "CreatedDate": "2019-01-09T14:58:35",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "96017",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 512,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Bentz",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2019-01-09T14:58:35",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 437342,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 512,
+      "Chamber": "S",
+      "ActionDate": "2019-01-14T07:33:37",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-14T07:34:07",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 439484,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 512,
+      "Chamber": "S",
+      "ActionDate": "2019-01-16T09:20:23",
+      "ActionText": "Referred to Housing.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-16T09:20:47",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 480349,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 512,
+      "Chamber": "S",
+      "ActionDate": "2019-06-30T19:00:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2019-07-08T13:59:09",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 512,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/SB512/Introduced",
+      "CreatedDate": "2019-01-09T20:48:12.367",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

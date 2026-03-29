@@ -1,0 +1,112 @@
+{
+  "measure": {
+    "SessionKey": "2019R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3078,
+    "CatchLine": "Requires that building permit must show contractor's Construction Contractors Board license number if contractor is known.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tRequires that building permit must show contractor's Construction Contractors Board license number if contractor is known. \n\tRequires inspector performing building code inspection as part of building inspection program, or for purpose of enforcing municipal ordinance, to require that persons engaged in regulated building activity present evidence of compliance with applicable licensing, registration or certification requirements. \n\tRequires that municipality ensure person issued permit for work requiring Construction Contractors Board license is holder of Construction Contractors Board license. \n\tRequires Director of Department of Consumer and Business Services to inform Construction Contractors Board when director has reason to believe person is engaging, has engaged or plans to engage in violation of laws regarding licensing and endorsement of construction contractors.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to ensuring the credentials of persons working in regulated building activities; amending ORS 455.050, 455.080, 455.158 and 455.775.",
+    "RelatingTo": "Relating to ensuring the credentials of persons working in regulated building activities.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HBL",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Haylee Morse-Miller",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 3956,
+    "Vetoed": false,
+    "CreatedDate": "2019-02-22T15:46:23",
+    "ModifiedDate": "2020-06-26T19:41:22",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "101753",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3078,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Holvey",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2019-02-24T18:05:06",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "101754",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3078,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Evans",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "2",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2019-02-24T18:05:06",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 445055,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3078,
+      "Chamber": "H",
+      "ActionDate": "2019-02-25T09:48:40",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2019-02-25T09:49:16",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 446439,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3078,
+      "Chamber": "H",
+      "ActionDate": "2019-03-01T08:50:04",
+      "ActionText": "Referred to Business and Labor.",
+      "VoteText": null,
+      "CreatedDate": "2019-03-01T08:50:36",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 480798,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3078,
+      "Chamber": "H",
+      "ActionDate": "2019-06-30T17:23:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2019-07-08T16:02:16",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3078,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB3078/Introduced",
+      "CreatedDate": "2019-02-22T16:57:13.147",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

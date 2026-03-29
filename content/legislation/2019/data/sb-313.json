@@ -1,0 +1,112 @@
+{
+  "measure": {
+    "SessionKey": "2019R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 313,
+    "CatchLine": "For urban renewal plan proposed on or after July 1, 2019, that includes public building project, requires concurrence of at least three of four taxing districts estimated to forgo most property tax revenue under proposed plan.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tFor urban renewal plan proposed on or after July 1, 2019, that includes public building project, requires concurrence of at least three of four taxing districts estimated to forgo most property tax revenue under proposed plan. \n\tRequires notice of hearing on proposed urban renewal plan or substantial amendment or change to plan to contain statement that adoption may affect property tax rates for standard rate urban renewal plans or reduced rate plans whose consolidated billing tax rate includes tax pledged to repay exempt bonded indebtedness approved on or before October 6, 2001. Excludes from consolidated billing tax rate of urban renewal plans adopted or amended on or after effective date of Act tax pledged to repay exempt bonded indebtedness approved on or after effective date of Act. \n\tProvides that for purposes of 20 percent limit on amount of land added by amendments to total land area of original urban renewal plan, calculation of total land area excludes reductions of land area made after original plan was adopted. \n\tRequires urban renewal agency's annual statement to include maximum indebtedness for each urban renewal area included in urban renewal plan of agency, including amount of indebtedness incurred through end of preceding fiscal year. Requires statement to be distributed to each taxing district affected by urban renewal plan of agency. \n\tTakes effect on 91st day following adjournment sine die.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to urban renewal; creating new provisions; amending ORS 457.010, 457.085, 457.095, 457.120, 457.220, 457.445 and 457.460; and prescribing an effective date.",
+    "RelatingTo": "Relating to urban renewal; prescribing an effective date.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SFR",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Jaime McGovern",
+    "LCNumber": 2564,
+    "Vetoed": false,
+    "CreatedDate": "2018-12-17T15:48:37",
+    "ModifiedDate": "2020-06-26T19:41:22",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "95420",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 313,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "(Presession filed.)",
+      "CreatedDate": "2019-01-09T14:58:34",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "95421",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 313,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Hansell",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2019-01-09T14:58:34",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 437143,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 313,
+      "Chamber": "S",
+      "ActionDate": "2019-01-14T07:33:37",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-14T07:34:05",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 438887,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 313,
+      "Chamber": "S",
+      "ActionDate": "2019-01-15T15:44:19",
+      "ActionText": "Referred to Finance and Revenue.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-15T15:44:42",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 480485,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 313,
+      "Chamber": "S",
+      "ActionDate": "2019-06-30T19:00:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2019-07-08T13:59:09",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 313,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/SB313/Introduced",
+      "CreatedDate": "2019-01-09T20:42:09.107",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

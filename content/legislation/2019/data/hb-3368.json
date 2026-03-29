@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2019R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3368,
+    "CatchLine": "Authorizes counties to allow contiguous clustered nonresource dwellings on clustered development tract in lieu of approval of individual nonresource dwellings on exclusive farm use or forest lands.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tAuthorizes counties to allow contiguous clustered nonresource dwellings on clustered development tract in lieu of approval of individual nonresource dwellings on exclusive farm use or forest lands. Allows bonus dwellings when dwellings are sited on low value soil or with shared water or sewage systems. Establishes requirements for siting and approving dwellings and subdividing or partitioning clustered development tracts.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to clustered resource dwellings; creating new provisions; and amending ORS 215.236, 215.262 and 215.700.",
+    "RelatingTo": "Relating to clustered resource dwellings.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HAGLU",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Krista Dauenhauer",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 1127,
+    "Vetoed": false,
+    "CreatedDate": "2019-02-27T14:28:58",
+    "ModifiedDate": "2020-06-26T19:41:22",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "103494",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3368,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Smith DB",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2019-03-03T18:05:08",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 446896,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3368,
+      "Chamber": "H",
+      "ActionDate": "2019-03-04T09:45:33",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2019-03-04T09:46:23",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 448729,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3368,
+      "Chamber": "H",
+      "ActionDate": "2019-03-11T16:48:47",
+      "ActionText": "Referred to Agriculture and Land Use.",
+      "VoteText": null,
+      "CreatedDate": "2019-03-11T16:48:56",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 480944,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3368,
+      "Chamber": "H",
+      "ActionDate": "2019-06-30T17:23:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2019-07-08T16:02:17",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3368,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB3368/Introduced",
+      "CreatedDate": "2019-03-01T08:12:52.007",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

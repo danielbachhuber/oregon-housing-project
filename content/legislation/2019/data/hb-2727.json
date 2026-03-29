@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2019R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 2727,
+    "CatchLine": "Allows subtraction from federal taxable income of gain from sale of opportunity zone property, defined as property in low-income census tract developed for affordable housing and held for stated period of time.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tAllows subtraction from federal taxable income of gain from sale of opportunity zone property, defined as property in low-income census tract developed for affordable housing and held for stated period of time. \n\tApplies to tax years beginning on or after January 1, 2019. \n\tTakes effect on 91st day following adjournment sine die.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to capital gains treatment of affordable housing property; and prescribing an effective date.",
+    "RelatingTo": "Relating to capital gains treatment of affordable housing property; prescribing an effective date.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HHS",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Kyle Easton",
+    "LCNumber": 918,
+    "Vetoed": false,
+    "CreatedDate": "2019-01-14T16:41:05",
+    "ModifiedDate": "2020-06-26T19:41:22",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "98168",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2727,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Evans",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2019-01-21T20:10:02",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 440127,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2727,
+      "Chamber": "H",
+      "ActionDate": "2019-01-22T09:11:26",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-22T09:17:37",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 440812,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2727,
+      "Chamber": "H",
+      "ActionDate": "2019-01-28T14:19:26",
+      "ActionText": "Referred to Human Services and Housing with subsequent referral to Revenue.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-28T14:19:59",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 481578,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2727,
+      "Chamber": "H",
+      "ActionDate": "2019-06-30T17:23:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2019-07-08T16:02:18",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2727,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB2727/Introduced",
+      "CreatedDate": "2019-01-16T15:48:07.59",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

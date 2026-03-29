@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2019R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 2764,
+    "CatchLine": "Prohibits landlord in evaluating applicant for residential tenancy from requesting information about applicant's criminal history and from considering criminal history prior to performing criminal screening.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tProhibits landlord in evaluating applicant for residential tenancy from requesting information about applicant's criminal history and from considering criminal history prior to performing criminal screening.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to evaluation of applicant for residential tenancy; creating new provisions; and amending ORS 90.303.",
+    "RelatingTo": "Relating to evaluation of applicant for residential tenancy.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HHS",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Meg Bushman-Reinhold",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 3053,
+    "Vetoed": false,
+    "CreatedDate": "2019-01-17T15:38:44",
+    "ModifiedDate": "2020-06-26T19:41:22",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "98367",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2764,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Doherty",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2019-01-21T20:20:02",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 440164,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2764,
+      "Chamber": "H",
+      "ActionDate": "2019-01-22T09:11:26",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-22T09:17:37",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 440580,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2764,
+      "Chamber": "H",
+      "ActionDate": "2019-01-25T14:27:15",
+      "ActionText": "Referred to Human Services and Housing.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-25T14:28:01",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 481224,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2764,
+      "Chamber": "H",
+      "ActionDate": "2019-06-30T17:23:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2019-07-08T16:02:17",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2764,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB2764/Introduced",
+      "CreatedDate": "2019-01-18T16:51:10.247",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

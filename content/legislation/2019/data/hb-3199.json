@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2019R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3199,
+    "CatchLine": "Requires county treasurer to distribute excess proceeds from sale of real property acquired by foreclosure of delinquent tax liens, or by exchange for land originally acquired by foreclosure of delinquent tax liens, to holders of liens unsatisfied at time of foreclosure and to property owner at time of foreclosure or any transferee or successor in interest of owner.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tRequires county treasurer to distribute excess proceeds from sale of real property acquired by foreclosure of delinquent tax liens, or by exchange for land originally acquired by foreclosure of delinquent tax liens, to holders of liens unsatisfied at time of foreclosure and to property owner at time of foreclosure or any transferee or successor in interest of owner. Requires county treasurer to provide notice of distribution requirements and process to lienholders and owners. Requires circuit court to determine priority of liens. Provides that total amount distributed may not exceed amount of unsatisfied liens and equity interest of owner at time property was deeded to county. \n\tTakes effect on 91st day following adjournment sine die.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to tax lien foreclosure proceeds; creating new provisions; amending ORS 275.130 and 275.275; and prescribing an effective date.",
+    "RelatingTo": "Relating to tax lien foreclosure proceeds; prescribing an effective date.",
+    "AtTheRequestOf": "(at the request of County Commissioner Mary Starrett)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HREV",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Jaime McGovern",
+    "LCNumber": 3348,
+    "Vetoed": false,
+    "CreatedDate": "2019-02-26T16:31:04",
+    "ModifiedDate": "2020-06-26T19:41:22",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "102523",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3199,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Noble",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2019-02-27T21:05:04",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 446123,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3199,
+      "Chamber": "H",
+      "ActionDate": "2019-02-28T09:37:31",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2019-02-28T09:38:08",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 447877,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3199,
+      "Chamber": "H",
+      "ActionDate": "2019-03-06T16:07:36",
+      "ActionText": "Referred to Revenue.",
+      "VoteText": null,
+      "CreatedDate": "2019-03-06T16:08:53",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 481525,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3199,
+      "Chamber": "H",
+      "ActionDate": "2019-06-30T17:23:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2019-07-08T16:02:18",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3199,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB3199/Introduced",
+      "CreatedDate": "2019-02-27T16:18:13.46",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

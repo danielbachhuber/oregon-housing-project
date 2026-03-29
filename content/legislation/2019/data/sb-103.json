@@ -1,0 +1,111 @@
+{
+  "measure": {
+    "SessionKey": "2019R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 103,
+    "CatchLine": "Classifies dairies exceeding specified size as industrial facilities for purposes of right to farm laws, air pollution laws and land use laws.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tClassifies dairies exceeding specified size as industrial facilities for purposes of right to farm laws, air pollution laws and land use laws. Provides that use of water for industrial dairy is industrial use. Allows local governments to adopt human health and safety ordinances restricting or prohibiting air and water emissions by dairies classified as industrial facilities. \n\tProhibits Department of Environmental Quality and State Department of Agriculture from issuing permits for construction of new industrial dairy or for addition to, or expansion of, existing industrial dairy. \n\tRequires Environmental Quality Commission to adopt rules establishing program to regulate industrial dairy emissions into air. Requires commission to pattern program on recommendations in final report by Task Force on Dairy Air Quality. Requires implementation no later than January 1, 2021. \n\tProhibits Department of Environmental Quality and State Department of Agriculture from issuing permits for industrial dairies unless applicant has water right permit having specified characteristics. Limits stockwatering exemption from water right permit requirements if user is industrial dairy. \n\tRequires applicant for permit to operate industrial dairy to post bond with State Department of Agriculture as security against environmental, health or animal welfare costs arising from operation of industrial dairy. \n\tRequires State Department of Agriculture to conduct study on impacts of industrial dairies on small and medium sized dairies, identify state policies to lessen impacts and produce public report no later than one year after effective date of Act. \n\tCreates Task Force on Dairy Animal Welfare. Requires task force to study animal welfare at industrial dairies. Allows task force to recommend minimum standards for animal welfare at industrial dairies. Requires task force to report to interim legislative committee related to agriculture no later than September 15, 2020. Sunsets task force December 31, 2020. \n\tRequires Environmental Quality Commission to annually report to interim committee of Legislative Assembly regarding whether specified activities regarding regulation of industrial dairies have occurred. Requires first report no later than September 15, 2021. Terminates further reporting if commission reports all specified activities have occurred. Repeals reporting requirement January 2, 2024. \n\tTakes effect on 91st day following adjournment sine die.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to industrial dairies; creating new provisions; amending ORS 537.141 and 537.545; and prescribing an effective date.",
+    "RelatingTo": "Relating to industrial dairies; prescribing an effective date.",
+    "AtTheRequestOf": "(at the request of Senate Interim Committee on Environment and Natural Resources)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SENR",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Kim To",
+    "RevenueEconomist": "Jaime McGovern",
+    "LCNumber": 2706,
+    "Vetoed": false,
+    "CreatedDate": "2018-12-12T13:38:16",
+    "ModifiedDate": "2020-06-26T19:41:22",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "97570",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 103,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "Printed pursuant to Senate Interim Rule 213.28 by order of the President of the Senate in conformance with presession filing rules, indicating neither advocacy nor opposition on the part of the President.",
+      "CreatedDate": "2019-01-09T14:59:47",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 436933,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 103,
+      "Chamber": "S",
+      "ActionDate": "2019-01-14T07:33:37",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-14T07:34:03",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 438395,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 103,
+      "Chamber": "S",
+      "ActionDate": "2019-01-15T08:47:07",
+      "ActionText": "Referred to Environment and Natural Resources.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-15T09:17:07",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 451436,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 103,
+      "Chamber": "S",
+      "ActionDate": "2019-03-21T13:01:00",
+      "ActionText": "Public Hearing held.",
+      "VoteText": null,
+      "CreatedDate": "2019-03-21T15:20:54",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 479759,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 103,
+      "Chamber": "S",
+      "ActionDate": "2019-06-30T19:00:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2019-07-08T13:59:08",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 103,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/SB103/Introduced",
+      "CreatedDate": "2019-01-09T20:33:41.933",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

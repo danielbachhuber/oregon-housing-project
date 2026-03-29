@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2019R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3366,
+    "CatchLine": "Directs Environmental Quality Commission to adopt rules authorizing single-family dwelling and accessory dwelling unit constructed on same lot or parcel to be permanently connected to same subsurface sewage disposal system or alternative sewage disposal system.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDirects Environmental Quality Commission to adopt rules authorizing single-family dwelling and accessory dwelling unit constructed on same lot or parcel to be permanently connected to same subsurface sewage disposal system or alternative sewage disposal system.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to subsurface sewage disposal; creating new provisions; and amending ORS 454.605.",
+    "RelatingTo": "Relating to subsurface sewage disposal.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HEE",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Krista Dauenhauer",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 1683,
+    "Vetoed": false,
+    "CreatedDate": "2019-02-27T14:28:58",
+    "ModifiedDate": "2020-06-26T19:41:22",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "103492",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3366,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Smith DB",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2019-03-03T18:05:08",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 446894,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3366,
+      "Chamber": "H",
+      "ActionDate": "2019-03-04T09:45:33",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2019-03-04T09:46:23",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 448728,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3366,
+      "Chamber": "H",
+      "ActionDate": "2019-03-11T16:48:47",
+      "ActionText": "Referred to Energy and Environment.",
+      "VoteText": null,
+      "CreatedDate": "2019-03-11T16:48:56",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 480942,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3366,
+      "Chamber": "H",
+      "ActionDate": "2019-06-30T17:23:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2019-07-08T16:02:17",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3366,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB3366/Introduced",
+      "CreatedDate": "2019-03-01T08:12:51.573",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

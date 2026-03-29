@@ -1,0 +1,125 @@
+{
+  "measure": {
+    "SessionKey": "2019R1",
+    "MeasurePrefix": "HJR",
+    "MeasureNumber": 25,
+    "CatchLine": "Proposes amendment to Oregon Constitution directing Legislative Assembly to enact property tax relief program for owner-occupied principal dwellings of certain seniors.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tProposes amendment to Oregon Constitution directing Legislative Assembly to enact property tax relief program for owner-occupied principal dwellings of certain seniors. \n\tRefers proposed amendment to people for their approval or rejection at next regular general election.",
+    "CurrentVersion": null,
+    "RelatingToFull": null,
+    "RelatingTo": "Proposing amendment to Oregon Constitution relating to a property tax relief program for owner-occupied principal dwellings of certain seniors.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HRULES",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Haylee Morse-Miller",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 4212,
+    "Vetoed": false,
+    "CreatedDate": "2019-03-22T11:20:33",
+    "ModifiedDate": "2020-06-26T19:41:22",
+    "PrefixMeaning": "House Joint Resolution"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "104547",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HJR",
+      "MeasureNumber": 25,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Hayden",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2019-03-24T18:05:03",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "106241",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HJR",
+      "MeasureNumber": 25,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Boles",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2019-06-13T09:53:41",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 451843,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HJR",
+      "MeasureNumber": 25,
+      "Chamber": "H",
+      "ActionDate": "2019-03-25T09:24:45",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2019-03-25T09:25:15",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 452442,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HJR",
+      "MeasureNumber": 25,
+      "Chamber": "H",
+      "ActionDate": "2019-03-26T10:57:48",
+      "ActionText": "Referred to Rules.",
+      "VoteText": null,
+      "CreatedDate": "2019-03-26T10:58:04",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 474521,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HJR",
+      "MeasureNumber": 25,
+      "Chamber": "H",
+      "ActionDate": "2019-06-13T10:40:00",
+      "ActionText": "Motion to withdraw from Rules failed.",
+      "VoteText": "Ayes, 23; Nays, 36--Alonso Leon, Barker, Bynum, Clem, Doherty, Evans, Fahey, Gomberg, Gorsek, Greenlick, Helm, Hernandez, Holvey, Lively, Marsh, McKeown, McLain, Meek, Mitchell, Nathanson, Neron, Nosse, Power, Prusak, Rayfield, Reardon, Salinas, Sanchez, Schouten, Smith Warner, Sollman, Speaker Kotek, Wilde, Williams, Williamson, Witt; Excused, 1--Piluso.",
+      "CreatedDate": "2019-06-13T10:41:24",
+      "ModifiedDate": "2019-06-25T11:49:01",
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 481568,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HJR",
+      "MeasureNumber": 25,
+      "Chamber": "H",
+      "ActionDate": "2019-06-30T17:23:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2019-07-08T16:02:18",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HJR",
+      "MeasureNumber": 25,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HJR25/Introduced",
+      "CreatedDate": "2019-03-22T16:13:05.09",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

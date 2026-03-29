@@ -1,0 +1,181 @@
+{
+  "measure": {
+    "SessionKey": "2019R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 2137,
+    "CatchLine": "Creates income tax credit for operation costs of housing for agricultural workers.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\t<b>Creates income tax credit for operation costs of housing for agricultural workers. Provides for refundability of credit and for transferability of credit earned by tax-exempt entity. Imposes limitation on total credits allowed to all owners of housing per tax year. \n\t<b>Applies to tax years beginning on or after January 1, 2020, and before January 1, 2026.</b> \n\tExtends sunset for tax credits for owner or operator of agriculture workforce housing. \n\t<b>Takes effect on 91st day following adjournment sine die.</b>",
+    "CurrentVersion": "A",
+    "RelatingToFull": "Relating to tax credits for agriculture workforce housing; creating new provisions; amending ORS 314.752, 318.031 and 456.508 and section 28, chapter 913, Oregon Laws 2009; and prescribing an effective date.",
+    "RelatingTo": "Relating to tax credits for agriculture workforce housing; prescribing an effective date.",
+    "AtTheRequestOf": "(at the request of House Interim Committee on Revenue)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HREV",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "Fiscal impact issued",
+    "RevenueImpact": "Revenue impact issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Kyle Easton",
+    "LCNumber": 2821,
+    "Vetoed": false,
+    "CreatedDate": "2018-12-12T17:12:33",
+    "ModifiedDate": "2020-06-26T19:41:22",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "97798",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2137,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "Introduced and printed pursuant to House Rule 12.00.  Presession filed",
+      "CreatedDate": "2019-01-09T15:00:49",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 437642,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2137,
+      "Chamber": "H",
+      "ActionDate": "2019-01-14T08:54:51",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-14T08:55:35",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 438979,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2137,
+      "Chamber": "H",
+      "ActionDate": "2019-01-15T15:56:58",
+      "ActionText": "Referred to Agriculture and Land Use with subsequent referral to Revenue.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-15T16:00:05",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 446323,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2137,
+      "Chamber": "H",
+      "ActionDate": "2019-02-28T15:01:00",
+      "ActionText": "Public Hearing held.",
+      "VoteText": null,
+      "CreatedDate": "2019-02-28T16:11:40",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 451486,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2137,
+      "Chamber": "H",
+      "ActionDate": "2019-03-21T15:02:00",
+      "ActionText": "Work Session held.",
+      "VoteText": null,
+      "CreatedDate": "2019-03-21T16:29:17",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 453109,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2137,
+      "Chamber": "H",
+      "ActionDate": "2019-03-27T16:28:05",
+      "ActionText": "Recommendation: Do pass with amendments, be printed A-Engrossed, and be referred to Revenue by prior reference.",
+      "VoteText": null,
+      "CreatedDate": "2019-03-27T16:33:34",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 453110,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2137,
+      "Chamber": "H",
+      "ActionDate": "2019-03-27T16:28:06",
+      "ActionText": "Referred to Revenue by prior reference.",
+      "VoteText": null,
+      "CreatedDate": "2019-03-27T16:33:34",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 464864,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2137,
+      "Chamber": "H",
+      "ActionDate": "2019-05-09T08:31:00",
+      "ActionText": "Public Hearing held.",
+      "VoteText": null,
+      "CreatedDate": "2019-05-09T09:19:38",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 480602,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2137,
+      "Chamber": "H",
+      "ActionDate": "2019-06-30T17:23:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2019-07-08T16:02:16",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2137,
+      "VersionDescription": "A-Engrossed",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB2137/A-Engrossed",
+      "CreatedDate": "2019-03-27T14:49:01.867",
+      "ModifiedDate": null
+    },
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2137,
+      "VersionDescription": "House Amendments to Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB2137/House Amendments to Introduced",
+      "CreatedDate": "2019-03-27T14:49:02.037",
+      "ModifiedDate": null
+    },
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2137,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB2137/Introduced",
+      "CreatedDate": "2019-01-09T20:03:09.193",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

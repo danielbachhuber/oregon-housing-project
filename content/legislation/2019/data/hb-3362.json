@@ -1,0 +1,125 @@
+{
+  "measure": {
+    "SessionKey": "2019R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3362,
+    "CatchLine": "Prohibits person that transacts title insurance in this state from refusing to issue policy of title insurance or refusing to close or insure real property transaction solely because real property that is subject of the transaction has been used for purpose of growing, producing, manufacturing or selling cannabis, or conducting other activities related to cannabis, if growing, production, manufacture, sale or other activities occurred in compliance with state laws relating to regulation of marijuana items.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tProhibits person that transacts title insurance in this state from refusing to issue policy of title insurance or refusing to close or insure real property transaction solely because real property that is subject of the transaction has been used for purpose of growing, producing, manufacturing or selling cannabis, or conducting other activities related to cannabis, if growing, production, manufacture, sale or other activities occurred in compliance with state laws relating to regulation of marijuana items. \n\tProvides that violation of provisions of Act is unfair and deceptive practice in transaction of insurance. Requires Director of Department of Consumer and Business Services to adopt rules to prohibit violation and to provide for imposing civil penalty of not more than $5,000 for violation. \n\tBecomes operative on January 1, 2020. \n\tTakes effect on 91st day following adjournment sine die.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to title insurance policies for real property used in connection with production of cannabis; and prescribing an effective date.",
+    "RelatingTo": "Relating to title insurance policies for real property used in connection with production of cannabis; prescribing an effective date.",
+    "AtTheRequestOf": "(at the request of Leroy Blodgett)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HECD",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Haylee Morse-Miller",
+    "RevenueEconomist": "Mazen Malik",
+    "LCNumber": 1129,
+    "Vetoed": false,
+    "CreatedDate": "2019-02-27T14:28:58",
+    "ModifiedDate": "2020-06-26T19:41:22",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "103488",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3362,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Smith DB",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2019-03-03T18:05:08",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "104483",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3362,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Hernandez",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2019-03-20T11:48:49",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 446890,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3362,
+      "Chamber": "H",
+      "ActionDate": "2019-03-04T09:45:33",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2019-03-04T09:46:23",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 447449,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3362,
+      "Chamber": "H",
+      "ActionDate": "2019-03-05T16:45:04",
+      "ActionText": "Referred to Economic Development.",
+      "VoteText": null,
+      "CreatedDate": "2019-03-05T16:45:13",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 448696,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3362,
+      "Chamber": "H",
+      "ActionDate": "2019-03-11T13:01:00",
+      "ActionText": "Public Hearing held.",
+      "VoteText": null,
+      "CreatedDate": "2019-03-11T15:41:05",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 480939,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3362,
+      "Chamber": "H",
+      "ActionDate": "2019-06-30T17:23:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2019-07-08T16:02:16",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3362,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB3362/Introduced",
+      "CreatedDate": "2019-03-01T08:12:50.73",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

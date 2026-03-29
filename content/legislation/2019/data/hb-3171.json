@@ -1,0 +1,112 @@
+{
+  "measure": {
+    "SessionKey": "2019R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3171,
+    "CatchLine": "Exempts from ad valorem property taxation first $150,000 of assessed value of dwelling provided by religious organization and occupied by organization's spiritual leader as primary residence and lot on which dwelling is situated.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tExempts from ad valorem property taxation first $150,000 of assessed value of dwelling provided by religious organization and occupied by organization's spiritual leader as primary residence and lot on which dwelling is situated. Denies exemption if religious organization or owner or occupant of dwelling receives consideration for use of dwelling, other than consideration rendered for foster care provided in dwelling. \n\tApplies to property tax years beginning on or after July 1, 2020.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to property tax exemption for property of religious organization; creating new provisions; and amending ORS 307.140 and 307.155.",
+    "RelatingTo": "Relating to property tax exemption for property of religious organization.",
+    "AtTheRequestOf": "(at the request of Archbishop Allen Zaugg)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HREV",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Jaime McGovern",
+    "LCNumber": 2656,
+    "Vetoed": false,
+    "CreatedDate": "2019-02-26T15:15:39",
+    "ModifiedDate": "2020-06-26T19:41:22",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "102452",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3171,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Meek",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2019-02-27T21:05:04",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "102453",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3171,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Nearman",
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2019-02-27T21:05:04",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 446095,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3171,
+      "Chamber": "H",
+      "ActionDate": "2019-02-28T09:37:31",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2019-02-28T09:38:08",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 447859,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3171,
+      "Chamber": "H",
+      "ActionDate": "2019-03-06T16:07:36",
+      "ActionText": "Referred to Revenue.",
+      "VoteText": null,
+      "CreatedDate": "2019-03-06T16:08:53",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 481498,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3171,
+      "Chamber": "H",
+      "ActionDate": "2019-06-30T17:23:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2019-07-08T16:02:18",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3171,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB3171/Introduced",
+      "CreatedDate": "2019-02-27T16:18:09.81",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

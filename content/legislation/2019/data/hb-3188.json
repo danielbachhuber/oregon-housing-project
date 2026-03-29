@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2019R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3188,
+    "CatchLine": "Requires community mental health programs in rural areas to provide residential care, comprehensive care and case management to individuals needing mental health or substance abuse treatment.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tRequires community mental health programs in rural areas to provide residential care, comprehensive care and case management to individuals needing mental health or substance abuse treatment. Specifies requirements for residential facilities. Appropriates moneys. \n\tDeclares emergency, effective July 1, 2019.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to community mental health programs; creating new provisions; amending ORS 430.630; and declaring an emergency.",
+    "RelatingTo": "Relating to community mental health programs; declaring an emergency.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HHC",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": true,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Kim To",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 3767,
+    "Vetoed": false,
+    "CreatedDate": "2019-02-26T16:04:27",
+    "ModifiedDate": "2020-06-26T19:41:22",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "102510",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3188,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Mitchell",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2019-02-27T21:05:04",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 446112,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3188,
+      "Chamber": "H",
+      "ActionDate": "2019-02-28T09:37:31",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2019-02-28T09:38:08",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 447387,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3188,
+      "Chamber": "H",
+      "ActionDate": "2019-03-05T15:57:51",
+      "ActionText": "Referred to Health Care with subsequent referral to Ways and Means.",
+      "VoteText": null,
+      "CreatedDate": "2019-03-05T15:58:05",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 481516,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3188,
+      "Chamber": "H",
+      "ActionDate": "2019-06-30T17:23:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2019-07-08T16:02:18",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3188,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB3188/Introduced",
+      "CreatedDate": "2019-02-27T16:18:12.187",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

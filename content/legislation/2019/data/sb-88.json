@@ -1,0 +1,181 @@
+{
+  "measure": {
+    "SessionKey": "2019R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 88,
+    "CatchLine": "Allows counties to authorize construction of accessory dwelling units on lands zoned for rural residential use.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tAllows counties to authorize construction of accessory dwelling units on lands zoned for rural residential use. Establishes conditions of approval for accessory dwelling units. \n\t<b>Requires Department of Consumer and Business Services to map wildfire risk and to develop appropriate fire protection standards within state building code for accessory dwelling units based on fire risk identified in maps. Requires department and Oregon State University College of Forestry to report to interim committee of Legislative Assembly on updates to maps and state building code no later than September 15, 2020. \n\t<b>Declares emergency, effective on passage.</b>",
+    "CurrentVersion": "A",
+    "RelatingToFull": "Relating to accessory dwelling units; and declaring an emergency.",
+    "RelatingTo": "Relating to accessory dwelling units; declaring an emergency.",
+    "AtTheRequestOf": "(at the request of Senate Interim Committee on Environmental and Natural Resources)",
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "JWM",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "Fiscal impact issued",
+    "RevenueImpact": "No revenue impact",
+    "EmergencyClause": true,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Krista Dauenhauer",
+    "RevenueEconomist": "Jaime McGovern",
+    "LCNumber": 876,
+    "Vetoed": false,
+    "CreatedDate": "2018-12-12T13:38:16",
+    "ModifiedDate": "2020-06-26T19:41:22",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "97555",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 88,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "Printed pursuant to Senate Interim Rule 213.28 by order of the President of the Senate in conformance with presession filing rules, indicating neither advocacy nor opposition on the part of the President.",
+      "CreatedDate": "2019-01-09T14:59:47",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 436918,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 88,
+      "Chamber": "S",
+      "ActionDate": "2019-01-14T07:33:37",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-14T07:34:02",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 438381,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 88,
+      "Chamber": "S",
+      "ActionDate": "2019-01-15T08:47:07",
+      "ActionText": "Referred to Environment and Natural Resources.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-15T09:17:07",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 441498,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 88,
+      "Chamber": "S",
+      "ActionDate": "2019-01-31T13:01:00",
+      "ActionText": "Public Hearing held.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-31T15:32:00",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 450458,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 88,
+      "Chamber": "S",
+      "ActionDate": "2019-03-19T13:01:00",
+      "ActionText": "Work Session held.",
+      "VoteText": null,
+      "CreatedDate": "2019-03-19T14:34:02",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 455728,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 88,
+      "Chamber": "S",
+      "ActionDate": "2019-04-02T13:02:00",
+      "ActionText": "Work Session held.",
+      "VoteText": null,
+      "CreatedDate": "2019-04-02T16:14:45",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 456932,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 88,
+      "Chamber": "S",
+      "ActionDate": "2019-04-04T14:41:48",
+      "ActionText": "Recommendation: Do pass with amendments and be referred to Ways and Means. (Printed A-Eng.)",
+      "VoteText": null,
+      "CreatedDate": "2019-04-04T14:51:34",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 456933,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 88,
+      "Chamber": "S",
+      "ActionDate": "2019-04-04T14:41:49",
+      "ActionText": "Referred to Ways and Means by order of the President.",
+      "VoteText": null,
+      "CreatedDate": "2019-04-04T14:51:34",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 479748,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 88,
+      "Chamber": "S",
+      "ActionDate": "2019-06-30T19:00:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2019-07-08T13:59:08",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 88,
+      "VersionDescription": "A-Engrossed",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/SB88/A-Engrossed",
+      "CreatedDate": "2019-04-04T16:37:02.223",
+      "ModifiedDate": null
+    },
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 88,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/SB88/Introduced",
+      "CreatedDate": "2019-01-09T20:33:39.397",
+      "ModifiedDate": null
+    },
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 88,
+      "VersionDescription": "Senate Amendments to Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/SB88/Senate Amendments to Introduced",
+      "CreatedDate": "2019-04-04T16:37:02.33",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

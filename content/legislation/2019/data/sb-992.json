@@ -1,0 +1,155 @@
+{
+  "measure": {
+    "SessionKey": "2019R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 992,
+    "CatchLine": "Directs Oregon Criminal Justice Commission to establish pilot program to provide grants for permanent supportive housing for individuals recently released from custody for purposes of reducing recidivism, increasing housing stability and reducing use of emergency room and inpatient services.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\t\t<i>Directs Department of Corrections to conduct study on adequacy of funding for counties for community corrections programs and present report on findings to interim committees of Legislative Assembly related to judiciary on or before September 15, 2020.</i>] \n\t\t<i>Sunsets January 2, 2021.</i>] \n\t<b>Directs Oregon Criminal Justice Commission to establish pilot program to provide grants for permanent supportive housing for individuals recently released from custody for purposes of reducing recidivism, increasing housing stability and reducing use of emergency room and inpatient services. \n\t<b>Defines requirements for grant eligibility. \n\t<b>Appropriates moneys from General Fund to Oregon Criminal Justice Commission for certain biennial expenses.</b>",
+    "CurrentVersion": "A",
+    "RelatingToFull": "Relating to community corrections.",
+    "RelatingTo": "Relating to community corrections.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "JWM",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "Fiscal impact issued",
+    "RevenueImpact": "No revenue impact",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Meg Bushman-Reinhold",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 1454,
+    "Vetoed": false,
+    "CreatedDate": "2019-02-27T11:57:18",
+    "ModifiedDate": "2020-06-26T19:41:22",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "103855",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 992,
+      "SponsorType": "Committee",
+      "LegislatoreCode": null,
+      "CommitteeCode": "SJUD",
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2019-03-03T18:05:09",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 446718,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 992,
+      "Chamber": "S",
+      "ActionDate": "2019-03-04T09:37:28",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2019-03-04T09:37:54",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 447542,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 992,
+      "Chamber": "S",
+      "ActionDate": "2019-03-06T08:32:23",
+      "ActionText": "Referred to Judiciary.",
+      "VoteText": null,
+      "CreatedDate": "2019-03-06T08:32:30",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 456791,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 992,
+      "Chamber": "S",
+      "ActionDate": "2019-04-04T08:02:00",
+      "ActionText": "Public Hearing and Work Session held.",
+      "VoteText": null,
+      "CreatedDate": "2019-04-04T13:34:02",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 460769,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 992,
+      "Chamber": "S",
+      "ActionDate": "2019-04-19T14:09:08",
+      "ActionText": "Recommendation: Do pass with amendments and be referred to Ways and Means. (Printed A-Eng.)",
+      "VoteText": null,
+      "CreatedDate": "2019-04-19T14:13:20",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 460770,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 992,
+      "Chamber": "S",
+      "ActionDate": "2019-04-19T14:09:09",
+      "ActionText": "Referred to Ways and Means by order of the President.",
+      "VoteText": null,
+      "CreatedDate": "2019-04-19T14:13:20",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 480181,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 992,
+      "Chamber": "S",
+      "ActionDate": "2019-06-30T19:00:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2019-07-08T13:59:08",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 992,
+      "VersionDescription": "A-Engrossed",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/SB992/A-Engrossed",
+      "CreatedDate": "2019-04-19T16:33:12.093",
+      "ModifiedDate": null
+    },
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 992,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/SB992/Introduced",
+      "CreatedDate": "2019-03-01T12:33:22.897",
+      "ModifiedDate": null
+    },
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 992,
+      "VersionDescription": "Senate Amendments to Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/SB992/Senate Amendments to Introduced",
+      "CreatedDate": "2019-04-19T16:33:12.193",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

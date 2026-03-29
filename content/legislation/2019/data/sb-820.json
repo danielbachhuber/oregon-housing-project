@@ -1,0 +1,155 @@
+{
+  "measure": {
+    "SessionKey": "2019R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 820,
+    "CatchLine": "Appropriates moneys to Housing and Community Services Department to provide foreclosure counseling to homeowners at risk of foreclosure.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\t\t<i>Updates form, style and references within Housing Authorities Law.</i>] \n\t<b>Appropriates moneys to Housing and Community Services Department to provide foreclosure counseling to homeowners at risk of foreclosure. \n\t<b>Declares emergency, effective July 1, 2019.</b>",
+    "CurrentVersion": "A",
+    "RelatingToFull": "Relating to housing; and declaring an emergency.",
+    "RelatingTo": "Relating to housing; declaring an emergency.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "JWM",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "Fiscal impact issued",
+    "RevenueImpact": "No revenue impact",
+    "EmergencyClause": true,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Haylee Morse-Miller",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 3699,
+    "Vetoed": false,
+    "CreatedDate": "2019-02-19T08:37:07",
+    "ModifiedDate": "2020-06-26T19:41:22",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "101225",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 820,
+      "SponsorType": "Committee",
+      "LegislatoreCode": null,
+      "CommitteeCode": "SHOUS",
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2019-02-20T21:05:03",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 444461,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 820,
+      "Chamber": "S",
+      "ActionDate": "2019-02-21T09:05:36",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2019-02-21T09:06:07",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 444917,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 820,
+      "Chamber": "S",
+      "ActionDate": "2019-02-22T16:36:25",
+      "ActionText": "Referred to Housing.",
+      "VoteText": null,
+      "CreatedDate": "2019-02-22T16:36:30",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 458086,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 820,
+      "Chamber": "S",
+      "ActionDate": "2019-04-08T15:02:00",
+      "ActionText": "Public Hearing and Work Session held.",
+      "VoteText": null,
+      "CreatedDate": "2019-04-08T16:36:32",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 459122,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 820,
+      "Chamber": "S",
+      "ActionDate": "2019-04-12T11:28:52",
+      "ActionText": "Recommendation: Do pass with amendments and be referred to Ways and Means. (Printed A-Eng.)",
+      "VoteText": null,
+      "CreatedDate": "2019-04-12T12:36:18",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 459123,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 820,
+      "Chamber": "S",
+      "ActionDate": "2019-04-12T11:28:53",
+      "ActionText": "Referred to Ways and Means by order of the President.",
+      "VoteText": null,
+      "CreatedDate": "2019-04-12T12:36:18",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 479873,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 820,
+      "Chamber": "S",
+      "ActionDate": "2019-06-30T19:00:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2019-07-08T13:59:08",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 820,
+      "VersionDescription": "A-Engrossed",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/SB820/A-Engrossed",
+      "CreatedDate": "2019-04-12T16:57:28.4",
+      "ModifiedDate": null
+    },
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 820,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/SB820/Introduced",
+      "CreatedDate": "2019-02-20T16:48:11.8",
+      "ModifiedDate": null
+    },
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 820,
+      "VersionDescription": "Senate Amendments to Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/SB820/Senate Amendments to Introduced",
+      "CreatedDate": "2019-04-12T16:57:29.437",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

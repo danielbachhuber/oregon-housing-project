@@ -1,0 +1,112 @@
+{
+  "measure": {
+    "SessionKey": "2019R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 2850,
+    "CatchLine": "Directs Department of Environmental Quality to conduct study to examine funding opportunities for supporting brownfield redevelopment efforts and report on findings to interim committees of Legislative Assembly related to environment and natural resources on or before September 15, 2020.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDirects Department of Environmental Quality to conduct study to examine funding opportunities for supporting brownfield redevelopment efforts and report on findings to interim committees of Legislative Assembly related to environment and natural resources on or before September 15, 2020. \n\tSunsets January 2, 2021.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to brownfields.",
+    "RelatingTo": "Relating to brownfields.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HECD",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Krista Dauenhauer",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 3633,
+    "Vetoed": false,
+    "CreatedDate": "2019-01-30T14:42:23",
+    "ModifiedDate": "2020-06-26T19:41:22",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "99280",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2850,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Salinas",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2019-01-30T21:05:03",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "99281",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2850,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Sollman",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "2",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2019-01-30T21:05:03",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 441397,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2850,
+      "Chamber": "H",
+      "ActionDate": "2019-01-31T09:37:51",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2019-01-31T09:39:39",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 441665,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2850,
+      "Chamber": "H",
+      "ActionDate": "2019-02-04T08:30:40",
+      "ActionText": "Referred to Economic Development.",
+      "VoteText": null,
+      "CreatedDate": "2019-02-04T08:31:13",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 480676,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2850,
+      "Chamber": "H",
+      "ActionDate": "2019-06-30T17:23:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2019-07-08T16:02:16",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 2850,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB2850/Introduced",
+      "CreatedDate": "2019-01-30T17:33:11.827",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

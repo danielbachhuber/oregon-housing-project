@@ -1,0 +1,98 @@
+{
+  "measure": {
+    "SessionKey": "2019R1",
+    "MeasurePrefix": "HB",
+    "MeasureNumber": 3129,
+    "CatchLine": "Allows landlord to terminate residential tenancy with 30 days' written notice upon receipt of government notice that occupancy is unlawful.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tAllows landlord to terminate residential tenancy with 30 days' written notice upon receipt of government notice that occupancy is unlawful. Expands rights of landlords and tenants to terminate tenancies that are unlawful but not unsafe. Clarifies that landlord may not enter into tenancy known to be unlawful but not unsafe. Clarifies that terminating unlawful but not unsafe tenancy does not preclude parties' other available claims for damages.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to residential tenancies; creating new provisions; and amending ORS 90.380, 90.545, 90.555, 90.620, 90.630, 90.632, 90.645, 90.671 and 105.124.",
+    "RelatingTo": "Relating to residential tenancies.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In House Committee",
+    "CurrentCommitteeCode": "HHS",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Michael Graham",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 3994,
+    "Vetoed": false,
+    "CreatedDate": "2019-02-26T10:25:20",
+    "ModifiedDate": "2020-06-26T19:41:22",
+    "PrefixMeaning": "House Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "102241",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3129,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Rep Noble",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2019-02-26T21:05:02",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 445782,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3129,
+      "Chamber": "H",
+      "ActionDate": "2019-02-27T10:28:08",
+      "ActionText": "First reading. Referred to Speaker's desk.",
+      "VoteText": null,
+      "CreatedDate": "2019-02-27T10:28:48",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 447130,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3129,
+      "Chamber": "H",
+      "ActionDate": "2019-03-04T16:33:29",
+      "ActionText": "Referred to Human Services and Housing.",
+      "VoteText": null,
+      "CreatedDate": "2019-03-04T16:33:44",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 481463,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3129,
+      "Chamber": "H",
+      "ActionDate": "2019-06-30T17:23:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2019-07-08T16:02:18",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3129,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/HB3129/Introduced",
+      "CreatedDate": "2019-02-26T17:07:08.347",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

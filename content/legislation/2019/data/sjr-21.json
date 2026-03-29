@@ -1,0 +1,124 @@
+{
+  "measure": {
+    "SessionKey": "2019R1",
+    "MeasurePrefix": "SJR",
+    "MeasureNumber": 21,
+    "CatchLine": "Proposes amendment to Oregon Constitution repealing ad valorem property tax system created by House Joint Resolution 85 (1997) (Ballot Measure 50 (1997)) and requiring Legislative Assembly to enact such laws as may be necessary or appropriate to transfer repealed provisions to statute without substantive change.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tProposes amendment to Oregon Constitution repealing ad valorem property tax system created by House Joint Resolution 85 (1997) (Ballot Measure 50 (1997)) and requiring Legislative Assembly to enact such laws as may be necessary or appropriate to transfer repealed provisions to statute without substantive change. \n\tRefers proposed amendment to people for their approval or rejection at next regular general election.",
+    "CurrentVersion": null,
+    "RelatingToFull": null,
+    "RelatingTo": "Proposing amendment to Oregon Constitution relating to the transfer of certain constitutional provisions governing ad valorem property taxation to statute.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SFR",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": false,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Haylee Morse-Miller",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 3495,
+    "Vetoed": false,
+    "CreatedDate": "2019-02-06T09:31:31",
+    "ModifiedDate": "2020-06-26T19:41:22",
+    "PrefixMeaning": "Senate Joint Resolution"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "100095",
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SJR",
+      "MeasureNumber": 21,
+      "SponsorType": "Committee",
+      "LegislatoreCode": null,
+      "CommitteeCode": "SFR",
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2019-02-06T21:05:03",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 442344,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SJR",
+      "MeasureNumber": 21,
+      "Chamber": "S",
+      "ActionDate": "2019-02-07T09:10:13",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2019-02-07T09:10:34",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 442491,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SJR",
+      "MeasureNumber": 21,
+      "Chamber": "S",
+      "ActionDate": "2019-02-08T14:23:49",
+      "ActionText": "Referred to Finance and Revenue, then Rules.",
+      "VoteText": null,
+      "CreatedDate": "2019-02-08T14:24:16",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 444791,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SJR",
+      "MeasureNumber": 21,
+      "Chamber": "S",
+      "ActionDate": "2019-02-20T15:01:00",
+      "ActionText": "Public Hearing held.",
+      "VoteText": null,
+      "CreatedDate": "2019-02-22T10:02:51",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 470200,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SJR",
+      "MeasureNumber": 21,
+      "Chamber": "S",
+      "ActionDate": "2019-05-28T15:01:00",
+      "ActionText": "Public Hearing and Work Session held.",
+      "VoteText": null,
+      "CreatedDate": "2019-05-29T12:40:35",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 479863,
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SJR",
+      "MeasureNumber": 21,
+      "Chamber": "S",
+      "ActionDate": "2019-06-30T19:00:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2019-07-08T13:59:08",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2019R1",
+      "MeasurePrefix": "SJR",
+      "MeasureNumber": 21,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2019R1/Downloads/MeasureDocument/SJR21/Introduced",
+      "CreatedDate": "2019-02-06T16:21:13.077",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}
