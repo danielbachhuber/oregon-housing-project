@@ -6,7 +6,7 @@ const CONTENT_DIR = path.join(process.cwd(), 'content');
 // --- Types ---
 
 interface Entity {
-  type: 'legislation' | 'people' | 'cities';
+  type: 'legislation' | 'people' | 'cities' | 'organizations';
   name: string;        // display name, e.g. "HB 2138", "Tina Kotek", "Portland"
   url: string;         // e.g. "/legislation/2025/hb-2138"
   patterns: RegExp[];  // word-boundary patterns to match in text
@@ -78,6 +78,25 @@ function buildCityEntities(): Entity[] {
         patterns: [new RegExp(`\\b${escapeRegex(title)}\\b(?!\\s+[A-Z])(?!-)`, 'g')],
       });
     }
+  }
+  return entities;
+}
+
+function buildOrganizationEntities(): Entity[] {
+  const dir = path.join(CONTENT_DIR, 'organizations');
+  const entities: Entity[] = [];
+  for (const file of fs.readdirSync(dir)) {
+    if (file === '_index.md' || !file.endsWith('.md')) continue;
+    const filePath = path.join(dir, file);
+    const title = extractTitle(filePath);
+    if (!title) continue;
+    const slug = file.replace('.md', '');
+    entities.push({
+      type: 'organizations',
+      name: title,
+      url: `/organizations/${slug}`,
+      patterns: [new RegExp(`\\b${escapeRegex(title)}\\b`, 'g')],
+    });
   }
   return entities;
 }
@@ -376,20 +395,23 @@ function main() {
   // Build entity registry
   const people = buildPeopleEntities();
   const cities = buildCityEntities();
+  const organizations = buildOrganizationEntities();
   const { entities: legislation, ambiguous } = buildLegislationEntities();
 
   // Sort each group: longer names first (more specific matches first)
   const sortByLength = (a: Entity, b: Entity) => b.name.length - a.name.length;
   people.sort(sortByLength);
   cities.sort(sortByLength);
+  organizations.sort(sortByLength);
   legislation.sort(sortByLength);
 
-  // Priority order: legislation → people → cities
-  const allEntities = [...legislation, ...people, ...cities];
+  // Priority order: legislation → people → organizations → cities
+  const allEntities = [...legislation, ...people, ...organizations, ...cities];
 
   console.log('Entity Registry:');
   console.log(`  People: ${people.length} entities`);
   console.log(`  Cities: ${cities.length} entities`);
+  console.log(`  Organizations: ${organizations.length} entities`);
   const ambigNote = ambiguous.length > 0
     ? ` (${ambiguous.length} ambiguous, skipped: ${ambiguous.join(', ')})`
     : '';

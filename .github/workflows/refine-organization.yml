@@ -1,0 +1,75 @@
+name: Refine Organization
+
+on:
+  workflow_dispatch:
+    inputs:
+      slug:
+        description: 'Organization slug (e.g. "sightline-institute", "oregon-housing-alliance")'
+        required: true
+        type: string
+
+permissions:
+  contents: write
+  pull-requests: write
+jobs:
+  refine-organization:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v3
+        with:
+          version: 9
+
+      - name: Install dependencies
+        run: pnpm install
+
+      - name: Refine organization profile
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: pnpm refine-organization ${{ inputs.slug }}
+
+      - name: Create PR
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          SLUG="${{ inputs.slug }}"
+
+          if [ -z "$(git status --porcelain content/)" ]; then
+            echo "No changes detected."
+            exit 0
+          fi
+
+          git config user.name 'oregonhousingproject[bot]'
+          git config user.email 'info@oregonhousingproject.org'
+
+          # Ensure label exists
+          gh label create "refine-organization" --color "1d76db" --description "Automated organization profile refinement" 2>/dev/null || true
+
+          # Close existing PRs for the same organization
+          EXISTING_PRS=$(gh pr list --label "refine-organization" --state open --json number,headRefName --jq ".[] | select(.headRefName | contains(\"${SLUG}\")) | .number")
+          for pr in $EXISTING_PRS; do
+            echo "Closing existing PR #${pr}..."
+            gh pr close "$pr" --delete-branch || true
+          done
+
+          BRANCH_NAME="auto/refine-organization-${SLUG}-$(date +%Y-%m-%d)-${{ github.run_number }}"
+          git checkout -b "$BRANCH_NAME"
+          git add content/
+          git commit -m "Refine organization profile for ${SLUG}"
+          git push -u origin "$BRANCH_NAME"
+
+          gh pr create \
+            --title "Refine organization profile: ${SLUG}" \
+            --body "Automated organization profile refinement for **${SLUG}**. Generated using \`pnpm refine-organization\` with web search." \
+            --base main \
+            --head "$BRANCH_NAME" \
+            --label "refine-organization" \
+            --reviewer danielbachhuber
