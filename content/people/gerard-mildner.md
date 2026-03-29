@@ -19,7 +19,7 @@ Mildner holds a B.A. in Public Affairs from the University of Chicago and a Ph.D
 
 - **Urban Growth Boundary Research**: Co-authored "A Line in the Land: Urban-growth Boundaries, Smart Growth, and Housing Affordability" (1999), a Reason Public Policy Institute study arguing that urban growth boundaries reduce the supply of developable land, increase housing and land prices, and harm affordability.[^4]
 
-- **"Density at Any Cost" Report (2014)**: Published the first independent analysis of Portland Metro's 2014 Urban Growth Report, arguing that Metro's plan to accommodate all residential growth through increased density—without expanding the urban growth boundary—would substantially increase housing costs and make Portland the fourth most expensive metropolitan area in the country.[^5][^6]
+- **"Density at Any Cost" Report (2014)**: Published the first independent analysis of Portland [Metro](/organizations/metro)'s 2014 Urban Growth Report, arguing that Metro's plan to accommodate all residential growth through increased density—without expanding the urban growth boundary—would substantially increase housing costs and make Portland the fourth most expensive metropolitan area in the country.[^5][^6]
 
 - **Portland Inclusionary Zoning Critique**: Argued before the Oregon Senate Finance Committee that Portland's inclusionary zoning program functions as a 4.3% tax on housing development, driving up per-unit costs from $275,000 for standard projects to $450,000 for affordable housing projects. Urged the legislature to "clip the wings of the city of Portland" on inclusionary zoning policy.[^7]
 

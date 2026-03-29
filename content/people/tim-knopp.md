@@ -11,7 +11,7 @@ In January 2026, Governor [Tina Kotek](/people/tina-kotek) appointed Knopp as Or
 
 ## Background
 
-Knopp served as Executive Vice President of the Central Oregon Builders Association, which represents more than 800 local companies, and as Executive Director of Building Partners for Affordable Housing, a Bend-based nonprofit that has partnered with builders and the city of Bend to supply over 25 new homes and 13 lots for affordable housing.[^3][^4] He stepped down from both roles upon becoming Chief Prosperity Officer.
+Knopp served as Executive Vice President of the [Central Oregon Builders Association](/organizations/central-oregon-builders-association), which represents more than 800 local companies, and as Executive Director of Building Partners for Affordable Housing, a Bend-based nonprofit that has partnered with builders and the city of Bend to supply over 25 new homes and 13 lots for affordable housing.[^3][^4] He stepped down from both roles upon becoming Chief Prosperity Officer.
 
 ## Key Housing Actions
 
