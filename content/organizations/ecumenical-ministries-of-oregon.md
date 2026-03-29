@@ -9,7 +9,7 @@ testimony_names = ['Ecumenical Ministries of Oregon', 'Ecumenical Ministries of 
 
 Ecumenical Ministries of Oregon (EMO) is a nonprofit interfaith organization based in [Portland](/cities/portland), founded in 1974 through the merger of the Oregon Council of Churches and the Portland Council of Churches.[^1] EMO brings together diverse communities of faith to learn, serve, and advocate for justice, peace, and the integrity of creation.[^2]
 
-EMO engages in Oregon housing policy through both direct service programs and statewide legislative advocacy. Its housing-related programs include Second Home, which connects unaccompanied homeless youth with volunteer host families,[^3] and Metro HomeShare, which matches homeowners who have spare rooms with people seeking affordable housing.[^4] The organization maintains a consistent presence at the Oregon Legislature, with "Sheltering the Houseless" as one of its core legislative priorities.[^5]
+EMO engages in Oregon housing policy through both direct service programs and statewide legislative advocacy. Its housing-related programs include Second Home, which connects unaccompanied homeless youth with volunteer host families,[^3] and [Metro](/organizations/metro) HomeShare, which matches homeowners who have spare rooms with people seeking affordable housing.[^4] The organization maintains a consistent presence at the Oregon Legislature, with "Sheltering the Houseless" as one of its core legislative priorities.[^5]
 
 ## Policy Positions
 

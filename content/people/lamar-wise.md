@@ -11,9 +11,9 @@ Before entering the legislature, Wise served as the political director for AFSCM
 
 ## Background
 
-Wise grew up in Hillsboro, Oregon, and got his start in political organizing while struggling to afford basic expenses as a student at the University of Oregon.[^7] He began his professional advocacy career at the Oregon Student Association as legislative director in 2015, becoming executive director in 2017.[^8] During his time at OSA, he focused on fighting tuition increases, expanding campus mental health services, and led a voter registration drive that registered 35,000 students in 2018.[^9]
+Wise grew up in [Hillsboro](/cities/hillsboro), Oregon, and got his start in political organizing while struggling to afford basic expenses as a student at the University of Oregon.[^7] He began his professional advocacy career at the Oregon Student Association as legislative director in 2015, becoming executive director in 2017.[^8] During his time at OSA, he focused on fighting tuition increases, expanding campus mental health services, and led a voter registration drive that registered 35,000 students in 2018.[^9]
 
-Wise transitioned to Oregon AFSCME as a political coordinator in 2019, eventually rising to political director, where he lobbied for legislation supporting the union's state, local government, behavioral health, and social service workers.[^10] He has served on the boards of multiple organizations connected to housing and social justice, including the Community Alliance of Tenants Action Fund, the ACLU of Oregon, Our Oregon, and the Governor's Racial Council.[^11] He also served on the state's Higher Education Coordinating Commission.[^12]
+Wise transitioned to Oregon AFSCME as a political coordinator in 2019, eventually rising to political director, where he lobbied for legislation supporting the union's state, local government, behavioral health, and social service workers.[^10] He has served on the boards of multiple organizations connected to housing and social justice, including the [Community Alliance of Tenants](/organizations/community-alliance-of-tenants) Action Fund, the ACLU of Oregon, Our Oregon, and the Governor's Racial Council.[^11] He also served on the state's Higher Education Coordinating Commission.[^12]
 
 ## Key Housing Actions
 

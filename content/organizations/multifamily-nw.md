@@ -7,7 +7,7 @@ testimony_names = ['Multifamily NW', 'Multifamily Northwest', 'Multifamily NW Me
 
 # Multifamily NW
 
-Multifamily NW is a trade association representing rental housing providers, property managers, owners, and industry vendors in Oregon and Southwest Washington. Founded in 1992 as the Metro Multifamily Housing Association (MMHA), the organization rebranded to Multifamily NW in 2013 to reflect its expanded geographic reach.[^1] It is headquartered in the [Portland](/cities/portland) area.
+Multifamily NW is a trade association representing rental housing providers, property managers, owners, and industry vendors in Oregon and Southwest Washington. Founded in 1992 as the [Metro](/organizations/metro) Multifamily Housing Association (MMHA), the organization rebranded to Multifamily NW in 2013 to reflect its expanded geographic reach.[^1] It is headquartered in the [Portland](/cities/portland) area.
 
 The association represents nearly 300,000 rental homes across Oregon and is the largest apartment association in the Pacific Northwest.[^2] Its members range from small independent landlords to large property management companies operating throughout the Willamette Valley, Central Oregon, and Southern Oregon. Multifamily NW provides legislative advocacy, education, professional development, and standardized rental forms widely used across the state.
 

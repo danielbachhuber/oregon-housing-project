@@ -20,9 +20,9 @@ Tualatin's housing stock is 49.8% single-family detached homes, with large apart
 
 ## Zoning and Land Use
 
-Tualatin updated its development code to comply with [HB 2001 (2019)](/legislation/2019/hb-2001), which requires cities in the Metro region to allow duplexes, triplexes, quadplexes, cottage clusters, and townhouses in residential zones.[^6] The city had to reduce parking requirements that exceeded state limits.[^6]
+Tualatin updated its development code to comply with [HB 2001 (2019)](/legislation/2019/hb-2001), which requires cities in the [Metro](/organizations/metro) region to allow duplexes, triplexes, quadplexes, cottage clusters, and townhouses in residential zones.[^6] The city had to reduce parking requirements that exceeded state limits.[^6]
 
-Mayor Frank Bubenik noted that HB 2001 "handcuffed" the council on density decisions, limiting their ability to block developments they might otherwise have rejected.[^7] The first major test came with the Tualatin Heights Apartments rezoning, which was approved after extensive debate to allow 100+ additional units, increasing density by nearly 50%.[^7]
+Mayor [Frank Bubenik](/people/frank-bubenik) noted that HB 2001 "handcuffed" the council on density decisions, limiting their ability to block developments they might otherwise have rejected.[^7] The first major test came with the Tualatin Heights Apartments rezoning, which was approved after extensive debate to allow 100+ additional units, increasing density by nearly 50%.[^7]
 
 With very little vacant land remaining in the city, Tualatin's focus has shifted to infill development in existing neighborhoods.[^6]
 
