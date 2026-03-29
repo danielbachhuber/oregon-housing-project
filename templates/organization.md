@@ -39,8 +39,11 @@ testimony_names = ['Variant 1', 'Variant 2']
    - Include testimony, advocacy campaigns, research that influenced legislation, and coalition work
    - Order reverse chronologically
    - Each bullet should be 1-2 sentences
+   - Note: The published page automatically displays a complete **Legislative Testimony** table (grouped by year) generated from OLIS testimony data matched via `testimony_names`. This section should therefore focus on the organization's *most significant* legislative involvement with context and narrative, not attempt to be an exhaustive list of all testimony.
 
 5. **Footnote references**: Place all `[^N]:` footnote definitions at the end of the file, each followed by a blank line.
+
+**Note on auto-generated sections**: The published organization page automatically appends **News Coverage** (backlinked articles) and **Legislative Testimony** (matched from OLIS data via `testimony_names`) sections below the markdown content. Do not duplicate these in the profile body.
 
 ## Style Guidelines
 
