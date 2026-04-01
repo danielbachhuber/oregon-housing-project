@@ -11,7 +11,7 @@
     "RelatingTo": "Relating to accessibility standards for housing; and prescribing an effective date.",
     "AtTheRequestOf": null,
     "ChapterNumber": null,
-    "CurrentLocation": "Governors Office - Awaiting Signature",
+    "CurrentLocation": "Secretary of States Office - Chapter Number Assignment",
     "CurrentCommitteeCode": null,
     "CurrentSubCommittee": null,
     "FiscalImpact": "Has minimal fiscal impact",
@@ -23,7 +23,7 @@
     "LCNumber": 72,
     "Vetoed": false,
     "CreatedDate": "2026-01-16T15:10:46",
-    "ModifiedDate": "2026-03-05T11:26:40",
+    "ModifiedDate": "2026-03-31T14:31:59",
     "PrefixMeaning": "Senate Bill"
   },
   "sponsors": [
@@ -526,6 +526,19 @@
       "ActionText": "Speaker signed.",
       "VoteText": null,
       "CreatedDate": "2026-03-05T10:58:39",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 670782,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1576,
+      "Chamber": "S",
+      "ActionDate": "2026-03-31T14:30:00",
+      "ActionText": "Governor signed.",
+      "VoteText": null,
+      "CreatedDate": "2026-03-31T14:32:00",
       "ModifiedDate": null,
       "PublicNotification": true
     }
