@@ -11,7 +11,7 @@
     "RelatingTo": "Relating to local requirements to develop affordable housing.",
     "AtTheRequestOf": "(at the request of Senate Interim Committee on Housing and Development)",
     "ChapterNumber": null,
-    "CurrentLocation": "Governors Office - Awaiting Signature",
+    "CurrentLocation": "Secretary of States Office - Chapter Number Assignment",
     "CurrentCommitteeCode": null,
     "CurrentSubCommittee": null,
     "FiscalImpact": "Fiscal impact issued",
@@ -23,7 +23,7 @@
     "LCNumber": 5,
     "Vetoed": false,
     "CreatedDate": "2026-01-14T13:37:51",
-    "ModifiedDate": "2026-03-05T15:09:02",
+    "ModifiedDate": "2026-03-31T14:31:59",
     "PrefixMeaning": "Senate Bill"
   },
   "sponsors": [
@@ -248,6 +248,19 @@
       "ActionText": "Speaker signed.",
       "VoteText": null,
       "CreatedDate": "2026-03-05T14:58:32",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 670766,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1521,
+      "Chamber": "S",
+      "ActionDate": "2026-03-31T14:30:00",
+      "ActionText": "Governor signed.",
+      "VoteText": null,
+      "CreatedDate": "2026-03-31T14:32:00",
       "ModifiedDate": null,
       "PublicNotification": true
     }

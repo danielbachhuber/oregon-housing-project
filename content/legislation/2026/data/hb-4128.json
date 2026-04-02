@@ -11,7 +11,7 @@
     "RelatingTo": "Relating to sale of single-family residences.",
     "AtTheRequestOf": null,
     "ChapterNumber": null,
-    "CurrentLocation": "Governors Office - Awaiting Signature",
+    "CurrentLocation": "Secretary of States Office - Chapter Number Assignment",
     "CurrentCommitteeCode": null,
     "CurrentSubCommittee": null,
     "FiscalImpact": "Has minimal fiscal impact",
@@ -23,7 +23,7 @@
     "LCNumber": 264,
     "Vetoed": false,
     "CreatedDate": "2026-01-18T11:34:03",
-    "ModifiedDate": "2026-03-06T10:20:19",
+    "ModifiedDate": "2026-03-31T19:18:09",
     "PrefixMeaning": "House Bill"
   },
   "sponsors": [
@@ -652,6 +652,19 @@
       "ActionText": "President signed.",
       "VoteText": null,
       "CreatedDate": "2026-03-06T09:04:07",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 670823,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4128,
+      "Chamber": "H",
+      "ActionDate": "2026-03-31T14:07:00",
+      "ActionText": "Governor signed.",
+      "VoteText": null,
+      "CreatedDate": "2026-03-31T19:18:09",
       "ModifiedDate": null,
       "PublicNotification": true
     }
