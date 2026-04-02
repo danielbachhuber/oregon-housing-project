@@ -11,7 +11,7 @@
     "RelatingTo": "Relating to housing for older persons; and prescribing an effective date.",
     "AtTheRequestOf": "(at the request of Governor Tina Kotek for Office of the Governor)",
     "ChapterNumber": null,
-    "CurrentLocation": "Governors Office - Awaiting Signature",
+    "CurrentLocation": "Secretary of States Office - Chapter Number Assignment",
     "CurrentCommitteeCode": null,
     "CurrentSubCommittee": null,
     "FiscalImpact": "Has minimal fiscal impact",
@@ -23,7 +23,7 @@
     "LCNumber": 94,
     "Vetoed": false,
     "CreatedDate": "2026-01-16T16:14:03",
-    "ModifiedDate": "2026-03-10T14:19:04",
+    "ModifiedDate": "2026-03-31T19:18:08",
     "PrefixMeaning": "House Bill"
   },
   "sponsors": [
@@ -274,6 +274,19 @@
       "ActionText": "President signed.",
       "VoteText": null,
       "CreatedDate": "2026-03-10T13:51:16",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 670808,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4082,
+      "Chamber": "H",
+      "ActionDate": "2026-03-31T14:07:00",
+      "ActionText": "Governor signed.",
+      "VoteText": null,
+      "CreatedDate": "2026-03-31T19:18:09",
       "ModifiedDate": null,
       "PublicNotification": true
     }

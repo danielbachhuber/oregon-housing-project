@@ -11,7 +11,7 @@
     "RelatingTo": "Relating to restoration of dwellings damaged by involuntary causes.",
     "AtTheRequestOf": null,
     "ChapterNumber": null,
-    "CurrentLocation": "Governors Office - Awaiting Signature",
+    "CurrentLocation": "Secretary of States Office - Chapter Number Assignment",
     "CurrentCommitteeCode": null,
     "CurrentSubCommittee": null,
     "FiscalImpact": "Has minimal fiscal impact",
@@ -23,7 +23,7 @@
     "LCNumber": 96,
     "Vetoed": false,
     "CreatedDate": "2026-01-16T12:06:14",
-    "ModifiedDate": "2026-03-05T11:26:40",
+    "ModifiedDate": "2026-03-31T14:31:59",
     "PrefixMeaning": "Senate Bill"
   },
   "sponsors": [
@@ -500,6 +500,19 @@
       "ActionText": "Speaker signed.",
       "VoteText": null,
       "CreatedDate": "2026-03-05T10:58:39",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 670776,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1561,
+      "Chamber": "S",
+      "ActionDate": "2026-03-31T14:30:00",
+      "ActionText": "Governor signed.",
+      "VoteText": null,
+      "CreatedDate": "2026-03-31T14:32:00",
       "ModifiedDate": null,
       "PublicNotification": true
     }
