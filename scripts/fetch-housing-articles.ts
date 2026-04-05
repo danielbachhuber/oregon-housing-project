@@ -5,6 +5,7 @@ import * as cheerio from 'cheerio';
 import xml2js from 'xml2js';
 import Anthropic from '@anthropic-ai/sdk';
 import 'dotenv/config';
+import { slugify, escapeToml } from './utils';
 
 // Configuration
 const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY;
@@ -590,13 +591,7 @@ Respond with ONLY the summary paragraph, no preamble or explanation. Use markdow
 function generateFilename(dateStr: string, title: string): string {
   const date = new Date(dateStr);
   const year = date.getFullYear();
-  const slug = title
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, '-')
-    .replace(/^-+|-+$/g, '')
-    .substring(0, 50)
-    .replace(/-$/, '');
-
+  const slug = slugify(title, 50);
   return `${year}/${slug}.md`;
 }
 
@@ -614,16 +609,15 @@ function createArticleFile(
     fs.mkdirSync(dir, { recursive: true });
   }
 
-  // Escape single quotes in TOML values
-  const escTitle = article.title.replace(/'/g, "''");
-  const escAuthor = (article.author || 'Staff').replace(/'/g, "''");
+  const escTitle = escapeToml(article.title);
+  const escAuthor = escapeToml(article.author || 'Staff');
 
   const content = `+++
-title = '${escTitle}'
+title = "${escTitle}"
 date = '${date}'
 source = '${sourceName}'
 original_url = '${article.url}'
-author = '${escAuthor}'
+author = "${escAuthor}"
 +++
 
 ${summary}

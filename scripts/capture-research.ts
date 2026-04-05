@@ -4,6 +4,7 @@ import axios from 'axios';
 import * as cheerio from 'cheerio';
 import Anthropic from '@anthropic-ai/sdk';
 import 'dotenv/config';
+import { slugify, escapeToml } from './utils';
 
 const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY;
 const CONTENT_DIR = path.join(process.cwd(), 'content/research');
@@ -149,14 +150,6 @@ Respond with ONLY the description sentences, no preamble.`;
   return ((msg.content[0] as any).text as string).trim();
 }
 
-function slugify(title: string): string {
-  return title
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, '-')
-    .replace(/^-+|-+$/g, '')
-    .substring(0, 60)
-    .replace(/-$/, '');
-}
 
 async function main() {
   const url = process.argv[2];
@@ -198,17 +191,17 @@ async function main() {
     console.log(`Updating existing file: ${filepath}`);
   }
 
-  const escTitle = page.title.replace(/'/g, "''");
-  const escAuthor = page.author.replace(/'/g, "''");
-  const escDescription = description.replace(/'/g, "''");
+  const escTitle = escapeToml(page.title);
+  const escAuthor = escapeToml(page.author);
+  const escDescription = escapeToml(description);
 
   const fileContent = `+++
-title = '${escTitle}'
+title = "${escTitle}"
 date = '${page.date}'
 original_url = '${url}'
 source = '${page.source}'
-author = '${escAuthor}'
-description = '${escDescription}'
+author = "${escAuthor}"
+description = "${escDescription}"
 word_count = ${page.wordCount}
 reading_time = ${page.readingTime}
 +++
