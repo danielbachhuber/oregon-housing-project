@@ -15,4 +15,4 @@ Before entering the legislature, Anderson served as Mayor of Lincoln City. He sp
 
 ### As Vice Chair of Senate Housing and Development Committee
 
-- **[SB 1566 (2026)](/legislation/2026/sb-1566)**: Introduced legislation to modify Oregon's prevailing wage exemptions for affordable housing projects. The bill would allow commercial space in affordable housing without losing exemptions, increase height limits from four to seven stories, and clarify that adjacent infrastructure work shouldn't trigger prevailing wage requirements.
+- **[SB 1566 (2026)](/legislation/2026-regular-session/sb-1566)**: Introduced legislation to modify Oregon's prevailing wage exemptions for affordable housing projects. The bill would allow commercial space in affordable housing without losing exemptions, increase height limits from four to seven stories, and clarify that adjacent infrastructure work shouldn't trigger prevailing wage requirements.

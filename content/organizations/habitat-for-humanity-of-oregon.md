@@ -22,15 +22,15 @@ The organization has become an influential voice in Oregon housing policy, parti
 
 ## Key Legislative Involvement
 
-- **[HB 4136](/legislation/2026/hb-4136) (2026)**: Testified in support of redirecting the mortgage interest deduction for second homes into a new Oregon Homeownership Opportunity Account for down payment assistance, mobilizing testimony from multiple local affiliates.[^9]
-- **[HB 2698](/legislation/2025/hb-2698) (2025)**: Supported the establishment of a statewide homeownership goal of 65 percent, with extensive testimony from Habitat affiliates across the state urging the Legislature to track homeownership progress by demographic group.[^10]
-- **[HB 3507](/legislation/2025/hb-3507) (2025)**: Testified in support of expanding eligibility for OHCS down payment assistance programs to reach moderate-income households.[^11]
-- **[HB 3746](/legislation/2025/hb-3746) (2025)**: Supported reforms to construction defect liability statutes to reduce barriers to condominium development, with testimony from multiple affiliates.[^8]
+- **[HB 4136](/legislation/2026-regular-session/hb-4136) (2026)**: Testified in support of redirecting the mortgage interest deduction for second homes into a new Oregon Homeownership Opportunity Account for down payment assistance, mobilizing testimony from multiple local affiliates.[^9]
+- **[HB 2698](/legislation/2025-regular-session/hb-2698) (2025)**: Supported the establishment of a statewide homeownership goal of 65 percent, with extensive testimony from Habitat affiliates across the state urging the Legislature to track homeownership progress by demographic group.[^10]
+- **[HB 3507](/legislation/2025-regular-session/hb-3507) (2025)**: Testified in support of expanding eligibility for OHCS down payment assistance programs to reach moderate-income households.[^11]
+- **[HB 3746](/legislation/2025-regular-session/hb-3746) (2025)**: Supported reforms to construction defect liability statutes to reduce barriers to condominium development, with testimony from multiple affiliates.[^8]
 - **HB 5011 (2025)**: Testified in support of housing-related budget appropriations, advocating for continued investment in affordable housing programs.[^12]
 - **HB 2001 (2023)**: Supported the comprehensive housing production and accountability bill as part of a broad coalition that included [1000 Friends of Oregon](/organizations/1000-friends-of-oregon), [AARP Oregon](/organizations/aarp-oregon), and the Oregon Home Builders Association.[^13]
 - **SB 936 (2023)**: Testified in support of grants for affordable single-family homeownership development and modifications to the Affordable Housing Land Acquisition Revolving Loan Program, with testimony from multiple local affiliates including Newberg Area Habitat and Habitat for Humanity of La Pine Sunriver.[^14]
-- **[SB 458](/legislation/2021/sb-458) (2021)**: Co-led the effort with the Oregon Home Builders Association to pass this bill, which was introduced at the request of Habitat for Humanity. SB 458 created a streamlined land division process for middle housing types allowed under HB 2001 (2019), passing with overwhelming bipartisan support (25-4 in the Senate, 54-2 in the House).[^5]
-- **[HB 2283](/legislation/2021/hb-2283) (2021)**: Testified in support of Individual Development Account funding, coordinating testimony from Habitat affiliates including Habitat Portland Region and Habitat for Humanity of Central Lane.[^15]
+- **[SB 458](/legislation/2021-regular-session/sb-458) (2021)**: Co-led the effort with the Oregon Home Builders Association to pass this bill, which was introduced at the request of Habitat for Humanity. SB 458 created a streamlined land division process for middle housing types allowed under HB 2001 (2019), passing with overwhelming bipartisan support (25-4 in the Senate, 54-2 in the House).[^5]
+- **[HB 2283](/legislation/2021-regular-session/hb-2283) (2021)**: Testified in support of Individual Development Account funding, coordinating testimony from Habitat affiliates including Habitat Portland Region and Habitat for Humanity of Central Lane.[^15]
 
 [^1]: [Find Your Local Habitat](https://habitatoregon.org/local/), Habitat for Humanity of Oregon
 

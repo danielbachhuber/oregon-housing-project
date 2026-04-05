@@ -22,13 +22,13 @@ Knopp served as Executive Vice President of the [Central Oregon Builders Associa
 
 ### As Senate Republican Leader (2021-2024)
 
-- **2024 Emergency Housing Package (SB 1537, [SB 1530](/legislation/2024/sb-1530), [HB 4134](/legislation/2024/hb-4134))**: Played a key role in negotiating the bipartisan $376 million housing package that boosted housing production, funded critical infrastructure, created the Housing Accountability and Production Office, and established a $75 million revolving loan fund for affordable housing. Knopp stated: "We know the best product comes from much input from both sides of the aisle, from urban and rural and this bill reflects that."[^6][^7]
+- **2024 Emergency Housing Package (SB 1537, [SB 1530](/legislation/2024-regular-session/sb-1530), [HB 4134](/legislation/2024-regular-session/hb-4134))**: Played a key role in negotiating the bipartisan $376 million housing package that boosted housing production, funded critical infrastructure, created the Housing Accountability and Production Office, and established a $75 million revolving loan fund for affordable housing. Knopp stated: "We know the best product comes from much input from both sides of the aisle, from urban and rural and this bill reflects that."[^6][^7]
 
 - **2023 Senate Walkout**: Participated in the 2023 Republican-led walkout that lasted over 40 days, exceeding the 10 unexcused absence threshold set by Measure 113 (2022). The Oregon Supreme Court unanimously ruled in February 2024 that Knopp and nine other Republican senators were barred from seeking reelection.[^8][^9]
 
 ### As State Senator (2013-2025)
 
-- **[SB 391](/legislation/2021/sb-391) (2021)**: Co-sponsored with Rep. Jack Zika this bill allowing accessory dwelling units on rural residential land, signed by Governor Kate Brown on June 23, 2021. The law permits ADUs up to 900 square feet within 100 feet of an existing dwelling on rural residential parcels.[^10][^11]
+- **[SB 391](/legislation/2021-regular-session/sb-391) (2021)**: Co-sponsored with Rep. Jack Zika this bill allowing accessory dwelling units on rural residential land, signed by Governor Kate Brown on June 23, 2021. The law permits ADUs up to 900 square feet within 100 feet of an existing dwelling on rural residential parcels.[^10][^11]
 
 [^1]: [Wikipedia: Tim Knopp](https://en.wikipedia.org/wiki/Tim_Knopp)
 

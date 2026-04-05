@@ -1,5 +1,5 @@
 +++
-title = '2019'
+title = '2019 Regular Session'
 bookCollapseSection = true
 +++
 

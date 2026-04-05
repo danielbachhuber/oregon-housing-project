@@ -14,19 +14,19 @@ The organization is best known for convening the [Oregon Housing Alliance](/orga
 ## Policy Positions
 
 - **Affordable housing production**: Advocates for increased state investment in the construction and preservation of affordable rental housing and homeownership opportunities.[^2]
-- **Tenant protections**: Supports rent stabilization, limits on no-cause evictions, and other renter safeguards. Coordinated the Stable Homes for Oregon Families campaign that helped pass [SB 608](/legislation/2019/sb-608) (2019), Oregon's first statewide rent stabilization law.[^4]
+- **Tenant protections**: Supports rent stabilization, limits on no-cause evictions, and other renter safeguards. Coordinated the Stable Homes for Oregon Families campaign that helped pass [SB 608](/legislation/2019-regular-session/sb-608) (2019), Oregon's first statewide rent stabilization law.[^4]
 - **Homelessness prevention**: Supports emergency rental assistance programs and direct cash assistance for individuals experiencing or at risk of homelessness.[^2]
 - **Individual development accounts**: Calls for expanded and sustainable state funding for the Oregon IDA Initiative, including a $20 million appropriation for the 2025-2027 biennium.[^5]
 - **Racial equity in housing**: Advocates for policies that address systemic racial disparities in homeownership and housing stability, including implicit bias training for mortgage loan originators and targeted investments in communities of color.[^6]
 
 ## Key Legislative Involvement
 
-- **[HB 3809](/legislation/2025/hb-3809) (2025)**: Testified in support of establishing a quarterly allocation of lottery moneys for the IDA program, part of the organization's long-running campaign for sustainable IDA funding.[^5]
-- **[HB 4131](/legislation/2024/hb-4131) (2024)**: Cameron Herrington testified extensively in support of General Fund appropriations for IDA matching deposits, reflecting the organization's role as the IDA Initiative's statewide administrator.[^3]
-- **[SB 603](/legislation/2023/sb-603) (2023)**: Testified in support of the People's Housing Assistance Fund, a demonstration program providing monthly cash payments to individuals experiencing or at risk of homelessness.[^7]
-- **[HB 2551](/legislation/2021/hb-2551) (2021)**: Testified in support of extending and modifying tax credits for IDA donations, a core priority for maintaining the program's funding base.[^8]
-- **[HB 2009](/legislation/2021/hb-2009) (2021)**: Testified in support of temporary foreclosure protections for borrowers affected by the COVID-19 pandemic.[^9]
-- **[HB 2007](/legislation/2021/hb-2007) (2021)**: Testified in support of addressing racial disparities in homeownership, including implicit bias training for mortgage loan originators.[^10]
+- **[HB 3809](/legislation/2025-regular-session/hb-3809) (2025)**: Testified in support of establishing a quarterly allocation of lottery moneys for the IDA program, part of the organization's long-running campaign for sustainable IDA funding.[^5]
+- **[HB 4131](/legislation/2024-regular-session/hb-4131) (2024)**: Cameron Herrington testified extensively in support of General Fund appropriations for IDA matching deposits, reflecting the organization's role as the IDA Initiative's statewide administrator.[^3]
+- **[SB 603](/legislation/2023-regular-session/sb-603) (2023)**: Testified in support of the People's Housing Assistance Fund, a demonstration program providing monthly cash payments to individuals experiencing or at risk of homelessness.[^7]
+- **[HB 2551](/legislation/2021-regular-session/hb-2551) (2021)**: Testified in support of extending and modifying tax credits for IDA donations, a core priority for maintaining the program's funding base.[^8]
+- **[HB 2009](/legislation/2021-regular-session/hb-2009) (2021)**: Testified in support of temporary foreclosure protections for borrowers affected by the COVID-19 pandemic.[^9]
+- **[HB 2007](/legislation/2021-regular-session/hb-2007) (2021)**: Testified in support of addressing racial disparities in homeownership, including implicit bias training for mortgage loan originators.[^10]
 - **SB 608 (2019)**: Through the Oregon Housing Alliance, coordinated the Stable Homes for Oregon Families campaign that helped pass Oregon's first statewide rent stabilization and no-cause eviction protections law.[^4]
 
 [^1]: [About Neighborhood Partnerships](https://neighborhoodpartnerships.org/our-mission-vision-and-values/)

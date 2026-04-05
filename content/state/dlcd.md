@@ -34,15 +34,15 @@ DLCD's housing-related responsibilities have expanded significantly in recent ye
 
 ### Housing Production Reporting
 
-Under [HB 2001 (2023)](/legislation/2023/hb-2001), DLCD collects annual housing production reports from Oregon cities with populations of 10,000 or more.[^2] Cities must report both units permitted (building permits issued) and units produced (certificates of occupancy issued).
+Under [HB 2001 (2023)](/legislation/2023-regular-session/hb-2001), DLCD collects annual housing production reports from Oregon cities with populations of 10,000 or more.[^2] Cities must report both units permitted (building permits issued) and units produced (certificates of occupancy issued).
 
 ### Middle Housing Implementation
 
-DLCD developed the administrative rules implementing [HB 2001 (2019)](/legislation/2019/hb-2001), which requires cities to allow duplexes, triplexes, quadplexes, townhouses, and cottage clusters in residential zones. DLCD provides technical assistance to local governments updating their development codes to comply with middle housing requirements.
+DLCD developed the administrative rules implementing [HB 2001 (2019)](/legislation/2019-regular-session/hb-2001), which requires cities to allow duplexes, triplexes, quadplexes, townhouses, and cottage clusters in residential zones. DLCD provides technical assistance to local governments updating their development codes to comply with middle housing requirements.
 
 ### Housing Production Strategies
 
-Under [HB 2003 (2019)](/legislation/2019/hb-2003), DLCD oversees the requirement for cities to develop Housing Production Strategies that plan for meeting their identified housing needs.
+Under [HB 2003 (2019)](/legislation/2019-regular-session/hb-2003), DLCD oversees the requirement for cities to develop Housing Production Strategies that plan for meeting their identified housing needs.
 
 ### Climate-Friendly and Equitable Communities
 
@@ -69,9 +69,9 @@ HAPO is a division within DLCD focused on accelerating housing production and en
 
 ## Related Legislation
 
-- [HB 2001 (2019)](/legislation/2019/hb-2001) — Middle housing requirements
-- [HB 2003 (2019)](/legislation/2019/hb-2003) — Housing Production Strategies
-- [HB 2258 (2025)](/legislation/2025/hb-2258) — Requires LCDC to adopt rules for expedited housing approvals
+- [HB 2001 (2019)](/legislation/2019-regular-session/hb-2001) — Middle housing requirements
+- [HB 2003 (2019)](/legislation/2019-regular-session/hb-2003) — Housing Production Strategies
+- [HB 2258 (2025)](/legislation/2025-regular-session/hb-2258) — Requires LCDC to adopt rules for expedited housing approvals
 
 ## Sources
 

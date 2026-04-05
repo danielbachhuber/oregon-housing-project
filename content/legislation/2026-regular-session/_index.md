@@ -1,6 +1,6 @@
 +++
-title = 'Housing-Related Legislation in 2026'
-linkTitle = '2026'
+title = 'Housing-Related Legislation in the 2026 Regular Session'
+linkTitle = '2026 Regular Session'
 bookCollapseSection = true
 +++
 

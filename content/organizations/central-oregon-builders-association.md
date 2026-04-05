@@ -21,8 +21,8 @@ COBA advocates at the local and state level on land use policy, building codes, 
 
 ## Key Legislative Involvement
 
-- **[HB 3414](/legislation/2023/hb-3414) (2023)**: Testified on Governor Kotek's housing production bill, which would have required local governments to approve certain adjustments to land use regulations for housing development and established a Housing Accountability and Production Office.[^5]
-- **Construction defect and permitting reform (2025)**: Testified on several bills aimed at reducing barriers to residential construction, including [HB 3746](/legislation/2025/hb-3746) (construction defect statute of limitations), [SB 974](/legislation/2025/sb-974) (permitting timelines), and [SB 967](/legislation/2025/sb-967) (local improvement agreements within UGBs).[^6]
+- **[HB 3414](/legislation/2023-regular-session/hb-3414) (2023)**: Testified on Governor Kotek's housing production bill, which would have required local governments to approve certain adjustments to land use regulations for housing development and established a Housing Accountability and Production Office.[^5]
+- **Construction defect and permitting reform (2025)**: Testified on several bills aimed at reducing barriers to residential construction, including [HB 3746](/legislation/2025-regular-session/hb-3746) (construction defect statute of limitations), [SB 974](/legislation/2025-regular-session/sb-974) (permitting timelines), and [SB 967](/legislation/2025-regular-session/sb-967) (local improvement agreements within UGBs).[^6]
 - **SDC advocacy (local)**: Has challenged SDC increases at the city level, including threatening legal action against Redmond over its revised SDC methodology and advocating for Bend to tailor residential SDCs to stimulate home building.[^3]
 
 [^1]: [About COBA - Our Mission & Team](https://www.coba.org/about-us)

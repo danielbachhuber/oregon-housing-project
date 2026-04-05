@@ -27,17 +27,17 @@ LWVOR's mission is to empower voters and defend democracy through advocacy, educ
 
 ## Key Legislative Involvement
 
-- **[SB 973](/legislation/2025/sb-973) (2025)**: Testified in support of requiring landlords of publicly supported housing to give tenants 30 months' notice before affordability restrictions expire, extending the previous 20-month requirement.[^6]
+- **[SB 973](/legislation/2025-regular-session/sb-973) (2025)**: Testified in support of requiring landlords of publicly supported housing to give tenants 30 months' notice before affordability restrictions expire, extending the previous 20-month requirement.[^6]
 
-- **[HB 3054](/legislation/2025/hb-3054) (2025)**: Testified in support of limiting rent increases for manufactured home park and marina residents to six percent, citing the importance of protecting this source of naturally occurring affordable housing.[^5]
+- **[HB 3054](/legislation/2025-regular-session/hb-3054) (2025)**: Testified in support of limiting rent increases for manufactured home park and marina residents to six percent, citing the importance of protecting this source of naturally occurring affordable housing.[^5]
 
-- **[SB 1530](/legislation/2024/sb-1530) (2024)**: Testified in support of the omnibus housing appropriations bill, which funded programs administered by Oregon Housing and Community Services and other state agencies.[^7]
+- **[SB 1530](/legislation/2024-regular-session/sb-1530) (2024)**: Testified in support of the omnibus housing appropriations bill, which funded programs administered by Oregon Housing and Community Services and other state agencies.[^7]
 
 - **HB 4064 (2022)**: Testified in support of expanding eligibility for siting manufactured homes and prefabricated structures in residential zones, removing local government barriers to manufactured housing.[^8]
 
-- **[SB 391](/legislation/2021/sb-391) (2021)**: Testified in support of authorizing counties to allow accessory dwelling units in rural residential zones, expanding housing options outside urban growth boundaries.[^9]
+- **[SB 391](/legislation/2021-regular-session/sb-391) (2021)**: Testified in support of authorizing counties to allow accessory dwelling units in rural residential zones, expanding housing options outside urban growth boundaries.[^9]
 
-- **[HB 2578](/legislation/2021/hb-2578) (2021)**: Testified in support of phasing out the mortgage interest deduction for non-primary residences and redirecting revenue to an Oregon Housing Opportunity Account.[^10]
+- **[HB 2578](/legislation/2021-regular-session/hb-2578) (2021)**: Testified in support of phasing out the mortgage interest deduction for non-primary residences and redirecting revenue to an Oregon Housing Opportunity Account.[^10]
 
 [^1]: [League of Women Voters of Oregon - About](https://www.lwvor.org)
 
