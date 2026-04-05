@@ -21,6 +21,6 @@ The organization slug is: $ARGUMENTS
    - News coverage of their housing-related activities
    - Official website and publications
 
-5. Write the profile following the template guidelines exactly, then save to `content/organizations/<slug>.md`.
+5. Write the profile following the template guidelines exactly, then save to `content/organizations/<slug>.md`. Follow the template's guidance on `bookHidden` in the front matter.
 
 6. After writing the file, run `pnpm refine-internal-links content/organizations/<slug>.md --write` to add internal links automatically.

@@ -12,10 +12,12 @@ Use TOML front matter with these fields:
 +++
 title = 'Full Name'
 date = 'YYYY-MM-DD'
+bookHidden = false
 +++
 ```
 
-The date should be today's date for new profiles, or the existing date for refinements.
+- `date`: Today's date for new profiles, or the existing date for refinements
+- `bookHidden`: Pages are hidden from the sidebar by default. Add `bookHidden = false` only for the most prominent people — e.g., a Governor, legislative leader, or major voice on either side of Oregon's housing debate. Omit this field (or don't include it) for less prominent figures; they will remain hidden in the sidebar but still accessible via direct links.
 
 ### Document Structure
 

@@ -2,6 +2,7 @@
 title = 'Urban Growth Boundary'
 date = '2026-01-11'
 summary = 'The zoning border around every Oregon city that separates urban from rural land, promoting density while constraining outward expansion.'
+bookHidden = false
 +++
 
 # Urban Growth Boundary

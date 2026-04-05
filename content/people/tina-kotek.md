@@ -1,6 +1,7 @@
 +++
 date = '2026-01-23'
 title = 'Tina Kotek'
+bookHidden = false
 +++
 
 # Tina Kotek

@@ -20,6 +20,6 @@ The person slug is: $ARGUMENTS
    - News coverage of their housing-related actions
    - Official government pages about them
 
-5. Write the profile following the template guidelines exactly, then save to `content/people/<slug>.md`.
+5. Write the profile following the template guidelines exactly, then save to `content/people/<slug>.md`. Follow the template's guidance on `bookHidden` in the front matter.
 
-7. After writing the file, run `pnpm refine-internal-links content/people/<slug>.md --write` to add internal links automatically.
+6. After writing the file, run `pnpm refine-internal-links content/people/<slug>.md --write` to add internal links automatically.

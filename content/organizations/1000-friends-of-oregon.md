@@ -3,6 +3,7 @@ title = '1000 Friends of Oregon'
 date = '2026-03-29'
 external_url = 'https://friends.org'
 testimony_names = ['1000 Friends of Oregon', '1000 Friends', '1000 Friends of Oregon ']
+bookHidden = false
 +++
 
 # 1000 Friends of Oregon

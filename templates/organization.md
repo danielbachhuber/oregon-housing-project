@@ -14,11 +14,13 @@ title = 'Organization Name'
 date = 'YYYY-MM-DD'
 external_url = 'https://example.org'
 testimony_names = ['Variant 1', 'Variant 2']
+bookHidden = false
 +++
 ```
 
 - `title`: The organization's full official name
 - `date`: Today's date for new profiles, or the existing date for refinements
+- `bookHidden`: Pages are hidden from the sidebar by default. Add `bookHidden = false` only for the most prominent organizations — e.g., state agencies, major advocacy coalitions, or leading voices on either side of Oregon's housing debate. Omit this field (or don't include it) for less prominent organizations; they will remain hidden in the sidebar but still accessible via direct links.
 - `external_url`: The organization's primary website
 - `testimony_names`: Array of name variants used in legislative testimony (including common misspellings, abbreviations, and alternate forms found in OLIS testimony records)
 

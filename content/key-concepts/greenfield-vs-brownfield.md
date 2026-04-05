@@ -2,7 +2,6 @@
 title = 'Greenfield vs. Brownfield'
 date = '2026-01-11'
 summary = 'The distinction between building on undeveloped land (greenfield) versus redeveloping previously used sites (brownfield), and how Oregon regulates each.'
-bookHidden = true
 +++
 
 # Greenfield vs. Brownfield
