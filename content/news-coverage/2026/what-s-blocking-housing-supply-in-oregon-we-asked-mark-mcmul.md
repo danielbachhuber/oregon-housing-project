@@ -1,5 +1,5 @@
 +++
-title = 'What''s Blocking Housing Supply in Oregon? We Asked Mark McMullen of the Common Sense Institute.'
+title = "What's Blocking Housing Supply in Oregon? We Asked Mark McMullen of the Common Sense Institute."
 date = '2026-01-16'
 source = 'HFO Multifamily Marketwatch® (formerly HFO-TV)'
 original_url = 'https://www.youtube.com/watch?v=f0BioNiEF_g'
