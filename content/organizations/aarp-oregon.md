@@ -22,13 +22,13 @@ In housing policy, AARP Oregon has been a consistent advocate for expanding hous
 
 ## Key Legislative Involvement
 
-- **[HB 4082](/legislation/2026/hb-4082) (2026)**: Testified in support of expanding Oregon's temporary urban growth boundary addition program to include sites for manufactured dwellings and housing predominantly for older persons affordable at 120% of area median income.[^6]
-- **[SB 1576](/legislation/2026/sb-1576) (2026)**: Testified in support of requiring accessibility standards for state-funded rental housing, aligning the state building code with Fair Housing Act accessibility requirements.[^4]
-- **[SB 1523](/legislation/2026/sb-1523) (2026)**: Testified in support of requiring landlords to provide non-electronic alternatives to tenant portals for submitting applications and making rent payments.[^5]
-- **[HB 2138](/legislation/2025/hb-2138) (2025)**: Testified in support of expanding middle housing allowances and extending middle housing requirements to urban unincorporated lands.[^8]
-- **[SB 973](/legislation/2025/sb-973) (2025)**: Testified in support of extending the notice period landlords must give tenants of publicly supported housing when affordability restrictions are expiring.[^9]
+- **[HB 4082](/legislation/2026-regular-session/hb-4082) (2026)**: Testified in support of expanding Oregon's temporary urban growth boundary addition program to include sites for manufactured dwellings and housing predominantly for older persons affordable at 120% of area median income.[^6]
+- **[SB 1576](/legislation/2026-regular-session/sb-1576) (2026)**: Testified in support of requiring accessibility standards for state-funded rental housing, aligning the state building code with Fair Housing Act accessibility requirements.[^4]
+- **[SB 1523](/legislation/2026-regular-session/sb-1523) (2026)**: Testified in support of requiring landlords to provide non-electronic alternatives to tenant portals for submitting applications and making rent payments.[^5]
+- **[HB 2138](/legislation/2025-regular-session/hb-2138) (2025)**: Testified in support of expanding middle housing allowances and extending middle housing requirements to urban unincorporated lands.[^8]
+- **[SB 973](/legislation/2025-regular-session/sb-973) (2025)**: Testified in support of extending the notice period landlords must give tenants of publicly supported housing when affordability restrictions are expiring.[^9]
 - **SB 1537 (2024)**: Testified in support of creating the Housing Accountability and Production Office and expanding housing production tools, including streamlined urban growth boundary amendments.[^10]
-- **[HB 3309](/legislation/2023/hb-3309) (2023)**: Testified in support of directing Oregon Housing and Community Services to report on accessible dwelling units and increase the quantity of accessible housing.[^4]
+- **[HB 3309](/legislation/2023-regular-session/hb-3309) (2023)**: Testified in support of directing Oregon Housing and Community Services to report on accessible dwelling units and increase the quantity of accessible housing.[^4]
 - **HB 2001 (2019)**: Part of the coalition of more than 25 organizations, led by [1000 Friends of Oregon](/organizations/1000-friends-of-oregon), that supported Oregon's landmark middle housing bill eliminating exclusionary single-family zoning statewide.[^11]
 
 [^1]: [AARP Oregon](https://states.aarp.org/oregon/)

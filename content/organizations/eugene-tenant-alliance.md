@@ -23,11 +23,11 @@ The alliance's membership includes voucher holders, LIHTC tenants, public housin
 
 ## Key Legislative Involvement
 
-- **[HB 3974](/legislation/2025/hb-3974) (2025)**: Testified in support of capping residential applicant screening charges at $20 statewide and requiring landlords to accept third-party screening reports.[^7]
-- **[HB 2967](/legislation/2025/hb-2967) (2025)**: Testified in support of prohibiting residential landlords from charging applicant screening fees entirely.[^3]
-- **[SB 611](/legislation/2023/sb-611) (2023)**: Testified extensively in support of capping annual rent increases. Kevin Cronin submitted multiple rounds of testimony on behalf of the organization, and Amanda Buchanan, Donna Brown, and Gwen Curran also testified in support.[^8]
-- **[SB 799](/legislation/2023/sb-799) (2023)**: Testified in support of extending notice periods for nonpayment-based evictions and postponing eviction proceedings while rental assistance applications are pending.[^9]
-- **[HB 3237](/legislation/2023/hb-3237) (2023)**: Testified in support of allowing local governments to adopt maximum applicant screening charges, reflecting the organization's successful local advocacy in Eugene.[^10]
+- **[HB 3974](/legislation/2025-regular-session/hb-3974) (2025)**: Testified in support of capping residential applicant screening charges at $20 statewide and requiring landlords to accept third-party screening reports.[^7]
+- **[HB 2967](/legislation/2025-regular-session/hb-2967) (2025)**: Testified in support of prohibiting residential landlords from charging applicant screening fees entirely.[^3]
+- **[SB 611](/legislation/2023-regular-session/sb-611) (2023)**: Testified extensively in support of capping annual rent increases. Kevin Cronin submitted multiple rounds of testimony on behalf of the organization, and Amanda Buchanan, Donna Brown, and Gwen Curran also testified in support.[^8]
+- **[SB 799](/legislation/2023-regular-session/sb-799) (2023)**: Testified in support of extending notice periods for nonpayment-based evictions and postponing eviction proceedings while rental assistance applications are pending.[^9]
+- **[HB 3237](/legislation/2023-regular-session/hb-3237) (2023)**: Testified in support of allowing local governments to adopt maximum applicant screening charges, reflecting the organization's successful local advocacy in Eugene.[^10]
 
 [^1]: [What is the Eugene Tenant Alliance?](https://eugenetenantalliance.substack.com/p/coming-soon)
 

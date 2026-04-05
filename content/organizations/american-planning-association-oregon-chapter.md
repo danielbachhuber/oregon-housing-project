@@ -14,13 +14,13 @@ OAPA's mission is to promote the art and science of planning in Oregon in ways t
 ## Policy Positions
 
 - **Land use planning framework**: Supports Oregon's statewide land use planning system and the role of professional planners in implementing it. Generally advocates for maintaining structured planning processes rather than bypassing local planning authority.[^2]
-- **Goal 1 modernization**: Champions updating the statewide land use planning goal on "citizen involvement" (Goal 1) to modernize public engagement in land use decisions. [HB 2950](/legislation/2025/hb-2950) (2025) was developed as OAPA's priority bill on this issue.[^2]
-- **Middle housing**: Supported [HB 2138](/legislation/2025/hb-2138) (2025), which expanded middle housing allowances and extended middle housing requirements to urban unincorporated areas, while opposing earlier measures like [SB 458](/legislation/2021/sb-458) (2021) that allowed land divisions for middle housing without what OAPA considered adequate planning safeguards.[^3][^4]
-- **Housing accessibility**: Supported [SB 1576](/legislation/2026/sb-1576) (2026) and [SB 444](/legislation/2025/sb-444) (2025), which require the state building code to conform to Fair Housing Act accessibility requirements for new housing.[^5]
-- **Planning commission composition**: Opposed [HB 3136](/legislation/2025/hb-3136) (2025), which removed the cap on real estate professionals serving on planning commissions, viewing the existing cap as important for balanced commission membership.[^6]
-- **Housing infrastructure funding**: Supported [HB 3031](/legislation/2025/hb-3031) (2025), establishing a program through the Oregon Infrastructure Finance Authority to finance infrastructure supporting housing development.[^7]
-- **Planner continuing education**: Opposed [SB 462](/legislation/2025/sb-462) (2025), which would have required mandatory continuing education courses for land use planners administered by the Oregon Business Development Department, rather than through the profession's existing credentialing systems.[^8]
-- **UGB expansion processes**: Opposed [HB 4035](/legislation/2026/hb-4035) (2026), which expanded eligibility for cities to amend urban growth boundaries under a temporary program, expressing concern about the streamlined process.[^9]
+- **Goal 1 modernization**: Champions updating the statewide land use planning goal on "citizen involvement" (Goal 1) to modernize public engagement in land use decisions. [HB 2950](/legislation/2025-regular-session/hb-2950) (2025) was developed as OAPA's priority bill on this issue.[^2]
+- **Middle housing**: Supported [HB 2138](/legislation/2025-regular-session/hb-2138) (2025), which expanded middle housing allowances and extended middle housing requirements to urban unincorporated areas, while opposing earlier measures like [SB 458](/legislation/2021-regular-session/sb-458) (2021) that allowed land divisions for middle housing without what OAPA considered adequate planning safeguards.[^3][^4]
+- **Housing accessibility**: Supported [SB 1576](/legislation/2026-regular-session/sb-1576) (2026) and [SB 444](/legislation/2025-regular-session/sb-444) (2025), which require the state building code to conform to Fair Housing Act accessibility requirements for new housing.[^5]
+- **Planning commission composition**: Opposed [HB 3136](/legislation/2025-regular-session/hb-3136) (2025), which removed the cap on real estate professionals serving on planning commissions, viewing the existing cap as important for balanced commission membership.[^6]
+- **Housing infrastructure funding**: Supported [HB 3031](/legislation/2025-regular-session/hb-3031) (2025), establishing a program through the Oregon Infrastructure Finance Authority to finance infrastructure supporting housing development.[^7]
+- **Planner continuing education**: Opposed [SB 462](/legislation/2025-regular-session/sb-462) (2025), which would have required mandatory continuing education courses for land use planners administered by the Oregon Business Development Department, rather than through the profession's existing credentialing systems.[^8]
+- **UGB expansion processes**: Opposed [HB 4035](/legislation/2026-regular-session/hb-4035) (2026), which expanded eligibility for cities to amend urban growth boundaries under a temporary program, expressing concern about the streamlined process.[^9]
 
 ## Key Legislative Involvement
 
@@ -28,12 +28,12 @@ OAPA's mission is to promote the art and science of planning in Oregon in ways t
 - **HB 4037 (2026)**: Testified in opposition to an omnibus housing bill that included provisions limiting building permit plan review and establishing a streamlined local government process for housing land use approvals.[^10]
 - **SB 1576 (2026)**: Testified in support of housing accessibility standards conforming to the Fair Housing Act.[^5]
 - **HB 2138 (2025)**: Testified in support of Governor Kotek's major middle housing expansion bill, which expanded allowable middle housing types and extended requirements to urban unincorporated lands.[^4]
-- **[SB 974](/legislation/2025/sb-974) (2025)**: Testified in opposition to requiring expedited review timelines for residential development engineering plans and limiting local design review authority.[^11]
+- **[SB 974](/legislation/2025-regular-session/sb-974) (2025)**: Testified in opposition to requiring expedited review timelines for residential development engineering plans and limiting local design review authority.[^11]
 - **HB 2950 (2025)**: Testified in support of OAPA's priority bill to modernize the statewide land use planning Goal 1 on citizen involvement.[^2]
 - **HB 3031 (2025)**: Testified in support of establishing the Housing Infrastructure Project Fund through the Oregon Infrastructure Finance Authority.[^7]
 - **SB 1537 (2024)**: Testified on the temporary urban growth boundary adjustment program allowing cities a one-time UGB expansion.[^12]
 - **SB 458 (2021)**: Testified in opposition to allowing land divisions to separate dwelling units for middle housing, raising concerns about implementation without adequate planning guidance.[^3]
-- **[HB 2488](/legislation/2021/hb-2488) (2021)**: Testified in support of DLCD budget and planning program funding.[^13]
+- **[HB 2488](/legislation/2021-regular-session/hb-2488) (2021)**: Testified in support of DLCD budget and planning program funding.[^13]
 
 [^1]: [About - APA Oregon Chapter](https://oregon.planning.org/about/)
 

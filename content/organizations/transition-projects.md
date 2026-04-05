@@ -20,9 +20,9 @@ The organization operates 14 sites across the Portland metro area, employing ove
 
 ## Key Legislative Involvement
 
-- **[HB 3644](/legislation/2025/hb-3644) (2025)**: Testified in opposition to a statewide shelter program, arguing it would create unnecessary bureaucracy and that local jurisdictions should use existing best practices to develop their own plans.[^3]
-- **[HB 2680](/legislation/2023/hb-2680) (2023)**: Testified in support of tenant screening reform through the Rent Well program, advocating for a 14-day landlord response timeline and increased non-compliance fees.[^4]
-- **[HB 2101](/legislation/2021/hb-2101) (2021)**: Testified in support of changing the Rent Guarantee Program's $5,000 coverage limit from per-landlord to per-tenant, a change central to Rent Well's landlord recruitment efforts.[^5]
+- **[HB 3644](/legislation/2025-regular-session/hb-3644) (2025)**: Testified in opposition to a statewide shelter program, arguing it would create unnecessary bureaucracy and that local jurisdictions should use existing best practices to develop their own plans.[^3]
+- **[HB 2680](/legislation/2023-regular-session/hb-2680) (2023)**: Testified in support of tenant screening reform through the Rent Well program, advocating for a 14-day landlord response timeline and increased non-compliance fees.[^4]
+- **[HB 2101](/legislation/2021-regular-session/hb-2101) (2021)**: Testified in support of changing the Rent Guarantee Program's $5,000 coverage limit from per-landlord to per-tenant, a change central to Rent Well's landlord recruitment efforts.[^5]
 
 [^1]: [Our History - Transition Projects](https://www.tprojects.org/our-story/our-history)
 

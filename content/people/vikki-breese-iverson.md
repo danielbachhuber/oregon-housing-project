@@ -20,4 +20,4 @@ Breese Iverson served as House Minority Leader from November 2021 to September 2
 
 ### As State Representative
 
-- **[SB 1566 (2026)](/legislation/2026/sb-1566)**: Co-sponsored legislation to modify Oregon's prevailing wage exemptions for affordable housing projects, aimed at reducing construction costs and accelerating housing development.
+- **[SB 1566 (2026)](/legislation/2026-regular-session/sb-1566)**: Co-sponsored legislation to modify Oregon's prevailing wage exemptions for affordable housing projects, aimed at reducing construction costs and accelerating housing development.

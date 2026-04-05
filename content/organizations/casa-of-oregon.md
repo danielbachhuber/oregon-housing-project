@@ -25,15 +25,15 @@ Through its Manufactured Housing Cooperative Development (MHCDC) program, CASA w
 
 ## Key Legislative Involvement
 
-- **[HB 4036](/legislation/2026/hb-4036) (2026)**: Testified in support of establishing the Housing Opportunity, Longevity and Durability Fund, which uses Article XI-Q bonds to preserve affordable housing at risk of loss.[^13]
-- **[SB 1566](/legislation/2026/sb-1566) (2026)**: Testified in support of exempting affordable housing projects from prevailing wage requirements to reduce construction costs.[^11]
+- **[HB 4036](/legislation/2026-regular-session/hb-4036) (2026)**: Testified in support of establishing the Housing Opportunity, Longevity and Durability Fund, which uses Article XI-Q bonds to preserve affordable housing at risk of loss.[^13]
+- **[SB 1566](/legislation/2026-regular-session/sb-1566) (2026)**: Testified in support of exempting affordable housing projects from prevailing wage requirements to reduce construction costs.[^11]
 - **HB 4123 (2026)**: Testified in support of limiting circumstances under which landlords may disclose confidential tenant information.[^10]
-- **[HB 4082](/legislation/2026/hb-4082) (2026)**: Testified in support of allowing cities to add sites to their urban growth boundaries for manufactured dwelling parks and housing for older persons.[^14]
-- **[SB 51](/legislation/2025/sb-51) (2025)**: Testified in support of requiring OHCS to fund affordable housing property management and establish a program to coordinate preservation of affordable housing, including manufactured dwelling parks.[^15]
-- **[HB 3144](/legislation/2025/hb-3144) (2025)**: Testified in support of prohibiting bans on manufactured dwellings in planned communities and extending OHCS dispute resolution grants for manufactured and marina communities.[^8]
+- **[HB 4082](/legislation/2026-regular-session/hb-4082) (2026)**: Testified in support of allowing cities to add sites to their urban growth boundaries for manufactured dwelling parks and housing for older persons.[^14]
+- **[SB 51](/legislation/2025-regular-session/sb-51) (2025)**: Testified in support of requiring OHCS to fund affordable housing property management and establish a program to coordinate preservation of affordable housing, including manufactured dwelling parks.[^15]
+- **[HB 3144](/legislation/2025-regular-session/hb-3144) (2025)**: Testified in support of prohibiting bans on manufactured dwellings in planned communities and extending OHCS dispute resolution grants for manufactured and marina communities.[^8]
 - **HB 2096 (2021)**: Testified in support of increasing agriculture workforce housing tax credits issued by OHCS, a priority area given CASA's focus on farmworker housing.[^7]
-- **[HB 2551](/legislation/2021/hb-2551) (2021)**: Testified in support of extending and modifying tax credits for donations to individual development accounts, a core program administered by CASA.[^9]
-- **[HB 3368](/legislation/2021/hb-3368) (2021)**: Testified in support of establishing a shared-equity homeownership pilot program within OHCS.[^12]
+- **[HB 2551](/legislation/2021-regular-session/hb-2551) (2021)**: Testified in support of extending and modifying tax credits for donations to individual development accounts, a core program administered by CASA.[^9]
+- **[HB 3368](/legislation/2021-regular-session/hb-3368) (2021)**: Testified in support of establishing a shared-equity homeownership pilot program within OHCS.[^12]
 
 [^1]: [About CASA of Oregon](https://casaoforegon.org/about/)
 

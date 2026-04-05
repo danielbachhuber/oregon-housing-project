@@ -13,7 +13,7 @@ Oregon measures "produced" housing units as **units that have received a tempora
 
 ### Reporting Requirements
 
-Under [HB 2001](/legislation/2023/hb-2001) (2023), Oregon cities with populations of 10,000 or more must:[^2]
+Under [HB 2001](/legislation/2023-regular-session/hb-2001) (2023), Oregon cities with populations of 10,000 or more must:[^2]
 
 - Submit annual housing production reports to the Department of Land Conservation and Development (DLCD)
 - Report both units permitted (building permits issued) and units produced (certificate of occupancy issued)
@@ -26,7 +26,7 @@ The state publishes a Housing Production Dashboard (first published January 1, 2
 
 In 2024, Oregon authorized **14,621 new housing units**.[^4]
 
-This falls significantly short of the state's goals established by [Executive Order 23-04](/legislation/2023/eo-23-04):
+This falls significantly short of the state's goals established by [Executive Order 23-04](/legislation/2023-regular-session/eo-23-04):
 
 - Original EO 23-04 goal: 36,000 units per year
 - Current revised goal based on Oregon Housing Needs Analysis: 29,522 units per year

@@ -24,15 +24,15 @@ Housing Oregon strengthens the affordable housing sector through education, reso
 
 ## Key Legislative Involvement
 
-- **[HB 4136](/legislation/2026/hb-4136) (2026)**: Testified in support of redirecting mortgage interest tax deductions from second homes to fund down payment assistance for first-time homebuyers.
-- **[SB 1576](/legislation/2026/sb-1576) (2026)**: Testified in support of requiring state building code conformity with Fair Housing Act accessibility standards and prohibiting OHCS funding for new subsidized rental housing that does not meet accessibility requirements.
-- **[HB 2138](/legislation/2025/hb-2138) (2025)**: Testified in support of expanding middle housing allowances and extending middle housing requirements to urban unincorporated lands.
+- **[HB 4136](/legislation/2026-regular-session/hb-4136) (2026)**: Testified in support of redirecting mortgage interest tax deductions from second homes to fund down payment assistance for first-time homebuyers.
+- **[SB 1576](/legislation/2026-regular-session/sb-1576) (2026)**: Testified in support of requiring state building code conformity with Fair Housing Act accessibility standards and prohibiting OHCS funding for new subsidized rental housing that does not meet accessibility requirements.
+- **[HB 2138](/legislation/2025-regular-session/hb-2138) (2025)**: Testified in support of expanding middle housing allowances and extending middle housing requirements to urban unincorporated lands.
 - **SB 599 (2025)**: Testified in support of prohibiting landlords from discriminating based on immigration or citizenship status.
-- **[HB 3521](/legislation/2025/hb-3521) (2025)**: Testified in support of requiring landlords to pay damages for breaching hold deposit agreements with prospective tenants.
+- **[HB 3521](/legislation/2025-regular-session/hb-3521) (2025)**: Testified in support of requiring landlords to pay damages for breaching hold deposit agreements with prospective tenants.
 - **HB 2001 (2023)**: Testified in support of the omnibus housing bill that established the Oregon Housing Needs Analysis, expanded renter protections, and appropriated funding for housing programs across multiple state agencies.
-- **[SB 611](/legislation/2023/sb-611) (2023)**: Testified in support of capping annual rent increases for residential tenancies.
-- **[SB 5511](/legislation/2023/sb-5511) (2023)**: Testified in support of the OHCS biennial budget appropriation, advocating for robust state investment in affordable housing programs.
-- **[HB 2889](/legislation/2023/hb-2889) (2023)**: Testified in support of amendments to the Oregon Housing Needs Analysis and land use requirements related to urbanization.
+- **[SB 611](/legislation/2023-regular-session/sb-611) (2023)**: Testified in support of capping annual rent increases for residential tenancies.
+- **[SB 5511](/legislation/2023-regular-session/sb-5511) (2023)**: Testified in support of the OHCS biennial budget appropriation, advocating for robust state investment in affordable housing programs.
+- **[HB 2889](/legislation/2023-regular-session/hb-2889) (2023)**: Testified in support of amendments to the Oregon Housing Needs Analysis and land use requirements related to urbanization.
 
 [^1]: [Who We Are - Housing Oregon](https://housingoregon.org/who-we-are/)
 

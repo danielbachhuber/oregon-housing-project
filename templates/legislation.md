@@ -22,7 +22,7 @@ date = 'YYYY-MM-DD'
 [Optional: Description of the legislation's expected or actual impact on housing in Oregon. Include internal links to affected [cities](/cities/city-name) as relevant]
 
 ## Related Legislation
-[Optional: Links to related bills or policies using internal link format: [HB 2001](/legislation/2019/hb-2001)]
+[Optional: Links to related bills or policies using internal link format: [HB 2001 (2019)](/legislation/2019-regular-session/hb-2001)]
 
 ## Additional Resources
 [Optional: Links to analyses, news coverage, or other relevant documents. For key documents, download to files/ directory and link locally]

@@ -22,13 +22,13 @@ DevNW builds and manages over 400 units of affordable rental housing across Lane
 
 ## Key Legislative Involvement
 
-- **[HB 2258](/legislation/2025/hb-2258) (2025)**: Testified in support of preapproved residential building plans to streamline housing production.[^11]
-- **[HB 2698](/legislation/2025/hb-2698) (2025)**: Testified in support of establishing a statewide homeownership goal, with multiple rounds of testimony advocating for the policy.[^12]
-- **[HB 3236](/legislation/2025/hb-3236) (2025)**: Testified in support of expanding tax credits for affordable housing lending on multiple occasions throughout the session.[^10]
+- **[HB 2258](/legislation/2025-regular-session/hb-2258) (2025)**: Testified in support of preapproved residential building plans to streamline housing production.[^11]
+- **[HB 2698](/legislation/2025-regular-session/hb-2698) (2025)**: Testified in support of establishing a statewide homeownership goal, with multiple rounds of testimony advocating for the policy.[^12]
+- **[HB 3236](/legislation/2025-regular-session/hb-3236) (2025)**: Testified in support of expanding tax credits for affordable housing lending on multiple occasions throughout the session.[^10]
 - **HB 3090 (2025)**: Testified in support of directing OHCS to amend its homeownership development incubator program.[^7]
-- **[HB 3414](/legislation/2023/hb-3414) (2023)**: Testified in support of Governor Kotek's housing production bill to streamline local implementation of housing laws and establish the Housing Accountability and Production Office.[^13]
-- **[SB 458](/legislation/2021/sb-458) (2021)**: Testified in support of allowing land division to separate dwelling units for middle housing in Oregon cities.[^8]
-- **[HB 2009](/legislation/2021/hb-2009) (2021)**: Testified multiple times in support of COVID-19 pandemic foreclosure protections for Oregon homeowners and renters.[^9]
+- **[HB 3414](/legislation/2023-regular-session/hb-3414) (2023)**: Testified in support of Governor Kotek's housing production bill to streamline local implementation of housing laws and establish the Housing Accountability and Production Office.[^13]
+- **[SB 458](/legislation/2021-regular-session/sb-458) (2021)**: Testified in support of allowing land division to separate dwelling units for middle housing in Oregon cities.[^8]
+- **[HB 2009](/legislation/2021-regular-session/hb-2009) (2021)**: Testified multiple times in support of COVID-19 pandemic foreclosure protections for Oregon homeowners and renters.[^9]
 
 [^1]: [Merging for Greater Impact: the WNHS/NEDCO Story](https://www.devnw.org/blog/merging-for-greater-impact-the-wnhs-nedco-story/)
 

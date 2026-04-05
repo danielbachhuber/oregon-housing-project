@@ -22,15 +22,15 @@ EMO engages in Oregon housing policy through both direct service programs and st
 
 ## Key Legislative Involvement
 
-- **[HB 4136](/legislation/2026/hb-4136) (2026)**: Testified neutral on a bill to disallow mortgage interest deductions for second homes and redirect revenue to down payment assistance.
-- **[HB 3079](/legislation/2025/hb-3079) (2025)**: Supported legislation requiring the Department of Human Services to update its cost estimates for implementing youth homelessness programs and to study options for reducing youth aging into adult homelessness.
-- **[HB 2967](/legislation/2025/hb-2967) (2025)**: Supported a bill to prohibit residential landlords from charging applicant screening fees.
-- **[HB 4079](/legislation/2024/hb-4079) (2024)**: Supported a bill to provide additional State School Fund weight for students experiencing homelessness.
+- **[HB 4136](/legislation/2026-regular-session/hb-4136) (2026)**: Testified neutral on a bill to disallow mortgage interest deductions for second homes and redirect revenue to down payment assistance.
+- **[HB 3079](/legislation/2025-regular-session/hb-3079) (2025)**: Supported legislation requiring the Department of Human Services to update its cost estimates for implementing youth homelessness programs and to study options for reducing youth aging into adult homelessness.
+- **[HB 2967](/legislation/2025-regular-session/hb-2967) (2025)**: Supported a bill to prohibit residential landlords from charging applicant screening fees.
+- **[HB 4079](/legislation/2024-regular-session/hb-4079) (2024)**: Supported a bill to provide additional State School Fund weight for students experiencing homelessness.
 - **HB 2001 (2023)**: Testified multiple times in support of the comprehensive housing production bill, which established the Oregon Housing Needs Analysis, created housing production dashboards, and made youth homelessness programs permanent.
 - **HB 2456 (2023)**: Supported legislation to expand eligibility for youth homelessness services and make the host home project program permanent.
-- **[SB 611](/legislation/2023/sb-611) (2023)**: Supported capping annual rent increases for residential tenancies.
-- **[HB 4013](/legislation/2022/hb-4013) (2022)**: Supported expanding eligibility for foster care benefits to unaccompanied homeless youth, a bill EMO helped advocate for through its public policy work.[^10]
-- **[HB 2006](/legislation/2021/hb-2006) (2021)**: Supported emergency shelter siting reform, which required local governments to allow qualifying emergency shelters notwithstanding land use regulations.
+- **[SB 611](/legislation/2023-regular-session/sb-611) (2023)**: Supported capping annual rent increases for residential tenancies.
+- **[HB 4013](/legislation/2022-regular-session/hb-4013) (2022)**: Supported expanding eligibility for foster care benefits to unaccompanied homeless youth, a bill EMO helped advocate for through its public policy work.[^10]
+- **[HB 2006](/legislation/2021-regular-session/hb-2006) (2021)**: Supported emergency shelter siting reform, which required local governments to allow qualifying emergency shelters notwithstanding land use regulations.
 
 [^1]: [Ecumenical Ministries Celebrate 30th Anniversary](https://www.gospelherald.com/news/ecumenical-ministries-celebrate-30th-anniversary)
 

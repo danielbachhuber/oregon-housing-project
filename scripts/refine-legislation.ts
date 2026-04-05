@@ -5,6 +5,16 @@ import axios from 'axios';
 const BASE_URL = 'https://api.oregonlegislature.gov/odata/odataservice.svc';
 const LEGISLATION_DIR = path.join(process.cwd(), 'content/legislation');
 
+function sessionCodeToDir(sessionCode: string): string {
+  const match = sessionCode.match(/^(\d{4})(R|S)(\d+)$/);
+  if (!match) return sessionCode;
+  const [, year, type, num] = match;
+  if (type === 'R') return `${year}-regular-session`;
+  const ordinals = ['first', 'second', 'third', 'fourth', 'fifth'];
+  const ordinal = ordinals[parseInt(num) - 1] || num;
+  return `${year}-${ordinal}-special-session`;
+}
+
 const HEADERS = {
   'Accept': 'application/json',
   'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'
@@ -175,8 +185,8 @@ async function fetchJSON<T>(url: string): Promise<T[]> {
   return response.data.value;
 }
 
-async function loadOrFetchLegislators(sessionCode: string, year: string): Promise<Map<string, ODataLegislator>> {
-  const dataDir = path.join(LEGISLATION_DIR, year, 'data');
+async function loadOrFetchLegislators(sessionCode: string): Promise<Map<string, ODataLegislator>> {
+  const dataDir = path.join(LEGISLATION_DIR, sessionCodeToDir(sessionCode), 'data');
   const cachePath = path.join(dataDir, `legislators-${sessionCode}.json`);
 
   if (fs.existsSync(cachePath)) {
@@ -462,17 +472,22 @@ async function main() {
   const positionalArgs = args.filter(arg => !arg.startsWith('--'));
   const yearArg = args.find(arg => arg.startsWith('--year='));
 
+  const sessionArg = args.find(arg => arg.startsWith('--session='));
+
   if (positionalArgs.length === 0) {
-    console.error('Usage: pnpm refine-legislation <bill-identifier> [--year=YYYY]');
+    console.error('Usage: pnpm refine-legislation <bill-identifier> [--year=YYYY] [--session=R1]');
     console.error('Examples:');
     console.error('  pnpm refine-legislation hb-4035');
     console.error('  pnpm refine-legislation hb-4035 --year=2025');
+    console.error('  pnpm refine-legislation hb-4035 --year=2020 --session=S1');
     process.exit(1);
   }
 
   const billIdentifier = positionalArgs[0].toLowerCase();
   const year = yearArg ? yearArg.split('=')[1] : '2026';
-  const sessionCode = `${year}R1`;
+  const session = sessionArg ? sessionArg.split('=')[1] : 'R1';
+  const sessionCode = `${year}${session}`;
+  const sessionDir = sessionCodeToDir(sessionCode);
 
   // Parse bill identifier: "hb-4035" -> prefix "HB", number 4035
   const billMatch = billIdentifier.match(/^([a-z]+)-(\d+)$/);
@@ -489,7 +504,7 @@ async function main() {
   console.log(`Refining ${billNumber} for session ${sessionCode}...`);
 
   // Check that the .md file exists
-  const mdFilepath = path.join(LEGISLATION_DIR, year, `${billIdentifier}.md`);
+  const mdFilepath = path.join(LEGISLATION_DIR, sessionDir, `${billIdentifier}.md`);
   if (!fs.existsSync(mdFilepath)) {
     console.error(`Bill file not found: ${mdFilepath}`);
     process.exit(1);
@@ -505,7 +520,7 @@ async function main() {
     fetchJSON<ODataHistoryAction>(`${BASE_URL}/MeasureHistoryActions?$format=json&$filter=${encodedFilter}`),
     fetchJSON<ODataDocument>(`${BASE_URL}/MeasureDocuments?$format=json&$filter=${encodedFilter}`),
     fetchAllTestimony(filter),
-    loadOrFetchLegislators(sessionCode, year)
+    loadOrFetchLegislators(sessionCode)
   ]);
 
   if (measures.length === 0) {
@@ -521,7 +536,7 @@ async function main() {
   console.log(`  Testimony: ${testimonyRecords.length} records`);
 
   // Store full combined JSON blob
-  const dataDir = path.join(LEGISLATION_DIR, year, 'data');
+  const dataDir = path.join(LEGISLATION_DIR, sessionDir, 'data');
   if (!fs.existsSync(dataDir)) {
     fs.mkdirSync(dataDir, { recursive: true });
   }
@@ -545,7 +560,7 @@ async function main() {
   // Download testimony PDFs
   const testimony: TestimonyInfo[] = [];
   if (testimonyRecords.length > 0) {
-    const filesDir = path.join(LEGISLATION_DIR, year, 'files', billIdentifier);
+    const filesDir = path.join(LEGISLATION_DIR, sessionDir, 'files', billIdentifier);
     if (!fs.existsSync(filesDir)) {
       fs.mkdirSync(filesDir, { recursive: true });
     }

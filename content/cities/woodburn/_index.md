@@ -29,7 +29,7 @@ In April 2025, Woodburn home prices were up 9.3% compared to the prior year, sel
 
 ## Zoning and Land Use
 
-Woodburn updated its Woodburn Development Ordinance (WDO) to comply with [HB 2001 (2019)](/legislation/2019/hb-2001), which requires larger Oregon cities to allow middle housing in residential zones. The 2019 legislature passed House Bill 2001 into law requiring cities to allow "middle housing" in residential zones that already allow houses. For Woodburn, this means all residential zones.[^13] HB 2001 requires Woodburn to permit duplexes, triplexes, and quadplexes by right within residential zoning districts that allow detached single-family dwellings.[^13]
+Woodburn updated its Woodburn Development Ordinance (WDO) to comply with [HB 2001 (2019)](/legislation/2019-regular-session/hb-2001), which requires larger Oregon cities to allow middle housing in residential zones. The 2019 legislature passed House Bill 2001 into law requiring cities to allow "middle housing" in residential zones that already allow houses. For Woodburn, this means all residential zones.[^13] HB 2001 requires Woodburn to permit duplexes, triplexes, and quadplexes by right within residential zoning districts that allow detached single-family dwellings.[^13]
 
 Per HB 2001 Section 2, the deadline for conformance was June 30, 2022, with the city's target enabling ordinance adoption date of Monday, June 27, 2022.[^13] Following City Council direction on March 9, 2020, city staff applied for and won grant funds to prepare a draft legislative amendment to the WDO.[^13] The city adopted middle housing code amendments through Ordinance No. 2602 (LA 21-01) and related ordinances.[^13]
 
@@ -91,7 +91,7 @@ Woodburn faces several significant housing challenges:
 
 **Buildable Land Inventory**: The City Council adopted a new Buildable Land Inventory and Economic Opportunities Analysis in January 2024 via LA-23-02/Ordinance 2619.[^14]
 
-**Middle Housing Ordinances**: The city adopted Ordinance No. 2602 (LA 21-01) and Ordinance No. 2603 (LA 21-02) to bring the Woodburn Development Ordinance into compliance with [HB 2001 (2019)](/legislation/2019/hb-2001) middle housing requirements.[^13]
+**Middle Housing Ordinances**: The city adopted Ordinance No. 2602 (LA 21-01) and Ordinance No. 2603 (LA 21-02) to bring the Woodburn Development Ordinance into compliance with [HB 2001 (2019)](/legislation/2019-regular-session/hb-2001) middle housing requirements.[^13]
 
 **Community Resources**: The city connects residents with housing resources including Mid-Willamette Valley Community Action (overnight shelter), Farmworker Housing Development Corporation (farmworker housing assistance), and the ARCHES Project (financial help with rent and housing).[^11]
 

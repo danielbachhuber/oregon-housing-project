@@ -4,11 +4,6 @@ on:
   schedule:
     - cron: '0 15 * * *'  # 7:00 AM PST
   workflow_dispatch:
-    inputs:
-      year:
-        description: 'Legislation year (defaults to current year)'
-        required: false
-        type: string
 
 permissions:
   contents: write
@@ -38,65 +33,75 @@ jobs:
       - name: Install dependencies
         run: pnpm install
 
-      - name: Determine year
-        id: year
+      - name: Discover active sessions
+        id: sessions
         run: |
-          if [ -n "${{ inputs.year }}" ]; then
-            echo "value=${{ inputs.year }}" >> "$GITHUB_OUTPUT"
-          else
-            echo "value=$(date +%Y)" >> "$GITHUB_OUTPUT"
-          fi
+          SESSIONS=$(pnpm discover-sessions)
+          echo "Active sessions:"
+          echo "$SESSIONS"
+          echo "sessions<<EOF" >> "$GITHUB_OUTPUT"
+          echo "$SESSIONS" >> "$GITHUB_OUTPUT"
+          echo "EOF" >> "$GITHUB_OUTPUT"
 
       - name: Restore classification cache
         uses: actions/cache@v4
         with:
           path: .cache/
-          key: legislation-cache-${{ steps.year.outputs.value }}-${{ github.run_id }}
+          key: legislation-cache-${{ github.run_id }}
           restore-keys: |
-            legislation-cache-${{ steps.year.outputs.value }}-
+            legislation-cache-
 
-      - name: Fetch legislation
+      - name: Fetch and refine legislation
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: pnpm fetch-legislation ${{ steps.year.outputs.value }}
+        run: |
+          echo "${{ steps.sessions.outputs.sessions }}" | while read -r YEAR SESSION; do
+            [ -z "$YEAR" ] && continue
+
+            echo ""
+            echo "=========================================="
+            echo "Fetching ${YEAR} --session=${SESSION}"
+            echo "=========================================="
+            pnpm fetch-legislation "$YEAR" --session="$SESSION"
+
+            # Determine session directory name
+            case "$SESSION" in
+              R1) SESSION_DIR="${YEAR}-regular-session" ;;
+              S1) SESSION_DIR="${YEAR}-first-special-session" ;;
+              S2) SESSION_DIR="${YEAR}-second-special-session" ;;
+              S3) SESSION_DIR="${YEAR}-third-special-session" ;;
+              *) echo "Unknown session type: $SESSION"; continue ;;
+            esac
+
+            BILL_DIR="content/legislation/${SESSION_DIR}"
+            if [ ! -d "$BILL_DIR" ]; then
+              echo "No directory found: $BILL_DIR"
+              continue
+            fi
+
+            echo "Refining bills in ${BILL_DIR}..."
+            for file in "${BILL_DIR}"/*.md; do
+              BASENAME=$(basename "$file" .md)
+              [ "$BASENAME" = "_index" ] && continue
+
+              echo "  Refining ${BASENAME}..."
+              pnpm refine-legislation "$BASENAME" --year="$YEAR" --session="$SESSION" || echo "  Warning: failed to refine ${BASENAME}"
+
+              # Respect API rate limits
+              sleep 2
+            done
+          done
 
       - name: Save classification cache
         uses: actions/cache/save@v4
         with:
           path: .cache/
-          key: legislation-cache-${{ steps.year.outputs.value }}-${{ github.run_id }}
-
-      - name: Refine all bills
-        run: |
-          YEAR="${{ steps.year.outputs.value }}"
-          BILL_DIR="content/legislation/${YEAR}"
-
-          if [ ! -d "$BILL_DIR" ]; then
-            echo "No legislation directory found for ${YEAR}"
-            exit 0
-          fi
-
-          for file in "${BILL_DIR}"/*.md; do
-            BASENAME=$(basename "$file" .md)
-
-            # Skip _index.md
-            if [ "$BASENAME" = "_index" ]; then
-              continue
-            fi
-
-            echo "Refining ${BASENAME}..."
-            pnpm refine-legislation "$BASENAME" --year="$YEAR" || echo "Warning: failed to refine ${BASENAME}"
-
-            # Respect API rate limits
-            sleep 2
-          done
+          key: legislation-cache-${{ github.run_id }}
 
       - name: Create or update PR
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          YEAR="${{ steps.year.outputs.value }}"
-
           # Check for changes in legislation or people content
           if [ -z "$(git status --porcelain content/legislation/ content/people/)" ]; then
             echo "No changes detected."
@@ -117,14 +122,14 @@ jobs:
           done
 
           # Create branch and PR
-          BRANCH_NAME="auto/update-legislation-${YEAR}-$(date +%Y-%m-%d)-${{ github.run_number }}"
+          BRANCH_NAME="auto/update-legislation-$(date +%Y-%m-%d)-${{ github.run_number }}"
           git checkout -b "$BRANCH_NAME"
           git add content/legislation/ content/people/
-          git commit -m "Update legislation data for ${YEAR}"
+          git commit -m "Update legislation data"
           git push -u origin "$BRANCH_NAME"
 
           gh pr create \
-            --title "Update legislation data for ${YEAR}" \
+            --title "Update legislation data" \
             --body "Automated daily legislation update. Fetches latest bill data and refines all bills with sponsors, history, documents, and testimony." \
             --base main \
             --head "$BRANCH_NAME" \

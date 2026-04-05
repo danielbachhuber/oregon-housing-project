@@ -30,7 +30,7 @@ author = '[Author Name]'
 - Keep the summary to one paragraph (3-5 sentences maximum)
 - Focus on actionable information and policy implications
 - Always include internal links when referencing:
-  - Legislation: `[SB 1566](/legislation/2026/sb-1566)`
+  - Legislation: `[SB 1566 (2026)](/legislation/2026-regular-session/sb-1566)`
   - People: `[Tina Kotek](/people/tina-kotek)`
   - Cities: `[Tualatin](/cities/tualatin)`
   - Concepts: `[Key Concepts](/key-concepts)` with anchor links as needed

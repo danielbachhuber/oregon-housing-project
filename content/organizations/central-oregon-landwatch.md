@@ -22,12 +22,12 @@ COLW operates across four major program areas: Rivers and Springs, Farms and For
 
 ## Key Legislative Involvement
 
-- **[HB 4113](/legislation/2026/hb-4113) (2026)**: Testified jointly with [1000 Friends of Oregon](/organizations/1000-friends-of-oregon) in support of a study on housing development opportunities conditioned upon land conservation, reflecting the organization's interest in linking housing production with conservation goals.[^8]
-- **[SB 1578](/legislation/2026/sb-1578) (2026)**: Opposed this bill allowing rural counties to rezone land for residential development, consistent with COLW's position against development outside urban growth boundaries.[^9]
-- **[SB 1551](/legislation/2026/sb-1551) (2026)**: Supported legislation invalidating deed restrictions that prevent homeowners from installing fire-hardened building materials on residential properties.[^7]
-- **[SB 70](/legislation/2023/sb-70) (2023)**: Opposed modifications to residential rezoning requirements in the Eastern Oregon Border Economic Development Region, testifying twice against the bill.[^10]
-- **[SB 458](/legislation/2021/sb-458) (2021)**: Supported this bill allowing land divisions to separate dwelling units for middle housing, complementing HB 2001's middle housing reforms.[^11]
-- **[HB 3318](/legislation/2021/hb-3318) (2021)**: Opposed a bill requiring DLCD to approve Bend's urban growth boundary expansion to include specified lands, reflecting COLW's longstanding skepticism of Bend UGB expansions.[^12]
+- **[HB 4113](/legislation/2026-regular-session/hb-4113) (2026)**: Testified jointly with [1000 Friends of Oregon](/organizations/1000-friends-of-oregon) in support of a study on housing development opportunities conditioned upon land conservation, reflecting the organization's interest in linking housing production with conservation goals.[^8]
+- **[SB 1578](/legislation/2026-regular-session/sb-1578) (2026)**: Opposed this bill allowing rural counties to rezone land for residential development, consistent with COLW's position against development outside urban growth boundaries.[^9]
+- **[SB 1551](/legislation/2026-regular-session/sb-1551) (2026)**: Supported legislation invalidating deed restrictions that prevent homeowners from installing fire-hardened building materials on residential properties.[^7]
+- **[SB 70](/legislation/2023-regular-session/sb-70) (2023)**: Opposed modifications to residential rezoning requirements in the Eastern Oregon Border Economic Development Region, testifying twice against the bill.[^10]
+- **[SB 458](/legislation/2021-regular-session/sb-458) (2021)**: Supported this bill allowing land divisions to separate dwelling units for middle housing, complementing HB 2001's middle housing reforms.[^11]
+- **[HB 3318](/legislation/2021-regular-session/hb-3318) (2021)**: Opposed a bill requiring DLCD to approve Bend's urban growth boundary expansion to include specified lands, reflecting COLW's longstanding skepticism of Bend UGB expansions.[^12]
 - **HB 2001 (2019)**: Supported Oregon's landmark middle housing legislation and participated in Bend's HB 2001 Stakeholder Advisory Group to help shape local implementation of the bill's zoning reforms.[^6]
 
 [^1]: [History - Central Oregon LandWatch](https://www.centraloregonlandwatch.org/history)

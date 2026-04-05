@@ -23,7 +23,7 @@ Mildner holds a B.A. in Public Affairs from the University of Chicago and a Ph.D
 
 - **Portland Inclusionary Zoning Critique**: Argued before the Oregon Senate Finance Committee that Portland's inclusionary zoning program functions as a 4.3% tax on housing development, driving up per-unit costs from $275,000 for standard projects to $450,000 for affordable housing projects. Urged the legislature to "clip the wings of the city of Portland" on inclusionary zoning policy.[^7]
 
-- **Opposition to Statewide Rent Control**: Publicly opposed [SB 608](/legislation/2019/sb-608) and other rent control measures, arguing that capping rent increases dampens future investment in housing, inflates rents for unregulated units, and discourages mobility among tenants in rent-controlled units.[^8][^9]
+- **Opposition to Statewide Rent Control**: Publicly opposed [SB 608](/legislation/2019-regular-session/sb-608) and other rent control measures, arguing that capping rent increases dampens future investment in housing, inflates rents for unregulated units, and discourages mobility among tenants in rent-controlled units.[^8][^9]
 
 - **PSU Center for Real Estate Quarterly**: Authored numerous articles analyzing Portland-area housing market trends, including studies on the collapse of suburban housing production, the impact of urban growth boundary decisions on housing costs, and regulatory barriers to new construction.[^2]
 

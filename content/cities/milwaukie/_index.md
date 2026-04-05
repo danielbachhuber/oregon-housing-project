@@ -22,7 +22,7 @@ Milwaukie's housing consists of 9,876 units, with 67.7% being detached single-fa
 
 ## Zoning and Land Use
 
-Creating and supporting housing opportunities, primarily middle housing options in all neighborhoods, has been a key goal for Council and the community. The adopted Comprehensive Plan policies call for expanded housing opportunities throughout the city and Oregon [House Bill 2001 (HB 2001)](/legislation/2019/hb-2001), passed by the state legislature in July 2019, required cities to allow for the development of middle housing throughout residential areas.[^7]
+Creating and supporting housing opportunities, primarily middle housing options in all neighborhoods, has been a key goal for Council and the community. The adopted Comprehensive Plan policies call for expanded housing opportunities throughout the city and Oregon [House Bill 2001 (HB 2001)](/legislation/2019-regular-session/hb-2001), passed by the state legislature in July 2019, required cities to allow for the development of middle housing throughout residential areas.[^7]
 
 When City Council updated the code in 2022 to comply with House Bill 2001, they chose to allow attached and detached plexes.[^8] The new code applies to all residential zones and became effective on June 3, 2022.[^9] Middle housing types permitted include duplexes, triplexes, quadplexes, townhomes and cottage clusters.[^9]
 

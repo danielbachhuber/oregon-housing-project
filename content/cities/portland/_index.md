@@ -20,7 +20,7 @@ Detailed housing statistics are being compiled.
 
 ## Zoning and Land Use
 
-Portland has been at the forefront of implementing state housing reforms, including [HB 2001 (2019)](/legislation/2019/hb-2001), which requires cities to allow middle housing types in residential zones.
+Portland has been at the forefront of implementing state housing reforms, including [HB 2001 (2019)](/legislation/2019-regular-session/hb-2001), which requires cities to allow middle housing types in residential zones.
 
 ## Recent Housing Developments
 

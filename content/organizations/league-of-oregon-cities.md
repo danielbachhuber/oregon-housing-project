@@ -28,19 +28,19 @@ The LOC provides legislative advocacy, policy consultation, training, and techni
 
 ## Key Legislative Involvement
 
-- **[HB 2258](/legislation/2025/hb-2258) (2025)**: Testified in opposition to preapproved building plans legislation, which would authorize LCDC to adopt rules requiring local governments to approve certain residential developments using state-preapproved building plans.[^9]
+- **[HB 2258](/legislation/2025-regular-session/hb-2258) (2025)**: Testified in opposition to preapproved building plans legislation, which would authorize LCDC to adopt rules requiring local governments to approve certain residential developments using state-preapproved building plans.[^9]
 
-- **[HB 3031](/legislation/2025/hb-3031) (2025)**: Testified in support of the Housing Infrastructure program to fund water, sewer, and transportation infrastructure linked to new housing development, backing the governor's recommended $100 million funding level.[^5]
+- **[HB 3031](/legislation/2025-regular-session/hb-3031) (2025)**: Testified in support of the Housing Infrastructure program to fund water, sewer, and transportation infrastructure linked to new housing development, backing the governor's recommended $100 million funding level.[^5]
 
-- **[SB 49](/legislation/2025/sb-49) (2025)**: Testified with a neutral position on comprehensive housing omnibus legislation.[^10]
+- **[SB 49](/legislation/2025-regular-session/sb-49) (2025)**: Testified with a neutral position on comprehensive housing omnibus legislation.[^10]
 
-- **[HB 4026](/legislation/2024/hb-4026) (2024)**: Testified in support of limiting the review process for local government proposals to modify urban growth boundaries to the process outlined in statute.[^11]
+- **[HB 4026](/legislation/2024-regular-session/hb-4026) (2024)**: Testified in support of limiting the review process for local government proposals to modify urban growth boundaries to the process outlined in statute.[^11]
 
-- **[HB 3414](/legislation/2023/hb-3414) (2023)**: Opposed Governor Kotek's omnibus housing production bill, arguing it removed important local tools, added bureaucratic layers, and contradicted adopted state housing production priorities. Worked with Representative Mark Gamba to introduce alternative amendments that aimed to increase housing production while reducing administrative burden on cities.[^7]
+- **[HB 3414](/legislation/2023-regular-session/hb-3414) (2023)**: Opposed Governor Kotek's omnibus housing production bill, arguing it removed important local tools, added bureaucratic layers, and contradicted adopted state housing production priorities. Worked with Representative Mark Gamba to introduce alternative amendments that aimed to increase housing production while reducing administrative burden on cities.[^7]
 
 - **HB 2001 (2019)**: Opposed the landmark middle housing bill that required cities to allow duplexes, triplexes, quadplexes, and cottage clusters in single-family zones, arguing that cities could undertake zoning reforms voluntarily without a state mandate.[^4]
 
-- **[HB 3260](/legislation/2021/hb-3260) (2021)**: Named in the bill as a partner in developing regional work plans under the Local Government Technical Assistance Program to help cities provide needed housing.[^8]
+- **[HB 3260](/legislation/2021-regular-session/hb-3260) (2021)**: Named in the bill as a partner in developing regional work plans under the Local Government Technical Assistance Program to help cities provide needed housing.[^8]
 
 [^1]: [League of Oregon Cities: Chapter 31 - City Handbook](https://www.orcities.org/resources/guides-handbooks/city-handbook/chapter-31-league-oregon-cities)
 
