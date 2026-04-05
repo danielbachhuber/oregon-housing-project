@@ -2,6 +2,15 @@
 <article class="markdown book-article">
   <h1>{{ .Title }}</h1>
 
+  {{ with .Params.original_url }}
+    {{ if findRE `youtube\.com/watch\?v=` . }}
+      {{ $videoId := replaceRE `.*youtube\.com/watch\?v=([^&]+).*` "$1" . }}
+      <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-bottom: 1rem;">
+        <iframe src="https://www.youtube.com/embed/{{ $videoId }}" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen></iframe>
+      </div>
+    {{ end }}
+  {{ end }}
+
   {{ .Content }}
 
   {{ $defined_links := findRE `\]\(/legislation/[^\)]+\)` .RawContent }}
