@@ -20,8 +20,8 @@ const ENTITY_CONFIGS: Record<string, {
   meetingType: string;
 }> = {
   dlcd: {
-    path: 'content/state/meetings',
-    filename: '{date}-dlcd.md',
+    path: 'content/state/dlcd/meetings',
+    filename: 'dlcd-{date}.md',
     title: 'DLCD Meeting - {formattedDate}',
     entityName: 'DLCD',
     meetingType: 'dlcd',
@@ -167,7 +167,7 @@ Rules:
 - Keep timestamps, but only at the start of each new speaker turn or every 2-3 minutes, whichever comes first. Use the format [HH:MM:SS].
 - Fix obvious transcription errors, capitalization, and punctuation
 - Do NOT summarize or omit any content — keep the full transcript
-- Do NOT add commentary or notes
+- Do NOT add commentary, notes, or a title heading
 
 Raw transcript:
 ${chunks[i]}
@@ -274,6 +274,8 @@ author = '${escToml(meta.channel)}'
 +++
 
 ${summary}
+
+<!--more-->
 
 ## Transcript
 

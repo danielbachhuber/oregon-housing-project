@@ -8,9 +8,9 @@ author = 'HFO Multifamily Marketwatch® (formerly HFO-TV)'
 
 The video features a discussion about [Portland](/cities/portland)'s housing crisis centered around "Dear Portland," an exhibition created by Michael Larson's nonprofit Humans for Housing that uses personal video portraits to humanize homelessness data and combat compassion fatigue among residents. Megan Howard of Tandem Properties, a second-generation Portland housing provider, argues that landlords are misunderstood and should be seen as part of the solution, noting that rising property taxes, insurance, and utility costs drive rent increases while Portland's loss of major employers prevents wage growth from keeping pace. Both guests emphasize that housing alone is insufficient—chronically homeless individuals need wraparound services like case management and behavioral health support, but government funding cuts are forcing service providers to lay off staff and close shelters. The discussion highlights a troubling dynamic in Multnomah County where for every three people stably rehoused, four enter homelessness, a ratio expected to worsen as federal and local funding shrinks. The exhibit and conversation represent a broader call for collaboration among housing providers, nonprofits, and government to address what both guests frame as an interconnected economic and social crisis rather than blaming any single group.
 
-## Transcript
+<!--more-->
 
-# Multifamily Marketwatch: Can Portland Fix Its Housing Crisis? Apartment Owners & Advocates Speak Out
+## Transcript
 
 [00:00:00]
 This is HFO's Multifamily Market Watch, presented by Pacific Exteriors Northwest, a contractor specializing in siding and exterior envelopes, delivering exceptional quality and service for over 30 years; by Aprio, combining the Lab's Pacific Northwest experience with Aprio's global resources to offer unparalleled tax, wealth management, and advisory services for real estate owners; and by Kennedy Restoration, helping residential and business owners recover from fire, water, mold, and storm damage.

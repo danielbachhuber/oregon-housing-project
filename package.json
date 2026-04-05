@@ -15,7 +15,8 @@
 		"refine-organization": "tsx scripts/refine-organization.ts",
 		"refine-person": "tsx scripts/refine-person.ts",
 		"capture-research": "tsx scripts/capture-research.ts",
-		"capture-youtube": "tsx scripts/capture-youtube.ts"
+		"capture-youtube": "tsx scripts/capture-youtube.ts",
+		"fetch-youtube-accounts": "tsx scripts/fetch-youtube-accounts.ts"
 	},
 	"keywords": [],
 	"author": "",
