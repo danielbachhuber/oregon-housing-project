@@ -36,7 +36,7 @@ jobs:
       - name: Discover active sessions
         id: sessions
         run: |
-          SESSIONS=$(pnpm discover-sessions)
+          SESSIONS=$(pnpm --silent discover-sessions)
           echo "Active sessions:"
           echo "$SESSIONS"
           echo "sessions<<EOF" >> "$GITHUB_OUTPUT"
