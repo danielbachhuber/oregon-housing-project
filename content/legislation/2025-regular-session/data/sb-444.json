@@ -152,7 +152,7 @@
       "VoteText": null,
       "CreatedDate": "2025-01-13T09:07:47",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 618016,
@@ -165,7 +165,7 @@
       "VoteText": null,
       "CreatedDate": "2025-01-17T14:16:32",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 620753,
@@ -204,7 +204,7 @@
       "VoteText": null,
       "CreatedDate": "2025-05-07T15:22:01",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 645569,
@@ -217,7 +217,7 @@
       "VoteText": null,
       "CreatedDate": "2025-05-08T11:40:15",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 646119,
@@ -230,7 +230,7 @@
       "VoteText": "Ayes, 18; Nays, 11--Anderson, Bonham, Broadman, Girod, Linthicum, McLane, Nash, Robinson, Starr, Thatcher, Weber; Excused, 1--Smith DB.",
       "CreatedDate": "2025-05-12T12:14:37",
       "ModifiedDate": "2025-05-12T12:14:45",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 646465,
@@ -243,7 +243,7 @@
       "VoteText": null,
       "CreatedDate": "2025-05-13T11:59:37",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 646825,
@@ -256,7 +256,7 @@
       "VoteText": null,
       "CreatedDate": "2025-05-14T11:03:55",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 659987,

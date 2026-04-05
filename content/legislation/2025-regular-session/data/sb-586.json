@@ -96,7 +96,7 @@
       "VoteText": null,
       "CreatedDate": "2025-01-13T09:07:47",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 618158,
@@ -109,7 +109,7 @@
       "VoteText": null,
       "CreatedDate": "2025-01-17T14:16:32",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 625834,
@@ -148,7 +148,7 @@
       "VoteText": null,
       "CreatedDate": "2025-03-24T15:11:42",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 632389,
@@ -161,7 +161,7 @@
       "VoteText": null,
       "CreatedDate": "2025-03-25T10:53:48",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 633642,
@@ -200,7 +200,7 @@
       "VoteText": "Ayes, 26; Excused, 4--Frederick, Starr, Thatcher, Woods.",
       "CreatedDate": "2025-04-01T11:39:21",
       "ModifiedDate": "2025-04-01T11:39:27",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 635520,
@@ -213,7 +213,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-01T13:10:52",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 638047,
@@ -226,7 +226,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-07T10:31:12",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 641465,
@@ -265,7 +265,7 @@
       "VoteText": null,
       "CreatedDate": "2025-05-27T10:51:44",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 649695,
@@ -278,7 +278,7 @@
       "VoteText": null,
       "CreatedDate": "2025-05-27T12:10:03",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 650063,
@@ -304,7 +304,7 @@
       "VoteText": "Ayes, 46; Nays, 1--Chaichi; Absent, 1--Munoz; Excused, 7--Diehl, Evans, Gamba, Levy B, Nguyen H, Wallan, Watanabe; Excused for Business of the House, 4--Drazan, Harbick, McIntire, Speaker Fahey.",
       "CreatedDate": "2025-05-29T14:35:39",
       "ModifiedDate": "2025-05-29T14:35:51",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 650947,

@@ -110,7 +110,7 @@
       "VoteText": null,
       "CreatedDate": "2025-01-13T09:07:45",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 617587,
@@ -123,7 +123,7 @@
       "VoteText": null,
       "CreatedDate": "2025-01-17T14:16:31",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 619341,
@@ -175,7 +175,7 @@
       "VoteText": null,
       "CreatedDate": "2025-03-31T14:43:51",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 635348,
@@ -188,7 +188,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-01T11:26:31",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 636409,
@@ -214,7 +214,7 @@
       "VoteText": "Ayes, 28; Excused, 2--Gorsek, Woods.",
       "CreatedDate": "2025-04-03T12:04:28",
       "ModifiedDate": "2025-04-03T12:04:34",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 637301,
@@ -227,7 +227,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-03T12:30:02",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 639745,
@@ -240,7 +240,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-10T14:13:14",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 645482,
@@ -279,7 +279,7 @@
       "VoteText": null,
       "CreatedDate": "2025-05-28T15:48:37",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 650562,
@@ -292,7 +292,7 @@
       "VoteText": null,
       "CreatedDate": "2025-05-29T13:29:16",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 651146,
@@ -331,7 +331,7 @@
       "VoteText": "Ayes, 50; Excused, 6--Andersen, Gamba, Levy B, Nguyen D, Nguyen H, Wallan; Excused for Business of the House, 3--Boice, McIntire, Speaker Fahey.",
       "CreatedDate": "2025-06-04T15:24:13",
       "ModifiedDate": "2025-06-04T15:24:19",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 652704,

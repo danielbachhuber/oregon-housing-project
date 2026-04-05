@@ -3,7 +3,7 @@
     "SessionKey": "2025R1",
     "MeasurePrefix": "HB",
     "MeasureNumber": 2139,
-    "CatchLine": "\tRequires the Housing and Community Services Department to provide grants to eligible, federally recognized Indian tribes in Oregon to address housing and homelessness prevention within the tribal community.",
+    "CatchLine": "Requires the Housing and Community Services Department to provide grants to eligible, federally recognized Indian tribes in Oregon to address housing and homelessness prevention within the tribal community.",
     "MinorityCatchLine": null,
     "MeasureSummary": "\t<b>Digest: This Act makes OHCS provide grants to Indian tribes for housing and homelessness. (Flesch Readability Score: 63.4).</b> \n\t[<i>Digest: The Act tells OHCS to study housing. (Flesch Readability Score: 90.9).</i>] \n\tRequires the Housing and Community Services Department to [<i>study housing. Directs the department to submit findings to the interim committees of the Legislative Assembly related to housing not later than September 15, 2026.</i>]<b> provide grants to eligible, federally recognized Indian tribes in Oregon to address housing and homelessness prevention within the tribal community. \n\t<b>Establishes the Tribal Housing Grant Fund for such purposes. \n\t<b>Appropriates moneys to the fund. \n\t<b>Declares an emergency, effective July 1, 2025.</b>",
     "CurrentVersion": "A",
@@ -23,7 +23,7 @@
     "LCNumber": 522,
     "Vetoed": false,
     "CreatedDate": "2024-12-31T13:18:07",
-    "ModifiedDate": "2025-04-08T12:12:09",
+    "ModifiedDate": "2026-02-25T11:38:25",
     "PrefixMeaning": "House Bill"
   },
   "sponsors": [
@@ -54,7 +54,7 @@
       "VoteText": null,
       "CreatedDate": "2025-01-13T08:01:43",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 616312,
@@ -67,7 +67,7 @@
       "VoteText": null,
       "CreatedDate": "2025-01-17T12:51:58",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 621532,
@@ -106,7 +106,7 @@
       "VoteText": null,
       "CreatedDate": "2025-02-24T12:33:21",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 624070,

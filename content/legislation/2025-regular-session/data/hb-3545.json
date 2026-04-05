@@ -152,7 +152,7 @@
       "VoteText": null,
       "CreatedDate": "2025-02-11T11:20:42",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 622088,
@@ -165,7 +165,7 @@
       "VoteText": null,
       "CreatedDate": "2025-02-12T13:25:59",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 629138,
@@ -204,7 +204,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-15T15:29:50",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 641229,
@@ -217,7 +217,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-16T10:57:26",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 641729,
@@ -256,7 +256,7 @@
       "VoteText": "Ayes, 48; Nays, 4--Boshart Davis, Cate, Drazan, Evans; Excused, 5--Helm, Nguyen H, Owens, Smith G, Valderrama; Excused for Business of the House, 3--Kropf, Nosse, Wallan.",
       "CreatedDate": "2025-04-22T17:57:12",
       "ModifiedDate": "2025-04-22T17:57:20",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 642475,
@@ -269,7 +269,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-23T11:27:41",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 642537,
@@ -282,7 +282,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-23T13:35:43",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 648050,

@@ -530,7 +530,7 @@
       "VoteText": null,
       "CreatedDate": "2025-02-11T11:20:42",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 622066,
@@ -543,7 +543,7 @@
       "VoteText": null,
       "CreatedDate": "2025-02-12T13:25:59",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 629137,
@@ -582,7 +582,7 @@
       "VoteText": null,
       "CreatedDate": "2025-03-28T12:03:58",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 634645,
@@ -595,7 +595,7 @@
       "VoteText": null,
       "CreatedDate": "2025-03-31T11:27:39",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 635611,
@@ -634,7 +634,7 @@
       "VoteText": "Ayes, 55; Excused, 4--Cate, Evans, Helfrich, Nguyen H; Excused for Business of the House, 1--McLain.",
       "CreatedDate": "2025-04-03T12:24:59",
       "ModifiedDate": "2025-04-03T12:25:23",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 638213,
@@ -647,7 +647,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-07T11:43:33",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 638486,
@@ -660,7 +660,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-07T16:09:04",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 646289,
@@ -699,7 +699,7 @@
       "VoteText": null,
       "CreatedDate": "2025-05-22T10:13:56",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 649222,
@@ -712,7 +712,7 @@
       "VoteText": null,
       "CreatedDate": "2025-05-22T12:09:30",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 649755,
@@ -842,7 +842,7 @@
       "VoteText": "Ayes, 23; Excused, 7--Gelser Blouin, McLane, Meek, Nash, Patterson, Starr, Taylor.",
       "CreatedDate": "2025-06-11T08:42:30",
       "ModifiedDate": "2025-06-11T08:42:35",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 654233,

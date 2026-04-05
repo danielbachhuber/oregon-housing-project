@@ -320,7 +320,7 @@
       "VoteText": null,
       "CreatedDate": "2025-02-18T11:24:54",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 623450,
@@ -333,7 +333,7 @@
       "VoteText": null,
       "CreatedDate": "2025-02-20T09:59:52",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 624762,
@@ -372,7 +372,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-07T10:53:45",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 638845,
@@ -385,7 +385,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-08T11:31:07",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 639333,
@@ -424,7 +424,7 @@
       "VoteText": "Ayes, 54; Excused, 4--Cate, Evans, Nguyen H, Walters; Excused for Business of the House, 2--Drazan, Ruiz.",
       "CreatedDate": "2025-04-14T14:09:39",
       "ModifiedDate": "2025-04-14T14:09:46",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 640793,
@@ -437,7 +437,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-15T11:45:22",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 640930,
@@ -450,7 +450,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-15T13:12:43",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 644137,
@@ -489,7 +489,7 @@
       "VoteText": null,
       "CreatedDate": "2025-05-13T09:54:39",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 646444,
@@ -502,7 +502,7 @@
       "VoteText": null,
       "CreatedDate": "2025-05-13T11:28:13",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 646907,
@@ -541,7 +541,7 @@
       "VoteText": "Ayes, 28; Excused, 2--Hayden, Starr.",
       "CreatedDate": "2025-05-19T11:39:48",
       "ModifiedDate": "2025-05-19T11:39:53",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 648267,

@@ -54,7 +54,7 @@
       "VoteText": null,
       "CreatedDate": "2025-01-13T09:07:45",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 617655,
@@ -67,7 +67,7 @@
       "VoteText": null,
       "CreatedDate": "2025-01-17T14:16:31",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 635734,
@@ -106,7 +106,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-18T10:20:29",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 641807,
@@ -132,7 +132,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-21T11:39:03",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 642295,
@@ -145,7 +145,7 @@
       "VoteText": "Ayes, 29.",
       "CreatedDate": "2025-04-22T12:21:36",
       "ModifiedDate": "2025-04-22T12:21:41",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 642390,
@@ -158,7 +158,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-22T16:20:16",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 642832,
@@ -171,7 +171,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-24T14:11:23",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 644698,
@@ -210,7 +210,7 @@
       "VoteText": null,
       "CreatedDate": "2025-05-28T19:05:57",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 650342,
@@ -314,7 +314,7 @@
       "VoteText": null,
       "CreatedDate": "2025-06-23T15:57:48",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 657448,
@@ -327,7 +327,7 @@
       "VoteText": "Ayes, 50; Nays, 1--Grayber; Excused, 8--Cate, Diehl, Harbick, McDonald, Nguyen H, Smith G, Wallan, Yunker; Excused for Business of the House, 1--Evans.",
       "CreatedDate": "2025-06-24T14:31:36",
       "ModifiedDate": "2025-06-24T14:31:45",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 657576,

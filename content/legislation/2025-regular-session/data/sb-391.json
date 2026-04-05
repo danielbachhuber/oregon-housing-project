@@ -1,0 +1,112 @@
+{
+  "measure": {
+    "SessionKey": "2025R1",
+    "MeasurePrefix": "SB",
+    "MeasureNumber": 391,
+    "CatchLine": "Creates the Task Force on Real Property Title Fraud Prevention to study methods for preventing title fraud upon transfers of real property.",
+    "MinorityCatchLine": null,
+    "MeasureSummary": "\tDigest: The Act would set up a task force to study ways to prevent real property title fraud. The Act would require a report to be turned in next year. (Flesch Readability Score: 87.0). \n\tCreates the Task Force on Real Property Title Fraud Prevention to study methods for preventing title fraud upon transfers of real property. \n\tSunsets on December 31, 2026. \n\tDeclares an emergency, effective on passage.",
+    "CurrentVersion": null,
+    "RelatingToFull": "Relating to title fraud; and declaring an emergency.\n\t",
+    "RelatingTo": "Relating to title fraud; declaring an emergency.",
+    "AtTheRequestOf": null,
+    "ChapterNumber": null,
+    "CurrentLocation": "In Senate Committee",
+    "CurrentCommitteeCode": "SJUD",
+    "CurrentSubCommittee": null,
+    "FiscalImpact": "May have fiscal impact, but no statement yet issued",
+    "RevenueImpact": "May have revenue impact, but no statement yet issued",
+    "EmergencyClause": true,
+    "EffectiveDate": null,
+    "FiscalAnalyst": "Roxanne Adams",
+    "RevenueEconomist": "Chris Allanach",
+    "LCNumber": 2120,
+    "Vetoed": false,
+    "CreatedDate": "2024-12-31T13:18:07",
+    "ModifiedDate": "2025-01-23T09:48:29",
+    "PrefixMeaning": "Senate Bill"
+  },
+  "sponsors": [
+    {
+      "MeasureSponsorId": "143602",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 391,
+      "SponsorType": "Presession",
+      "LegislatoreCode": null,
+      "CommitteeCode": null,
+      "SponsorLevel": "Regular",
+      "PrintOrder": "20",
+      "PresessionFiledMessage": "(Presession filed.)",
+      "CreatedDate": "2024-12-30T16:16:38",
+      "ModifiedDate": null
+    },
+    {
+      "MeasureSponsorId": "143603",
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 391,
+      "SponsorType": "Member",
+      "LegislatoreCode": "Sen Girod",
+      "CommitteeCode": null,
+      "SponsorLevel": "Chief",
+      "PrintOrder": "1",
+      "PresessionFiledMessage": null,
+      "CreatedDate": "2024-12-30T16:16:38",
+      "ModifiedDate": null
+    }
+  ],
+  "historyActions": [
+    {
+      "MeasureHistoryId": 615696,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 391,
+      "Chamber": "S",
+      "ActionDate": "2025-01-13T09:07:30",
+      "ActionText": "Introduction and first reading. Referred to President's desk.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-13T09:07:47",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 617963,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 391,
+      "Chamber": "S",
+      "ActionDate": "2025-01-17T14:13:22",
+      "ActionText": "Referred to Judiciary, then Ways and Means.",
+      "VoteText": null,
+      "CreatedDate": "2025-01-17T14:16:32",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    },
+    {
+      "MeasureHistoryId": 659018,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 391,
+      "Chamber": "S",
+      "ActionDate": "2025-06-27T23:15:00",
+      "ActionText": "In committee upon adjournment.",
+      "VoteText": null,
+      "CreatedDate": "2025-06-28T16:50:21",
+      "ModifiedDate": null,
+      "PublicNotification": false
+    }
+  ],
+  "documents": [
+    {
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 391,
+      "VersionDescription": "Introduced",
+      "DocumentUrl": "https://olis.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/SB391/Introduced",
+      "CreatedDate": "2025-01-10T12:21:13.593",
+      "ModifiedDate": null
+    }
+  ],
+  "testimony": []
+}

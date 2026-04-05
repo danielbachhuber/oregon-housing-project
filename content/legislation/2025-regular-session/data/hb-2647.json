@@ -96,7 +96,7 @@
       "VoteText": null,
       "CreatedDate": "2025-01-13T08:01:45",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 616820,
@@ -109,7 +109,7 @@
       "VoteText": null,
       "CreatedDate": "2025-01-17T12:51:59",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 628914,
@@ -135,7 +135,7 @@
       "VoteText": null,
       "CreatedDate": "2025-03-17T15:19:18",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 629161,
@@ -187,7 +187,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-15T15:29:49",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 641223,
@@ -200,7 +200,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-16T10:57:26",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 641726,
@@ -239,7 +239,7 @@
       "VoteText": "Ayes, 51; Nays, 1--Walters; Excused, 5--Helm, Nguyen H, Owens, Smith G, Valderrama; Excused for Business of the House, 3--Kropf, Nosse, Wallan.",
       "CreatedDate": "2025-04-22T17:38:42",
       "ModifiedDate": "2025-04-22T17:38:49",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 642470,
@@ -252,7 +252,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-23T11:27:41",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 642532,
@@ -265,7 +265,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-23T13:35:43",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 643491,
@@ -291,7 +291,7 @@
       "VoteText": null,
       "CreatedDate": "2025-05-02T14:38:10",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 644334,
@@ -343,7 +343,7 @@
       "VoteText": null,
       "CreatedDate": "2025-05-20T15:12:24",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 648813,
@@ -356,7 +356,7 @@
       "VoteText": null,
       "CreatedDate": "2025-05-21T11:25:06",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 649254,
@@ -447,7 +447,7 @@
       "VoteText": "Ayes, 27; Nays, 2--Broadman, Campos; Excused, 1--Starr.",
       "CreatedDate": "2025-06-04T12:21:20",
       "ModifiedDate": "2025-06-04T12:21:27",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 652701,

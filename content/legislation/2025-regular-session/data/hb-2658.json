@@ -96,7 +96,7 @@
       "VoteText": null,
       "CreatedDate": "2025-01-13T08:01:45",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 616831,
@@ -109,7 +109,7 @@
       "VoteText": null,
       "CreatedDate": "2025-01-17T12:51:59",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 637407,
@@ -148,7 +148,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-11T15:24:47",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 640225,
@@ -161,7 +161,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-14T11:07:48",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 640949,
@@ -174,7 +174,7 @@
       "VoteText": "Ayes, 46; Nays, 5--Chotzen, Gamba, Neron, Nguyen D, Nosse; Excused, 4--Cate, McDonald, Nguyen H, Walters; Excused for Business of the House, 5--Helm, McIntire, Owens, Reschke, Sanchez.",
       "CreatedDate": "2025-04-15T14:28:36",
       "ModifiedDate": "2025-04-15T14:28:45",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 641365,
@@ -187,7 +187,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-16T12:21:49",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 641946,
@@ -200,7 +200,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-21T09:26:39",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 647022,
@@ -239,7 +239,7 @@
       "VoteText": null,
       "CreatedDate": "2025-06-09T15:34:59",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 652980,
@@ -291,7 +291,7 @@
       "VoteText": null,
       "CreatedDate": "2025-06-19T09:41:42",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 656422,
@@ -304,7 +304,7 @@
       "VoteText": null,
       "CreatedDate": "2025-06-20T13:28:19",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 656782,
@@ -317,7 +317,7 @@
       "VoteText": "Ayes, 29; Nays, 1--Neron Misslin.",
       "CreatedDate": "2025-06-23T12:37:05",
       "ModifiedDate": "2025-06-23T12:37:09",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 657228,

@@ -3,7 +3,7 @@
     "SessionKey": "2025R1",
     "MeasurePrefix": "HB",
     "MeasureNumber": 2964,
-    "CatchLine": "Requires the Housing and Community Services Department to award loans for the predevelopment costs of affordable housing Requires the Housing and Community Services Department to award loans for the predevelopment costs of affordable housing [<i>and a grant to assist nonprofits receiving grants or loans under this Act.",
+    "CatchLine": "Requires the Housing and Community Services Department to award loans for the predevelopment costs of affordable housing Requires the Housing and Community Services Department to award loans for the predevelopment costs of affordable housing.",
     "MinorityCatchLine": null,
     "MeasureSummary": "\t<b>Digest: This Act makes OHCS provide loans for costs of low cost housing predevelopment. (Flesch Readability Score: 69.9).</b> \n\t[<i>Digest: This Act creates a temporary program for OHCS to award grants and loans for housing prep. (Flesch Readability Score: 74.2).</i>] \n\tRequires the Housing and Community Services Department to award [<i>grants</i>]<b> loans</b> for the predevelopment costs of affordable housing [<i>and a grant to assist nonprofits receiving grants or loans under this Act. Sunsets January 2, 2028</i>].<b> Requires the department to adopt initial rules by June 1, 2026, and to combine other existing predevelopment loan programs.</b> \n\t[<i>Establishes the Affordable Housing Predevelopment Loan Fund. Continuously appropriates moneys in the fund to the department to award loans for predevelopment costs of affordable housing.</i>] \n\t[<i>Appropriates moneys from the General Fund to the department for grants and loans.</i>] \n\tDeclares an emergency, effective on passage.",
     "CurrentVersion": "A",
@@ -23,7 +23,7 @@
     "LCNumber": 2228,
     "Vetoed": false,
     "CreatedDate": "2024-12-31T13:18:07",
-    "ModifiedDate": "2025-07-25T10:52:12",
+    "ModifiedDate": "2026-02-25T11:56:15",
     "PrefixMeaning": "House Bill"
   },
   "sponsors": [
@@ -320,7 +320,7 @@
       "VoteText": null,
       "CreatedDate": "2025-01-13T08:01:46",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 617137,
@@ -333,7 +333,7 @@
       "VoteText": null,
       "CreatedDate": "2025-01-17T12:52:00",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 629856,
@@ -372,7 +372,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-11T11:55:33",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 640029,
@@ -398,7 +398,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-14T11:07:48",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 640952,
@@ -411,7 +411,7 @@
       "VoteText": "Ayes, 37; Nays, 16--Boshart Davis, Diehl, Drazan, Elmer, Harbick, Helfrich, Levy B, Lewis, McIntire, Osborne, Reschke, Scharf, Skarlatos, Smith G, Wallan, Yunker; Excused, 4--Cate, McDonald, Nguyen H, Walters; Excused for Business of the House, 3--Evans, Owens, Sanchez.",
       "CreatedDate": "2025-04-15T14:49:01",
       "ModifiedDate": "2025-04-15T14:49:40",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 641368,
@@ -424,7 +424,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-16T12:21:49",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 641949,
@@ -437,7 +437,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-21T09:26:39",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 647023,
@@ -476,7 +476,7 @@
       "VoteText": null,
       "CreatedDate": "2025-05-28T10:06:02",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 650113,
@@ -489,7 +489,7 @@
       "VoteText": null,
       "CreatedDate": "2025-05-28T13:31:17",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 650679,
@@ -606,7 +606,7 @@
       "VoteText": "Ayes, 24; Nays, 4--Bonham, Girod, Linthicum, Robinson; Excused, 2--Nash, Starr.",
       "CreatedDate": "2025-06-12T12:12:27",
       "ModifiedDate": "2025-06-12T12:12:32",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 654454,

@@ -166,7 +166,7 @@
       "VoteText": null,
       "CreatedDate": "2025-02-04T09:53:06",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 621052,
@@ -179,7 +179,7 @@
       "VoteText": null,
       "CreatedDate": "2025-02-06T12:18:26",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 627539,
@@ -218,7 +218,7 @@
       "VoteText": null,
       "CreatedDate": "2025-03-20T15:43:16",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 630299,
@@ -296,7 +296,7 @@
       "VoteText": null,
       "CreatedDate": "2025-05-13T15:33:20",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 646632,
@@ -374,7 +374,7 @@
       "VoteText": null,
       "CreatedDate": "2025-06-16T12:26:39",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 655203,
@@ -387,7 +387,7 @@
       "VoteText": null,
       "CreatedDate": "2025-06-17T11:54:27",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 655772,
@@ -413,7 +413,7 @@
       "VoteText": "Ayes, 54; Excused, 6--Boshart Davis, Evans, McIntire, Nguyen H, Owens, Wallan.",
       "CreatedDate": "2025-06-19T10:36:36",
       "ModifiedDate": "2025-06-19T10:36:46",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 656021,
@@ -426,7 +426,7 @@
       "VoteText": null,
       "CreatedDate": "2025-06-19T12:12:17",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 656077,
@@ -439,7 +439,7 @@
       "VoteText": null,
       "CreatedDate": "2025-06-19T13:48:04",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 656291,
@@ -452,7 +452,7 @@
       "VoteText": null,
       "CreatedDate": "2025-06-20T11:40:45",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 656425,
@@ -465,7 +465,7 @@
       "VoteText": null,
       "CreatedDate": "2025-06-20T13:28:19",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 656791,
@@ -478,7 +478,7 @@
       "VoteText": "Ayes, 28; Nays, 2--Hayden, Robinson.",
       "CreatedDate": "2025-06-23T12:46:21",
       "ModifiedDate": "2025-06-23T12:46:27",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 657281,

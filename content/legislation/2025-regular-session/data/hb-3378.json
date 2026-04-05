@@ -138,7 +138,7 @@
       "VoteText": null,
       "CreatedDate": "2025-01-28T10:03:23",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 619801,
@@ -151,7 +151,7 @@
       "VoteText": null,
       "CreatedDate": "2025-01-30T11:02:07",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 623386,
@@ -190,7 +190,7 @@
       "VoteText": null,
       "CreatedDate": "2025-03-06T16:19:47",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 627450,
@@ -203,7 +203,7 @@
       "VoteText": null,
       "CreatedDate": "2025-03-10T11:17:48",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 627781,
@@ -216,7 +216,7 @@
       "VoteText": "Ayes, 46; Nays, 12--Boshart Davis, Cate, Diehl, Drazan, Elmer, Harbick, Lewis, Osborne, Owens, Reschke, Skarlatos, Yunker; Excused, 2--McDonald, Nguyen H.",
       "CreatedDate": "2025-03-11T11:55:00",
       "ModifiedDate": "2025-03-11T11:55:08",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 628235,
@@ -229,7 +229,7 @@
       "VoteText": null,
       "CreatedDate": "2025-03-13T11:32:29",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 628389,
@@ -242,7 +242,7 @@
       "VoteText": null,
       "CreatedDate": "2025-03-13T14:49:05",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 642072,
@@ -281,7 +281,7 @@
       "VoteText": null,
       "CreatedDate": "2025-05-07T10:10:15",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 645193,
@@ -294,7 +294,7 @@
       "VoteText": null,
       "CreatedDate": "2025-05-07T12:09:06",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 645597,
@@ -333,7 +333,7 @@
       "VoteText": "Ayes, 23; Nays, 6--Bonham, Lieber, Linthicum, McLane, Robinson, Smith DB; Excused, 1--Gelser Blouin.",
       "CreatedDate": "2025-05-13T12:11:05",
       "ModifiedDate": "2025-05-13T12:11:12",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 646489,

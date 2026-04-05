@@ -3,7 +3,7 @@
     "SessionKey": "2025R1",
     "MeasurePrefix": "SB",
     "MeasureNumber": 599,
-    "CatchLine": "Prohibits landlords from inquiring about or discriminating on the basis of a tenant's or applicant's immigration or citizenship status, rejecting an applicant Prohibits landlords from inquiring about or discriminating on the basis of a tenant's or applicant's immigration or citizenship status, rejecting an applicant [<i>due to immigration status.",
+    "CatchLine": "Prohibits landlords from inquiring about or discriminating on the basis of a tenant's or applicant's immigration or citizenship status, rejecting an applicant based on the type of identifying documentation or disclosing or threatening disclosure of an applicant's or a tenant's immigration or citizenship status for improper purposes.",
     "MinorityCatchLine": null,
     "MeasureSummary": "\t<b>Digest: This Act bans a landlord from biases in renting a home based on immigration status. (Flesch Readability Score: 61.8).</b> \n\t[<i>Digest: This Act bans biases in the rent or sale of property based on immigration status. (Flesch Readability Score: 61.8).</i>] \n\tProhibits landlords from inquiring about or [<i>disclosing</i>]<b> discriminating on the basis of a tenant's or applicant's</b> immigration <b>or citizenship</b> status<b>,</b> [<i>or</i>] rejecting an applicant [<i>due to immigration status. Prohibits discrimination based on immigration status for real property transactions.</i>] <b>based on the type of identifying documentation or disclosing or threatening disclosure of an applicant's or a tenant's immigration or citizenship status for improper purposes. Authorizes statutory penalties. \n\tBecomes operative 30 days after the effective date. \n\tDeclares an emergency, effective on passage.</b>",
     "CurrentVersion": "A",
@@ -23,7 +23,7 @@
     "LCNumber": 2332,
     "Vetoed": false,
     "CreatedDate": "2024-12-31T13:18:07",
-    "ModifiedDate": "2025-06-06T16:06:36",
+    "ModifiedDate": "2026-02-25T12:26:30",
     "PrefixMeaning": "Senate Bill"
   },
   "sponsors": [
@@ -376,7 +376,7 @@
       "VoteText": null,
       "CreatedDate": "2025-01-13T09:07:47",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 618171,
@@ -389,7 +389,7 @@
       "VoteText": null,
       "CreatedDate": "2025-01-17T14:16:32",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 626702,
@@ -428,7 +428,7 @@
       "VoteText": null,
       "CreatedDate": "2025-03-17T14:04:10",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 629355,
@@ -441,7 +441,7 @@
       "VoteText": null,
       "CreatedDate": "2025-03-18T11:26:31",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 630203,
@@ -467,7 +467,7 @@
       "VoteText": "Ayes, 21; Nays, 8--Bonham, Girod, Hayden, Linthicum, Robinson, Smith DB, Starr, Thatcher; Excused, 1--Woods.",
       "CreatedDate": "2025-03-24T12:06:20",
       "ModifiedDate": "2025-03-24T12:06:29",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 631969,
@@ -493,7 +493,7 @@
       "VoteText": null,
       "CreatedDate": "2025-03-25T11:59:52",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 633453,
@@ -506,7 +506,7 @@
       "VoteText": null,
       "CreatedDate": "2025-03-27T10:51:19",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 642623,
@@ -545,7 +545,7 @@
       "VoteText": null,
       "CreatedDate": "2025-05-14T15:29:22",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 647325,
@@ -558,7 +558,7 @@
       "VoteText": null,
       "CreatedDate": "2025-05-15T11:21:01",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 647925,
@@ -571,7 +571,7 @@
       "VoteText": "Ayes, 36; Nays, 15--Boice, Boshart Davis, Breese-Iverson, Cate, Diehl, Drazan, Edwards, Harbick, McIntire, Osborne, Reschke, Scharf, Skarlatos, Wright, Yunker; Excused, 4--Evans, Levy E, Nguyen H, Wallan; Excused for Business of the House, 4--Elmer, Helfrich, Lewis, Sanchez.",
       "CreatedDate": "2025-05-19T13:10:59",
       "ModifiedDate": "2025-05-19T13:31:39",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 648549,

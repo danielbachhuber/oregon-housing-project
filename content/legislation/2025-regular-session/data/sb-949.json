@@ -3,7 +3,7 @@
     "SessionKey": "2025R1",
     "MeasurePrefix": "SB",
     "MeasureNumber": 949,
-    "CatchLine": "Directs the Housing and Community Services Department to disburse moneys to Self Enhancement, Inc.",
+    "CatchLine": "Directs the Housing and Community Services Department to disburse moneys to Self Enhancement, Inc., to develop affordable housing.",
     "MinorityCatchLine": null,
     "MeasureSummary": "\t<b>Digest: The Act tells OHCS to give some money to SEI to build housing. (Flesch Readability Score: 96.0).</b> \n\t[<i>Digest: The Act tells OHCS to start a project to build some mixed-use affordable housing. (Flesch Readability Score: 65.7).</i>] \n\tDirects the Housing and Community Services Department to [<i>establish a project to</i>]<b> disburse moneys to Self Enhancement, Inc., to</b> develop affordable housing [<i>that integrates residential units with community services and commercial spaces in the Portland metropolitan area. Requires the department to annually report to the interim committees of the Legislative Assembly related to housing on the project's progress</i>]. \n\tSunsets on January 2, [<i>2030</i>] <b>2028</b>. \n\tDeclares an emergency, effective on [<i>passage</i>] <b>July 1, 2025</b>.",
     "CurrentVersion": "A",
@@ -23,7 +23,7 @@
     "LCNumber": 2623,
     "Vetoed": false,
     "CreatedDate": "2025-01-23T14:12:29",
-    "ModifiedDate": "2025-04-03T18:05:02",
+    "ModifiedDate": "2026-02-25T12:33:53",
     "PrefixMeaning": "Senate Bill"
   },
   "sponsors": [
@@ -82,7 +82,7 @@
       "VoteText": null,
       "CreatedDate": "2025-01-28T11:06:23",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 619557,
@@ -95,7 +95,7 @@
       "VoteText": null,
       "CreatedDate": "2025-01-28T11:38:37",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 622188,
@@ -134,7 +134,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-03T15:26:00",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 637430,

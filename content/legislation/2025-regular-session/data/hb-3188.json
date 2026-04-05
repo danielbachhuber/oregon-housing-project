@@ -208,7 +208,7 @@
       "VoteText": null,
       "CreatedDate": "2025-01-13T08:01:46",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 617361,
@@ -221,7 +221,7 @@
       "VoteText": null,
       "CreatedDate": "2025-01-17T12:52:00",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 620555,
@@ -247,7 +247,7 @@
       "VoteText": null,
       "CreatedDate": "2025-02-06T15:06:39",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 621099,
@@ -299,7 +299,7 @@
       "VoteText": null,
       "CreatedDate": "2025-03-31T10:00:15",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 634573,
