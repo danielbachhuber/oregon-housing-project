@@ -1,5 +1,6 @@
 import fs from 'fs';
 import path from 'path';
+import { execSync } from 'child_process';
 import axios from 'axios';
 import Anthropic from '@anthropic-ai/sdk';
 import { YoutubeTranscript } from 'youtube-transcript';
@@ -33,42 +34,6 @@ const ENTITY_CONFIGS: Record<string, {
     meetingType: 'planning-commission',
   },
 };
-
-// Internal linking context for Claude summary generation
-const INTERNAL_LINKS_CONTEXT = `
-When writing the summary, use these internal link formats where relevant:
-
-People (use when mentioned by name):
-- [Tina Kotek](/people/tina-kotek)
-- [Dick Anderson](/people/dick-anderson)
-- [Keith Wilson](/people/keith-wilson)
-- [Loretta Smith](/people/loretta-smith)
-- [Raymond Lee](/people/raymond-lee)
-- [Vikki Breese-Iverson](/people/vikki-breese-iverson)
-
-Cities (use when mentioned):
-- [Portland](/cities/portland)
-- [Tualatin](/cities/tualatin)
-- [Canby](/cities/canby)
-
-Key legislation (use when referenced):
-- [SB 100 (1973)](/legislation/1973/sb-100) - Urban Growth Boundaries
-- [Measure 5 (1990)](/legislation/1990/measure-5)
-- [HB 2001 (2019)](/legislation/2019/hb-2001)
-- [HB 2003 (2019)](/legislation/2019/hb-2003)
-- [SB 608 (2019)](/legislation/2019/sb-608)
-- [EO 23-04 (2023)](/legislation/2023/eo-23-04)
-- [HB 2138 (2025)](/legislation/2025/hb-2138)
-- [HB 3644 (2025)](/legislation/2025/hb-3644)
-- [SB 1566 (2026)](/legislation/2026/sb-1566)
-
-Key concepts:
-- [Urban Growth Boundary (UGB)](/key-concepts#urban-growth-boundary)
-
-For any legislation mentioned that follows the pattern HB XXXX or SB XXXX, use the format:
-[HB XXXX (YEAR)](/legislation/YEAR/hb-xxxx) or [SB XXXX (YEAR)](/legislation/YEAR/sb-xxxx)
-Only link entities that are actually referenced in the video.
-`;
 
 function slugify(title: string): string {
   return title
@@ -225,17 +190,13 @@ async function generateNewsCoverageSummary(title: string, transcript: string): P
   const snippet = transcript.substring(0, 15000);
   const prompt = `Write a concise summary (3-5 sentences) of this YouTube video about Oregon housing. Focus on the main housing policy news, key actors involved, and significance.
 
-IMPORTANT: Include internal links using the formats below wherever the video mentions these entities. Only link entities that are actually mentioned.
-
-${INTERNAL_LINKS_CONTEXT}
-
 Video title: ${title}
 Transcript: ${snippet}
 
-Respond with ONLY the summary paragraph, no preamble, headings, or explanation. Do not include a heading like "# Summary". Use markdown link syntax for internal links.`;
+Respond with ONLY the summary paragraph, no preamble, headings, or explanation. Do not include a heading like "# Summary".`;
 
   const msg = await anthropic.messages.create({
-    model: 'claude-sonnet-4-5-20250929',
+    model: 'claude-opus-4-6',
     max_tokens: 1024,
     messages: [{ role: 'user', content: prompt }],
   });
@@ -252,10 +213,6 @@ Provide two sections:
 1. **Summary**: 2-4 paragraph overview of key decisions, action items, and discussions.
 2. **Key Topics**: A markdown list of main discussion points with descriptive headings.
 
-IMPORTANT: Include internal links using the formats below wherever relevant.
-
-${INTERNAL_LINKS_CONTEXT}
-
 Meeting title: ${title}
 Transcript: ${snippet}
 
@@ -267,7 +224,7 @@ KEY TOPICS:
 [your bullet points]`;
 
   const msg = await anthropic.messages.create({
-    model: 'claude-sonnet-4-5-20250929',
+    model: 'claude-opus-4-6',
     max_tokens: 2048,
     messages: [{ role: 'user', content: prompt }],
   });
@@ -292,7 +249,7 @@ Transcript: ${snippet}
 Respond with ONLY the description sentences, no preamble.`;
 
   const msg = await anthropic.messages.create({
-    model: 'claude-sonnet-4-5-20250929',
+    model: 'claude-opus-4-6',
     max_tokens: 256,
     messages: [{ role: 'user', content: prompt }],
   });
@@ -458,6 +415,9 @@ async function main() {
   }
 
   console.log(`\nCreated: ${filepath}`);
+
+  console.log('Adding internal links...');
+  execSync(`npx tsx scripts/refine-internal-links.ts --write ${filepath}`, { stdio: 'inherit' });
 }
 
 main().catch((err) => {
