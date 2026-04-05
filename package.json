@@ -13,7 +13,8 @@
 		"refine-city": "tsx scripts/refine-city.ts",
 		"refine-organization": "tsx scripts/refine-organization.ts",
 		"refine-person": "tsx scripts/refine-person.ts",
-		"capture-research": "tsx scripts/capture-research.ts"
+		"capture-research": "tsx scripts/capture-research.ts",
+		"capture-youtube": "tsx scripts/capture-youtube.ts"
 	},
 	"keywords": [],
 	"author": "",
@@ -23,7 +24,8 @@
 		"axios": "^1.13.4",
 		"cheerio": "^1.2.0",
 		"dotenv": "^17.2.3",
-		"xml2js": "^0.6.2"
+		"xml2js": "^0.6.2",
+		"youtube-transcript": "^1.3.0"
 	},
 	"devDependencies": {
 		"@types/node": "^25.1.0",
