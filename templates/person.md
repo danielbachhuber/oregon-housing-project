@@ -50,7 +50,7 @@ bookHidden = false
 
 ## Internal Linking
 
-Do NOT add internal links (e.g. `[Portland](/cities/portland)` or `[HB 2001](/legislation/2019/hb-2001)`). Internal links will be added automatically by a separate post-processing step. Just mention entities by their plain names.
+Do NOT add internal links (e.g. `[Portland](/cities/portland)` or `[HB 2001](/legislation/2019-regular-session/hb-2001)`). Internal links will be added automatically by a separate post-processing step. Just mention entities by their plain names.
 
 ## Example Profiles
 

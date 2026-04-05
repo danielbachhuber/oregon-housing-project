@@ -13,6 +13,12 @@
         <td><strong>Status</strong></td>
         <td>{{ .Params.status }}{{ with .Params.current_committee }} ({{ . }}){{ end }}</td>
       </tr>
+      {{ with .Params.session }}
+      <tr>
+        <td><strong>Session</strong></td>
+        <td>{{ $s := . }}{{ if findRE `^\d{4}R\d+$` $s }}{{ substr $s 0 4 }} Regular Session{{ else if findRE `^\d{4}S1$` $s }}{{ substr $s 0 4 }} 1st Special Session{{ else if findRE `^\d{4}S2$` $s }}{{ substr $s 0 4 }} 2nd Special Session{{ else if findRE `^\d{4}S3$` $s }}{{ substr $s 0 4 }} 3rd Special Session{{ else }}{{ $s }}{{ end }}</td>
+      </tr>
+      {{ end }}
       {{ with .Params.at_the_request_of }}
       <tr>
         <td><strong>Requested by</strong></td>

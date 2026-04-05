@@ -14,8 +14,8 @@ The Oregon Housing Project is a research-focused website about housing policy in
 
 The site is organized around five main content types:
 
-1. **Legislation** (`content/legislation/`): Bills, executive orders, and ballot measures organized by year
-   - Example: `content/legislation/2025/hb-2258.md`
+1. **Legislation** (`content/legislation/`): Bills, executive orders, and ballot measures organized by legislative session
+   - Example: `content/legislation/2025-regular-session/hb-2258.md`
    - Should include: title, date, description, and link to original bill text
    - Use internal links to reference related legislation, people, and cities
 
@@ -52,7 +52,7 @@ date = '2026-01-23'
 ### Internal Linking
 
 Always use Hugo's internal linking format when referencing other pages:
-- Legislation: `[HB 2001](/legislation/2019/hb-2001)`
+- Legislation: `[HB 2001 (2019)](/legislation/2019-regular-session/hb-2001)`
 - People: `[Tina Kotek](/people/tina-kotek)`
 - Cities: `[Tualatin](/cities/tualatin)`
 
@@ -76,7 +76,7 @@ When researching or refining any content (people, legislation, cities, etc.), **
 
 1. **Search existing content pages** with Grep for the person, bill, or topic name across `content/`. These markdown files often contain curated summaries, citations, and internal links that are directly useful.
 
-2. **Search legislation PDF testimony and documents.** Legislation directories (e.g., `content/legislation/2025/files/hb-2258/`) contain PDFs of testimony, staff reports, amendments, and fiscal analyses. Use Glob to find PDFs under a bill's files directory, then read relevant ones. These are organized by OLIS document ID (numeric filenames like `6219.pdf`).
+2. **Search legislation PDF testimony and documents.** Legislation directories (e.g., `content/legislation/2025-regular-session/files/hb-2258/`) contain PDFs of testimony, staff reports, amendments, and fiscal analyses. Use Glob to find PDFs under a bill's files directory, then read relevant ones. These are organized by OLIS document ID (numeric filenames like `6219.pdf`).
 
 3. **Search news coverage** in `content/news-coverage/` for summaries of media articles that may mention the topic.
 

@@ -31,7 +31,7 @@ List the main topics discussed during the meeting. Each topic should:
 Brief description of the topic discussed.
 
 Related content:
-- [HB 2001](/legislation/2019/hb-2001)
+- [HB 2001 (2019)](/legislation/2019-regular-session/hb-2001)
 - [Tina Kotek](/people/tina-kotek)
 - [Tualatin](/cities/tualatin)
 
@@ -63,7 +63,7 @@ The transcript below is automatically generated using OpenAI Whisper and include
 
 *Optional section - add links to related pages*
 
-- [Related Legislation](/legislation/YYYY/bill-name)
+- [Related Legislation](/legislation/YYYY-regular-session/bill-name)
 - [Related Person](/people/person-name)
 - [Related City](/cities/city-name)
 

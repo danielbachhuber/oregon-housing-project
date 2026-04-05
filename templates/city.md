@@ -13,7 +13,7 @@ Key housing data such as:
 
 ## Zoning and Land Use
 Description of the city's zoning policies including:
-- How the city has implemented state middle housing requirements (HB 2001)
+- How the city has implemented state middle housing requirements (HB 2001 (2019))
 - Any local zoning reforms or restrictions
 - Urban growth boundary considerations
 
