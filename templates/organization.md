@@ -45,7 +45,7 @@ bookHidden = false
 
 5. **Footnote references**: Place all `[^N]:` footnote definitions at the end of the file, each followed by a blank line.
 
-**Note on auto-generated sections**: The published organization page automatically appends **News Coverage** (backlinked articles) and **Legislative Testimony** (matched from OLIS data via `testimony_names`) sections below the markdown content. Do not duplicate these in the profile body.
+**Note on auto-generated sections**: The published organization page automatically appends **News Coverage** (backlinked articles) and **Legislative Testimony** (matched from OLIS data via `testimony_names`) sections below the markdown content. Do not duplicate these in the profile body. In particular, all testimony is automatically listed in the Legislative Testimony table — the Key Legislative Involvement section you write should only highlight the most significant bills with narrative context, not attempt to be exhaustive.
 
 ## Style Guidelines
 
