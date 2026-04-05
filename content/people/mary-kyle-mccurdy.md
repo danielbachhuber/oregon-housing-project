@@ -29,11 +29,11 @@ McCurdy also serves as Vice-Chair of Oregon's Wildfire Programs Advisory Council
 
 - **SB 1537 (2024)**: Testified in opposition to provisions in the emergency housing bill that would bypass land use law to allow large urban growth boundary expansions, while supporting other components including the Housing Production Accountability Office and revolving loan funds.[^10]
 
-- **2025 legislative session**: Testified on numerous housing and land use bills including [HB 2138](/legislation/2025/hb-2138), HB 3145, [HB 3031](/legislation/2025/hb-3031), [SB 51](/legislation/2025/sb-51), [SB 85](/legislation/2025/sb-85), and SB 684, focusing on middle housing production and infrastructure for residential infill development.[^11]
+- **2025 legislative session**: Testified on numerous housing and land use bills including [HB 2138](/legislation/2025-regular-session/hb-2138), HB 3145, [HB 3031](/legislation/2025-regular-session/hb-3031), [SB 51](/legislation/2025-regular-session/sb-51), [SB 85](/legislation/2025-regular-session/sb-85), and SB 684, focusing on middle housing production and infrastructure for residential infill development.[^11]
 
-- **2026 legislative session**: Testified on [HB 4035](/legislation/2026/hb-4035), [HB 4082](/legislation/2026/hb-4082), [HB 4108](/legislation/2026/hb-4108), [SB 1551](/legislation/2026/sb-1551), [SB 1561](/legislation/2026/sb-1561), SB 1564, and [SB 1567](/legislation/2026/sb-1567), addressing urban growth boundary expansion criteria for affordable housing and maintaining protections for farm and forest land.[^12]
+- **2026 legislative session**: Testified on [HB 4035](/legislation/2026-regular-session/hb-4035), [HB 4082](/legislation/2026-regular-session/hb-4082), [HB 4108](/legislation/2026-regular-session/hb-4108), [SB 1551](/legislation/2026-regular-session/sb-1551), [SB 1561](/legislation/2026-regular-session/sb-1561), SB 1564, and [SB 1567](/legislation/2026-regular-session/sb-1567), addressing urban growth boundary expansion criteria for affordable housing and maintaining protections for farm and forest land.[^12]
 
-- **2021 legislative session**: Testified extensively on housing and land use bills including SB 8, SB 458, HB 2006, [HB 2488](/legislation/2021/hb-2488), and [HB 2918](/legislation/2021/hb-2918), among others, covering topics from middle housing lot splits to housing production strategies and DLCD budget priorities.[^13]
+- **2021 legislative session**: Testified extensively on housing and land use bills including SB 8, SB 458, HB 2006, [HB 2488](/legislation/2021-regular-session/hb-2488), and [HB 2918](/legislation/2021-regular-session/hb-2918), among others, covering topics from middle housing lot splits to housing production strategies and DLCD budget priorities.[^13]
 
 [^1]: [Mary Kyle McCurdy - 1000 Friends of Oregon](https://friends.org/mary-kyle-mccurdy)
 
