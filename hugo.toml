@@ -8,5 +8,7 @@ theme = 'hugo-book'
   target = "content"
   excludeFiles = ["legislation/**/files/**", "legislation/**/data/**"]
 
+summaryLength = 500
+
 [params]
   BookSection = '/'

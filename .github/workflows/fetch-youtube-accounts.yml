@@ -1,0 +1,195 @@
+name: Fetch YouTube Accounts
+
+on:
+  schedule:
+    - cron: '0 3 * * *'  # 7:00 PM PST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  fetch-and-process:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        account: [hfoinvestmentrealestate, oregondlcd]
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v3
+        with:
+          version: 9
+
+      - name: Install dependencies
+        run: pnpm install
+
+      - name: Fetch YouTube videos from ${{ matrix.account }}
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: pnpm fetch-youtube-accounts -- ${{ matrix.account }}
+
+      - name: Upload new content
+        uses: actions/upload-artifact@v4
+        with:
+          name: youtube-${{ matrix.account }}
+          path: |
+            content/news-coverage/
+            content/state/
+          if-no-files-found: ignore
+
+  create-prs:
+    needs: fetch-and-process
+    if: always() && needs.fetch-and-process.result != 'cancelled'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v3
+        with:
+          version: 9
+
+      - name: Install dependencies
+        run: pnpm install
+
+      - name: Download all artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: artifacts/
+          pattern: youtube-*
+
+      - name: Create PRs for new videos
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name 'oregonhousingproject[bot]'
+          git config user.email 'info@oregonhousingproject.org'
+
+          # Collect new content files from artifacts into a staging directory
+          mkdir -p staged-content
+          for dir in artifacts/youtube-*/; do
+            [ -d "$dir" ] || continue
+            # Copy news-coverage articles
+            if [ -d "${dir}news-coverage" ]; then
+              find "${dir}news-coverage" -name '*.md' -not -path '*/data/*' | while read -r src; do
+                rel="${src#${dir}news-coverage/}"
+                dest="staged-content/news-coverage/$rel"
+                mkdir -p "$(dirname "$dest")"
+                cp "$src" "$dest"
+              done
+            fi
+            # Copy state content (DLCD meetings)
+            if [ -d "${dir}state" ]; then
+              find "${dir}state" -name '*.md' | while read -r src; do
+                rel="${src#${dir}state/}"
+                dest="staged-content/state/$rel"
+                mkdir -p "$(dirname "$dest")"
+                cp "$src" "$dest"
+              done
+            fi
+          done
+
+          # Filter to only files that don't already exist in the repo
+          NEW_FILES=""
+          for file in $(find staged-content -name '*.md' 2>/dev/null); do
+            rel="${file#staged-content/}"
+            dest="content/$rel"
+            if [ ! -f "$dest" ]; then
+              NEW_FILES="$NEW_FILES $rel"
+            fi
+          done
+          NEW_FILES=$(echo "$NEW_FILES" | xargs)
+
+          if [ -z "$NEW_FILES" ]; then
+            echo "No new videos found."
+            exit 0
+          fi
+
+          echo "Found new videos: $NEW_FILES"
+          git fetch origin main
+
+          for rel in $NEW_FILES; do
+             file="content/$rel"
+             echo "Processing $file..."
+
+             # Extract slug from filename for branch name
+             BASENAME=$(basename "$rel" .md)
+             BRANCH_NAME="youtube-video-${BASENAME}"
+
+             # Skip if a branch already exists (previous run created a PR)
+             if git ls-remote --exit-code --heads origin "$BRANCH_NAME" >/dev/null 2>&1; then
+               echo "  -> Branch $BRANCH_NAME already exists, skipping."
+               continue
+             fi
+             git checkout -b "$BRANCH_NAME" origin/main
+
+             # Copy the content file from staging
+             mkdir -p "$(dirname "$file")"
+             cp "staged-content/$rel" "$file"
+
+             # Auto-link legislation, people, and cities
+             pnpm refine-internal-links --write "$file"
+
+             # Add the file
+             git add "$file"
+
+             # Commit
+             TITLE=$(grep '^title' "$file" | head -n 1 | sed 's/title = ["'"'"']//;s/["'"'"']$//')
+             git commit -m "Add video: title = \"$TITLE\""
+
+             # Push
+             git push -u origin "$BRANCH_NAME"
+
+             # Create PR
+             gh pr create \
+               --title "New YouTube Video: $TITLE" \
+               --body "Automated YouTube video discovery.\n\nFile: $file" \
+               --base main \
+               --head "$BRANCH_NAME" \
+               --reviewer danielbachhuber
+
+             echo "Created PR for $file"
+
+             # Switch back to main for next loop
+             git checkout main
+          done
+
+      - name: Update Processed URLs State
+        run: |
+          git config user.name 'oregonhousingproject[bot]'
+          git config user.email 'info@oregonhousingproject.org'
+          git checkout main
+
+          # Copy state files from artifacts
+          for dir in artifacts/youtube-*/; do
+            [ -d "$dir" ] || continue
+            if [ -d "${dir}news-coverage/data" ]; then
+              cp "${dir}news-coverage/data"/processed-youtube-*-urls.txt content/news-coverage/data/ 2>/dev/null || true
+            fi
+          done
+
+          # Check if state files have changed
+          if [[ -n $(git status --porcelain content/news-coverage/data/processed-youtube-*-urls.txt 2>/dev/null) ]]; then
+            echo "State files changed. Committing updates."
+            git add content/news-coverage/data/processed-youtube-*-urls.txt
+            git commit -m "Update processed YouTube URLs state [skip ci]"
+            git push
+          else
+            echo "No changes to state files."
+          fi

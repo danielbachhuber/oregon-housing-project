@@ -20,8 +20,8 @@ const ENTITY_CONFIGS: Record<string, {
   meetingType: string;
 }> = {
   dlcd: {
-    path: 'content/state/meetings',
-    filename: '{date}-dlcd.md',
+    path: 'content/state/dlcd/meetings',
+    filename: 'dlcd-{date}.md',
     title: 'DLCD Meeting - {formattedDate}',
     entityName: 'DLCD',
     meetingType: 'dlcd',
@@ -274,6 +274,8 @@ author = '${escToml(meta.channel)}'
 +++
 
 ${summary}
+
+<!--more-->
 
 ## Transcript
 

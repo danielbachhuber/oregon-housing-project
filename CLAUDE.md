@@ -80,83 +80,51 @@ When researching or refining any content (people, legislation, cities, etc.), **
 
 3. **Search news coverage** in `content/news-coverage/` for summaries of media articles that may mention the topic.
 
-4. **Search meeting transcripts** in `content/state/meetings/` and `content/cities/*/meetings/` for discussions that reference the topic.
+4. **Search meeting transcripts** in `content/state/dlcd/meetings/` and `content/cities/*/meetings/` for discussions that reference the topic.
 
 ### Reading PDFs
 
 The repository contains ~23,000 PDFs, mostly legislative testimony and documents. Claude Code can read PDFs directly with the Read tool (up to 20 pages per request). When a PDF is large, use the `pages` parameter to read specific page ranges. Look at the first few pages to determine relevance before reading the full document.
 
-## Meeting Transcription Framework
+## YouTube Video Capture
 
-The project includes automated tools for downloading, transcribing, and publishing meeting videos from YouTube. Meetings are organized by jurisdiction with structured documentation.
+### Manual Capture
 
-### Supported Entities
-
-- **dlcd**: Oregon DLCD meetings → `content/state/meetings/YYYY-MM-DD-dlcd.md`
-- **tualatin**: Tualatin Planning Commission meetings → `content/cities/tualatin/meetings/YYYY-MM-DD-planning-commission.md`
-
-### Processing Workflow
-
-Use the orchestrator script to process a meeting in one step:
+To capture a single YouTube video:
 
 ```bash
-./scripts/process_meeting.sh \
-  --url "https://www.youtube.com/watch?v=VIDEO_ID" \
-  --date "YYYY-MM-DD" \
-  --entity "dlcd" \
-  --cleanup
+pnpm capture-youtube -- <youtube-url> [--type news-coverage|meeting|research] [--entity dlcd|tualatin] [--date YYYY-MM-DD]
 ```
 
-This will:
-1. Download video from YouTube to `/tmp/oregon-housing-meetings/`
-2. Transcribe using OpenAI Whisper (medium model by default)
-3. Generate Hugo markdown document with TOML front matter
-4. Optionally delete video file after processing (with `--cleanup`)
+This fetches the transcript, cleans it with Claude, generates a summary, and creates a Hugo markdown file. It also runs `refine-internal-links` on the output.
 
-Individual scripts can also be run separately:
-- `scripts/download_meeting.py` - Download video
-- `scripts/transcribe_meeting.py` - Transcribe video
-- `scripts/create_meeting_doc.py` - Create Hugo document
+### Automated Workflow
 
-### Meeting Document Structure
+The `fetch-youtube-accounts` workflow (`.github/workflows/fetch-youtube-accounts.yml`) runs daily to discover new videos from configured YouTube accounts:
 
-Generated meeting documents include:
+- **@HFOInvestmentRealEstate** → news coverage (`content/news-coverage/`)
+- **@OregonDLCD** → DLCD meetings (`content/state/dlcd/meetings/`)
 
-1. **Front matter**: title, date, youtube_url, meeting_type, entity
-2. **Summary**: Empty, requires manual curation
-3. **Key Topics**: Empty, requires manual curation
-4. **Full Transcript**: Auto-generated with timestamps
+Videos published within the last 6 weeks are processed. Each new video gets its own PR. Processed URLs are tracked in `content/news-coverage/data/processed-youtube-{account}-urls.txt`.
 
-### Post-Processing Requirements
+### Supported Meeting Entities
 
-After automatic generation, meeting documents require human review:
+- **dlcd**: Oregon DLCD meetings → `content/state/dlcd/meetings/dlcd-YYYY-MM-DD.md`
+- **tualatin**: Tualatin Planning Commission meetings → `content/cities/tualatin/meetings/YYYY-MM-DD-planning-commission.md`
 
-1. **Add Summary**: 2-4 paragraph overview of key decisions, action items, and discussions
-2. **Identify Key Topics**: Organize main discussion points with descriptive headings
-3. **Add Internal Links**: Link to related legislation, people, cities, and key concepts
-4. **Review Transcript**: Check for obvious errors (transcripts may contain minor inaccuracies)
-5. **Add Citations**: Include footnotes for documents or data mentioned in the meeting
+### Adding New YouTube Accounts
 
-See `templates/meeting.md` for detailed structure guidance.
+1. Add account configuration to `scripts/fetch-youtube-accounts.ts` (id, channelId, captureArgs)
+2. Add the account id to the matrix in `.github/workflows/fetch-youtube-accounts.yml`
 
-### Technical Details
+### Adding New Meeting Entities
 
-- **Video Storage**: Videos downloaded to `/tmp/oregon-housing-meetings/` (never committed to repo)
-- **Transcription**: Uses OpenAI Whisper with configurable model size (tiny, base, small, medium, large)
-- **Timestamps**: Transcript includes HH:MM:SS timestamps for reference
-- **Dependencies**: Install with `pip install -r scripts/requirements.txt` (requires yt-dlp, openai-whisper, and ffmpeg)
-
-### Adding New Entities
-
-To add support for a new jurisdiction:
-1. Update `scripts/create_meeting_doc.py` with new entity configuration
-2. Add entity to `--entity` choices in all three scripts
-3. Create content directory structure
-4. Update this documentation
+1. Add entity configuration to `scripts/capture-youtube.ts` ENTITY_CONFIGS
+2. Create content directory structure
 
 ## Scripting Language
 
-When writing new scripts or rewriting existing ones, **prefer JavaScript (Node.js)** over Python. The existing meeting transcription scripts are in Python but new tooling should use JavaScript.
+When writing new scripts or rewriting existing ones, **prefer JavaScript (Node.js)** over Python.
 
 ## Package Management
 
