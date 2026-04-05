@@ -1,8 +1,8 @@
 name: Fetch YouTube Accounts
 
 on:
-  schedule:
-    - cron: '0 3 * * *'  # 7:00 PM PST
+  # schedule:
+  #   - cron: '0 3 * * *'  # 7:00 PM PST
   workflow_dispatch:
 
 permissions:
