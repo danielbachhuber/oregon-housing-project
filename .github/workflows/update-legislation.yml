@@ -87,8 +87,8 @@ jobs:
               echo "  Refining ${BASENAME}..."
               pnpm refine-legislation "$BASENAME" --year="$YEAR" --session="$SESSION" || echo "  Warning: failed to refine ${BASENAME}"
 
-              # Respect API rate limits
-              sleep 2
+              # Brief pause between API calls
+              sleep 0.25
             done
           done
 
