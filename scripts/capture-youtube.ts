@@ -167,7 +167,7 @@ Rules:
 - Keep timestamps, but only at the start of each new speaker turn or every 2-3 minutes, whichever comes first. Use the format [HH:MM:SS].
 - Fix obvious transcription errors, capitalization, and punctuation
 - Do NOT summarize or omit any content — keep the full transcript
-- Do NOT add commentary or notes
+- Do NOT add commentary, notes, or a title heading
 
 Raw transcript:
 ${chunks[i]}

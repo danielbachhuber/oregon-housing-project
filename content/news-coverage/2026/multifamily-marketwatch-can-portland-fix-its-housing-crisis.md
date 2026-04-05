@@ -12,8 +12,6 @@ The video features a discussion about [Portland](/cities/portland)'s housing cri
 
 ## Transcript
 
-# Multifamily Marketwatch: Can Portland Fix Its Housing Crisis? Apartment Owners & Advocates Speak Out
-
 [00:00:00]
 This is HFO's Multifamily Market Watch, presented by Pacific Exteriors Northwest, a contractor specializing in siding and exterior envelopes, delivering exceptional quality and service for over 30 years; by Aprio, combining the Lab's Pacific Northwest experience with Aprio's global resources to offer unparalleled tax, wealth management, and advisory services for real estate owners; and by Kennedy Restoration, helping residential and business owners recover from fire, water, mold, and storm damage.
 
