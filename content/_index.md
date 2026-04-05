@@ -19,7 +19,7 @@ The majority of the research depth focuses on Oregon. As appropriate, examples f
 
 The Oregon Housing Project catalogs and analyzes Oregon's housing policy landscape:
 
-* **[Key Concepts](/key-concepts/)**: Educational content explaining housing policy terms and issues
+* **[Key Concepts](/key-concepts/)**: Educational content explaining housing policy terms
 * **[Metrics](/metrics/)**: Data on housing production and related statistics
 * **[Legislation](/legislation/)**: Bills, executive orders, and ballot measures that shape housing policy
 * **[State](/state/)**: State-level agencies and governance
