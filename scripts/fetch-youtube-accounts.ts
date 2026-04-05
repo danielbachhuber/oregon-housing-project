@@ -77,7 +77,8 @@ async function fetchRecentVideos(channelId: string): Promise<VideoEntry[]> {
 
 async function main() {
   const args = process.argv.slice(2);
-  const accountId = args[0];
+  const positionalArgs = args.filter(a => !a.startsWith('--'));
+  const accountId = positionalArgs[0];
 
   if (!accountId) {
     console.error(`Usage: tsx scripts/fetch-youtube-accounts.ts <account-id>`);
