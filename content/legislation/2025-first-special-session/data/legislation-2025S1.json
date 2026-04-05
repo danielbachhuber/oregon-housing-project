@@ -1,0 +1,50 @@
+[
+  {
+    "billNumber": "HCR51",
+    "title": "Adjourns sine die the 2025 special session of the Eighty-third Legislative Assembly.",
+    "summary": "\tDigest: Ends session. (Flesch Readability Score: 77.9). \n\tAdjourns sine die the 2025 special session of the Eighty-third Legislative Assembly.",
+    "url": "https://olis.oregonlegislature.gov/liz/2025S1/Measures/Overview/HCR51",
+    "introduced": "2025-08-28T12:22:54",
+    "chamber": "House",
+    "status": "Filed with Secretary of State",
+    "sponsors": [
+      {
+        "name": "Rep Speaker Fahey",
+        "level": "Chief",
+        "type": "Member"
+      }
+    ]
+  },
+  {
+    "billNumber": "HB3991",
+    "title": "Directs the Division of Audits to conduct performance audits of the Department of Transportation.",
+    "summary": "\tDigest: The Act increases and adds taxes related to roads, cars, trucks and buses and says how revenue must be used. The Act would make the per-mile road usage charge mandatory over time. The Act would let a person pay a yearly fee instead of the per-mile road usage charge. The Act tells the Division of Audits to do performance audits of ODOT. (Flesch Readability Score: 71.0). \n\tDirects the Division of Audits to conduct performance audits of the Department of Transportation. Alters the duties of the Joint Committee on Transportation and the Continuous Improvement Advisory Committee. Provides that the Governor shall appoint the Director of Transportation. \n\tIncreases and adds transportation-related fees and taxes. Provides uses of revenues. \n\tImposes a mandatory per-mile road usage charge for electric and hybrid vehicles. Allows an annual fee in lieu of the mandatory per-mile road usage charge. \n\tRepeals the mandatory toll program. \n\tProvides for diesel fuel to be taxed in the same manner as gasoline. \n\tRevises the formula for weight-mile taxes. \n\tTakes effect on the 91st day following adjournment sine die.",
+    "url": "https://olis.oregonlegislature.gov/liz/2025S1/Measures/Overview/HB3991",
+    "introduced": "2025-08-28T12:11:39",
+    "chamber": "House",
+    "status": "Chapter Number Assigned",
+    "sponsors": [
+      {
+        "name": "JSSTF",
+        "level": "Regular",
+        "type": "Committee"
+      }
+    ]
+  },
+  {
+    "billNumber": "HB3992",
+    "title": "Modifies an appropriation from the General Fund to the Emergency Board.",
+    "summary": "\tDigest: The Act makes budget changes for certain state agencies. (Flesch Readability Score: 66.1). \n\tModifies an appropriation from the General Fund to the Emergency Board. \n\tModifies limitations on expenditures for certain biennial expenses for specified state agencies. \n\tAppropriates moneys from the General Fund to specified state agencies for specified biennial expenses. \n\tDeclares an emergency, effective on passage.",
+    "url": "https://olis.oregonlegislature.gov/liz/2025S1/Measures/Overview/HB3992",
+    "introduced": "2025-08-28T12:19:23",
+    "chamber": "House",
+    "status": "Chapter Number Assigned",
+    "sponsors": [
+      {
+        "name": "JSSTF",
+        "level": "Regular",
+        "type": "Committee"
+      }
+    ]
+  }
+]

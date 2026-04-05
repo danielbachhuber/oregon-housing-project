@@ -54,7 +54,7 @@
       "VoteText": null,
       "CreatedDate": "2025-01-13T09:07:45",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 617621,
@@ -67,7 +67,7 @@
       "VoteText": null,
       "CreatedDate": "2025-01-17T14:16:31",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 626619,
@@ -119,7 +119,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-09T15:22:47",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 639676,
@@ -132,7 +132,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-10T11:57:53",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 640256,
@@ -145,7 +145,7 @@
       "VoteText": "Ayes, 27; Nays, 1--Robinson; Excused, 2--Reynolds, Woods.",
       "CreatedDate": "2025-04-14T11:30:22",
       "ModifiedDate": "2025-04-14T11:30:27",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 640477,
@@ -158,7 +158,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-14T15:54:57",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 640680,
@@ -171,7 +171,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-15T10:32:33",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 642570,
@@ -210,7 +210,7 @@
       "VoteText": null,
       "CreatedDate": "2025-05-06T10:39:19",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 644883,
@@ -223,7 +223,7 @@
       "VoteText": null,
       "CreatedDate": "2025-05-06T12:42:06",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 645256,
@@ -249,7 +249,7 @@
       "VoteText": "Ayes, 52; Nays, 1--Evans; Excused, 5--Cate, Grayber, Nguyen H, Osborne, Wallan; Excused for Business of the House, 2--Owens, Speaker Fahey.",
       "CreatedDate": "2025-05-08T12:47:03",
       "ModifiedDate": "2025-05-08T12:47:12",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 646196,

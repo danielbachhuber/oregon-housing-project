@@ -124,7 +124,7 @@
       "VoteText": null,
       "CreatedDate": "2025-01-30T11:30:09",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 619911,
@@ -137,7 +137,7 @@
       "VoteText": null,
       "CreatedDate": "2025-01-30T11:46:04",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 621526,
@@ -176,7 +176,7 @@
       "VoteText": null,
       "CreatedDate": "2025-03-05T12:04:08",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 626852,
@@ -189,7 +189,7 @@
       "VoteText": null,
       "CreatedDate": "2025-03-06T11:39:45",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 627466,
@@ -202,7 +202,7 @@
       "VoteText": "Ayes, 29; Excused, 1--Thatcher.",
       "CreatedDate": "2025-03-10T11:45:52",
       "ModifiedDate": "2025-03-10T11:45:57",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 627787,
@@ -215,7 +215,7 @@
       "VoteText": null,
       "CreatedDate": "2025-03-11T11:58:16",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 628448,
@@ -228,7 +228,7 @@
       "VoteText": null,
       "CreatedDate": "2025-03-13T15:15:27",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 641467,
@@ -267,7 +267,7 @@
       "VoteText": null,
       "CreatedDate": "2025-05-06T10:39:19",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 644890,
@@ -280,7 +280,7 @@
       "VoteText": null,
       "CreatedDate": "2025-05-06T12:42:06",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 645263,
@@ -332,7 +332,7 @@
       "VoteText": "Ayes, 50; Excused, 5--Dobson, Munoz, Nguyen D, Nguyen H, Wallan; Excused for Business of the House, 4--Grayber, McIntire, Nosse, Scharf.",
       "CreatedDate": "2025-05-13T12:05:34",
       "ModifiedDate": "2025-05-13T12:05:41",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 646918,

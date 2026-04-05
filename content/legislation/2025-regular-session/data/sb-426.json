@@ -4,7 +4,7 @@
     "MeasurePrefix": "SB",
     "MeasureNumber": 426,
     "CatchLine": "Makes an owner and a direct contractor jointly and severally liable in a civil action for any unpaid wages owed to the unrepresented employees of the direct contractor and subcontractors at any tier.",
-    "MinorityCatchLine": null,
+    "MinorityCatchLine": "Makes a direct contractor jointly and severally liable in a civil action for any unpaid wages owed to the unrepresented employees of the subcontractors at any tier.",
     "MeasureSummary": "\tDigest: The Act makes laws about unpaid wages for workers who work on construction projects. (Flesch Readability Score: 65.7). \n\tMakes an owner and a direct contractor jointly and severally liable in a civil action for any unpaid wages owed to the unrepresented employees of the direct contractor and subcontractors at any tier. Provides the statute of limitations for actions regarding recovery for unpaid wages. <b>Specifies that the joint and several liability provisions for unpaid wages do not apply to construction work relating to real property that is used as the owner's principal residence or real property with five or fewer residential or commercial units on a single tract.</b> \n\tClarifies that the Attorney General may accept the assignment of claims and bring civil actions in the name of the State of Oregon on such claims. Permits the Attorney General to adopt rules regarding the assignment of claims. \n\tRequires notice to be sent by certified mail that informs the owner and the direct contractor of the alleged violation and specifies the time period within which the owner and the direct contractor may correct the alleged violation. \n\tCreates a rebuttable presumption that, in any action for unpaid wages, the person performing labor on a construction project is an employee. Provides that the party claiming otherwise may rebut the presumption by establishing that the person qualifies as an independent contractor. \n\tProvides that an owner may bring an action against a direct contractor to recover damages for amounts paid by the owner. \n\tRequires subcontractors to provide certain payroll records and other information to the owner or the direct contractor, upon request. Provides that subcontractors shall provide certain payroll records to an authorized third party representative in certain circumstances. Permits the owner and the direct contractor to withhold payment to a subcontractor in certain circumstances. Clarifies that the owner or direct contractor may withhold payment in an amount and to the extent that the owner or direct contractor paid, on behalf of the subcontractor, wages owed to the subcontractor's employees.",
     "CurrentVersion": "B",
     "RelatingToFull": "Relating to wages. \n\t",
@@ -23,7 +23,7 @@
     "LCNumber": 2023,
     "Vetoed": false,
     "CreatedDate": "2024-12-31T13:18:07",
-    "ModifiedDate": "2025-10-29T15:17:07",
+    "ModifiedDate": "2026-02-25T12:20:32",
     "PrefixMeaning": "Senate Bill"
   },
   "sponsors": [
@@ -362,7 +362,7 @@
       "VoteText": null,
       "CreatedDate": "2025-01-13T09:07:47",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 617998,
@@ -375,7 +375,7 @@
       "VoteText": null,
       "CreatedDate": "2025-01-17T14:16:32",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 624707,
@@ -414,7 +414,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-02T15:09:05",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 637156,
@@ -427,7 +427,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-03T11:23:03",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 638248,
@@ -466,7 +466,7 @@
       "VoteText": "Ayes, 18; Nays, 11--Anderson, Bonham, Girod, Hayden, Linthicum, McLane, Nash, Robinson, Smith DB, Starr, Thatcher; Excused, 1--Woods.",
       "CreatedDate": "2025-04-09T12:25:18",
       "ModifiedDate": "2025-04-09T12:25:23",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 639698,
@@ -479,7 +479,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-10T13:41:53",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 640688,
@@ -492,7 +492,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-15T10:32:33",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 645410,
@@ -531,7 +531,7 @@
       "VoteText": null,
       "CreatedDate": "2025-05-23T17:36:15",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 649582,
@@ -544,7 +544,7 @@
       "VoteText": null,
       "CreatedDate": "2025-05-23T17:36:15",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 649691,
@@ -557,7 +557,7 @@
       "VoteText": null,
       "CreatedDate": "2025-05-27T12:10:03",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 650027,
@@ -583,7 +583,7 @@
       "VoteText": null,
       "CreatedDate": "2025-05-28T11:30:19",
       "ModifiedDate": "2025-05-28T11:34:32",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 650030,
@@ -622,7 +622,7 @@
       "VoteText": "Ayes, 31; Nays, 26--Boice, Boshart Davis, Breese-Iverson, Cate, Diehl, Drazan, Edwards, Elmer, Harbick, Helfrich, Isadore, Javadi, Levy B, Lewis, Lively, Mannix, McIntire, Nguyen D, Osborne, Owens, Reschke, Scharf, Skarlatos, Watanabe, Wright, Yunker; Excused, 2--Nguyen H, Wallan.",
       "CreatedDate": "2025-05-28T12:58:49",
       "ModifiedDate": "2025-05-28T12:58:59",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 650503,

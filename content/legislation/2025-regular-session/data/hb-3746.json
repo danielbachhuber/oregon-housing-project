@@ -54,7 +54,7 @@
       "VoteText": null,
       "CreatedDate": "2025-02-27T11:29:08",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 626331,
@@ -67,7 +67,7 @@
       "VoteText": null,
       "CreatedDate": "2025-03-04T16:19:57",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 628032,
@@ -132,7 +132,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-15T15:29:50",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 641231,
@@ -145,7 +145,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-16T10:57:26",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 641731,
@@ -184,7 +184,7 @@
       "VoteText": "Ayes, 46; Nays, 10--Chaichi, Chotzen, Hudson, Munoz, Nathanson, Nelson, Ruiz, Sanchez, Sosa, Walters; Excused, 3--Nguyen H, Smith G, Valderrama; Excused for Business of the House, 1--Kropf.",
       "CreatedDate": "2025-04-22T18:15:39",
       "ModifiedDate": "2025-04-22T18:15:45",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 642479,
@@ -197,7 +197,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-23T11:27:41",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 642541,
@@ -210,7 +210,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-23T13:35:43",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 644601,
@@ -262,7 +262,7 @@
       "VoteText": null,
       "CreatedDate": "2025-06-04T15:07:38",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 652163,
@@ -275,7 +275,7 @@
       "VoteText": null,
       "CreatedDate": "2025-06-05T12:40:06",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 652821,
@@ -340,7 +340,7 @@
       "VoteText": "Ayes, 24; Nays, 4--Broadman, Golden, Jama, Prozanski; Excused, 2--Gorsek, Weber.",
       "CreatedDate": "2025-06-16T16:01:29",
       "ModifiedDate": "2025-06-16T16:01:34",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 656294,

@@ -152,7 +152,7 @@
       "VoteText": null,
       "CreatedDate": "2025-02-25T11:45:40",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 625257,
@@ -165,7 +165,7 @@
       "VoteText": null,
       "CreatedDate": "2025-02-27T11:41:14",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 629572,
@@ -230,7 +230,7 @@
       "VoteText": null,
       "CreatedDate": "2025-05-13T15:33:20",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 646841,
@@ -243,7 +243,7 @@
       "VoteText": null,
       "CreatedDate": "2025-05-14T11:35:35",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 647309,
@@ -256,7 +256,7 @@
       "VoteText": "Ayes, 51; Excused, 5--Nguyen H, Owens, Smith G, Wallan, Wright; Excused for Business of the House, 3--Lewis, McIntire, Speaker Fahey.",
       "CreatedDate": "2025-05-15T11:18:21",
       "ModifiedDate": "2025-05-15T11:18:27",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 647771,
@@ -269,7 +269,7 @@
       "VoteText": null,
       "CreatedDate": "2025-05-19T11:32:55",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 647851,
@@ -282,7 +282,7 @@
       "VoteText": null,
       "CreatedDate": "2025-05-19T12:26:59",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 650941,
@@ -321,7 +321,7 @@
       "VoteText": null,
       "CreatedDate": "2025-06-16T09:37:31",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 654875,
@@ -334,7 +334,7 @@
       "VoteText": null,
       "CreatedDate": "2025-06-16T15:04:10",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 655267,
@@ -347,7 +347,7 @@
       "VoteText": "Ayes, 30.",
       "CreatedDate": "2025-06-17T12:28:23",
       "ModifiedDate": "2025-06-17T12:28:28",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 655744,

@@ -54,7 +54,7 @@
       "VoteText": null,
       "CreatedDate": "2025-01-13T09:07:45",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 617620,
@@ -67,7 +67,7 @@
       "VoteText": null,
       "CreatedDate": "2025-01-17T14:16:31",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 626618,
@@ -106,7 +106,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-17T15:34:05",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 641693,
@@ -184,7 +184,7 @@
       "VoteText": null,
       "CreatedDate": "2025-06-23T08:51:44",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 656651,
@@ -197,7 +197,7 @@
       "VoteText": null,
       "CreatedDate": "2025-06-23T10:47:18",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 656904,
@@ -210,7 +210,7 @@
       "VoteText": "Ayes, 27; Nays, 1--Hayden; Excused, 2--Smith DB, Starr.",
       "CreatedDate": "2025-06-23T15:20:57",
       "ModifiedDate": "2025-06-23T15:21:03",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 656933,
@@ -223,7 +223,7 @@
       "VoteText": null,
       "CreatedDate": "2025-06-23T15:57:26",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 656998,
@@ -236,7 +236,7 @@
       "VoteText": null,
       "CreatedDate": "2025-06-23T16:09:42",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 657632,
@@ -249,7 +249,7 @@
       "VoteText": null,
       "CreatedDate": "2025-06-25T10:50:05",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 657851,
@@ -262,7 +262,7 @@
       "VoteText": null,
       "CreatedDate": "2025-06-25T18:30:30",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 658096,
@@ -275,7 +275,7 @@
       "VoteText": "Ayes, 48; Nays, 3--Owens, Smith G, Walters; Excused, 9--Cate, Elmer, Harbick, Helfrich, McIntire, Nguyen H, Reschke, Wallan, Yunker.",
       "CreatedDate": "2025-06-26T13:43:30",
       "ModifiedDate": "2025-06-26T13:43:42",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 658390,

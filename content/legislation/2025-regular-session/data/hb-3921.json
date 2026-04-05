@@ -68,7 +68,7 @@
       "VoteText": null,
       "CreatedDate": "2025-03-13T11:38:15",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 628727,
@@ -81,7 +81,7 @@
       "VoteText": null,
       "CreatedDate": "2025-03-14T14:46:23",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 634933,
@@ -120,7 +120,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-10T16:51:13",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 640244,
@@ -133,7 +133,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-14T11:07:48",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 641015,
@@ -172,7 +172,7 @@
       "VoteText": "Ayes, 49; Nays, 2--Neron, Walters; Excused, 5--Dobson, McDonald, Nguyen H, Sosa, Valderrama; Excused for Business of the House, 4--Hartman, McIntire, Reschke, Sanchez.",
       "CreatedDate": "2025-04-17T14:59:11",
       "ModifiedDate": "2025-04-17T16:12:35",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 642017,
@@ -185,7 +185,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-21T11:40:01",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 642106,
@@ -198,7 +198,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-21T14:56:25",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 643749,
@@ -237,7 +237,7 @@
       "VoteText": null,
       "CreatedDate": "2025-05-14T09:52:42",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 646867,
@@ -250,7 +250,7 @@
       "VoteText": null,
       "CreatedDate": "2025-05-14T12:05:49",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 647403,
@@ -289,7 +289,7 @@
       "VoteText": "Ayes, 26; Nays, 2--Broadman, Neron Misslin; Excused, 2--Anderson, Thatcher.",
       "CreatedDate": "2025-05-20T12:26:32",
       "ModifiedDate": "2025-05-20T12:26:37",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 648852,

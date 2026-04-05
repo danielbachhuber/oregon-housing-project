@@ -54,7 +54,7 @@
       "VoteText": null,
       "CreatedDate": "2025-01-13T09:07:45",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 617657,
@@ -67,7 +67,7 @@
       "VoteText": null,
       "CreatedDate": "2025-01-17T14:16:31",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 635735,
@@ -106,7 +106,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-14T15:10:12",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 640454,
@@ -132,7 +132,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-15T11:36:29",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 641337,
@@ -145,7 +145,7 @@
       "VoteText": "Ayes, 28; Excused, 2--Gelser Blouin, Woods.",
       "CreatedDate": "2025-04-16T11:53:22",
       "ModifiedDate": "2025-04-16T11:53:29",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 641412,
@@ -158,7 +158,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-16T12:50:59",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 641848,
@@ -171,7 +171,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-18T10:51:31",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 643273,
@@ -210,7 +210,7 @@
       "VoteText": null,
       "CreatedDate": "2025-05-19T10:08:18",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 647806,
@@ -223,7 +223,7 @@
       "VoteText": null,
       "CreatedDate": "2025-05-19T11:46:57",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 648450,
@@ -236,7 +236,7 @@
       "VoteText": "Ayes, 46; Nays, 1--Cate; Excused, 5--Breese-Iverson, Drazan, Nguyen H, Smith G, Wallan; Excused for Business of the House, 7--Boshart Davis, Helfrich, Helm, Kropf, Owens, Sanchez, Speaker Fahey.",
       "CreatedDate": "2025-05-20T12:59:16",
       "ModifiedDate": "2025-05-20T12:59:25",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 649005,

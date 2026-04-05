@@ -54,7 +54,7 @@
       "VoteText": null,
       "CreatedDate": "2025-01-13T08:01:43",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 616262,
@@ -67,7 +67,7 @@
       "VoteText": null,
       "CreatedDate": "2025-01-17T12:51:58",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 620004,
@@ -119,7 +119,7 @@
       "VoteText": null,
       "CreatedDate": "2025-06-06T13:36:07",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 652715,
@@ -132,7 +132,7 @@
       "VoteText": null,
       "CreatedDate": "2025-06-09T12:13:19",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 653097,
@@ -145,7 +145,7 @@
       "VoteText": "Ayes, 54; Excused, 3--Dobson, Nguyen H, Wallan; Excused for Business of the House, 3--Nosse, Reschke, Speaker Fahey.",
       "CreatedDate": "2025-06-10T11:47:13",
       "ModifiedDate": "2025-06-10T11:47:20",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 653400,
@@ -158,7 +158,7 @@
       "VoteText": null,
       "CreatedDate": "2025-06-11T08:28:48",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 653503,
@@ -171,7 +171,7 @@
       "VoteText": null,
       "CreatedDate": "2025-06-11T11:02:55",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 654945,
@@ -197,7 +197,7 @@
       "VoteText": null,
       "CreatedDate": "2025-06-19T09:41:42",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 656028,
@@ -210,7 +210,7 @@
       "VoteText": null,
       "CreatedDate": "2025-06-19T12:17:21",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 656438,
@@ -223,7 +223,7 @@
       "VoteText": "Ayes, 28; Excused, 2--Hayden, Linthicum.",
       "CreatedDate": "2025-06-20T13:40:57",
       "ModifiedDate": "2025-06-20T13:41:01",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 656884,

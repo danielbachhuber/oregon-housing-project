@@ -222,7 +222,7 @@
       "VoteText": null,
       "CreatedDate": "2025-05-07T12:04:29",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 646824,
@@ -235,7 +235,7 @@
       "VoteText": null,
       "CreatedDate": "2025-05-14T11:03:55",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 650922,
@@ -274,7 +274,7 @@
       "VoteText": null,
       "CreatedDate": "2025-06-18T10:58:47",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 655959,
@@ -287,7 +287,7 @@
       "VoteText": null,
       "CreatedDate": "2025-06-19T10:05:53",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 656473,
@@ -313,7 +313,7 @@
       "VoteText": "Ayes, 42; Absent, 1--Harbick; Excused, 14--Boice, Boshart Davis, Cate, Diehl, Drazan, Edwards, Evans, Nguyen H, Osborne, Scharf, Skarlatos, Wallan, Wright, Yunker; Excused for Business of the House, 3--Dobson, Hartman, Nathanson.",
       "CreatedDate": "2025-06-23T12:16:28",
       "ModifiedDate": "2025-06-23T12:16:35",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 656880,
@@ -326,7 +326,7 @@
       "VoteText": null,
       "CreatedDate": "2025-06-23T15:13:14",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 657227,
@@ -339,7 +339,7 @@
       "VoteText": null,
       "CreatedDate": "2025-06-24T10:55:14",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 657470,
@@ -378,7 +378,7 @@
       "VoteText": null,
       "CreatedDate": "2025-06-26T09:47:49",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 657982,
@@ -391,7 +391,7 @@
       "VoteText": null,
       "CreatedDate": "2025-06-26T10:45:37",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 658143,
@@ -404,7 +404,7 @@
       "VoteText": "Ayes, 28; Absent, 1--Meek; Excused, 1--Thatcher.",
       "CreatedDate": "2025-06-26T15:12:38",
       "ModifiedDate": "2025-06-26T15:13:05",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 658355,

@@ -124,7 +124,7 @@
       "VoteText": null,
       "CreatedDate": "2025-01-21T09:17:22",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 618854,
@@ -137,7 +137,7 @@
       "VoteText": null,
       "CreatedDate": "2025-01-21T11:33:02",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 623438,
@@ -202,7 +202,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-16T14:00:25",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 641555,
@@ -215,7 +215,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-17T11:07:44",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 641994,
@@ -241,7 +241,7 @@
       "VoteText": "Ayes, 29.",
       "CreatedDate": "2025-04-22T11:47:03",
       "ModifiedDate": "2025-04-22T11:47:09",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 642395,
@@ -254,7 +254,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-22T16:20:16",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 642840,
@@ -267,7 +267,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-24T14:11:23",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 645060,
@@ -306,7 +306,7 @@
       "VoteText": null,
       "CreatedDate": "2025-05-14T17:46:21",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 647334,
@@ -319,7 +319,7 @@
       "VoteText": null,
       "CreatedDate": "2025-05-15T11:21:01",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 647936,
@@ -345,7 +345,7 @@
       "VoteText": "Ayes, 42; Nays, 10--Andersen, Chaichi, Chotzen, Gamba, Isadore, Munoz, Nathanson, Nelson, Ruiz, Sanchez; Excused, 6--Breese-Iverson, Drazan, McIntire, Nguyen H, Smith G, Wallan; Excused for Business of the House, 1--Reschke.",
       "CreatedDate": "2025-05-20T11:50:36",
       "ModifiedDate": "2025-05-20T13:32:21",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 649015,

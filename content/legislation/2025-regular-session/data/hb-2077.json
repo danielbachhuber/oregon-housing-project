@@ -54,7 +54,7 @@
       "VoteText": null,
       "CreatedDate": "2025-01-13T08:01:43",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 616250,
@@ -67,7 +67,7 @@
       "VoteText": null,
       "CreatedDate": "2025-01-17T12:51:58",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 620588,
@@ -106,7 +106,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-03T14:55:44",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 638179,
@@ -119,7 +119,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-07T11:36:25",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 638885,
@@ -145,7 +145,7 @@
       "VoteText": "Ayes, 56; Excused, 4--Cate, Evans, Nguyen H, Scharf.",
       "CreatedDate": "2025-04-09T12:11:51",
       "ModifiedDate": "2025-04-09T12:11:56",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 639771,
@@ -158,7 +158,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-10T14:45:13",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 639833,
@@ -171,7 +171,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-10T15:27:47",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 644356,
@@ -210,7 +210,7 @@
       "VoteText": null,
       "CreatedDate": "2025-05-15T10:25:22",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 647364,
@@ -223,7 +223,7 @@
       "VoteText": null,
       "CreatedDate": "2025-05-15T11:50:25",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 647842,
@@ -262,7 +262,7 @@
       "VoteText": "Ayes, 26; Excused, 4--Bonham, Gorsek, Manning Jr, Taylor.",
       "CreatedDate": "2025-05-21T11:32:45",
       "ModifiedDate": "2025-05-21T11:32:50",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 649185,

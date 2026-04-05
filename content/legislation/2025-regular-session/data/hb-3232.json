@@ -208,7 +208,7 @@
       "VoteText": null,
       "CreatedDate": "2025-01-13T08:01:47",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 617405,
@@ -221,7 +221,7 @@
       "VoteText": null,
       "CreatedDate": "2025-01-17T12:52:01",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 619605,
@@ -260,7 +260,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-03T14:55:44",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 638191,
@@ -273,7 +273,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-07T11:36:25",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 638897,
@@ -312,7 +312,7 @@
       "VoteText": "Ayes, 54; Excused, 4--Cate, Lewis, Nguyen H, Owens; Excused for Business of the House, 2--Drazan, Speaker Fahey.",
       "CreatedDate": "2025-04-10T12:21:19",
       "ModifiedDate": "2025-04-10T12:21:25",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 639782,
@@ -325,7 +325,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-10T14:45:13",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 639844,
@@ -338,7 +338,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-10T15:27:47",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 644358,
@@ -377,7 +377,7 @@
       "VoteText": null,
       "CreatedDate": "2025-05-15T10:25:22",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 647371,
@@ -390,7 +390,7 @@
       "VoteText": null,
       "CreatedDate": "2025-05-15T11:50:25",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 647849,
@@ -429,7 +429,7 @@
       "VoteText": "Ayes, 27; Excused, 3--Bonham, Manning Jr, Taylor.",
       "CreatedDate": "2025-05-21T11:51:04",
       "ModifiedDate": "2025-05-21T11:51:09",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 649196,

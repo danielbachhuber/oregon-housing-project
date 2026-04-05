@@ -54,7 +54,7 @@
       "VoteText": null,
       "CreatedDate": "2025-01-13T09:07:45",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 617673,
@@ -67,7 +67,7 @@
       "VoteText": null,
       "CreatedDate": "2025-01-17T14:16:31",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 620200,
@@ -106,7 +106,7 @@
       "VoteText": null,
       "CreatedDate": "2025-03-06T10:41:57",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 626848,
@@ -119,7 +119,7 @@
       "VoteText": null,
       "CreatedDate": "2025-03-06T11:39:45",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 627458,
@@ -132,7 +132,7 @@
       "VoteText": "Ayes, 29; Excused, 1--Thatcher.",
       "CreatedDate": "2025-03-10T11:21:23",
       "ModifiedDate": "2025-03-10T11:21:29",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 627783,
@@ -145,7 +145,7 @@
       "VoteText": null,
       "CreatedDate": "2025-03-11T11:58:16",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 628435,
@@ -158,7 +158,7 @@
       "VoteText": null,
       "CreatedDate": "2025-03-13T15:15:27",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 645004,
@@ -197,7 +197,7 @@
       "VoteText": null,
       "CreatedDate": "2025-06-13T16:48:12",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 654529,

@@ -3,7 +3,7 @@
     "SessionKey": "2025R1",
     "MeasurePrefix": "HB",
     "MeasureNumber": 3556,
-    "CatchLine": "Extends the permissible uses of net revenue from a new or increased local transient lodging tax to include public safety services and certain costs related to \"community infrastructure.",
+    "CatchLine": "Extends the permissible uses of net revenue from a new or increased local transient lodging tax to include public safety services and certain costs related to \"community infrastructure.\"",
     "MinorityCatchLine": null,
     "MeasureSummary": "\tDigest: The Act would let a city or county use net revenue from its hotel tax to fund the costs of public safety and costs that are tied to infrastructure. (Flesch Readability Score: 60.7). \n\tExtends the permissible uses of net revenue from a new or increased local transient lodging tax to include public safety services and certain costs related to \"community infrastructure.\" \n\tTakes effect on the 91st day following adjournment sine die.",
     "CurrentVersion": null,
@@ -23,7 +23,7 @@
     "LCNumber": 1500,
     "Vetoed": false,
     "CreatedDate": "2025-02-10T12:58:54",
-    "ModifiedDate": "2025-03-25T08:58:17",
+    "ModifiedDate": "2026-02-25T12:05:28",
     "PrefixMeaning": "House Bill"
   },
   "sponsors": [
@@ -82,7 +82,7 @@
       "VoteText": null,
       "CreatedDate": "2025-02-11T11:20:42",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 622099,
@@ -95,7 +95,7 @@
       "VoteText": null,
       "CreatedDate": "2025-02-12T13:25:59",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 630266,

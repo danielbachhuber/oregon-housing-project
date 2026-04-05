@@ -96,7 +96,7 @@
       "VoteText": null,
       "CreatedDate": "2025-02-04T09:53:06",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 621051,
@@ -109,7 +109,7 @@
       "VoteText": null,
       "CreatedDate": "2025-02-06T12:18:26",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 625831,
@@ -148,7 +148,7 @@
       "VoteText": null,
       "CreatedDate": "2025-03-13T12:12:31",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 628975,
@@ -161,7 +161,7 @@
       "VoteText": null,
       "CreatedDate": "2025-03-17T11:24:05",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 629426,
@@ -174,7 +174,7 @@
       "VoteText": "Ayes, 51; Nays, 4--Cate, Diehl, Harbick, Osborne; Excused, 4--Evans, Nguyen H, Owens, Walters; Excused for Business of the House, 1--Yunker.",
       "CreatedDate": "2025-03-18T12:21:07",
       "ModifiedDate": "2025-03-18T12:21:24",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 630196,
@@ -187,7 +187,7 @@
       "VoteText": null,
       "CreatedDate": "2025-03-20T12:43:24",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 630223,
@@ -200,7 +200,7 @@
       "VoteText": null,
       "CreatedDate": "2025-03-20T13:06:14",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 641456,
@@ -239,7 +239,7 @@
       "VoteText": null,
       "CreatedDate": "2025-05-05T09:52:18",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 644494,
@@ -252,7 +252,7 @@
       "VoteText": null,
       "CreatedDate": "2025-05-05T11:32:57",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 644857,
@@ -265,7 +265,7 @@
       "VoteText": "Ayes, 28; Excused, 1--Gorsek.",
       "CreatedDate": "2025-05-06T12:24:54",
       "ModifiedDate": "2025-05-06T12:24:59",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 645527,

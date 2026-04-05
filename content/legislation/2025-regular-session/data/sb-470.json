@@ -306,7 +306,7 @@
       "VoteText": null,
       "CreatedDate": "2025-01-13T09:07:47",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 618042,
@@ -319,7 +319,7 @@
       "VoteText": null,
       "CreatedDate": "2025-01-17T14:16:32",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 620278,
@@ -358,7 +358,7 @@
       "VoteText": null,
       "CreatedDate": "2025-03-19T10:51:40",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 630187,
@@ -371,7 +371,7 @@
       "VoteText": null,
       "CreatedDate": "2025-03-20T12:43:14",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 631978,
@@ -397,7 +397,7 @@
       "VoteText": "Ayes, 29; Excused, 1--Woods.",
       "CreatedDate": "2025-03-25T11:02:25",
       "ModifiedDate": "2025-03-25T12:31:34",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 632456,
@@ -423,7 +423,7 @@
       "VoteText": null,
       "CreatedDate": "2025-03-27T11:58:05",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 635854,
@@ -436,7 +436,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-01T16:22:11",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 642874,
@@ -475,7 +475,7 @@
       "VoteText": null,
       "CreatedDate": "2025-05-21T14:31:02",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 649268,
@@ -488,7 +488,7 @@
       "VoteText": null,
       "CreatedDate": "2025-05-22T13:00:44",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 649526,
@@ -540,7 +540,7 @@
       "VoteText": "Ayes, 49; Excused, 7--Diehl, Evans, Gamba, Levy B, Nguyen H, Wallan, Watanabe; Excused for Business of the House, 3--Drazan, Mannix, Sanchez.",
       "CreatedDate": "2025-05-29T13:33:59",
       "ModifiedDate": "2025-05-29T13:34:06",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 650945,

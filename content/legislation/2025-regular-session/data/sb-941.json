@@ -68,7 +68,7 @@
       "VoteText": null,
       "CreatedDate": "2025-01-23T10:56:27",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 619036,
@@ -81,7 +81,7 @@
       "VoteText": null,
       "CreatedDate": "2025-01-23T13:00:25",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 659596,

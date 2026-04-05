@@ -54,7 +54,7 @@
       "VoteText": null,
       "CreatedDate": "2025-02-27T11:02:49",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 625723,
@@ -67,7 +67,7 @@
       "VoteText": null,
       "CreatedDate": "2025-03-03T14:19:57",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 627073,
@@ -132,7 +132,7 @@
       "VoteText": null,
       "CreatedDate": "2025-03-17T15:27:05",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 629352,
@@ -145,7 +145,7 @@
       "VoteText": null,
       "CreatedDate": "2025-03-18T11:26:31",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 630200,
@@ -171,7 +171,7 @@
       "VoteText": "Ayes, 27; Nays, 1--Robinson; Excused, 2--Smith DB, Woods.",
       "CreatedDate": "2025-03-24T11:43:26",
       "ModifiedDate": "2025-03-24T11:43:30",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 632410,
@@ -184,7 +184,7 @@
       "VoteText": null,
       "CreatedDate": "2025-03-25T11:59:52",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 633449,
@@ -197,7 +197,7 @@
       "VoteText": null,
       "CreatedDate": "2025-03-27T10:51:19",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 633692,
@@ -210,7 +210,7 @@
       "VoteText": null,
       "CreatedDate": "2025-03-27T13:43:56",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 634716,
@@ -223,7 +223,7 @@
       "VoteText": null,
       "CreatedDate": "2025-03-31T12:14:37",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 635614,
@@ -249,7 +249,7 @@
       "VoteText": "Ayes, 51; Excused, 7--Cate, Elmer, Evans, Hartman, Nguyen D, Nguyen H, Valderrama; Excused for Business of the House, 2--McLain, Wallan.",
       "CreatedDate": "2025-04-02T12:31:43",
       "ModifiedDate": "2025-04-02T12:31:48",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 637330,

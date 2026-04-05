@@ -222,7 +222,7 @@
       "VoteText": null,
       "CreatedDate": "2025-02-04T11:30:29",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 620461,
@@ -235,7 +235,7 @@
       "VoteText": null,
       "CreatedDate": "2025-02-04T12:45:15",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 629144,
@@ -287,7 +287,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-18T10:20:29",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 641986,
@@ -300,7 +300,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-21T11:39:03",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 642319,
@@ -352,7 +352,7 @@
       "VoteText": "Ayes, 29.",
       "CreatedDate": "2025-04-28T12:01:09",
       "ModifiedDate": "2025-04-28T12:01:15",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 643313,
@@ -365,7 +365,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-29T10:10:37",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 643486,
@@ -378,7 +378,7 @@
       "VoteText": null,
       "CreatedDate": "2025-04-29T14:58:02",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 644599,
@@ -443,7 +443,7 @@
       "VoteText": null,
       "CreatedDate": "2025-05-27T10:51:44",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 650053,
@@ -456,7 +456,7 @@
       "VoteText": null,
       "CreatedDate": "2025-05-28T13:25:32",
       "ModifiedDate": null,
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 650698,
@@ -495,7 +495,7 @@
       "VoteText": "Ayes, 50; Nays, 4--Chaichi, Evans, Gamba, Lively; Excused, 4--Hartman, Helfrich, Nguyen H, Wallan; Excused for Business of the House, 1--Sanchez.",
       "CreatedDate": "2025-06-03T15:25:25",
       "ModifiedDate": "2025-06-03T15:25:33",
-      "PublicNotification": true
+      "PublicNotification": false
     },
     {
       "MeasureHistoryId": 651501,
