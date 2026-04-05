@@ -1,6 +1,7 @@
 +++
 date = '2026-02-07'
 title = 'Keith Wilson'
+bookHidden = false
 +++
 
 # Keith Wilson

@@ -3,6 +3,7 @@ title = 'Housing Oregon'
 date = '2026-03-29'
 external_url = 'https://housingoregon.org'
 testimony_names = ['Housing Oregon']
+bookHidden = false
 +++
 
 # Housing Oregon

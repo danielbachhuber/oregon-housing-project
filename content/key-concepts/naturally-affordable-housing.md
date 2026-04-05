@@ -2,7 +2,6 @@
 title = 'Naturally Affordable Housing'
 date = '2026-01-11'
 summary = 'Housing that is affordable through market forces rather than subsidies, and why its preservation depends on building enough new supply.'
-bookHidden = true
 +++
 
 # Naturally Affordable Housing

@@ -3,6 +3,7 @@ title = 'League of Oregon Cities'
 date = '2026-03-29'
 external_url = 'https://www.orcities.org'
 testimony_names = ['League of Oregon Cities', 'League of Oregon Cities ']
+bookHidden = false
 +++
 
 # League of Oregon Cities
