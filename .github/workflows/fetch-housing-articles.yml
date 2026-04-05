@@ -14,6 +14,7 @@ jobs:
   search-and-process:
     runs-on: ubuntu-latest
     strategy:
+      fail-fast: false
       matrix:
         source: [opb, wweek, occ]
     steps:
@@ -38,13 +39,69 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: pnpm fetch-housing-articles -- ${{ matrix.source }}
 
-      - name: Check for New Articles and Create PRs
+      - name: Upload new articles
+        uses: actions/upload-artifact@v4
+        with:
+          name: articles-${{ matrix.source }}
+          path: content/news-coverage/
+          if-no-files-found: ignore
+
+  create-prs:
+    needs: search-and-process
+    if: always() && needs.search-and-process.result != 'cancelled'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v3
+        with:
+          version: 9
+
+      - name: Install dependencies
+        run: pnpm install
+
+      - name: Download all artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: artifacts/
+          pattern: articles-*
+
+      - name: Create PRs for new articles
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          # Find untracked markdown files in content/news-coverage/
-          # We use git status --porcelain to find new files (?? status)
-          NEW_FILES=$(git status --porcelain content/news-coverage/ | grep '^??' | cut -c4-)
+          git config user.name 'oregonhousingproject[bot]'
+          git config user.email 'info@oregonhousingproject.org'
+
+          # Collect new article files from artifacts into a staging directory
+          mkdir -p staged-articles
+          for dir in artifacts/articles-*/; do
+            [ -d "$dir" ] || continue
+            find "$dir" -name '*.md' -not -path '*/data/*' | while read -r src; do
+              rel="${src#$dir}"
+              dest="staged-articles/$rel"
+              mkdir -p "$(dirname "$dest")"
+              cp "$src" "$dest"
+            done
+          done
+
+          # Filter to only files that don't already exist in the repo
+          NEW_FILES=""
+          for file in $(find staged-articles -name '*.md' 2>/dev/null); do
+            rel="${file#staged-articles/}"
+            dest="content/news-coverage/$rel"
+            if [ ! -f "$dest" ]; then
+              NEW_FILES="$NEW_FILES $rel"
+            fi
+          done
+          NEW_FILES=$(echo "$NEW_FILES" | xargs)
 
           if [ -z "$NEW_FILES" ]; then
             echo "No new articles found."
@@ -52,21 +109,26 @@ jobs:
           fi
 
           echo "Found new articles: $NEW_FILES"
+          git fetch origin main
 
-          git config user.name 'oregonhousingproject[bot]'
-          git config user.email 'info@oregonhousingproject.org'
-
-          for file in $NEW_FILES; do
+          for rel in $NEW_FILES; do
+             file="content/news-coverage/$rel"
              echo "Processing $file..."
 
              # Extract slug from filename for branch name
-             BASENAME=$(basename "$file" .md)
+             BASENAME=$(basename "$rel" .md)
              BRANCH_NAME="housing-article-${BASENAME}"
 
-             # Create a new branch from main (fresh state)
-             # Note: We must fetch latest main first if we just pushed state
-             git fetch origin main
+             # Skip if a branch already exists (previous run created a PR)
+             if git ls-remote --exit-code --heads origin "$BRANCH_NAME" >/dev/null 2>&1; then
+               echo "  -> Branch $BRANCH_NAME already exists, skipping."
+               continue
+             fi
              git checkout -b "$BRANCH_NAME" origin/main
+
+             # Copy the article file from staging
+             mkdir -p "$(dirname "$file")"
+             cp "staged-articles/$rel" "$file"
 
              # Auto-link legislation, people, and cities
              pnpm refine-internal-links --write "$file"
@@ -75,8 +137,8 @@ jobs:
              git add "$file"
 
              # Commit
-             TITLE=$(grep '^title' "$file" | head -n 1 | sed "s/title = '//;s/'$//")
-             git commit -m "Add article: $TITLE"
+             TITLE=$(grep '^title' "$file" | head -n 1 | sed 's/title = ["'"'"']//;s/["'"'"']$//')
+             git commit -m "Add article: title = \"$TITLE\""
 
              # Push
              git push -u origin "$BRANCH_NAME"
@@ -96,10 +158,18 @@ jobs:
           done
 
       - name: Update Processed URLs State
-        if: success()
         run: |
           git config user.name 'oregonhousingproject[bot]'
           git config user.email 'info@oregonhousingproject.org'
+          git checkout main
+
+          # Copy state files from artifacts
+          for dir in artifacts/articles-*/; do
+            [ -d "$dir" ] || continue
+            if [ -d "${dir}data" ]; then
+              cp "${dir}data"/processed-*-urls.txt content/news-coverage/data/ 2>/dev/null || true
+            fi
+          done
 
           # Check if state files have changed
           if [[ -n $(git status --porcelain content/news-coverage/data/processed-*-urls.txt) ]]; then
