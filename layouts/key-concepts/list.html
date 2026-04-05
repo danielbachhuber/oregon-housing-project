@@ -1,0 +1,18 @@
+{{ define "main" }}
+<article class="markdown book-article">
+  <h1>{{ .Title }}</h1>
+
+  {{ .Content }}
+
+  {{ $visible := where .Pages "Params.bookHidden" "ne" true }}
+  {{ $hidden := where .Pages "Params.bookHidden" true }}
+  {{ $pages := union $visible $hidden }}
+  {{ if $pages }}
+  <ul>
+    {{ range $pages }}
+    <li><a href="{{ .Permalink }}">{{ .Title }}</a>{{ with .Params.summary }} — {{ . }}{{ end }}</li>
+    {{ end }}
+  </ul>
+  {{ end }}
+</article>
+{{ end }}
