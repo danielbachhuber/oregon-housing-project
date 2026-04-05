@@ -40,6 +40,26 @@ interface ClassificationResult {
   one_sentence_summary: string;
 }
 
+function sessionCodeToDir(sessionCode: string): string {
+  const match = sessionCode.match(/^(\d{4})(R|S)(\d+)$/);
+  if (!match) return sessionCode;
+  const [, year, type, num] = match;
+  if (type === 'R') return `${year}-regular-session`;
+  const ordinals = ['first', 'second', 'third', 'fourth', 'fifth'];
+  const ordinal = ordinals[parseInt(num) - 1] || num;
+  return `${year}-${ordinal}-special-session`;
+}
+
+function sessionCodeToTitle(sessionCode: string): string {
+  const match = sessionCode.match(/^(\d{4})(R|S)(\d+)$/);
+  if (!match) return sessionCode;
+  const [, year, type, num] = match;
+  if (type === 'R') return `${year} Regular Session`;
+  const ordinals = ['1st', '2nd', '3rd', '4th', '5th'];
+  const ordinal = ordinals[parseInt(num) - 1] || `${num}th`;
+  return `${year} ${ordinal} Special Session`;
+}
+
 async function main() {
   if (!ANTHROPIC_API_KEY) {
     console.error('Error: ANTHROPIC_API_KEY is not set.');
@@ -68,13 +88,22 @@ async function main() {
   const year = positionalArgs[0];
   const session = sessionArg ? sessionArg.split('=')[1] : 'R1';
   const sessionCode = `${year}${session}`;
+  const sessionDir = sessionCodeToDir(sessionCode);
+  const sessionTitle = sessionCodeToTitle(sessionCode);
 
-  console.log(`Fetching legislation for ${sessionCode}...`);
+  console.log(`Fetching legislation for ${sessionCode} (${sessionTitle})...`);
 
-  // Create year-specific data directory
-  const yearDataDir = path.join(LEGISLATION_DIR, year, 'data');
-  if (!fs.existsSync(yearDataDir)) {
-    fs.mkdirSync(yearDataDir, { recursive: true });
+  // Create session-specific data directory
+  const sessionDataDir = path.join(LEGISLATION_DIR, sessionDir, 'data');
+  if (!fs.existsSync(sessionDataDir)) {
+    fs.mkdirSync(sessionDataDir, { recursive: true });
+  }
+
+  // Create _index.md for session directory if it doesn't exist
+  const indexPath = path.join(LEGISLATION_DIR, sessionDir, '_index.md');
+  if (!fs.existsSync(indexPath)) {
+    fs.writeFileSync(indexPath, `+++\ntitle = '${sessionTitle}'\nbookCollapseSection = true\n+++\n\n<!-- clickable sidebar link -->\n`);
+    console.log(`Created ${indexPath}`);
   }
 
   // Fetch all bills from API
@@ -87,15 +116,15 @@ async function main() {
 
   console.log(`Successfully fetched ${bills.length} bills from API.`);
 
-  // Save raw data to JSON in year-specific directory
-  const jsonPath = path.join(yearDataDir, `legislation-${sessionCode}.json`);
+  // Save raw data to JSON in session-specific directory
+  const jsonPath = path.join(sessionDataDir, `legislation-${sessionCode}.json`);
   fs.writeFileSync(jsonPath, JSON.stringify(bills, null, 2));
   console.log(`Saved raw data to ${jsonPath}`);
 
   // Update front matter on existing bill files regardless of classification
   let updatedCount = 0;
   for (const bill of bills) {
-    const filename = generateFilename(year, bill.billNumber);
+    const filename = generateFilename(sessionDir, bill.billNumber);
     const filepath = path.join(LEGISLATION_DIR, filename);
     if (fs.existsSync(filepath)) {
       updateBillFrontMatter(filepath, bill, legislators);
@@ -137,10 +166,10 @@ async function main() {
       const classification = classificationCache.get(bill.billNumber)!;
       if (classification.is_housing) {
         housingBills.push(bill);
-        const filename = generateFilename(year, bill.billNumber);
+        const filename = generateFilename(sessionDir, bill.billNumber);
         const filepath = path.join(LEGISLATION_DIR, filename);
         if (!fs.existsSync(filepath)) {
-          createBillFile(filepath, bill, classification, year, legislators);
+          createBillFile(filepath, bill, classification, sessionCode, legislators);
           console.log(`  ${bill.billNumber} -> [CACHED: HOUSING] Created file: ${filename}`);
           housingCount++;
         }
@@ -173,13 +202,13 @@ async function main() {
 
           housingBills.push(bill);
 
-          const filename = generateFilename(year, bill.billNumber);
+          const filename = generateFilename(sessionDir, bill.billNumber);
           const filepath = path.join(LEGISLATION_DIR, filename);
 
           if (fs.existsSync(filepath)) {
             console.log(`    File already exists: ${filename}`);
           } else {
-            createBillFile(filepath, bill, classification, year, legislators);
+            createBillFile(filepath, bill, classification, sessionCode, legislators);
             console.log(`    Created file: ${filename}`);
             housingCount++;
           }
@@ -435,10 +464,10 @@ function formatBillNumber(billNumber: string): string {
   return billNumber.replace(/^([A-Za-z]+)(\d+)$/, '$1 $2').toUpperCase();
 }
 
-function generateFilename(year: string, billNumber: string): string {
+function generateFilename(sessionDir: string, billNumber: string): string {
   // "HB2001" -> "hb-2001", "SJR202" -> "sjr-202"
   const slug = billNumber.replace(/^([A-Za-z]+)(\d+)$/, '$1-$2').toLowerCase();
-  return `${year}/${slug}.md`;
+  return `${sessionDir}/${slug}.md`;
 }
 
 function generatePersonSlug(legislator: ODataLegislator | null): string {
@@ -562,14 +591,15 @@ function updateBillFrontMatter(filepath: string, bill: Bill, legislators: Map<st
   fs.writeFileSync(filepath, `+++\n${updatedFrontMatter}\n+++${body}`);
 }
 
-function createBillFile(filepath: string, bill: Bill, classification: ClassificationResult, year: string, legislators: Map<string, ODataLegislator>) {
+function createBillFile(filepath: string, bill: Bill, classification: ClassificationResult, sessionCode: string, legislators: Map<string, ODataLegislator>) {
   const dir = path.dirname(filepath);
   if (!fs.existsSync(dir)) {
     fs.mkdirSync(dir, { recursive: true });
   }
 
   // Use the bill's introduced date if available, otherwise use Jan 1 of the session year
-  const date = bill.introduced ? bill.introduced.split('T')[0] : `${year}-01-01`;
+  const yearFromSession = sessionCode.replace(/[A-Z]\d+$/, '');
+  const date = bill.introduced ? bill.introduced.split('T')[0] : `${yearFromSession}-01-01`;
 
   // Generate sponsors section with links
   let sponsorsSection = '';

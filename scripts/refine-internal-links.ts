@@ -134,47 +134,74 @@ function buildLegislationEntities(): { entities: Entity[]; ambiguous: string[] }
     }
   }
 
-  // Identify ambiguous bill numbers
-  const ambiguous: string[] = [];
-  for (const [title, years] of billNumberToYears) {
-    if (years.length > 1) {
-      ambiguous.push(title);
+  // Identify ambiguous bill numbers (same title in multiple session dirs)
+  const ambiguousSet = new Set<string>();
+  for (const [title, dirs] of billNumberToYears) {
+    if (dirs.length > 1) {
+      ambiguousSet.add(title);
     }
   }
+  const ambiguous = Array.from(ambiguousSet);
 
-  // Second pass: build entities, skipping ambiguous ones
-  for (const yearDir of fs.readdirSync(dir)) {
-    const yearPath = path.join(dir, yearDir);
-    if (!fs.statSync(yearPath).isDirectory()) continue;
+  // Second pass: build entities
+  for (const sessionDir of fs.readdirSync(dir)) {
+    const sessionPath = path.join(dir, sessionDir);
+    if (!fs.statSync(sessionPath).isDirectory()) continue;
 
-    for (const file of fs.readdirSync(yearPath)) {
+    // Extract year from session dir name (e.g., "2019-regular-session" → "2019")
+    const yearMatch = sessionDir.match(/^(\d{4})/);
+    const year = yearMatch ? yearMatch[1] : sessionDir;
+
+    for (const file of fs.readdirSync(sessionPath)) {
       if (file === '_index.md' || !file.endsWith('.md')) continue;
-      const title = extractTitle(path.join(yearPath, file));
+      const title = extractTitle(path.join(sessionPath, file));
       if (!title) continue;
-      if (ambiguous.includes(title)) continue;
 
       const slug = file.replace('.md', '');
-      const url = `/legislation/${yearDir}/${slug}`;
+      const url = `/legislation/${sessionDir}/${slug}`;
+      const isAmbiguous = ambiguousSet.has(title);
       const patterns: RegExp[] = [];
 
-      // Short form: exact title match (e.g. "HB 2138", "SB 100", "EO 23-04", "Measure 5", "SJR202")
-      patterns.push(new RegExp(`\\b${escapeRegex(title)}\\b`, 'g'));
+      if (isAmbiguous) {
+        // For ambiguous bills, match year-qualified references like "HB 2001 (2019)"
+        const displayName = `${title} (${year})`;
+        patterns.push(new RegExp(`\\b${escapeRegex(title)}\\s*\\(${escapeRegex(year)}\\)`, 'g'));
 
-      // Long form: e.g. "House Bill 2138" → links as "HB 2138"
-      const prefixMatch = title.match(/^(HB|SB|HJR|SJR|HCR|SCR)\s+(.+)$/);
-      if (prefixMatch) {
-        const longForm = LEGISLATION_LONG_FORMS[prefixMatch[1]];
-        if (longForm) {
-          patterns.push(new RegExp(`\\b${escapeRegex(longForm)}\\s+${escapeRegex(prefixMatch[2])}\\b`, 'g'));
+        // Also match long form with year: "House Bill 2001 (2019)"
+        const prefixMatch = title.match(/^(HB|SB|HJR|SJR|HCR|SCR)\s+(.+)$/);
+        if (prefixMatch) {
+          const longForm = LEGISLATION_LONG_FORMS[prefixMatch[1]];
+          if (longForm) {
+            patterns.push(new RegExp(`\\b${escapeRegex(longForm)}\\s+${escapeRegex(prefixMatch[2])}\\s*\\(${escapeRegex(year)}\\)`, 'g'));
+          }
         }
-      }
 
-      entities.push({
-        type: 'legislation',
-        name: title,
-        url,
-        patterns,
-      });
+        entities.push({
+          type: 'legislation',
+          name: displayName,
+          url,
+          patterns,
+        });
+      } else {
+        // Non-ambiguous: match plain bill number
+        patterns.push(new RegExp(`\\b${escapeRegex(title)}\\b`, 'g'));
+
+        // Long form: e.g. "House Bill 2138" → links as "HB 2138"
+        const prefixMatch = title.match(/^(HB|SB|HJR|SJR|HCR|SCR)\s+(.+)$/);
+        if (prefixMatch) {
+          const longForm = LEGISLATION_LONG_FORMS[prefixMatch[1]];
+          if (longForm) {
+            patterns.push(new RegExp(`\\b${escapeRegex(longForm)}\\s+${escapeRegex(prefixMatch[2])}\\b`, 'g'));
+          }
+        }
+
+        entities.push({
+          type: 'legislation',
+          name: title,
+          url,
+          patterns,
+        });
+      }
     }
   }
 
