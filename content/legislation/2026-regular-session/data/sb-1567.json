@@ -10,20 +10,20 @@
     "RelatingToFull": "Relating to mixed income housing; and prescribing an effective date. \n\t",
     "RelatingTo": "Relating to mixed income housing; and prescribing an effective date.",
     "AtTheRequestOf": null,
-    "ChapterNumber": null,
-    "CurrentLocation": "Secretary of States Office - Chapter Number Assignment",
+    "ChapterNumber": "91",
+    "CurrentLocation": "Chapter Number Assigned",
     "CurrentCommitteeCode": null,
     "CurrentSubCommittee": null,
     "FiscalImpact": "Fiscal impact issued",
     "RevenueImpact": "Revenue impact issued",
     "EmergencyClause": false,
-    "EffectiveDate": null,
+    "EffectiveDate": "2026-06-05T00:00:00",
     "FiscalAnalyst": "Michael Graham",
     "RevenueEconomist": "Beau Olen",
     "LCNumber": 156,
     "Vetoed": false,
     "CreatedDate": "2026-01-16T14:00:23",
-    "ModifiedDate": "2026-03-31T14:31:59",
+    "ModifiedDate": "2026-04-06T11:53:20",
     "PrefixMeaning": "Senate Bill"
   },
   "sponsors": [
@@ -734,6 +734,32 @@
       "CreatedDate": "2026-03-31T14:32:00",
       "ModifiedDate": null,
       "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 670895,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1567,
+      "Chamber": "S",
+      "ActionDate": "2026-04-06T11:50:36",
+      "ActionText": "Chapter 91, 2026 Laws.",
+      "VoteText": null,
+      "CreatedDate": "2026-04-06T11:51:28",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 670922,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1567,
+      "Chamber": "S",
+      "ActionDate": "2026-04-06T11:52:40",
+      "ActionText": "Effective date, June 5, 2026.",
+      "VoteText": null,
+      "CreatedDate": "2026-04-06T11:53:20",
+      "ModifiedDate": null,
+      "PublicNotification": false
     }
   ],
   "documents": [

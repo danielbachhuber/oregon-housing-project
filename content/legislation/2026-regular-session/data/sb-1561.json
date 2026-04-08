@@ -10,20 +10,20 @@
     "RelatingToFull": "Relating to restoration of dwellings damaged by involuntary causes. \n\t",
     "RelatingTo": "Relating to restoration of dwellings damaged by involuntary causes.",
     "AtTheRequestOf": null,
-    "ChapterNumber": null,
-    "CurrentLocation": "Secretary of States Office - Chapter Number Assignment",
+    "ChapterNumber": "89",
+    "CurrentLocation": "Chapter Number Assigned",
     "CurrentCommitteeCode": null,
     "CurrentSubCommittee": null,
     "FiscalImpact": "Has minimal fiscal impact",
     "RevenueImpact": "No revenue impact",
     "EmergencyClause": false,
-    "EffectiveDate": null,
+    "EffectiveDate": "2027-01-01T00:00:00",
     "FiscalAnalyst": "Michael Graham",
     "RevenueEconomist": "Beau Olen",
     "LCNumber": 96,
     "Vetoed": false,
     "CreatedDate": "2026-01-16T12:06:14",
-    "ModifiedDate": "2026-03-31T14:31:59",
+    "ModifiedDate": "2026-04-06T11:53:20",
     "PrefixMeaning": "Senate Bill"
   },
   "sponsors": [
@@ -515,6 +515,32 @@
       "CreatedDate": "2026-03-31T14:32:00",
       "ModifiedDate": null,
       "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 670893,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1561,
+      "Chamber": "S",
+      "ActionDate": "2026-04-06T11:50:36",
+      "ActionText": "Chapter 89, 2026 Laws.",
+      "VoteText": null,
+      "CreatedDate": "2026-04-06T11:51:28",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 670920,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1561,
+      "Chamber": "S",
+      "ActionDate": "2026-04-06T11:52:40",
+      "ActionText": "Effective date, January 1, 2027.",
+      "VoteText": null,
+      "CreatedDate": "2026-04-06T11:53:20",
+      "ModifiedDate": null,
+      "PublicNotification": false
     }
   ],
   "documents": [
