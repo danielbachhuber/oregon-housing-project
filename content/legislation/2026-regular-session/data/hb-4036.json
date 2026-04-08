@@ -11,7 +11,7 @@
     "RelatingTo": "Relating to affordable housing; and declaring an emergency.",
     "AtTheRequestOf": "(at the request of House Interim Committee on Housing and Homelessness for Representative Pam Marsh)",
     "ChapterNumber": null,
-    "CurrentLocation": "Governors Office - Awaiting Signature",
+    "CurrentLocation": "Secretary of States Office - Chapter Number Assignment",
     "CurrentCommitteeCode": null,
     "CurrentSubCommittee": null,
     "FiscalImpact": "Budget report issued",
@@ -23,7 +23,7 @@
     "LCNumber": 209,
     "Vetoed": false,
     "CreatedDate": "2026-01-15T09:47:17",
-    "ModifiedDate": "2026-03-10T14:19:04",
+    "ModifiedDate": "2026-04-07T15:32:17",
     "PrefixMeaning": "House Bill"
   },
   "sponsors": [
@@ -300,6 +300,19 @@
       "ActionText": "President signed.",
       "VoteText": null,
       "CreatedDate": "2026-03-10T13:51:16",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 670938,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4036,
+      "Chamber": "H",
+      "ActionDate": "2026-04-07T15:30:54",
+      "ActionText": "Governor signed.",
+      "VoteText": null,
+      "CreatedDate": "2026-04-07T15:32:18",
       "ModifiedDate": null,
       "PublicNotification": true
     }

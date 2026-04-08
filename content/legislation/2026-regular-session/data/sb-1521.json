@@ -10,20 +10,20 @@
     "RelatingToFull": "Relating to local requirements to develop affordable housing. \n\t",
     "RelatingTo": "Relating to local requirements to develop affordable housing.",
     "AtTheRequestOf": "(at the request of Senate Interim Committee on Housing and Development)",
-    "ChapterNumber": null,
-    "CurrentLocation": "Secretary of States Office - Chapter Number Assignment",
+    "ChapterNumber": "79",
+    "CurrentLocation": "Chapter Number Assigned",
     "CurrentCommitteeCode": null,
     "CurrentSubCommittee": null,
     "FiscalImpact": "Fiscal impact issued",
     "RevenueImpact": "No revenue impact",
     "EmergencyClause": false,
-    "EffectiveDate": null,
+    "EffectiveDate": "2027-01-01T00:00:00",
     "FiscalAnalyst": "Twais Broadus",
     "RevenueEconomist": "Beau Olen",
     "LCNumber": 5,
     "Vetoed": false,
     "CreatedDate": "2026-01-14T13:37:51",
-    "ModifiedDate": "2026-03-31T14:31:59",
+    "ModifiedDate": "2026-04-06T11:53:20",
     "PrefixMeaning": "Senate Bill"
   },
   "sponsors": [
@@ -263,6 +263,32 @@
       "CreatedDate": "2026-03-31T14:32:00",
       "ModifiedDate": null,
       "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 670883,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1521,
+      "Chamber": "S",
+      "ActionDate": "2026-04-06T11:50:36",
+      "ActionText": "Chapter 79, 2026 Laws.",
+      "VoteText": null,
+      "CreatedDate": "2026-04-06T11:51:28",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 670910,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "SB",
+      "MeasureNumber": 1521,
+      "Chamber": "S",
+      "ActionDate": "2026-04-06T11:52:40",
+      "ActionText": "Effective date, January 1, 2027.",
+      "VoteText": null,
+      "CreatedDate": "2026-04-06T11:53:20",
+      "ModifiedDate": null,
+      "PublicNotification": false
     }
   ],
   "documents": [

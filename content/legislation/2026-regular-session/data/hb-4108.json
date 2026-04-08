@@ -11,7 +11,7 @@
     "RelatingTo": "Relating to annexation of land noncontiguous to a city.",
     "AtTheRequestOf": null,
     "ChapterNumber": null,
-    "CurrentLocation": "Governors Office - Awaiting Signature",
+    "CurrentLocation": "Secretary of States Office - Chapter Number Assignment",
     "CurrentCommitteeCode": null,
     "CurrentSubCommittee": null,
     "FiscalImpact": "Has minimal fiscal impact",
@@ -23,7 +23,7 @@
     "LCNumber": 34,
     "Vetoed": false,
     "CreatedDate": "2026-01-17T13:13:23",
-    "ModifiedDate": "2026-03-10T14:19:04",
+    "ModifiedDate": "2026-04-07T15:32:17",
     "PrefixMeaning": "House Bill"
   },
   "sponsors": [
@@ -444,6 +444,19 @@
       "ActionText": "President signed.",
       "VoteText": null,
       "CreatedDate": "2026-03-10T13:51:16",
+      "ModifiedDate": null,
+      "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 670943,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4108,
+      "Chamber": "H",
+      "ActionDate": "2026-04-07T15:30:54",
+      "ActionText": "Governor signed.",
+      "VoteText": null,
+      "CreatedDate": "2026-04-07T15:32:18",
       "ModifiedDate": null,
       "PublicNotification": true
     }
