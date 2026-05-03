@@ -23,7 +23,7 @@
     "LCNumber": 72,
     "Vetoed": false,
     "CreatedDate": "2026-01-16T15:10:46",
-    "ModifiedDate": "2026-04-06T11:53:20",
+    "ModifiedDate": "2026-04-28T12:29:47",
     "PrefixMeaning": "Senate Bill"
   },
   "sponsors": [
@@ -393,10 +393,10 @@
       "MeasureNumber": 1576,
       "Chamber": "S",
       "ActionDate": "2026-02-18T13:55:42",
-      "ActionText": "Carried over to 02-19 by unanimous consent.",
+      "ActionText": "Carried over to 02-19 by virtue of adjournment.",
       "VoteText": null,
       "CreatedDate": "2026-02-18T13:56:02",
-      "ModifiedDate": null,
+      "ModifiedDate": "2026-04-28T12:29:47",
       "PublicNotification": false
     },
     {
