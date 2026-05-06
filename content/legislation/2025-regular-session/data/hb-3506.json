@@ -23,7 +23,7 @@
     "LCNumber": 4408,
     "Vetoed": false,
     "CreatedDate": "2025-02-03T09:44:54",
-    "ModifiedDate": "2025-08-07T14:21:52",
+    "ModifiedDate": "2026-04-22T14:00:15",
     "PrefixMeaning": "House Bill"
   },
   "sponsors": [
@@ -531,6 +531,19 @@
       "CreatedDate": "2025-08-07T14:21:52",
       "ModifiedDate": null,
       "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 671069,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3506,
+      "Chamber": "S",
+      "ActionDate": "2025-06-23T12:47:19",
+      "ActionText": "Vote explanation(s) filed by Sollman.",
+      "VoteText": null,
+      "CreatedDate": "2026-04-22T14:00:13",
+      "ModifiedDate": "2026-04-22T14:00:15",
+      "PublicNotification": false
     }
   ],
   "documents": [
