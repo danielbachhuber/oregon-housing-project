@@ -23,7 +23,7 @@
     "LCNumber": 573,
     "Vetoed": false,
     "CreatedDate": "2025-02-06T11:46:21",
-    "ModifiedDate": "2025-07-25T10:52:12",
+    "ModifiedDate": "2026-04-15T10:32:52",
     "PrefixMeaning": "House Bill"
   },
   "sponsors": [
@@ -569,6 +569,19 @@
       "CreatedDate": "2025-07-25T10:52:12",
       "ModifiedDate": null,
       "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 671065,
+      "SessionKey": "2025R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 3521,
+      "Chamber": "S",
+      "ActionDate": "2025-05-23T12:01:00",
+      "ActionText": "Carried over to 05-27 by unanimous consent.",
+      "VoteText": null,
+      "CreatedDate": "2026-04-15T10:32:52",
+      "ModifiedDate": null,
+      "PublicNotification": false
     }
   ],
   "documents": [
