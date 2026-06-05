@@ -23,7 +23,7 @@
     "LCNumber": 32,
     "Vetoed": false,
     "CreatedDate": "2026-01-17T15:12:12",
-    "ModifiedDate": "2026-04-06T10:38:28",
+    "ModifiedDate": "2026-05-20T13:54:35",
     "PrefixMeaning": "House Bill"
   },
   "sponsors": [
@@ -596,6 +596,19 @@
       "CreatedDate": "2026-04-06T10:38:28",
       "ModifiedDate": null,
       "PublicNotification": true
+    },
+    {
+      "MeasureHistoryId": 671094,
+      "SessionKey": "2026R1",
+      "MeasurePrefix": "HB",
+      "MeasureNumber": 4120,
+      "Chamber": "S",
+      "ActionDate": "2026-03-03T14:04:51",
+      "ActionText": "Starr granted unanimous consent to declare potential conflict of interest after the vote.",
+      "VoteText": null,
+      "CreatedDate": "2026-05-20T13:53:20",
+      "ModifiedDate": "2026-05-20T13:54:35",
+      "PublicNotification": false
     }
   ],
   "documents": [
